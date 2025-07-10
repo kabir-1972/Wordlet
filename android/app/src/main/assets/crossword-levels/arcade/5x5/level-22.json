@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,6,10,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Flat-bottomed boat"
+    },
+
+    "5" :{
+      "clue": "West Indies native"
+    },
+
+    "7" :{
+      "clue": "100 kopecks"
+    },
+
+    "8" :{
+      "clue": "Out of the way"
+    },
+
+    "9" :{
+      "clue": "Favorite"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Discard"
+    },
+
+    "2" :{
+      "clue": "Bring about"
+    },
+
+    "3" :{
+      "clue": "Satellite's path"
+    },
+
+    "4" :{
+      "clue": "Feral"
+    },
+
+    "6" :{
+      "clue": "Spelling contest"
+    }
+},
+
+  "letters": "SCOWCARIBRUBLEASIDEPET",
+  "words": "10",
+  "disallowedGrids": "5,24,25",
+  "firstSolved": ""
+}

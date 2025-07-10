@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Quilt part"
+    },
+
+    "6" :{
+      "clue": "Parting word"
+    },
+
+    "7" :{
+      "clue": "Type of type"
+    },
+
+    "8" :{
+      "clue": "Top of a wave"
+    },
+
+    "9" :{
+      "clue": "Roll-call response"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Dry out"
+    },
+
+    "2" :{
+      "clue": "Worship"
+    },
+
+    "3" :{
+      "clue": "Track official"
+    },
+
+    "4" :{
+      "clue": "Discontinue"
+    },
+
+    "5" :{
+      "clue": "Peck's partner"
+    }
+},
+
+  "letters": "PATCHADIEUROMANCRESTHERE",
+  "words": "10",
+  "disallowedGrids": "25",
+  "firstSolved": ""
+}

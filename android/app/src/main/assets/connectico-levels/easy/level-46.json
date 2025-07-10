@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "GAL": [1, 2, 3],
+    "LAG": [3, 7, 11],
+    "AL": [7, 8],
+    "LA": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 11, 13",
+  "sentence": "GALALLGA",
+  "keys": ["G","A","L"]
+}

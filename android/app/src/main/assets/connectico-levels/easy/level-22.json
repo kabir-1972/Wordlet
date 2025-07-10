@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "FUR": [1, 2, 3],
+    "RUF": [3, 7, 11],
+    "FU": [11, 12],
+    "UR": [7, 8]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 11, 12",
+  "sentence": "FURURFU",
+  "keys": ["F","U","R"]
+}

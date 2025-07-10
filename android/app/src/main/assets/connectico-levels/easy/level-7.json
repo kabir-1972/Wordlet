@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "FAR": [1, 2, 3],
+    "FA": [1, 5],
+    "ARF": [2, 6, 10],
+    "RA": [15, 16]
+  },
+  "allowedGrids": "1, 2, 3, 5, 6, 10, 15, 16",
+  "sentence": "FARARFRA",
+  "keys": ["F","A","R"]
+}

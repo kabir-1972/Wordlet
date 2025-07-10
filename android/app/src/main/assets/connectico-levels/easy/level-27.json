@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "DIP": [1, 2, 3],
+    "PID": [3, 7, 11],
+    "ID": [7, 8],
+    "PI": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 10, 11, 12, 13",
+  "sentence": "DIPIDPDI",
+  "keys": ["D","I","P"]
+}

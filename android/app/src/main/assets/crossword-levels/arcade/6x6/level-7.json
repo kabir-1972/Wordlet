@@ -1,0 +1,60 @@
+{
+    "placeholder": "2,3,4,5,6,7,9,13,14,19,25,31",
+
+  "across":{
+    "1" :{
+      "clue": "Some Parliament members"
+    },
+
+    "7" :{
+      "clue": "Paint layer"
+    },
+
+    "8" :{
+      "clue": "What you will"
+    },
+
+    "10" :{
+      "clue": "Rubbernecker"
+    },
+
+    "11" :{
+      "clue": "Muscle quality"
+    },
+
+    "12" :{
+      "clue": "Raced"
+    }
+},
+
+  "down":{
+    "2" :{
+      "clue": "Gas rating"
+    },
+
+    "3" :{
+      "clue": "Laughed loudly"
+    },
+
+    "4" :{
+      "clue": "Go out with"
+    },
+
+    "5" :{
+      "clue": "Back of a boat"
+    },
+
+    "6" :{
+      "clue": "Tries out"
+    },
+
+    "9" :{
+      "clue": "Halt"
+    }
+},
+
+  "letters": "LORDSTCOATESTATESTARERTONENSPED",
+  "words": "12",
+  "disallowedGrids": "1,8,29,35,36",
+  "firstSolved": ""
+}

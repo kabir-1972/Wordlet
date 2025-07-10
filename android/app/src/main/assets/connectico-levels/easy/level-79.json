@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 3,
+  "words": {
+    "UVA": [1, 2, 3],
+    "VAU": [2, 5, 8],
+    "UA": [8, 9]
+  },
+  "allowedGrids": "1, 2, 3, 5, 8, 9",
+  "sentence": "UVAAUA",
+  "keys": ["U","V","A"]
+}

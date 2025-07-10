@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 5,
+  "words": {
+    "EEK": [1, 2, 3],
+    "EKE": [1, 6, 11],
+    "EE": [5, 10]
+  },
+  "allowedGrids": "1, 2, 3, 5, 6, 10, 11",
+  "sentence": "EEKEKEE",
+  "keys": ["E","E","K"]
+}

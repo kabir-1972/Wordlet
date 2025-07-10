@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "AVE": [1, 2, 3],
+    "VAE": [2, 5, 8],
+    "EA": [8, 9],
+    "AE": [9, 12]
+  },
+  "allowedGrids": "1, 2, 3, 5, 8, 9, 12",
+  "sentence": "AVEAEAE",
+  "keys": ["A","V","E"]
+}

@@ -1,0 +1,48 @@
+{
+    "placeholder": "5,6,7,8,9,11,16,21",
+
+  "across":{
+    "2" :{
+      "clue": "Mark"
+    },
+
+    "6" :{
+      "clue": "Lips"
+    },
+
+    "7" :{
+      "clue": "Lustful looker"
+    },
+
+    "8" :{
+      "clue": "Like a neglected garden"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Tired"
+    },
+
+    "2" :{
+      "clue": "Radiance"
+    },
+
+    "3" :{
+      "clue": "Fury"
+    },
+
+    "4" :{
+      "clue": "Competent"
+    },
+
+    "5" :{
+      "clue": "Conked out"
+    }
+},
+
+  "letters": "WGRADELABIAOGLERWEEDY",
+  "words": "9",
+  "disallowedGrids": "1,2,3,4",
+  "firstSolved": ""
+}

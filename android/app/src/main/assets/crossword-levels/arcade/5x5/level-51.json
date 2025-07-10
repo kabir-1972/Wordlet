@@ -1,0 +1,52 @@
+{
+    "placeholder": "2,3,4,5,6,11,16,22",
+
+  "across":{
+    "1" :{
+      "clue": "Shopper's aid"
+    },
+
+    "5" :{
+      "clue": "Cluster"
+    },
+
+    "6" :{
+      "clue": "Beneath"
+    },
+
+    "7" :{
+      "clue": "Pine Tree State"
+    },
+
+    "8" :{
+      "clue": "Evaluate"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Kind of eclipse"
+    },
+
+    "2" :{
+      "clue": "Kind of ink"
+    },
+
+    "3" :{
+      "clue": "Aroma"
+    },
+
+    "4" :{
+      "clue": "Midafternoon"
+    },
+
+    "5" :{
+      "clue": "Cadge"
+    }
+},
+
+  "letters": "LISTBUNCHUNDERMAINERATE",
+  "words": "10.5",
+  "disallowedGrids": "1,21",
+  "firstSolved": ""
+}

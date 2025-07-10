@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "CUT": [1, 2, 3],
+    "TUC": [3, 7, 11],
+    "CU": [11, 12],
+    "UT": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 9, 11, 12, 13",
+  "sentence": "CUTUUCUT",
+  "keys": ["C","U","T"]
+}

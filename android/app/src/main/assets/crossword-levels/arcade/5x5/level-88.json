@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Sacred song"
+    },
+
+    "5" :{
+      "clue": "Land measure"
+    },
+
+    "6" :{
+      "clue": "Horn sound"
+    },
+
+    "7" :{
+      "clue": "Silence"
+    },
+
+    "8" :{
+      "clue": "Precipitous"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Hiking trails"
+    },
+
+    "2" :{
+      "clue": "Reconnoiter"
+    },
+
+    "3" :{
+      "clue": "Came up"
+    },
+
+    "4" :{
+      "clue": "River of forgetfulness"
+    }
+},
+
+  "letters": "PSALMACRETOOTHUSHSTEEP",
+  "words": "9.5",
+  "disallowedGrids": "10,15,20",
+  "firstSolved": ""
+}

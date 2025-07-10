@@ -1,0 +1,48 @@
+{
+    "placeholder": "3,6,7,9,10,11,16,21",
+
+  "across":{
+    "2" :{
+      "clue": "Regions"
+    },
+
+    "6" :{
+      "clue": "Respond"
+    },
+
+    "7" :{
+      "clue": "Like a he-man"
+    },
+
+    "8" :{
+      "clue": "Catch some Z's"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Serenity"
+    },
+
+    "2" :{
+      "clue": "Weaponry"
+    },
+
+    "3" :{
+      "clue": "Genuine"
+    },
+
+    "4" :{
+      "clue": "Yearn"
+    },
+
+    "5" :{
+      "clue": "Halt"
+    }
+},
+
+  "letters": "PAREASREACTMACHOSLEEP",
+  "words": "9",
+  "disallowedGrids": "1,2,4,5",
+  "firstSolved": ""
+}

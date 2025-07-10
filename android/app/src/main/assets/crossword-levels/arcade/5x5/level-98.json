@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,17,22",
+
+  "across":{
+    "1" :{
+      "clue": "Ballroom dance"
+    },
+
+    "6" :{
+      "clue": "Cognizant"
+    },
+
+    "7" :{
+      "clue": "Eminent"
+    },
+
+    "8" :{
+      "clue": "Relatives"
+    },
+
+    "9" :{
+      "clue": "Wrap up"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Pale"
+    },
+
+    "2" :{
+      "clue": "Came to"
+    },
+
+    "3" :{
+      "clue": "Caesar's tongue"
+    },
+
+    "4" :{
+      "clue": "Vogue"
+    },
+
+    "5" :{
+      "clue": "Last letter in London"
+    }
+},
+
+  "letters": "WALTZAWARENOTEDKINEND",
+  "words": "10",
+  "disallowedGrids": "16,20,21,25",
+  "firstSolved": ""
+}

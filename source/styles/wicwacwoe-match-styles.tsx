@@ -1,0 +1,272 @@
+import {StyleSheet} from 'react-native';
+
+export const styles = StyleSheet.create({
+    background:{
+        flex: 1,
+        margin: 0, 
+        position: 'relative'
+    },
+
+    pressedKeysContainer:{
+        height: 40,
+        flexDirection: 'row',
+        gap: 3,
+        alignSelf: 'center',
+        alignItems: 'center',
+        justifyContent: 'center',
+        marginVertical: 15
+    },
+
+    theButton:{
+       width: 40,
+       height: 40,
+       backgroundColor: '#faf8eb',
+       borderRadius: 3,
+       alignItems: 'center',
+       justifyContent: 'center'
+
+    },
+
+    theLetter:{
+       fontSize: 25,
+       color: '#012c33'
+    },
+
+    roughStringContainer:{
+        height: 35,
+        flexDirection: 'row',
+        gap: 1,
+        alignSelf: 'center',
+        alignItems: 'center',
+        justifyContent: 'center',
+        marginVertical: 15,
+        paddingHorizontal: 10
+    },
+
+    roughStringLetter:{
+        fontSize: 16,
+        borderWidth: 1,
+        padding: 8,
+        borderRadius: 3
+
+    },
+
+    timer:{
+        alignSelf: 'center',
+        borderRadius: '30%',
+        paddingVertical: 6,
+        paddingHorizontal: 7,
+        backgroundColor: '#ccfce3',
+    },
+
+    timerBar: {
+        height: 8,
+        backgroundColor: '#ccfce3',
+        alignSelf: 'center',
+        borderRadius: 3,
+        marginVertical: 10
+    },
+
+    modalBackground: {
+        width: '100%',
+        borderRadius: 10,
+        padding: 30,
+        elevation: 5,
+        shadowColor: '#000',
+        alignItems: 'center'
+  } ,
+
+    container: {
+    flex: 1,
+    padding: 20,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: 'rgba(0,0,0,0.5)'
+  },
+
+    backgroundImage: {
+    width: '100%',
+    alignItems: 'center',
+    alignSelf: 'center',
+    justifyContent: 'center',
+  },
+
+    textInput:{
+    borderColor: '#222222',
+    borderWidth: 1,
+    minWidth: 120,
+    height: 36,
+    borderRadius: 5,
+    fontFamily: 'Wordlet-Regular',
+    backgroundColor: '#e1e6e4',
+    alignSelf: 'center',
+    fontSize: 17, 
+    paddingHorizontal: 10,
+    },
+ 
+    fakeInput: {
+        borderColor: '#666',
+        borderWidth: 1,
+        borderRadius: 5,
+        padding: 8,
+        minHeight: 30,
+        justifyContent: 'center',
+        width: 180,
+        backgroundColor: '#ededdf'
+    },
+
+    text: {
+        color: '#632501',
+    },
+
+    hiddenInput: {
+        height: 0,
+        width: 0,
+        position: 'absolute',
+        opacity: 0,
+    },
+
+    
+    gameInputContainer:{
+        marginHorizontal: 20,
+        flexDirection: 'row',
+        marginVertical: 10,
+        gap: 5, 
+        alignItems: 'center',
+        alignSelf: 'center'
+        
+    },
+
+    caret: {
+        backgroundColor: "#000",
+        marginLeft: 2,
+        width: 1
+    },
+
+    fakeInputBox:{
+        flexDirection: 'row',
+    },
+
+    wordsAsMessages:{
+        paddingHorizontal: 6,
+        paddingVertical: 4,
+    },
+
+    scrollView:{
+        flex: 1,
+        width: '80%',
+        maxWidth: 250,
+        borderRightWidth: 0.7,
+        borderLeftWidth: 0.7,
+        borderColor: '#ffffff',
+        backgroundColor: '#00000020',
+        alignSelf: 'center'
+    },
+
+    
+    error:{
+        backgroundColor: '#f8f5cc',
+        marginVertical: 5,
+        alignItems: 'center',
+        alignSelf: 'center',
+        
+        borderWidth: 1,
+        borderRadius: 5,
+        borderColor: 'black',
+    },
+
+    errorTextContainer:{
+        position: 'absolute',
+        top: '50%',
+        left: '50%',
+    },
+
+    errorText:{
+        color: 'white',
+        fontSize: 15,
+        paddingVertical: 8,
+        paddingHorizontal: 10,
+        textAlign: 'center'
+    },
+
+    floatingWindow:{
+        position: 'absolute',
+        backgroundColor: '#68fccd40',
+        borderRadius: 4,
+        borderWidth: 0.8
+    },
+    
+    theRoughString:{
+        flexDirection: 'row',
+        gap: 3,
+        alignSelf: 'center',
+        alignItems: 'center',
+        justifyContent: 'center',
+        marginVertical: 10,
+        minHeight: 40
+    },
+
+    lettersInListOfWords: {
+        fontSize: 18,
+        backgroundColor: 'white',
+        padding: 5,
+        width: 30,
+        
+        textAlign: 'center',
+        paddingVertical: 8,
+        borderRadius: 3
+    },
+
+    wordBox:{
+        borderRadius: 6,
+        overflow: 'hidden',
+        backgroundColor: '#4a1025',
+        borderWidth: 0.8,
+        alignSelf: 'flex-start',
+    },
+
+    wordBoxHeading:{
+        padding: 5,
+        backgroundColor: '#78022d',
+        textAlign: 'center',
+        fontSize: 16,
+        color: '#ccc',
+        marginBottom: 5,
+    },
+
+    wordsInTheBox:{
+        color: '#ffb3ce',
+        fontSize: 15,
+        textAlign: 'center',
+        marginVertical: 3,
+    },
+    disabledButton:{
+        ...StyleSheet.absoluteFillObject,
+        backgroundColor: 'rgba(255,255,255,0.3)',
+        borderRadius: 6,
+    },
+
+    matchEndWordBox:{
+        flexDirection: 'row',
+        gap: 5,
+        flexWrap: 'wrap',
+        backgroundColor: '#d4fff9',
+        paddingHorizontal: 6,
+        paddingVertical: 4,
+        borderWidth: 0.8,
+        borderRadius: 4
+    },
+
+    matchEndTextPrompts: {
+        lineHeight: 22,
+        width: '90%',
+        backgroundColor: '#FFB6C180',
+        padding: 6,
+        paddingVertical: 4,
+        textAlign: 'center',
+        fontSize: 16,
+        color: '#800416',
+        marginVertical: 10
+    }
+
+})

@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16",
+
+  "across":{
+    "1" :{
+      "clue": "Some Parliament members"
+    },
+
+    "6" :{
+      "clue": "Parting word"
+    },
+
+    "7" :{
+      "clue": "Groucho Marx prop"
+    },
+
+    "8" :{
+      "clue": "Bowie's weapon"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Deficiency"
+    },
+
+    "2" :{
+      "clue": "Norse god"
+    },
+
+    "3" :{
+      "clue": "Inflexible"
+    },
+
+    "4" :{
+      "clue": "Unhearing"
+    },
+
+    "5" :{
+      "clue": "Certain"
+    }
+},
+
+  "letters": "LORDSADIEUCIGARKNIFED",
+  "words": "9",
+  "disallowedGrids": "21,22,24,25",
+  "firstSolved": ""
+}

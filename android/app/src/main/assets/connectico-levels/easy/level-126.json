@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "ACT": [1, 2, 3],
+    "CAT": [2, 5, 8],
+    "TA": [8, 9],
+    "AT": [9, 12]
+  },
+  "allowedGrids": "1, 2, 3, 5, 8, 9, 12",
+  "sentence": "ACTATAT",
+  "keys": ["A","C","T"]
+}

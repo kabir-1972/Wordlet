@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,6,11,14,15,16,23",
+
+  "across":{
+    "1" :{
+      "clue": "Coal scuttle"
+    },
+
+    "4" :{
+      "clue": "Swelled head"
+    },
+
+    "5" :{
+      "clue": "Come up"
+    },
+
+    "8" :{
+      "clue": "Poison"
+    },
+
+    "9" :{
+      "clue": "Wildebeest"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Hard to lift"
+    },
+
+    "2" :{
+      "clue": "Monster"
+    },
+
+    "3" :{
+      "clue": "\"Nothing ___!\""
+    },
+
+    "6" :{
+      "clue": "Junior"
+    },
+
+    "7" :{
+      "clue": "Big bird"
+    }
+},
+
+  "letters": "HODEGOARISEVENOMYGNU",
+  "words": "10",
+  "disallowedGrids": "4,5,9,10,23",
+  "firstSolved": ""
+}

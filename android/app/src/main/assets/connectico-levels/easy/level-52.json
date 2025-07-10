@@ -1,0 +1,13 @@
+{
+  "rows": 2,
+  "cols": 4,
+  "words": {
+    "BET": [1, 2, 3],
+    "BE": [1, 5],
+    "TE": [3, 7],
+    "ET": [7, 8]
+  },
+  "allowedGrids": "1, 2, 3, 5, 7, 8",
+  "sentence": "BETEET",
+  "keys": ["B","E","T"]
+}

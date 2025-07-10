@@ -1,0 +1,36 @@
+{
+    "placeholder": "1,3,5,13,25",
+
+  "across":{
+    "1" :{
+      "clue": "Establishing"
+    },
+
+    "4" :{
+      "clue": "Sweet Spanish wine"
+    },
+
+    "5" :{
+      "clue": "Radio interference"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Perplex"
+    },
+
+    "2" :{
+      "clue": "Wooded"
+    },
+
+    "3" :{
+      "clue": "Bean"
+    }
+},
+
+  "letters": "BASINGEYOMALAGAUVGSTATICENN",
+  "words": "6",
+  "disallowedGrids": "8,10,12,20,22,24,32,34,36",
+  "firstSolved": ""
+}

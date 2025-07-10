@@ -1,0 +1,52 @@
+{
+    "placeholder": "3,4,5,6,7,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Scenery chewer"
+    },
+
+    "4" :{
+      "clue": "Drudge"
+    },
+
+    "6" :{
+      "clue": "Organic Laboratory of the human body"
+    },
+
+    "7" :{
+      "clue": "Came up"
+    },
+
+    "8" :{
+      "clue": "Lobbying org"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Devastation"
+    },
+
+    "2" :{
+      "clue": "Prayers"
+    },
+
+    "3" :{
+      "clue": "Insignificant"
+    },
+
+    "4" :{
+      "clue": "High-five sound"
+    },
+
+    "5" :{
+      "clue": "Old Italian money"
+    }
+},
+
+  "letters": "HAMSLAVELIVERAROSEPAC",
+  "words": "10",
+  "disallowedGrids": "1,2,24,25",
+  "firstSolved": ""
+}

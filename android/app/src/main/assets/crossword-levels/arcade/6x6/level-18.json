@@ -1,0 +1,52 @@
+{
+    "placeholder": "2,5,7,9,10,12,13,19,25",
+
+  "across":{
+    "3" :{
+      "clue": "Planted"
+    },
+
+    "7" :{
+      "clue": "Elk"
+    },
+
+    "8" :{
+      "clue": "Awn"
+    },
+
+    "9" :{
+      "clue": "Five-cent piece"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Honeybunch"
+    },
+
+    "2" :{
+      "clue": "Took home"
+    },
+
+    "3" :{
+      "clue": "Graceful bird"
+    },
+
+    "4" :{
+      "clue": "Larger-than-life"
+    },
+
+    "5" :{
+      "clue": "Data holder"
+    },
+
+    "6" :{
+      "clue": "Clock face"
+    }
+},
+
+  "letters": "DNSEEDEDWAPITIARISTANICKELED",
+  "words": "10",
+  "disallowedGrids": "1,3,4,6,31,33,34,36",
+  "firstSolved": ""
+}

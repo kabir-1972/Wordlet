@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 4,
+  "words": {
+    "BUS": [1, 2, 3],
+    "SUB": [3, 7, 11],
+    "US": [7, 8]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 11",
+  "sentence": "BUSUSB",
+  "keys": ["B","U","S"]
+}

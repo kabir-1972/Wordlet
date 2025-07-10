@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,6,10,11,14,18,22",
+
+  "across":{
+    "1" :{
+      "clue": "This and that"
+    },
+
+    "4" :{
+      "clue": "Attention"
+    },
+
+    "6" :{
+      "clue": "Come up"
+    },
+
+    "8" :{
+      "clue": "Dog holder"
+    },
+
+    "9" :{
+      "clue": "Retained"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Exhausted"
+    },
+
+    "2" :{
+      "clue": "Scull"
+    },
+
+    "3" :{
+      "clue": "Extended family"
+    },
+
+    "5" :{
+      "clue": "Crooked"
+    },
+
+    "7" :{
+      "clue": "Dine"
+    }
+},
+
+  "letters": "BOTHEARBARISETBUNKEPT",
+  "words": "10",
+  "disallowedGrids": "5,9,17,21",
+  "firstSolved": ""
+}

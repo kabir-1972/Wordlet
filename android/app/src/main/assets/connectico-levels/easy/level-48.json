@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "DIB": [5, 6, 7],
+    "BID": [7, 11, 15],
+    "ID": [11, 12],
+    "BI": [2, 6]
+  },
+  "allowedGrids": "2, 5, 6, 7, 11, 12, 15",
+  "sentence": "BDIBIDD",
+  "keys": ["B","I","D"]
+}

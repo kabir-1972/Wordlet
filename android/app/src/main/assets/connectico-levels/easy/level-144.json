@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "UTE": [1, 2, 3],
+    "ET": [3, 7],
+    "TE": [7, 8],
+    "UT": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 13",
+  "sentence": "UTETEUT",
+  "keys": ["U","T","E"]
+}

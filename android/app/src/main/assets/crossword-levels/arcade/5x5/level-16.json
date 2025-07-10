@@ -1,0 +1,48 @@
+{
+    "placeholder": "2,3,4,6,10,12,16,22",
+
+  "across":{
+    "1" :{
+      "clue": "Superlative suffix"
+    },
+
+    "4" :{
+      "clue": "Night noise"
+    },
+
+    "6" :{
+      "clue": "Quick haircut"
+    },
+
+    "7" :{
+      "clue": "Excellence in art"
+    },
+
+    "8" :{
+      "clue": "Deli bread"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Stage direction"
+    },
+
+    "2" :{
+      "clue": "\"My bad\""
+    },
+
+    "3" :{
+      "clue": "Hackneyed"
+    },
+
+    "5" :{
+      "clue": "Big bird"
+    }
+},
+
+  "letters": "ESTSNORETRIMVERTURYE",
+  "words": "9",
+  "disallowedGrids": "1,5,11,21,25",
+  "firstSolved": ""
+}

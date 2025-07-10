@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "DOF": [1, 2, 3],
+    "DO": [1, 4],
+    "OD": [8, 9],
+    "OF": [8, 11]
+  },
+  "allowedGrids": "1, 2, 3, 4, 8, 9, 11",
+  "sentence": "DOFOODF",
+  "keys": ["D","O","F"]
+}

@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 5,
+  "words": {
+    "GAP": [1, 2, 3],
+    "PAG": [3, 8, 13],
+    "PA": [11, 16],
+    "AG": [5, 10]
+  },
+  "allowedGrids": "1, 2, 3, 5, 8, 10, 11, 13, 16",
+  "sentence": "GAPAAGPGA",
+  "keys": ["G","A","P"]
+}

@@ -1,0 +1,52 @@
+{
+    "placeholder": "2,3,4,5,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Pleased"
+    },
+
+    "5" :{
+      "clue": "\"Ghostbusters\" goo"
+    },
+
+    "6" :{
+      "clue": "Ladies"
+    },
+
+    "7" :{
+      "clue": "Wall climbers"
+    },
+
+    "8" :{
+      "clue": "Scotland yard?"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Mitt"
+    },
+
+    "2" :{
+      "clue": "Restrict"
+    },
+
+    "3" :{
+      "clue": "Moslem prince"
+    },
+
+    "4" :{
+      "clue": "Thick"
+    },
+
+    "5" :{
+      "clue": "Take a dip"
+    }
+},
+
+  "letters": "GLADSLIMEWOMENIVIESMETRE",
+  "words": "10",
+  "disallowedGrids": "1",
+  "firstSolved": ""
+}

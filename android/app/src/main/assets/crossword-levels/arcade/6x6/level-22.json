@@ -1,0 +1,56 @@
+{
+    "placeholder": "8,9,10,11,13,18,19,25,31",
+
+  "across":{
+    "1" :{
+      "clue": "Endure"
+    },
+
+    "5" :{
+      "clue": "Comprehend"
+    },
+
+    "7" :{
+      "clue": "Complete"
+    },
+
+    "8" :{
+      "clue": "Grape seed"
+    },
+
+    "9" :{
+      "clue": "Niche"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Jousting weapon"
+    },
+
+    "2" :{
+      "clue": "Room at the top"
+    },
+
+    "3" :{
+      "clue": "Excel"
+    },
+
+    "4" :{
+      "clue": "Doughnut shape"
+    },
+
+    "5" :{
+      "clue": "Phobia"
+    },
+
+    "6" :{
+      "clue": "Jumble"
+    }
+},
+
+  "letters": "LASTFATHOMENTIREACINUSRECESS",
+  "words": "11",
+  "disallowedGrids": "1,2,3,4,5,6,7,12",
+  "firstSolved": ""
+}

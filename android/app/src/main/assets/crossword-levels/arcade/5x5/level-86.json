@@ -1,0 +1,48 @@
+{
+    "placeholder": "3,6,7,9,10,11,16,21",
+
+  "across":{
+    "2" :{
+      "clue": "Construct"
+    },
+
+    "6" :{
+      "clue": "Boredom"
+    },
+
+    "7" :{
+      "clue": "Part of an act"
+    },
+
+    "8" :{
+      "clue": "Salad servers"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Flax fabric"
+    },
+
+    "2" :{
+      "clue": "Outdo"
+    },
+
+    "3" :{
+      "clue": "Strange, in Scotland"
+    },
+
+    "4" :{
+      "clue": "Breather"
+    },
+
+    "5" :{
+      "clue": "Conks out"
+    }
+},
+
+  "letters": "LBUILDENNUISCENETONGS",
+  "words": "9",
+  "disallowedGrids": "1,2,4,5",
+  "firstSolved": ""
+}

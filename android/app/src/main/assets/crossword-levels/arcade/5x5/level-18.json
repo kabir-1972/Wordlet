@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,6,9,11,17,21",
+
+  "across":{
+    "1" :{
+      "clue": "Harden"
+    },
+
+    "4" :{
+      "clue": "Military group"
+    },
+
+    "6" :{
+      "clue": "Flying Pan"
+    },
+
+    "7" :{
+      "clue": "Chess piece"
+    },
+
+    "8" :{
+      "clue": "Twain's pauper"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Dine"
+    },
+
+    "2" :{
+      "clue": "Backdoor medical procedure?"
+    },
+
+    "3" :{
+      "clue": "Giant"
+    },
+
+    "5" :{
+      "clue": "Camp shelter"
+    }
+},
+
+  "letters": "SETUNITPETERMANCANTY",
+  "words": "9",
+  "disallowedGrids": "4,5,10,16,20",
+  "firstSolved": ""
+}

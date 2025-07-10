@@ -1,0 +1,13 @@
+{
+  "rows": 3,
+  "cols": 5,
+  "words": {
+    "RAH": [1, 2, 3],
+    "AH": [2, 7],
+    "HA": [9, 14],
+    "AR": [14, 15]
+  },
+  "allowedGrids": "1, 2, 3, 7, 9, 14, 15",
+  "sentence": "RAHHHAR",
+  "keys": ["R","A","H"]
+}

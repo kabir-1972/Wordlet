@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16",
+
+  "across":{
+    "1" :{
+      "clue": "Big hit"
+    },
+
+    "6" :{
+      "clue": "Main artery"
+    },
+
+    "7" :{
+      "clue": "Swagger"
+    },
+
+    "8" :{
+      "clue": "Glistened"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Fresh"
+    },
+
+    "2" :{
+      "clue": "Closet pest"
+    },
+
+    "3" :{
+      "clue": "Pointer"
+    },
+
+    "4" :{
+      "clue": "Flabbergast"
+    },
+
+    "5" :{
+      "clue": "Couldn't stand"
+    }
+},
+
+  "letters": "SMASHAORTASTRUTSHONEYWD",
+  "words": "9",
+  "disallowedGrids": "22,24",
+  "firstSolved": ""
+}

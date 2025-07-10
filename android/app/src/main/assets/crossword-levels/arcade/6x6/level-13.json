@@ -1,0 +1,60 @@
+{
+    "placeholder": "4,5,6,7,8,9,13,19,25,34",
+
+  "across":{
+    "1" :{
+      "clue": "Fiddle stick"
+    },
+
+    "4" :{
+      "clue": "Current unit"
+    },
+
+    "7" :{
+      "clue": "Taillike"
+    },
+
+    "8" :{
+      "clue": "Away from the coast"
+    },
+
+    "9" :{
+      "clue": "Flood"
+    },
+
+    "10" :{
+      "clue": "Garden plot"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Smear"
+    },
+
+    "2" :{
+      "clue": "Halloween hue"
+    },
+
+    "3" :{
+      "clue": "Joined"
+    },
+
+    "4" :{
+      "clue": "Battery fluid"
+    },
+
+    "5" :{
+      "clue": "Lion's pride"
+    },
+
+    "6" :{
+      "clue": "Influence"
+    }
+},
+
+  "letters": "BOWAMPERECAUDALINLANDDELUGEBED",
+  "words": "12",
+  "disallowedGrids": "1,2,3,31,32,33",
+  "firstSolved": ""
+}

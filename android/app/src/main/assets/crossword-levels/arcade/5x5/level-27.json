@@ -1,0 +1,44 @@
+{
+    "placeholder": "2,4,6,8,10,11,16",
+
+  "across":{
+    "3" :{
+      "clue": "Heaps"
+    },
+
+    "6" :{
+      "clue": "Mature"
+    },
+
+    "7" :{
+      "clue": "Pace"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Ocean motion"
+    },
+
+    "2" :{
+      "clue": "Lend a hand"
+    },
+
+    "3" :{
+      "clue": "Way to go"
+    },
+
+    "4" :{
+      "clue": "Sugar unit"
+    },
+
+    "5" :{
+      "clue": "Halt"
+    }
+},
+
+  "letters": "THPILESADULTTEMPOHPP",
+  "words": "8",
+  "disallowedGrids": "1,3,5,22,24",
+  "firstSolved": ""
+}

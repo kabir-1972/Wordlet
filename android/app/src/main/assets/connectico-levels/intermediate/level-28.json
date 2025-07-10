@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "KIWI": [1, 2, 3, 4],
+    "WIKI": [3, 7, 11, 15],
+    "KI": [1, 5],
+    "IWI": [13, 14, 15]
+  },
+  "allowedGrids": "1, 2, 3, 4, 5, 7, 11, 13, 14, 15",
+  "sentence": "KIWIIIKIWI",
+  "keys": ["K","I","W","I"]
+}

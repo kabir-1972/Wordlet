@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 4,
+  "words": {
+    "WOW": [1, 2, 3],
+    "OW": [2, 6],
+    "WO": [8, 12]
+  },
+  "allowedGrids": "1, 2, 3, 6, 8, 12",
+  "sentence": "WOWWWO",
+  "keys": ["W","O","W"]
+}

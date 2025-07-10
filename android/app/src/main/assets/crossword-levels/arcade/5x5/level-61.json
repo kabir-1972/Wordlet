@@ -1,0 +1,48 @@
+{
+    "placeholder": "3,6,7,9,10,11,16,21",
+
+  "across":{
+    "2" :{
+      "clue": "Youngster"
+    },
+
+    "6" :{
+      "clue": "Spokes"
+    },
+
+    "7" :{
+      "clue": "Unaccompanied"
+    },
+
+    "8" :{
+      "clue": "Acknowledged applause"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Black ___ spider"
+    },
+
+    "2" :{
+      "clue": "Grouch"
+    },
+
+    "3" :{
+      "clue": "Nimbus"
+    },
+
+    "4" :{
+      "clue": "Queue"
+    },
+
+    "5" :{
+      "clue": "Conked out"
+    }
+},
+
+  "letters": "WCHILDRADIIALONEBOWED",
+  "words": "9",
+  "disallowedGrids": "1,2,4,5",
+  "firstSolved": ""
+}

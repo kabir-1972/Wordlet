@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16,22",
+
+  "across":{
+    "1" :{
+      "clue": "Debate topic"
+    },
+
+    "6" :{
+      "clue": "Downy"
+    },
+
+    "7" :{
+      "clue": "Pursue"
+    },
+
+    "8" :{
+      "clue": "Took on"
+    },
+
+    "9" :{
+      "clue": "Wager"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Foot part"
+    },
+
+    "2" :{
+      "clue": "Indian honorific"
+    },
+
+    "3" :{
+      "clue": "Extra"
+    },
+
+    "4" :{
+      "clue": "Unexpected victory"
+    },
+
+    "5" :{
+      "clue": "Checked out"
+    }
+},
+
+  "letters": "ISSUENAPPYCHASEHIREDBET",
+  "words": "10",
+  "disallowedGrids": "21,25",
+  "firstSolved": ""
+}

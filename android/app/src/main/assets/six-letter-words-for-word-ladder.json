@@ -1,0 +1,7791 @@
+{
+    "abased": [
+        "abated"
+    ],
+    "abated": [
+        "abased"
+    ],
+    "abatic": [
+        "abatis"
+    ],
+    "abatis": [
+        "abatic"
+    ],
+    "abject": [
+        "object"
+    ],
+    "abjure": [
+        "adjure"
+    ],
+    "ablate": [
+        "ablaze"
+    ],
+    "ablaze": [
+        "ablate"
+    ],
+    "aboral": [
+        "amoral"
+    ],
+    "abound": [
+        "around"
+    ],
+    "absent": [
+        "assent"
+    ],
+    "accent": [
+        "accept",
+        "ascent"
+    ],
+    "accept": [
+        "accent"
+    ],
+    "adjure": [
+        "abjure"
+    ],
+    "advent": [
+        "advert"
+    ],
+    "adverb": [
+        "advert"
+    ],
+    "advert": [
+        "adverb",
+        "advent"
+    ],
+    "advice": [
+        "advise"
+    ],
+    "advise": [
+        "advice"
+    ],
+    "aerate": [
+        "berate"
+    ],
+    "aerial": [
+        "serial"
+    ],
+    "affect": [
+        "effect"
+    ],
+    "ailing": [
+        "filing",
+        "airing"
+    ],
+    "airing": [
+        "firing",
+        "hiring",
+        "ailing",
+        "tiring",
+        "wiring"
+    ],
+    "alight": [
+        "blight",
+        "flight",
+        "plight",
+        "aright",
+        "slight"
+    ],
+    "alkane": [
+        "alkene"
+    ],
+    "alkene": [
+        "alkane"
+    ],
+    "allege": [
+        "allele"
+    ],
+    "allele": [
+        "allege"
+    ],
+    "allude": [
+        "allure"
+    ],
+    "allure": [
+        "allude"
+    ],
+    "amoral": [
+        "aboral"
+    ],
+    "angler": [
+        "antler"
+    ],
+    "anneal": [
+        "annual"
+    ],
+    "annual": [
+        "anneal"
+    ],
+    "anthem": [
+        "anther"
+    ],
+    "anther": [
+        "antler",
+        "anthem"
+    ],
+    "antler": [
+        "angler",
+        "anther"
+    ],
+    "apiary": [
+        "aviary"
+    ],
+    "appeal": [
+        "appear"
+    ],
+    "appear": [
+        "appeal"
+    ],
+    "arbour": [
+        "ardour",
+        "armour"
+    ],
+    "arcade": [
+        "arcane"
+    ],
+    "arcane": [
+        "arcade"
+    ],
+    "arched": [
+        "archer"
+    ],
+    "archer": [
+        "arched"
+    ],
+    "ardour": [
+        "arbour",
+        "armour"
+    ],
+    "aright": [
+        "bright",
+        "fright",
+        "alight"
+    ],
+    "armful": [
+        "artful"
+    ],
+    "armour": [
+        "arbour",
+        "ardour"
+    ],
+    "around": [
+        "abound",
+        "ground"
+    ],
+    "arouse": [
+        "grouse"
+    ],
+    "arrant": [
+        "errant"
+    ],
+    "artful": [
+        "armful"
+    ],
+    "ascend": [
+        "ascent"
+    ],
+    "ascent": [
+        "accent",
+        "ascend",
+        "assent"
+    ],
+    "assent": [
+        "absent",
+        "ascent",
+        "assert"
+    ],
+    "assert": [
+        "assent"
+    ],
+    "assume": [
+        "assure"
+    ],
+    "assure": [
+        "assume"
+    ],
+    "astral": [
+        "astray"
+    ],
+    "astray": [
+        "astral"
+    ],
+    "attach": [
+        "attack"
+    ],
+    "attack": [
+        "attach"
+    ],
+    "avenge": [
+        "avenue"
+    ],
+    "avenue": [
+        "avenge"
+    ],
+    "aviary": [
+        "apiary"
+    ],
+    "babble": [
+        "dabble",
+        "gabble",
+        "bobble",
+        "rabble",
+        "bubble",
+        "bauble"
+    ],
+    "backer": [
+        "hacker",
+        "bicker",
+        "banker",
+        "packer",
+        "barker"
+    ],
+    "baddie": [
+        "caddie",
+        "laddie"
+    ],
+    "badger": [
+        "banger"
+    ],
+    "baffle": [
+        "raffle",
+        "waffle"
+    ],
+    "ballet": [
+        "billet",
+        "mallet",
+        "ballot",
+        "pallet",
+        "bullet",
+        "wallet"
+    ],
+    "ballot": [
+        "ballet"
+    ],
+    "banana": [
+        "manana"
+    ],
+    "banger": [
+        "danger",
+        "badger",
+        "hanger",
+        "banker",
+        "manger",
+        "banner",
+        "ranger",
+        "banter"
+    ],
+    "bangle": [
+        "dangle",
+        "jangle",
+        "mangle",
+        "tangle",
+        "wangle"
+    ],
+    "banish": [
+        "danish",
+        "vanish"
+    ],
+    "banker": [
+        "canker",
+        "backer",
+        "banger",
+        "hanker",
+        "banner",
+        "bonker",
+        "barker",
+        "tanker",
+        "banter",
+        "bunker",
+        "wanker"
+    ],
+    "banner": [
+        "banger",
+        "banker",
+        "manner",
+        "tanner",
+        "banter"
+    ],
+    "banter": [
+        "canter",
+        "banger",
+        "banker",
+        "banner",
+        "barter",
+        "batter"
+    ],
+    "barbed": [
+        "barred",
+        "barber"
+    ],
+    "barber": [
+        "barbed",
+        "barker",
+        "barter"
+    ],
+    "barely": [
+        "rarely"
+    ],
+    "barker": [
+        "barber",
+        "backer",
+        "marker",
+        "banker",
+        "barter"
+    ],
+    "barley": [
+        "barney",
+        "parley"
+    ],
+    "barman": [
+        "batman"
+    ],
+    "barney": [
+        "barley"
+    ],
+    "barred": [
+        "barbed",
+        "barrel",
+        "barren"
+    ],
+    "barrel": [
+        "barred",
+        "barren"
+    ],
+    "barren": [
+        "barred",
+        "barrel",
+        "warren"
+    ],
+    "barrow": [
+        "harrow",
+        "marrow",
+        "narrow",
+        "borrow",
+        "burrow"
+    ],
+    "barter": [
+        "barber",
+        "carter",
+        "garter",
+        "barker",
+        "banter",
+        "batter"
+    ],
+    "basket": [
+        "casket",
+        "gasket",
+        "basset"
+    ],
+    "basque": [
+        "bisque",
+        "masque"
+    ],
+    "basset": [
+        "basket"
+    ],
+    "bather": [
+        "father",
+        "gather",
+        "lather",
+        "bother",
+        "rather",
+        "batter"
+    ],
+    "bathos": [
+        "pathos"
+    ],
+    "batman": [
+        "barman"
+    ],
+    "batten": [
+        "fatten",
+        "batter"
+    ],
+    "batter": [
+        "better",
+        "hatter",
+        "bather",
+        "bitter",
+        "latter",
+        "matter",
+        "banter",
+        "batten",
+        "patter",
+        "barter",
+        "butter"
+    ],
+    "battle": [
+        "cattle",
+        "bottle",
+        "rattle",
+        "tattle"
+    ],
+    "bauble": [
+        "babble"
+    ],
+    "beacon": [
+        "deacon"
+    ],
+    "beaded": [
+        "headed",
+        "leaded"
+    ],
+    "beaker": [
+        "beater",
+        "beaver"
+    ],
+    "beanie": [
+        "meanie"
+    ],
+    "beaten": [
+        "neaten",
+        "beater"
+    ],
+    "beater": [
+        "heater",
+        "beaker",
+        "beaten",
+        "boater",
+        "seater",
+        "better",
+        "beaver"
+    ],
+    "beaver": [
+        "beaker",
+        "beater"
+    ],
+    "beckon": [
+        "reckon"
+    ],
+    "beemer": [
+        "beeper"
+    ],
+    "beeper": [
+        "keeper",
+        "beemer"
+    ],
+    "begone": [
+        "bygone"
+    ],
+    "belief": [
+        "relief"
+    ],
+    "bellow": [
+        "fellow",
+        "billow",
+        "mellow",
+        "yellow"
+    ],
+    "bender": [
+        "fender",
+        "gender",
+        "binder",
+        "lender",
+        "render",
+        "tender"
+    ],
+    "berate": [
+        "aerate"
+    ],
+    "beside": [
+        "reside",
+        "betide"
+    ],
+    "betide": [
+        "beside"
+    ],
+    "better": [
+        "batter",
+        "beater",
+        "fetter",
+        "bitter",
+        "letter",
+        "setter",
+        "butter"
+    ],
+    "bicker": [
+        "backer",
+        "dicker",
+        "picker",
+        "ticker",
+        "wicker"
+    ],
+    "bickie": [
+        "bikkie",
+        "sickie"
+    ],
+    "bidder": [
+        "binder"
+    ],
+    "biggie": [
+        "ciggie"
+    ],
+    "bikkie": [
+        "bickie"
+    ],
+    "billet": [
+        "ballet",
+        "fillet",
+        "millet",
+        "bullet"
+    ],
+    "billow": [
+        "bellow",
+        "pillow",
+        "willow"
+    ],
+    "binder": [
+        "cinder",
+        "bidder",
+        "bender",
+        "finder",
+        "hinder",
+        "minder",
+        "tinder",
+        "winder"
+    ],
+    "bionic": [
+        "biopic",
+        "biotic"
+    ],
+    "biopic": [
+        "bionic",
+        "biotic"
+    ],
+    "biotic": [
+        "bionic",
+        "biopic"
+    ],
+    "birdle": [
+        "girdle"
+    ],
+    "bisque": [
+        "basque",
+        "risque"
+    ],
+    "bitchy": [
+        "titchy"
+    ],
+    "bitter": [
+        "batter",
+        "better",
+        "fitter",
+        "litter",
+        "sitter",
+        "titter",
+        "butter",
+        "witter"
+    ],
+    "blanch": [
+        "blench",
+        "branch"
+    ],
+    "bleach": [
+        "blench",
+        "breach"
+    ],
+    "blench": [
+        "blanch",
+        "bleach",
+        "clench"
+    ],
+    "blight": [
+        "alight",
+        "flight",
+        "plight",
+        "bright",
+        "slight"
+    ],
+    "bloody": [
+        "broody"
+    ],
+    "boater": [
+        "beater"
+    ],
+    "bobbed": [
+        "bombed"
+    ],
+    "bobble": [
+        "babble",
+        "cobble",
+        "gobble",
+        "hobble",
+        "bubble",
+        "wobble"
+    ],
+    "boggle": [
+        "goggle",
+        "joggle",
+        "toggle"
+    ],
+    "boiled": [
+        "boiler"
+    ],
+    "boiler": [
+        "boiled",
+        "bowler"
+    ],
+    "bombed": [
+        "bobbed",
+        "bomber"
+    ],
+    "bomber": [
+        "bombed",
+        "somber"
+    ],
+    "bonker": [
+        "banker",
+        "conker",
+        "bunker",
+        "bonzer"
+    ],
+    "bonnet": [
+        "sonnet"
+    ],
+    "bonzer": [
+        "bonker",
+        "boozer"
+    ],
+    "boogie": [
+        "bookie"
+    ],
+    "bookie": [
+        "cookie",
+        "boogie",
+        "rookie"
+    ],
+    "boozer": [
+        "bonzer"
+    ],
+    "borage": [
+        "forage"
+    ],
+    "boring": [
+        "boxing"
+    ],
+    "borrow": [
+        "barrow",
+        "morrow",
+        "sorrow",
+        "burrow"
+    ],
+    "bother": [
+        "bather",
+        "mother"
+    ],
+    "bottle": [
+        "battle"
+    ],
+    "bought": [
+        "nought",
+        "sought"
+    ],
+    "bounce": [
+        "pounce",
+        "bouncy"
+    ],
+    "bouncy": [
+        "bounce",
+        "bounty"
+    ],
+    "bounty": [
+        "county",
+        "bouncy"
+    ],
+    "bowler": [
+        "howler",
+        "boiler"
+    ],
+    "boxing": [
+        "boring"
+    ],
+    "brainy": [
+        "grainy"
+    ],
+    "branch": [
+        "blanch",
+        "brunch"
+    ],
+    "brassy": [
+        "grassy"
+    ],
+    "breach": [
+        "breech",
+        "bleach",
+        "broach",
+        "preach",
+        "breath"
+    ],
+    "breath": [
+        "breach",
+        "wreath"
+    ],
+    "breech": [
+        "breach"
+    ],
+    "breeze": [
+        "freeze",
+        "breezy"
+    ],
+    "breezy": [
+        "breeze"
+    ],
+    "bridge": [
+        "fridge",
+        "bridle"
+    ],
+    "bridle": [
+        "bridge"
+    ],
+    "bright": [
+        "aright",
+        "fright",
+        "blight"
+    ],
+    "broach": [
+        "breach",
+        "brooch"
+    ],
+    "broken": [
+        "broker"
+    ],
+    "broker": [
+        "broken"
+    ],
+    "brooch": [
+        "broach"
+    ],
+    "broody": [
+        "bloody"
+    ],
+    "bruise": [
+        "cruise"
+    ],
+    "brunch": [
+        "branch",
+        "crunch"
+    ],
+    "bubble": [
+        "babble",
+        "bumble",
+        "bobble",
+        "rubble",
+        "burble",
+        "bubbly"
+    ],
+    "bubbly": [
+        "bubble"
+    ],
+    "buckle": [
+        "suckle"
+    ],
+    "buffer": [
+        "duffer",
+        "suffer",
+        "buffet"
+    ],
+    "buffet": [
+        "buffer"
+    ],
+    "bugger": [
+        "mugger",
+        "rugger",
+        "burger"
+    ],
+    "bulgar": [
+        "vulgar"
+    ],
+    "bullet": [
+        "ballet",
+        "gullet",
+        "billet",
+        "mullet"
+    ],
+    "bumble": [
+        "bubble",
+        "fumble",
+        "humble",
+        "jumble",
+        "mumble",
+        "burble",
+        "tumble"
+    ],
+    "bummer": [
+        "hummer",
+        "bumper",
+        "summer"
+    ],
+    "bumper": [
+        "jumper",
+        "bummer"
+    ],
+    "bungee": [
+        "bungel"
+    ],
+    "bungel": [
+        "bungee"
+    ],
+    "bunker": [
+        "banker",
+        "hunker",
+        "bonker"
+    ],
+    "burble": [
+        "bubble",
+        "burgle",
+        "bumble"
+    ],
+    "burger": [
+        "bugger",
+        "burner"
+    ],
+    "burgle": [
+        "burble",
+        "gurgle"
+    ],
+    "burner": [
+        "burger"
+    ],
+    "burrow": [
+        "barrow",
+        "furrow",
+        "borrow"
+    ],
+    "burton": [
+        "button"
+    ],
+    "bushed": [
+        "hushed",
+        "bushel",
+        "pushed",
+        "rushed"
+    ],
+    "bushel": [
+        "bushed"
+    ],
+    "buster": [
+        "duster",
+        "luster",
+        "muster",
+        "ouster",
+        "butter"
+    ],
+    "bustle": [
+        "hustle",
+        "rustle"
+    ],
+    "butler": [
+        "butter"
+    ],
+    "butter": [
+        "batter",
+        "better",
+        "gutter",
+        "bitter",
+        "butler",
+        "mutter",
+        "nutter",
+        "putter",
+        "buster"
+    ],
+    "button": [
+        "mutton",
+        "burton"
+    ],
+    "bygone": [
+        "begone"
+    ],
+    "dabble": [
+        "babble",
+        "gabble",
+        "rabble"
+    ],
+    "dagger": [
+        "digger",
+        "danger",
+        "tagger"
+    ],
+    "dampen": [
+        "damper"
+    ],
+    "damper": [
+        "camper",
+        "hamper",
+        "dampen",
+        "pamper",
+        "dapper",
+        "tamper"
+    ],
+    "dancer": [
+        "cancer",
+        "danger",
+        "lancer"
+    ],
+    "dandle": [
+        "candle",
+        "dangle",
+        "handle",
+        "dawdle"
+    ],
+    "danger": [
+        "banger",
+        "dancer",
+        "dagger",
+        "hanger",
+        "manger",
+        "ranger"
+    ],
+    "dangle": [
+        "bangle",
+        "dandle",
+        "jangle",
+        "mangle",
+        "tangle",
+        "wangle",
+        "dangly"
+    ],
+    "dangly": [
+        "dangle",
+        "gangly"
+    ],
+    "danish": [
+        "banish",
+        "vanish"
+    ],
+    "daoism": [
+        "maoism",
+        "taoism"
+    ],
+    "dapper": [
+        "damper",
+        "rapper",
+        "zapper"
+    ],
+    "daring": [
+        "caring",
+        "paring",
+        "raring",
+        "during"
+    ],
+    "dashed": [
+        "mashed"
+    ],
+    "dative": [
+        "native"
+    ],
+    "dawdle": [
+        "dandle"
+    ],
+    "dazzle": [
+        "razzle"
+    ],
+    "deacon": [
+        "beacon"
+    ],
+    "deaden": [
+        "deafen",
+        "leaden"
+    ],
+    "deadly": [
+        "dearly"
+    ],
+    "deafen": [
+        "deaden"
+    ],
+    "dealer": [
+        "healer"
+    ],
+    "dearly": [
+        "deadly",
+        "nearly",
+        "pearly",
+        "yearly"
+    ],
+    "dearth": [
+        "hearth"
+    ],
+    "debase": [
+        "debate"
+    ],
+    "debate": [
+        "rebate",
+        "debase"
+    ],
+    "decade": [
+        "decide",
+        "decode"
+    ],
+    "decant": [
+        "decent",
+        "recant"
+    ],
+    "deceit": [
+        "decent"
+    ],
+    "decent": [
+        "decant",
+        "deceit",
+        "recent"
+    ],
+    "decide": [
+        "decade",
+        "decode",
+        "deride"
+    ],
+    "decode": [
+        "decade",
+        "decide"
+    ],
+    "decree": [
+        "degree"
+    ],
+    "deduce": [
+        "reduce",
+        "seduce",
+        "deduct"
+    ],
+    "deduct": [
+        "deduce"
+    ],
+    "deface": [
+        "defame"
+    ],
+    "defame": [
+        "deface"
+    ],
+    "defeat": [
+        "defect"
+    ],
+    "defect": [
+        "defeat",
+        "detect"
+    ],
+    "defend": [
+        "depend"
+    ],
+    "define": [
+        "refine"
+    ],
+    "deform": [
+        "reform"
+    ],
+    "defuse": [
+        "refuse"
+    ],
+    "degree": [
+        "decree"
+    ],
+    "delude": [
+        "deluge",
+        "denude"
+    ],
+    "deluge": [
+        "delude"
+    ],
+    "demand": [
+        "remand"
+    ],
+    "demise": [
+        "demist",
+        "devise"
+    ],
+    "demist": [
+        "demise"
+    ],
+    "denial": [
+        "genial",
+        "menial",
+        "dental",
+        "venial"
+    ],
+    "denote": [
+        "devote"
+    ],
+    "dental": [
+        "denial",
+        "mental",
+        "rental"
+    ],
+    "denude": [
+        "delude"
+    ],
+    "depart": [
+        "deport"
+    ],
+    "depend": [
+        "defend"
+    ],
+    "deport": [
+        "depart",
+        "report"
+    ],
+    "depose": [
+        "repose"
+    ],
+    "depute": [
+        "repute",
+        "deputy"
+    ],
+    "deputy": [
+        "depute"
+    ],
+    "derail": [
+        "detail"
+    ],
+    "deride": [
+        "decide",
+        "derive"
+    ],
+    "derive": [
+        "deride"
+    ],
+    "design": [
+        "resign"
+    ],
+    "detail": [
+        "detain",
+        "retail",
+        "derail"
+    ],
+    "detain": [
+        "detail",
+        "retain"
+    ],
+    "detect": [
+        "defect",
+        "detest"
+    ],
+    "detest": [
+        "detect"
+    ],
+    "detour": [
+        "devour"
+    ],
+    "device": [
+        "devise"
+    ],
+    "devise": [
+        "device",
+        "demise",
+        "revise"
+    ],
+    "devote": [
+        "denote"
+    ],
+    "devour": [
+        "detour",
+        "devout"
+    ],
+    "devout": [
+        "devour"
+    ],
+    "diaper": [
+        "draper"
+    ],
+    "dicker": [
+        "bicker",
+        "docker",
+        "picker",
+        "ticker",
+        "wicker"
+    ],
+    "diddle": [
+        "fiddle",
+        "middle",
+        "piddle",
+        "riddle",
+        "diddly"
+    ],
+    "diddly": [
+        "diddle",
+        "fiddly",
+        "tiddly"
+    ],
+    "differ": [
+        "duffer"
+    ],
+    "digest": [
+        "divest"
+    ],
+    "digger": [
+        "dagger",
+        "jigger",
+        "nigger"
+    ],
+    "dilate": [
+        "dilute"
+    ],
+    "dilute": [
+        "dilate"
+    ],
+    "dimple": [
+        "pimple",
+        "simple"
+    ],
+    "dinner": [
+        "winner"
+    ],
+    "dismal": [
+        "dismay"
+    ],
+    "dismay": [
+        "dismal"
+    ],
+    "distil": [
+        "pistil"
+    ],
+    "disuse": [
+        "misuse"
+    ],
+    "dither": [
+        "either",
+        "hither",
+        "wither",
+        "zither"
+    ],
+    "divali": [
+        "diwali"
+    ],
+    "divers": [
+        "divert"
+    ],
+    "divert": [
+        "divest",
+        "divers"
+    ],
+    "divest": [
+        "digest",
+        "divert"
+    ],
+    "divide": [
+        "divine"
+    ],
+    "divine": [
+        "divide",
+        "diving"
+    ],
+    "diving": [
+        "divine",
+        "living"
+    ],
+    "diwali": [
+        "divali"
+    ],
+    "doable": [
+        "double"
+    ],
+    "dobber": [
+        "cobber",
+        "robber"
+    ],
+    "docker": [
+        "dicker",
+        "locker",
+        "rocker",
+        "docket"
+    ],
+    "docket": [
+        "locket",
+        "pocket",
+        "rocket",
+        "docker",
+        "socket"
+    ],
+    "dodgem": [
+        "dodger"
+    ],
+    "dodger": [
+        "codger",
+        "lodger",
+        "dodgem"
+    ],
+    "doggie": [
+        "moggie"
+    ],
+    "dollar": [
+        "collar"
+    ],
+    "dollop": [
+        "lollop"
+    ],
+    "donkey": [
+        "monkey"
+    ],
+    "dooced": [
+        "doomed"
+    ],
+    "doodle": [
+        "noodle",
+        "poodle"
+    ],
+    "doomed": [
+        "dooced"
+    ],
+    "dosage": [
+        "dotage"
+    ],
+    "dosser": [
+        "tosser"
+    ],
+    "dotage": [
+        "dosage"
+    ],
+    "doting": [
+        "voting"
+    ],
+    "double": [
+        "doable",
+        "rouble",
+        "doubly"
+    ],
+    "doubly": [
+        "double"
+    ],
+    "douche": [
+        "touche"
+    ],
+    "doughy": [
+        "toughy"
+    ],
+    "drafty": [
+        "crafty"
+    ],
+    "draper": [
+        "diaper",
+        "drawer"
+    ],
+    "drawer": [
+        "draper"
+    ],
+    "dreamy": [
+        "creamy",
+        "dreary"
+    ],
+    "dreary": [
+        "dreamy"
+    ],
+    "drench": [
+        "french",
+        "trench",
+        "wrench"
+    ],
+    "drivel": [
+        "driven",
+        "driver"
+    ],
+    "driven": [
+        "drivel",
+        "driver"
+    ],
+    "driver": [
+        "drivel",
+        "driven"
+    ],
+    "duffer": [
+        "buffer",
+        "differ",
+        "suffer"
+    ],
+    "dumbly": [
+        "humbly"
+    ],
+    "during": [
+        "daring"
+    ],
+    "duster": [
+        "buster",
+        "luster",
+        "muster",
+        "ouster"
+    ],
+    "fabled": [
+        "gabled",
+        "failed"
+    ],
+    "facial": [
+        "racial"
+    ],
+    "facing": [
+        "racing"
+    ],
+    "faggot": [
+        "maggot"
+    ],
+    "failed": [
+        "fabled"
+    ],
+    "fallow": [
+        "callow",
+        "fellow",
+        "follow",
+        "sallow",
+        "tallow",
+        "wallow"
+    ],
+    "falter": [
+        "halter",
+        "filter"
+    ],
+    "famine": [
+        "gamine"
+    ],
+    "fasten": [
+        "hasten",
+        "fatten"
+    ],
+    "father": [
+        "bather",
+        "gather",
+        "lather",
+        "rather"
+    ],
+    "fatted": [
+        "fitted",
+        "matted",
+        "fatten"
+    ],
+    "fatten": [
+        "batten",
+        "fatted",
+        "fasten"
+    ],
+    "feeder": [
+        "feeler",
+        "fender"
+    ],
+    "feeler": [
+        "feeder",
+        "feller",
+        "peeler"
+    ],
+    "feller": [
+        "feeler",
+        "filler",
+        "seller",
+        "teller"
+    ],
+    "fellow": [
+        "fallow",
+        "bellow",
+        "mellow",
+        "follow",
+        "yellow"
+    ],
+    "fencer": [
+        "fender"
+    ],
+    "fender": [
+        "bender",
+        "fencer",
+        "feeder",
+        "gender",
+        "finder",
+        "lender",
+        "render",
+        "tender"
+    ],
+    "fennel": [
+        "kennel",
+        "funnel"
+    ],
+    "fester": [
+        "jester",
+        "foster",
+        "pester",
+        "tester",
+        "fetter"
+    ],
+    "fetter": [
+        "better",
+        "fitter",
+        "letter",
+        "setter",
+        "fester"
+    ],
+    "fettle": [
+        "kettle",
+        "mettle",
+        "nettle",
+        "settle"
+    ],
+    "fibber": [
+        "gibber",
+        "libber"
+    ],
+    "fiddle": [
+        "diddle",
+        "middle",
+        "piddle",
+        "riddle",
+        "fuddle",
+        "fiddly"
+    ],
+    "fiddly": [
+        "diddly",
+        "fiddle",
+        "tiddly"
+    ],
+    "fidget": [
+        "midget",
+        "widget"
+    ],
+    "fierce": [
+        "pierce"
+    ],
+    "fiesta": [
+        "siesta"
+    ],
+    "filing": [
+        "ailing",
+        "firing"
+    ],
+    "filler": [
+        "feller",
+        "killer",
+        "miller",
+        "tiller",
+        "filter",
+        "fillet"
+    ],
+    "fillet": [
+        "billet",
+        "millet",
+        "filler"
+    ],
+    "filter": [
+        "falter",
+        "kilter",
+        "filler",
+        "fitter"
+    ],
+    "finder": [
+        "binder",
+        "cinder",
+        "fender",
+        "finger",
+        "hinder",
+        "minder",
+        "tinder",
+        "winder"
+    ],
+    "finely": [
+        "finery"
+    ],
+    "finery": [
+        "finely"
+    ],
+    "finger": [
+        "finder",
+        "ginger",
+        "linger",
+        "minger",
+        "singer",
+        "winger"
+    ],
+    "finite": [
+        "finito"
+    ],
+    "finito": [
+        "finite"
+    ],
+    "firing": [
+        "airing",
+        "hiring",
+        "filing",
+        "tiring",
+        "wiring"
+    ],
+    "fitted": [
+        "fatted",
+        "pitted",
+        "fitter"
+    ],
+    "fitter": [
+        "bitter",
+        "fitted",
+        "fetter",
+        "litter",
+        "filter",
+        "sitter",
+        "titter",
+        "witter"
+    ],
+    "fizzle": [
+        "sizzle"
+    ],
+    "flared": [
+        "flawed"
+    ],
+    "flashy": [
+        "fleshy"
+    ],
+    "flawed": [
+        "flared"
+    ],
+    "fleece": [
+        "fleecy"
+    ],
+    "fleecy": [
+        "fleece"
+    ],
+    "fleshy": [
+        "flashy"
+    ],
+    "flight": [
+        "alight",
+        "blight",
+        "plight",
+        "fright",
+        "slight"
+    ],
+    "flinch": [
+        "clinch"
+    ],
+    "floppy": [
+        "sloppy"
+    ],
+    "flower": [
+        "glower"
+    ],
+    "flurry": [
+        "slurry"
+    ],
+    "fodder": [
+        "folder"
+    ],
+    "folder": [
+        "fodder",
+        "holder",
+        "molder",
+        "solder"
+    ],
+    "follow": [
+        "fallow",
+        "fellow",
+        "hollow"
+    ],
+    "fondle": [
+        "fondue",
+        "fondly"
+    ],
+    "fondly": [
+        "fondle"
+    ],
+    "fondue": [
+        "fondle"
+    ],
+    "foodie": [
+        "hoodie",
+        "footie"
+    ],
+    "footer": [
+        "hooter",
+        "foster"
+    ],
+    "footie": [
+        "foodie"
+    ],
+    "forage": [
+        "borage"
+    ],
+    "forbid": [
+        "morbid"
+    ],
+    "forced": [
+        "forked"
+    ],
+    "forked": [
+        "corked",
+        "forced"
+    ],
+    "formal": [
+        "normal",
+        "format"
+    ],
+    "format": [
+        "formal"
+    ],
+    "foster": [
+        "fester",
+        "footer",
+        "poster",
+        "roster"
+    ],
+    "framed": [
+        "frayed"
+    ],
+    "frayed": [
+        "framed"
+    ],
+    "freeze": [
+        "breeze",
+        "frieze"
+    ],
+    "french": [
+        "drench",
+        "trench",
+        "wrench"
+    ],
+    "fridge": [
+        "bridge",
+        "fringe"
+    ],
+    "frieze": [
+        "freeze"
+    ],
+    "fright": [
+        "aright",
+        "bright",
+        "flight"
+    ],
+    "fringe": [
+        "cringe",
+        "fridge"
+    ],
+    "frumpy": [
+        "grumpy"
+    ],
+    "fucker": [
+        "pucker",
+        "sucker",
+        "tucker"
+    ],
+    "fuddle": [
+        "cuddle",
+        "huddle",
+        "fiddle",
+        "muddle",
+        "puddle"
+    ],
+    "fumble": [
+        "bumble",
+        "humble",
+        "jumble",
+        "mumble",
+        "tumble"
+    ],
+    "funnel": [
+        "fennel",
+        "gunnel",
+        "tunnel"
+    ],
+    "furrow": [
+        "burrow"
+    ],
+    "future": [
+        "suture"
+    ],
+    "earful": [
+        "jarful"
+    ],
+    "earner": [
+        "garner"
+    ],
+    "easter": [
+        "caster",
+        "master",
+        "taster",
+        "waster"
+    ],
+    "eatery": [
+        "watery"
+    ],
+    "effect": [
+        "affect"
+    ],
+    "egoism": [
+        "egoist"
+    ],
+    "egoist": [
+        "egoism"
+    ],
+    "eighty": [
+        "mighty"
+    ],
+    "either": [
+        "dither",
+        "hither",
+        "wither",
+        "zither"
+    ],
+    "elated": [
+        "plated"
+    ],
+    "empire": [
+        "umpire",
+        "expire"
+    ],
+    "enable": [
+        "unable"
+    ],
+    "encode": [
+        "encore"
+    ],
+    "encore": [
+        "encode"
+    ],
+    "endure": [
+        "ensure"
+    ],
+    "enfold": [
+        "unfold"
+    ],
+    "engage": [
+        "enrage"
+    ],
+    "enmity": [
+        "entity"
+    ],
+    "enrage": [
+        "engage"
+    ],
+    "ensure": [
+        "endure",
+        "insure",
+        "unsure"
+    ],
+    "entice": [
+        "entire"
+    ],
+    "entire": [
+        "entice"
+    ],
+    "entity": [
+        "enmity"
+    ],
+    "erotic": [
+        "exotic"
+    ],
+    "errand": [
+        "errant"
+    ],
+    "errant": [
+        "arrant",
+        "errand"
+    ],
+    "ethane": [
+        "ethene"
+    ],
+    "ethene": [
+        "ethane"
+    ],
+    "excise": [
+        "excite",
+        "excuse"
+    ],
+    "excite": [
+        "excise"
+    ],
+    "excuse": [
+        "excise"
+    ],
+    "exhort": [
+        "export",
+        "extort"
+    ],
+    "exotic": [
+        "erotic"
+    ],
+    "expand": [
+        "expend"
+    ],
+    "expect": [
+        "expert"
+    ],
+    "expend": [
+        "expand",
+        "extend"
+    ],
+    "expert": [
+        "expect",
+        "export"
+    ],
+    "expire": [
+        "empire",
+        "expiry"
+    ],
+    "expiry": [
+        "expire"
+    ],
+    "export": [
+        "expert",
+        "exhort",
+        "extort"
+    ],
+    "extant": [
+        "extent"
+    ],
+    "extend": [
+        "expend",
+        "extent"
+    ],
+    "extent": [
+        "extant",
+        "extend"
+    ],
+    "extort": [
+        "exhort",
+        "export"
+    ],
+    "cachet": [
+        "sachet"
+    ],
+    "cackle": [
+        "cockle",
+        "tackle"
+    ],
+    "caddie": [
+        "baddie",
+        "laddie"
+    ],
+    "caftan": [
+        "kaftan"
+    ],
+    "caiman": [
+        "cayman"
+    ],
+    "callow": [
+        "fallow",
+        "sallow",
+        "tallow",
+        "wallow"
+    ],
+    "camber": [
+        "camper"
+    ],
+    "camper": [
+        "camber",
+        "damper",
+        "hamper",
+        "pamper",
+        "tamper"
+    ],
+    "canard": [
+        "canary"
+    ],
+    "canary": [
+        "canard"
+    ],
+    "cancel": [
+        "cancer"
+    ],
+    "cancer": [
+        "dancer",
+        "canker",
+        "lancer",
+        "cancel",
+        "canter"
+    ],
+    "candle": [
+        "dandle",
+        "handle"
+    ],
+    "canker": [
+        "banker",
+        "cancer",
+        "hanker",
+        "conker",
+        "tanker",
+        "canter",
+        "wanker"
+    ],
+    "cannon": [
+        "canton",
+        "cannot",
+        "canyon"
+    ],
+    "cannot": [
+        "cannon"
+    ],
+    "canter": [
+        "banter",
+        "cancer",
+        "center",
+        "canker",
+        "cantor",
+        "carter",
+        "caster"
+    ],
+    "canton": [
+        "cannon",
+        "carton",
+        "cantor",
+        "wanton",
+        "canyon"
+    ],
+    "cantor": [
+        "canter",
+        "canton",
+        "captor",
+        "castor"
+    ],
+    "canyon": [
+        "cannon",
+        "canton"
+    ],
+    "captor": [
+        "cantor",
+        "castor"
+    ],
+    "carbon": [
+        "carton"
+    ],
+    "careen": [
+        "career"
+    ],
+    "career": [
+        "careen",
+        "carter",
+        "carver"
+    ],
+    "caring": [
+        "daring",
+        "paring",
+        "raring",
+        "casing",
+        "caving"
+    ],
+    "carpel": [
+        "cartel",
+        "carpet"
+    ],
+    "carpet": [
+        "carpel"
+    ],
+    "carrot": [
+        "parrot"
+    ],
+    "cartel": [
+        "carpel",
+        "carter"
+    ],
+    "carter": [
+        "barter",
+        "career",
+        "garter",
+        "cartel",
+        "canter",
+        "caster",
+        "carver"
+    ],
+    "carton": [
+        "carbon",
+        "canton"
+    ],
+    "carver": [
+        "career",
+        "carter"
+    ],
+    "casing": [
+        "casino",
+        "caring",
+        "caving"
+    ],
+    "casino": [
+        "casing"
+    ],
+    "casket": [
+        "basket",
+        "gasket"
+    ],
+    "caster": [
+        "easter",
+        "master",
+        "canter",
+        "castor",
+        "carter",
+        "taster",
+        "waster"
+    ],
+    "castle": [
+        "cattle"
+    ],
+    "castor": [
+        "caster",
+        "cantor",
+        "pastor",
+        "captor"
+    ],
+    "catchy": [
+        "patchy"
+    ],
+    "cation": [
+        "nation",
+        "ration"
+    ],
+    "cattle": [
+        "battle",
+        "rattle",
+        "castle",
+        "tattle"
+    ],
+    "caught": [
+        "naught",
+        "taught"
+    ],
+    "cavern": [
+        "tavern"
+    ],
+    "caving": [
+        "paving",
+        "raving",
+        "caring",
+        "saving",
+        "casing"
+    ],
+    "cayman": [
+        "caiman",
+        "layman"
+    ],
+    "cellar": [
+        "collar"
+    ],
+    "censor": [
+        "sensor"
+    ],
+    "center": [
+        "canter",
+        "renter"
+    ],
+    "chance": [
+        "change",
+        "chancy"
+    ],
+    "chancy": [
+        "chance",
+        "chanty"
+    ],
+    "change": [
+        "chance",
+        "charge"
+    ],
+    "chanty": [
+        "chancy",
+        "shanty",
+        "chatty"
+    ],
+    "chappy": [
+        "chippy",
+        "choppy",
+        "crappy"
+    ],
+    "charge": [
+        "change"
+    ],
+    "chatty": [
+        "chanty"
+    ],
+    "cheeky": [
+        "cheery",
+        "cheesy"
+    ],
+    "cheers": [
+        "cheery"
+    ],
+    "cheery": [
+        "cheeky",
+        "cherry",
+        "cheesy",
+        "cheers"
+    ],
+    "cheese": [
+        "cheesy"
+    ],
+    "cheesy": [
+        "cheese",
+        "cheeky",
+        "cheery"
+    ],
+    "cherry": [
+        "cheery",
+        "sherry"
+    ],
+    "chilli": [
+        "chilly"
+    ],
+    "chilly": [
+        "chilli"
+    ],
+    "chinky": [
+        "chunky"
+    ],
+    "chippy": [
+        "chappy",
+        "choppy",
+        "chirpy"
+    ],
+    "chirpy": [
+        "chippy"
+    ],
+    "choked": [
+        "cooked",
+        "choker"
+    ],
+    "choker": [
+        "choked",
+        "cooker"
+    ],
+    "choose": [
+        "choosy"
+    ],
+    "choosy": [
+        "choose"
+    ],
+    "choppy": [
+        "chappy",
+        "chippy"
+    ],
+    "chummy": [
+        "crummy"
+    ],
+    "chunky": [
+        "chinky"
+    ],
+    "ciggie": [
+        "biggie"
+    ],
+    "cinder": [
+        "binder",
+        "finder",
+        "hinder",
+        "minder",
+        "tinder",
+        "winder"
+    ],
+    "cipher": [
+        "cypher"
+    ],
+    "circus": [
+        "cirrus"
+    ],
+    "cirrus": [
+        "circus",
+        "citrus"
+    ],
+    "citrus": [
+        "cirrus"
+    ],
+    "classy": [
+        "glassy"
+    ],
+    "clench": [
+        "blench",
+        "clinch"
+    ],
+    "clever": [
+        "clover"
+    ],
+    "cliche": [
+        "cloche"
+    ],
+    "clinch": [
+        "clench",
+        "flinch"
+    ],
+    "cloche": [
+        "cliche",
+        "clothe"
+    ],
+    "closed": [
+        "closet"
+    ],
+    "closet": [
+        "closed"
+    ],
+    "clothe": [
+        "cloche"
+    ],
+    "cloven": [
+        "clover"
+    ],
+    "clover": [
+        "clever",
+        "cloven",
+        "plover"
+    ],
+    "clucky": [
+        "plucky"
+    ],
+    "clutch": [
+        "crutch"
+    ],
+    "coarse": [
+        "hoarse",
+        "course"
+    ],
+    "coated": [
+        "moated"
+    ],
+    "cobber": [
+        "dobber",
+        "robber"
+    ],
+    "cobble": [
+        "bobble",
+        "gobble",
+        "hobble",
+        "wobble"
+    ],
+    "cockle": [
+        "cackle"
+    ],
+    "coddle": [
+        "cuddle"
+    ],
+    "codger": [
+        "dodger",
+        "lodger"
+    ],
+    "codify": [
+        "modify"
+    ],
+    "coffee": [
+        "coffer",
+        "toffee"
+    ],
+    "coffer": [
+        "coffee",
+        "confer"
+    ],
+    "collar": [
+        "dollar",
+        "cellar"
+    ],
+    "collie": [
+        "coolie"
+    ],
+    "colier": [
+        "copier"
+    ],
+    "combat": [
+        "wombat"
+    ],
+    "comedy": [
+        "comely"
+    ],
+    "comely": [
+        "comedy",
+        "homely",
+        "comply"
+    ],
+    "coming": [
+        "homing"
+    ],
+    "commie": [
+        "commit"
+    ],
+    "commit": [
+        "commie"
+    ],
+    "comply": [
+        "comely"
+    ],
+    "condom": [
+        "condor"
+    ],
+    "condor": [
+        "condom"
+    ],
+    "confer": [
+        "coffer",
+        "conker"
+    ],
+    "conker": [
+        "canker",
+        "bonker",
+        "confer",
+        "cooker",
+        "corker"
+    ],
+    "convex": [
+        "convey"
+    ],
+    "convey": [
+        "convoy",
+        "convex"
+    ],
+    "convoy": [
+        "convey"
+    ],
+    "cooked": [
+        "hooked",
+        "choked",
+        "corked",
+        "cooker"
+    ],
+    "cooker": [
+        "cooked",
+        "hooker",
+        "choker",
+        "looker",
+        "cooler",
+        "conker",
+        "cooper",
+        "corker"
+    ],
+    "cookie": [
+        "bookie",
+        "coolie",
+        "rookie"
+    ],
+    "cooler": [
+        "cooker",
+        "cooper"
+    ],
+    "coolie": [
+        "cookie",
+        "collie"
+    ],
+    "coolly": [
+        "woolly"
+    ],
+    "copier": [
+        "colier"
+    ],
+    "cooper": [
+        "hooper",
+        "cooker",
+        "cooler"
+    ],
+    "corked": [
+        "forked",
+        "cooked",
+        "corker"
+    ],
+    "corker": [
+        "corked",
+        "conker",
+        "corner",
+        "cooker",
+        "porker",
+        "worker"
+    ],
+    "cornea": [
+        "corner",
+        "cornet"
+    ],
+    "corner": [
+        "cornea",
+        "corker",
+        "cornet"
+    ],
+    "cornet": [
+        "cornea",
+        "hornet",
+        "corner",
+        "corset"
+    ],
+    "corrie": [
+        "cowrie"
+    ],
+    "corset": [
+        "cornet",
+        "cosset"
+    ],
+    "cortex": [
+        "vortex"
+    ],
+    "cosily": [
+        "costly",
+        "cozily"
+    ],
+    "cozily": [
+        "cosily"
+    ],
+    "cosset": [
+        "corset"
+    ],
+    "costly": [
+        "cosily",
+        "mostly"
+    ],
+    "county": [
+        "bounty"
+    ],
+    "course": [
+        "coarse"
+    ],
+    "cowrie": [
+        "corrie"
+    ],
+    "crafty": [
+        "drafty"
+    ],
+    "cranky": [
+        "cranny"
+    ],
+    "cranny": [
+        "granny",
+        "cranky"
+    ],
+    "crappy": [
+        "chappy"
+    ],
+    "crater": [
+        "grater"
+    ],
+    "creaky": [
+        "creamy"
+    ],
+    "creamy": [
+        "dreamy",
+        "creaky"
+    ],
+    "crease": [
+        "grease",
+        "create"
+    ],
+    "create": [
+        "crease"
+    ],
+    "cringe": [
+        "fringe"
+    ],
+    "crotch": [
+        "crutch",
+        "crouch"
+    ],
+    "crouch": [
+        "grouch",
+        "crotch"
+    ],
+    "cruise": [
+        "bruise"
+    ],
+    "crummy": [
+        "chummy"
+    ],
+    "crunch": [
+        "brunch",
+        "crutch"
+    ],
+    "crusty": [
+        "trusty"
+    ],
+    "crutch": [
+        "clutch",
+        "crunch",
+        "crotch"
+    ],
+    "crying": [
+        "trying"
+    ],
+    "cuddle": [
+        "fuddle",
+        "huddle",
+        "muddle",
+        "coddle",
+        "puddle",
+        "curdle",
+        "cuddly"
+    ],
+    "cuddly": [
+        "cuddle"
+    ],
+    "curdle": [
+        "cuddle",
+        "hurdle"
+    ],
+    "curfew": [
+        "curlew"
+    ],
+    "curler": [
+        "curlew"
+    ],
+    "curlew": [
+        "curfew",
+        "curler"
+    ],
+    "cypher": [
+        "cipher"
+    ],
+    "gabble": [
+        "babble",
+        "dabble",
+        "gamble",
+        "gobble",
+        "rabble"
+    ],
+    "gabled": [
+        "fabled"
+    ],
+    "gaelic": [
+        "gallic",
+        "garlic"
+    ],
+    "gaggle": [
+        "haggle",
+        "giggle",
+        "goggle",
+        "gargle",
+        "waggle"
+    ],
+    "gallic": [
+        "gaelic",
+        "garlic"
+    ],
+    "gallon": [
+        "gallop"
+    ],
+    "gallop": [
+        "gallon",
+        "wallop"
+    ],
+    "gamble": [
+        "gabble",
+        "ramble"
+    ],
+    "gamine": [
+        "famine",
+        "gaming"
+    ],
+    "gaming": [
+        "gamine",
+        "gaping"
+    ],
+    "gammon": [
+        "mammon"
+    ],
+    "gander": [
+        "gender",
+        "pander",
+        "sander",
+        "wander"
+    ],
+    "gangly": [
+        "dangly"
+    ],
+    "gannet": [
+        "garnet"
+    ],
+    "gantry": [
+        "pantry"
+    ],
+    "gaping": [
+        "gaming"
+    ],
+    "garden": [
+        "harden",
+        "warden"
+    ],
+    "gargle": [
+        "gaggle",
+        "gurgle"
+    ],
+    "garish": [
+        "parish"
+    ],
+    "garlic": [
+        "gaelic",
+        "gallic"
+    ],
+    "garner": [
+        "earner",
+        "garter",
+        "garnet"
+    ],
+    "garnet": [
+        "gannet",
+        "garret",
+        "garner"
+    ],
+    "garret": [
+        "garnet"
+    ],
+    "garter": [
+        "barter",
+        "carter",
+        "garner"
+    ],
+    "gasket": [
+        "basket",
+        "casket"
+    ],
+    "gather": [
+        "bather",
+        "father",
+        "lather",
+        "rather"
+    ],
+    "gauche": [
+        "gaucho"
+    ],
+    "gaucho": [
+        "gauche"
+    ],
+    "gender": [
+        "gander",
+        "bender",
+        "fender",
+        "lender",
+        "render",
+        "tender"
+    ],
+    "genial": [
+        "denial",
+        "menial",
+        "venial"
+    ],
+    "gentle": [
+        "gently"
+    ],
+    "gently": [
+        "gentle"
+    ],
+    "gibber": [
+        "fibber",
+        "libber",
+        "gibbet"
+    ],
+    "gibbet": [
+        "gobbet",
+        "gibber"
+    ],
+    "gibbon": [
+        "ribbon"
+    ],
+    "giggle": [
+        "gaggle",
+        "jiggle",
+        "niggle",
+        "goggle",
+        "wiggle",
+        "giggly"
+    ],
+    "giggly": [
+        "giggle",
+        "wiggly"
+    ],
+    "ginger": [
+        "finger",
+        "linger",
+        "minger",
+        "singer",
+        "winger"
+    ],
+    "girdle": [
+        "birdle"
+    ],
+    "glassy": [
+        "classy",
+        "glossy",
+        "grassy"
+    ],
+    "glossy": [
+        "glassy"
+    ],
+    "glower": [
+        "flower",
+        "grower"
+    ],
+    "gobbet": [
+        "gibbet",
+        "goblet"
+    ],
+    "gobble": [
+        "gabble",
+        "bobble",
+        "cobble",
+        "hobble",
+        "wobble"
+    ],
+    "goblet": [
+        "gobbet"
+    ],
+    "goggle": [
+        "gaggle",
+        "boggle",
+        "giggle",
+        "joggle",
+        "google",
+        "toggle"
+    ],
+    "google": [
+        "goggle"
+    ],
+    "gotcha": [
+        "wotcha"
+    ],
+    "gotten": [
+        "rotten"
+    ],
+    "grainy": [
+        "brainy",
+        "granny"
+    ],
+    "grange": [
+        "orange",
+        "grunge"
+    ],
+    "granny": [
+        "cranny",
+        "grainy"
+    ],
+    "grassy": [
+        "brassy",
+        "glassy"
+    ],
+    "grater": [
+        "crater"
+    ],
+    "gratin": [
+        "gratis"
+    ],
+    "gratis": [
+        "gratin"
+    ],
+    "gravel": [
+        "grovel",
+        "travel"
+    ],
+    "grease": [
+        "crease",
+        "greasy"
+    ],
+    "greasy": [
+        "grease"
+    ],
+    "gritty": [
+        "grotty"
+    ],
+    "grocer": [
+        "groper",
+        "grower"
+    ],
+    "groove": [
+        "groovy"
+    ],
+    "groovy": [
+        "groove"
+    ],
+    "groper": [
+        "grocer",
+        "proper",
+        "grower"
+    ],
+    "grotto": [
+        "grotty"
+    ],
+    "grotty": [
+        "gritty",
+        "grotto"
+    ],
+    "grouch": [
+        "crouch"
+    ],
+    "ground": [
+        "around"
+    ],
+    "grouse": [
+        "arouse"
+    ],
+    "grovel": [
+        "gravel"
+    ],
+    "grower": [
+        "grocer",
+        "glower",
+        "groper"
+    ],
+    "grudge": [
+        "grunge",
+        "trudge"
+    ],
+    "grumpy": [
+        "frumpy"
+    ],
+    "grunge": [
+        "grange",
+        "grudge",
+        "grungy"
+    ],
+    "grungy": [
+        "grunge"
+    ],
+    "gullet": [
+        "bullet",
+        "mullet"
+    ],
+    "gunnel": [
+        "funnel",
+        "gunner",
+        "tunnel"
+    ],
+    "gunner": [
+        "gunnel",
+        "runner"
+    ],
+    "gurgle": [
+        "gargle",
+        "burgle"
+    ],
+    "gusher": [
+        "pusher"
+    ],
+    "gusset": [
+        "russet"
+    ],
+    "gutted": [
+        "rutted",
+        "gutter"
+    ],
+    "gutter": [
+        "butter",
+        "gutted",
+        "mutter",
+        "nutter",
+        "putter"
+    ],
+    "guzzle": [
+        "muzzle",
+        "nuzzle",
+        "puzzle"
+    ],
+    "hacker": [
+        "backer",
+        "hanker",
+        "packer",
+        "hawker"
+    ],
+    "haggle": [
+        "gaggle",
+        "waggle"
+    ],
+    "hallah": [
+        "halvah",
+        "wallah"
+    ],
+    "halter": [
+        "falter",
+        "hatter"
+    ],
+    "halvah": [
+        "hallah"
+    ],
+    "hammer": [
+        "hamper",
+        "hummer",
+        "yammer"
+    ],
+    "hamper": [
+        "camper",
+        "damper",
+        "hammer",
+        "pamper",
+        "tamper"
+    ],
+    "handle": [
+        "candle",
+        "dandle"
+    ],
+    "hangar": [
+        "hanger"
+    ],
+    "hanger": [
+        "hangar",
+        "banger",
+        "danger",
+        "hanker",
+        "manger",
+        "ranger",
+        "hunger"
+    ],
+    "hanker": [
+        "banker",
+        "canker",
+        "hacker",
+        "hanger",
+        "tanker",
+        "hunker",
+        "wanker",
+        "hawker"
+    ],
+    "Hansom": [
+        "ransom"
+    ],
+    "harden": [
+        "garden",
+        "warden"
+    ],
+    "harrow": [
+        "barrow",
+        "marrow",
+        "narrow"
+    ],
+    "hasten": [
+        "fasten"
+    ],
+    "hatter": [
+        "batter",
+        "latter",
+        "halter",
+        "matter",
+        "patter"
+    ],
+    "haunch": [
+        "launch",
+        "paunch"
+    ],
+    "hawker": [
+        "hacker",
+        "hanker",
+        "hawser"
+    ],
+    "hawser": [
+        "hawker"
+    ],
+    "headed": [
+        "beaded",
+        "leaded",
+        "heaped",
+        "header",
+        "heated"
+    ],
+    "header": [
+        "headed",
+        "leader",
+        "healer",
+        "reader",
+        "hearer",
+        "heater"
+    ],
+    "healer": [
+        "dealer",
+        "header",
+        "hearer",
+        "heater"
+    ],
+    "health": [
+        "hearth",
+        "wealth"
+    ],
+    "heaped": [
+        "headed",
+        "heated"
+    ],
+    "hearer": [
+        "header",
+        "healer",
+        "heater",
+        "wearer"
+    ],
+    "hearse": [
+        "hoarse"
+    ],
+    "hearth": [
+        "dearth",
+        "health",
+        "hearty"
+    ],
+    "hearty": [
+        "hearth"
+    ],
+    "heated": [
+        "headed",
+        "heaped",
+        "heater",
+        "seated"
+    ],
+    "heater": [
+        "beater",
+        "header",
+        "heated",
+        "healer",
+        "hearer",
+        "seater"
+    ],
+    "heaven": [
+        "leaven"
+    ],
+    "hector": [
+        "rector",
+        "sector",
+        "vector"
+    ],
+    "height": [
+        "weight"
+    ],
+    "helmet": [
+        "pelmet"
+    ],
+    "herbal": [
+        "verbal"
+    ],
+    "hereby": [
+        "heresy"
+    ],
+    "herein": [
+        "heroin"
+    ],
+    "heresy": [
+        "hereby"
+    ],
+    "hermit": [
+        "permit"
+    ],
+    "heroic": [
+        "heroin"
+    ],
+    "heroin": [
+        "heroic",
+        "herein"
+    ],
+    "hickey": [
+        "mickey",
+        "hockey"
+    ],
+    "hiding": [
+        "hiking",
+        "riding",
+        "hiring",
+        "siding"
+    ],
+    "higher": [
+        "hither"
+    ],
+    "hiking": [
+        "hiding",
+        "liking",
+        "hiring",
+        "viking"
+    ],
+    "hinder": [
+        "binder",
+        "cinder",
+        "finder",
+        "minder",
+        "tinder",
+        "winder"
+    ],
+    "hinged": [
+        "winged"
+    ],
+    "hiring": [
+        "airing",
+        "hiding",
+        "firing",
+        "hiking",
+        "tiring",
+        "wiring"
+    ],
+    "hither": [
+        "dither",
+        "either",
+        "higher",
+        "wither",
+        "zither"
+    ],
+    "hoarse": [
+        "coarse",
+        "hearse"
+    ],
+    "hobble": [
+        "bobble",
+        "cobble",
+        "gobble",
+        "wobble"
+    ],
+    "hockey": [
+        "hickey",
+        "jockey"
+    ],
+    "holder": [
+        "folder",
+        "holler",
+        "molder",
+        "solder"
+    ],
+    "holler": [
+        "holder",
+        "roller",
+        "howler"
+    ],
+    "hollow": [
+        "follow"
+    ],
+    "homely": [
+        "comely",
+        "homily"
+    ],
+    "homily": [
+        "homely",
+        "hominy"
+    ],
+    "homing": [
+        "coming",
+        "hominy"
+    ],
+    "hominy": [
+        "homing",
+        "homily"
+    ],
+    "honcho": [
+        "poncho"
+    ],
+    "hooded": [
+        "hooked",
+        "wooded"
+    ],
+    "hoodie": [
+        "foodie"
+    ],
+    "hooked": [
+        "cooked",
+        "hooded",
+        "hooker"
+    ],
+    "hooker": [
+        "cooker",
+        "hooked",
+        "looker",
+        "hooper",
+        "hooter"
+    ],
+    "hooter": [
+        "footer",
+        "hooker",
+        "hooper"
+    ],
+    "hooper": [
+        "cooper",
+        "hooker",
+        "hooter"
+    ],
+    "horned": [
+        "hornet"
+    ],
+    "hornet": [
+        "cornet",
+        "horned"
+    ],
+    "horrid": [
+        "torrid"
+    ],
+    "hottie": [
+        "tottie"
+    ],
+    "howler": [
+        "bowler",
+        "holler"
+    ],
+    "huddle": [
+        "cuddle",
+        "fuddle",
+        "muddle",
+        "puddle",
+        "hurdle"
+    ],
+    "humble": [
+        "bumble",
+        "fumble",
+        "jumble",
+        "mumble",
+        "tumble",
+        "humbly"
+    ],
+    "humbly": [
+        "dumbly",
+        "humble"
+    ],
+    "hummer": [
+        "hammer",
+        "bummer",
+        "summer"
+    ],
+    "humour": [
+        "rumour",
+        "tumour"
+    ],
+    "hunger": [
+        "hanger",
+        "hunker"
+    ],
+    "hunker": [
+        "hanker",
+        "bunker",
+        "hunger"
+    ],
+    "hurdle": [
+        "curdle",
+        "huddle",
+        "hurtle"
+    ],
+    "hurtle": [
+        "hurdle",
+        "hustle",
+        "turtle"
+    ],
+    "hushed": [
+        "bushed",
+        "pushed",
+        "rushed"
+    ],
+    "hustle": [
+        "bustle",
+        "rustle",
+        "hurtle"
+    ],
+    "iconic": [
+        "ironic"
+    ],
+    "impact": [
+        "impart"
+    ],
+    "impart": [
+        "impact",
+        "import"
+    ],
+    "import": [
+        "impart"
+    ],
+    "impure": [
+        "impute"
+    ],
+    "impute": [
+        "impure"
+    ],
+    "inborn": [
+        "unborn"
+    ],
+    "incest": [
+        "infest",
+        "ingest",
+        "invest"
+    ],
+    "incise": [
+        "incite"
+    ],
+    "incite": [
+        "incise",
+        "invite"
+    ],
+    "indent": [
+        "intent",
+        "invent"
+    ],
+    "indict": [
+        "induct"
+    ],
+    "induce": [
+        "induct"
+    ],
+    "induct": [
+        "induce",
+        "indict"
+    ],
+    "infect": [
+        "inject",
+        "insect",
+        "infest"
+    ],
+    "infest": [
+        "incest",
+        "infect",
+        "ingest",
+        "invest"
+    ],
+    "infirm": [
+        "inform"
+    ],
+    "inform": [
+        "infirm"
+    ],
+    "ingest": [
+        "incest",
+        "infest",
+        "invest"
+    ],
+    "inject": [
+        "infect",
+        "insect"
+    ],
+    "injure": [
+        "insure",
+        "injury"
+    ],
+    "injury": [
+        "injure"
+    ],
+    "inland": [
+        "island"
+    ],
+    "inmate": [
+        "innate"
+    ],
+    "innate": [
+        "inmate"
+    ],
+    "insect": [
+        "infect",
+        "inject",
+        "insert"
+    ],
+    "insert": [
+        "insect",
+        "invert"
+    ],
+    "inside": [
+        "onside"
+    ],
+    "insure": [
+        "ensure",
+        "injure",
+        "unsure"
+    ],
+    "intend": [
+        "intent"
+    ],
+    "intent": [
+        "indent",
+        "intend",
+        "invent"
+    ],
+    "invent": [
+        "indent",
+        "invert",
+        "invest",
+        "intent"
+    ],
+    "invert": [
+        "invent",
+        "insert",
+        "invest"
+    ],
+    "invest": [
+        "incest",
+        "infest",
+        "ingest",
+        "invent",
+        "invert"
+    ],
+    "invite": [
+        "incite"
+    ],
+    "inward": [
+        "onward"
+    ],
+    "iodide": [
+        "iodine"
+    ],
+    "iodine": [
+        "iodide"
+    ],
+    "ironic": [
+        "iconic"
+    ],
+    "island": [
+        "inland"
+    ],
+    "jacket": [
+        "packet",
+        "racket"
+    ],
+    "jagged": [
+        "ragged",
+        "sagged"
+    ],
+    "jangle": [
+        "bangle",
+        "dangle",
+        "jingle",
+        "mangle",
+        "tangle",
+        "jungle",
+        "wangle"
+    ],
+    "jarful": [
+        "earful"
+    ],
+    "jester": [
+        "fester",
+        "pester",
+        "tester"
+    ],
+    "jigger": [
+        "digger",
+        "nigger",
+        "jogger"
+    ],
+    "jiggle": [
+        "giggle",
+        "niggle",
+        "jingle",
+        "joggle",
+        "juggle",
+        "wiggle"
+    ],
+    "jingle": [
+        "jangle",
+        "jiggle",
+        "mingle",
+        "single",
+        "tingle",
+        "jungle"
+    ],
+    "jockey": [
+        "hockey"
+    ],
+    "jogger": [
+        "jigger",
+        "logger"
+    ],
+    "joggle": [
+        "boggle",
+        "goggle",
+        "jiggle",
+        "toggle",
+        "juggle"
+    ],
+    "jotter": [
+        "potter",
+        "rotter",
+        "totter"
+    ],
+    "judder": [
+        "rudder"
+    ],
+    "juggle": [
+        "jiggle",
+        "jungle",
+        "joggle"
+    ],
+    "jumble": [
+        "bumble",
+        "fumble",
+        "humble",
+        "mumble",
+        "tumble"
+    ],
+    "jumper": [
+        "bumper"
+    ],
+    "jungle": [
+        "jangle",
+        "juggle",
+        "jingle"
+    ],
+    "jurist": [
+        "purist"
+    ],
+    "kaftan": [
+        "caftan"
+    ],
+    "keeper": [
+        "beeper"
+    ],
+    "kennel": [
+        "fennel",
+        "kernel"
+    ],
+    "kernel": [
+        "kennel"
+    ],
+    "kettle": [
+        "fettle",
+        "mettle",
+        "nettle",
+        "settle"
+    ],
+    "killer": [
+        "filler",
+        "miller",
+        "tiller",
+        "kilter"
+    ],
+    "kilter": [
+        "filter",
+        "killer"
+    ],
+    "kindle": [
+        "kindly"
+    ],
+    "kindly": [
+        "kindle"
+    ],
+    "kipper": [
+        "nipper",
+        "zipper"
+    ],
+    "kirsch": [
+        "kitsch"
+    ],
+    "kitsch": [
+        "kirsch"
+    ],
+    "kitten": [
+        "mitten"
+    ],
+    "knotty": [
+        "snotty"
+    ],
+    "ladder": [
+        "larder",
+        "sadder"
+    ],
+    "laddie": [
+        "baddie",
+        "caddie"
+    ],
+    "lament": [
+        "latent"
+    ],
+    "lancer": [
+        "cancer",
+        "dancer",
+        "lancet"
+    ],
+    "lancet": [
+        "lancer"
+    ],
+    "larder": [
+        "ladder",
+        "warder"
+    ],
+    "larvae": [
+        "larval"
+    ],
+    "larval": [
+        "larvae"
+    ],
+    "lastly": [
+        "vastly"
+    ],
+    "latent": [
+        "lament",
+        "patent",
+        "latest"
+    ],
+    "latest": [
+        "latent"
+    ],
+    "lather": [
+        "bather",
+        "father",
+        "gather",
+        "rather",
+        "latter"
+    ],
+    "latter": [
+        "batter",
+        "letter",
+        "hatter",
+        "lather",
+        "litter",
+        "matter",
+        "patter"
+    ],
+    "launch": [
+        "haunch",
+        "paunch"
+    ],
+    "lavish": [
+        "ravish"
+    ],
+    "layman": [
+        "cayman"
+    ],
+    "layoff": [
+        "payoff"
+    ],
+    "layout": [
+        "payout"
+    ],
+    "leaded": [
+        "beaded",
+        "headed",
+        "leaden",
+        "loaded",
+        "leader"
+    ],
+    "leaden": [
+        "deaden",
+        "leaded",
+        "leader",
+        "leaven"
+    ],
+    "leader": [
+        "leaded",
+        "header",
+        "lender",
+        "leaden",
+        "reader"
+    ],
+    "leaven": [
+        "leaden",
+        "heaven"
+    ],
+    "ledger": [
+        "lodger"
+    ],
+    "legion": [
+        "region",
+        "lesion"
+    ],
+    "lender": [
+        "leader",
+        "bender",
+        "fender",
+        "gender",
+        "render",
+        "tender"
+    ],
+    "lesion": [
+        "legion",
+        "lesson"
+    ],
+    "lessen": [
+        "lesson",
+        "lesser"
+    ],
+    "lesser": [
+        "lessen"
+    ],
+    "lesson": [
+        "lessen",
+        "lesion"
+    ],
+    "letter": [
+        "latter",
+        "better",
+        "fetter",
+        "litter",
+        "setter"
+    ],
+    "liable": [
+        "viable"
+    ],
+    "libber": [
+        "fibber",
+        "gibber",
+        "limber"
+    ],
+    "liking": [
+        "hiking",
+        "lining",
+        "viking",
+        "living"
+    ],
+    "limber": [
+        "libber",
+        "timber",
+        "lumber"
+    ],
+    "linger": [
+        "finger",
+        "ginger",
+        "minger",
+        "singer",
+        "winger"
+    ],
+    "lining": [
+        "liking",
+        "mining",
+        "living"
+    ],
+    "litter": [
+        "latter",
+        "bitter",
+        "letter",
+        "fitter",
+        "sitter",
+        "titter",
+        "witter"
+    ],
+    "lively": [
+        "lovely",
+        "livery"
+    ],
+    "livery": [
+        "lively"
+    ],
+    "living": [
+        "diving",
+        "liking",
+        "lining",
+        "loving"
+    ],
+    "lizard": [
+        "wizard"
+    ],
+    "loaded": [
+        "leaded"
+    ],
+    "locale": [
+        "locate"
+    ],
+    "locate": [
+        "locale"
+    ],
+    "locker": [
+        "docker",
+        "looker",
+        "rocker",
+        "locket"
+    ],
+    "locket": [
+        "docket",
+        "pocket",
+        "rocket",
+        "locker",
+        "socket"
+    ],
+    "lodger": [
+        "codger",
+        "dodger",
+        "ledger",
+        "logger"
+    ],
+    "logger": [
+        "lodger",
+        "jogger"
+    ],
+    "lollop": [
+        "dollop"
+    ],
+    "lonely": [
+        "lovely"
+    ],
+    "looker": [
+        "cooker",
+        "locker",
+        "hooker"
+    ],
+    "lordly": [
+        "loudly"
+    ],
+    "lotion": [
+        "motion",
+        "notion",
+        "potion"
+    ],
+    "loudly": [
+        "lordly"
+    ],
+    "lovely": [
+        "lively",
+        "lonely"
+    ],
+    "loving": [
+        "living",
+        "moving",
+        "roving"
+    ],
+    "lumbar": [
+        "lumber"
+    ],
+    "lumber": [
+        "lumbar",
+        "limber",
+        "number"
+    ],
+    "luster": [
+        "buster",
+        "duster",
+        "muster",
+        "ouster"
+    ],
+    "madden": [
+        "maiden",
+        "sadden"
+    ],
+    "maggot": [
+        "faggot"
+    ],
+    "maiden": [
+        "madden"
+    ],
+    "mainly": [
+        "vainly"
+    ],
+    "mallee": [
+        "mallet"
+    ],
+    "mallet": [
+        "ballet",
+        "mallee",
+        "millet",
+        "pallet",
+        "mullet",
+        "wallet"
+    ],
+    "mammon": [
+        "gammon"
+    ],
+    "manage": [
+        "menage"
+    ],
+    "manana": [
+        "banana"
+    ],
+    "manger": [
+        "banger",
+        "danger",
+        "hanger",
+        "minger",
+        "manner",
+        "ranger"
+    ],
+    "mangle": [
+        "bangle",
+        "dangle",
+        "mingle",
+        "jangle",
+        "tangle",
+        "mantle",
+        "wangle"
+    ],
+    "manner": [
+        "banner",
+        "manger",
+        "tanner"
+    ],
+    "manque": [
+        "marque",
+        "masque"
+    ],
+    "mantle": [
+        "mangle"
+    ],
+    "manure": [
+        "mature"
+    ],
+    "maoism": [
+        "daoism",
+        "taoism"
+    ],
+    "marble": [
+        "warble"
+    ],
+    "margin": [
+        "martin"
+    ],
+    "marina": [
+        "marine"
+    ],
+    "marine": [
+        "marina"
+    ],
+    "marked": [
+        "marker",
+        "masked",
+        "market"
+    ],
+    "marker": [
+        "barker",
+        "marked",
+        "market"
+    ],
+    "market": [
+        "marked",
+        "marker"
+    ],
+    "marque": [
+        "manque",
+        "masque"
+    ],
+    "marrow": [
+        "barrow",
+        "harrow",
+        "narrow",
+        "morrow"
+    ],
+    "martin": [
+        "margin"
+    ],
+    "mashed": [
+        "dashed",
+        "masked",
+        "masher",
+        "massed"
+    ],
+    "masher": [
+        "mashed",
+        "rasher",
+        "master",
+        "washer"
+    ],
+    "masked": [
+        "mashed",
+        "marked",
+        "massed"
+    ],
+    "masque": [
+        "basque",
+        "manque",
+        "mosque",
+        "marque"
+    ],
+    "massed": [
+        "mashed",
+        "masked"
+    ],
+    "master": [
+        "caster",
+        "easter",
+        "masher",
+        "mister",
+        "taster",
+        "matter",
+        "muster",
+        "waster"
+    ],
+    "matron": [
+        "patron"
+    ],
+    "matted": [
+        "fatted",
+        "matter"
+    ],
+    "matter": [
+        "batter",
+        "matted",
+        "hatter",
+        "latter",
+        "patter",
+        "master",
+        "mutter"
+    ],
+    "mature": [
+        "nature",
+        "manure"
+    ],
+    "mayday": [
+        "payday"
+    ],
+    "meanie": [
+        "beanie"
+    ],
+    "meanly": [
+        "measly"
+    ],
+    "measly": [
+        "meanly"
+    ],
+    "meddle": [
+        "middle",
+        "peddle",
+        "muddle"
+    ],
+    "medium": [
+        "tedium"
+    ],
+    "meekly": [
+        "weekly"
+    ],
+    "mellow": [
+        "bellow",
+        "fellow",
+        "yellow"
+    ],
+    "menace": [
+        "menage"
+    ],
+    "menage": [
+        "manage",
+        "menace"
+    ],
+    "menial": [
+        "denial",
+        "genial",
+        "mental",
+        "venial"
+    ],
+    "mental": [
+        "dental",
+        "menial",
+        "rental"
+    ],
+    "merger": [
+        "verger"
+    ],
+    "mettle": [
+        "fettle",
+        "kettle",
+        "nettle",
+        "settle"
+    ],
+    "mickey": [
+        "hickey"
+    ],
+    "midday": [
+        "midway"
+    ],
+    "middle": [
+        "diddle",
+        "meddle",
+        "fiddle",
+        "piddle",
+        "riddle",
+        "muddle"
+    ],
+    "midget": [
+        "fidget",
+        "widget"
+    ],
+    "midway": [
+        "midday"
+    ],
+    "mighty": [
+        "eighty"
+    ],
+    "mildly": [
+        "wildly"
+    ],
+    "miller": [
+        "filler",
+        "killer",
+        "tiller",
+        "millet"
+    ],
+    "millet": [
+        "mallet",
+        "billet",
+        "fillet",
+        "miller",
+        "mullet"
+    ],
+    "minced": [
+        "mincer"
+    ],
+    "mincer": [
+        "minder",
+        "minced",
+        "minger",
+        "pincer"
+    ],
+    "minder": [
+        "binder",
+        "cinder",
+        "mincer",
+        "finder",
+        "minger",
+        "hinder",
+        "tinder",
+        "winder"
+    ],
+    "minger": [
+        "manger",
+        "mincer",
+        "minder",
+        "finger",
+        "ginger",
+        "linger",
+        "singer",
+        "winger"
+    ],
+    "mingle": [
+        "mangle",
+        "jingle",
+        "single",
+        "tingle"
+    ],
+    "mining": [
+        "lining"
+    ],
+    "minion": [
+        "pinion"
+    ],
+    "minnow": [
+        "winnow"
+    ],
+    "mister": [
+        "master",
+        "sister",
+        "muster"
+    ],
+    "misuse": [
+        "disuse"
+    ],
+    "mitten": [
+        "kitten"
+    ],
+    "moated": [
+        "coated"
+    ],
+    "mobile": [
+        "motile"
+    ],
+    "modest": [
+        "molest"
+    ],
+    "modify": [
+        "codify"
+    ],
+    "module": [
+        "nodule"
+    ],
+    "moggie": [
+        "doggie"
+    ],
+    "molder": [
+        "folder",
+        "holder",
+        "solder"
+    ],
+    "molest": [
+        "modest"
+    ],
+    "monkey": [
+        "donkey"
+    ],
+    "moppet": [
+        "poppet",
+        "muppet"
+    ],
+    "morbid": [
+        "forbid"
+    ],
+    "morrow": [
+        "marrow",
+        "borrow",
+        "sorrow"
+    ],
+    "mortal": [
+        "portal",
+        "mortar"
+    ],
+    "mortar": [
+        "mortal"
+    ],
+    "mosque": [
+        "masque"
+    ],
+    "mostly": [
+        "costly"
+    ],
+    "mother": [
+        "bother"
+    ],
+    "motile": [
+        "mobile",
+        "motive"
+    ],
+    "motion": [
+        "lotion",
+        "notion",
+        "potion"
+    ],
+    "motive": [
+        "motile",
+        "votive"
+    ],
+    "mouser": [
+        "mousee"
+    ],
+    "mousee": [
+        "mouser"
+    ],
+    "moving": [
+        "loving",
+        "roving"
+    ],
+    "muddle": [
+        "cuddle",
+        "meddle",
+        "fuddle",
+        "huddle",
+        "middle",
+        "puddle"
+    ],
+    "muffin": [
+        "puffin"
+    ],
+    "muffle": [
+        "ruffle"
+    ],
+    "mugger": [
+        "bugger",
+        "rugger"
+    ],
+    "mullet": [
+        "mallet",
+        "bullet",
+        "gullet",
+        "millet"
+    ],
+    "mumble": [
+        "bumble",
+        "fumble",
+        "humble",
+        "jumble",
+        "tumble"
+    ],
+    "muppet": [
+        "moppet",
+        "puppet"
+    ],
+    "muscle": [
+        "muscly"
+    ],
+    "muscly": [
+        "muscle"
+    ],
+    "muslim": [
+        "muslin"
+    ],
+    "muslin": [
+        "muslim"
+    ],
+    "muster": [
+        "master",
+        "buster",
+        "duster",
+        "mister",
+        "luster",
+        "ouster",
+        "mutter"
+    ],
+    "mutter": [
+        "matter",
+        "butter",
+        "gutter",
+        "nutter",
+        "putter",
+        "muster"
+    ],
+    "mutton": [
+        "button"
+    ],
+    "muzzle": [
+        "guzzle",
+        "nuzzle",
+        "puzzle"
+    ],
+    "myopia": [
+        "myopic"
+    ],
+    "myopic": [
+        "myopia"
+    ],
+    "narrow": [
+        "barrow",
+        "harrow",
+        "marrow"
+    ],
+    "nation": [
+        "cation",
+        "notion",
+        "ration"
+    ],
+    "native": [
+        "dative"
+    ],
+    "nature": [
+        "mature"
+    ],
+    "naught": [
+        "caught",
+        "nought",
+        "taught"
+    ],
+    "nearby": [
+        "nearly"
+    ],
+    "nearly": [
+        "nearby",
+        "dearly",
+        "pearly",
+        "neatly",
+        "yearly"
+    ],
+    "neaten": [
+        "beaten"
+    ],
+    "neatly": [
+        "nearly"
+    ],
+    "needed": [
+        "seeded"
+    ],
+    "nestle": [
+        "pestle",
+        "nettle"
+    ],
+    "nether": [
+        "tether"
+    ],
+    "nettle": [
+        "fettle",
+        "kettle",
+        "mettle",
+        "settle",
+        "nestle"
+    ],
+    "nibble": [
+        "nimble"
+    ],
+    "nicely": [
+        "nicety"
+    ],
+    "nicety": [
+        "nicely",
+        "ninety"
+    ],
+    "nigger": [
+        "digger",
+        "jigger"
+    ],
+    "niggle": [
+        "giggle",
+        "jiggle",
+        "wiggle"
+    ],
+    "nights": [
+        "tights"
+    ],
+    "nimble": [
+        "nibble",
+        "nimbly"
+    ],
+    "nimbly": [
+        "nimble"
+    ],
+    "ninety": [
+        "nicety"
+    ],
+    "nipper": [
+        "kipper",
+        "zipper"
+    ],
+    "nipple": [
+        "ripple",
+        "tipple"
+    ],
+    "nodule": [
+        "module"
+    ],
+    "noodle": [
+        "doodle",
+        "poodle"
+    ],
+    "normal": [
+        "formal",
+        "norman"
+    ],
+    "norman": [
+        "normal"
+    ],
+    "notary": [
+        "rotary"
+    ],
+    "notice": [
+        "novice"
+    ],
+    "notion": [
+        "nation",
+        "lotion",
+        "motion",
+        "potion"
+    ],
+    "nougat": [
+        "nought"
+    ],
+    "nought": [
+        "naught",
+        "nougat",
+        "bought",
+        "sought"
+    ],
+    "novice": [
+        "notice"
+    ],
+    "nozzle": [
+        "nuzzle"
+    ],
+    "nudism": [
+        "nudist"
+    ],
+    "nudist": [
+        "nudism"
+    ],
+    "number": [
+        "lumber"
+    ],
+    "nutter": [
+        "butter",
+        "gutter",
+        "mutter",
+        "putter"
+    ],
+    "nuzzle": [
+        "guzzle",
+        "muzzle",
+        "nozzle",
+        "puzzle"
+    ],
+    "quaker": [
+        "quaver"
+    ],
+    "quaver": [
+        "quiver",
+        "quaker"
+    ],
+    "quiver": [
+        "quaver"
+    ],
+    "packed": [
+        "packer",
+        "packet"
+    ],
+    "packer": [
+        "backer",
+        "packed",
+        "pecker",
+        "hacker",
+        "picker",
+        "packet",
+        "pucker"
+    ],
+    "packet": [
+        "packed",
+        "picket",
+        "jacket",
+        "pocket",
+        "racket",
+        "packer"
+    ],
+    "paddle": [
+        "peddle",
+        "piddle",
+        "saddle",
+        "puddle",
+        "waddle"
+    ],
+    "palace": [
+        "palate"
+    ],
+    "palate": [
+        "palace"
+    ],
+    "paling": [
+        "paring",
+        "paving"
+    ],
+    "palish": [
+        "polish",
+        "parish"
+    ],
+    "pallet": [
+        "ballet",
+        "pellet",
+        "mallet",
+        "wallet"
+    ],
+    "paltry": [
+        "pantry",
+        "pastry"
+    ],
+    "pamper": [
+        "camper",
+        "damper",
+        "hamper",
+        "tamper",
+        "pauper"
+    ],
+    "pander": [
+        "gander",
+        "ponder",
+        "sander",
+        "wander"
+    ],
+    "pantry": [
+        "gantry",
+        "paltry",
+        "pastry"
+    ],
+    "papist": [
+        "rapist"
+    ],
+    "pardon": [
+        "parson"
+    ],
+    "parent": [
+        "patent"
+    ],
+    "pariah": [
+        "parish"
+    ],
+    "paring": [
+        "caring",
+        "daring",
+        "paling",
+        "raring",
+        "paving"
+    ],
+    "parish": [
+        "pariah",
+        "perish",
+        "garish",
+        "palish"
+    ],
+    "parity": [
+        "rarity",
+        "purity"
+    ],
+    "parlay": [
+        "parley"
+    ],
+    "parley": [
+        "parlay",
+        "barley"
+    ],
+    "parrot": [
+        "carrot"
+    ],
+    "parson": [
+        "pardon",
+        "person"
+    ],
+    "partly": [
+        "portly"
+    ],
+    "pastor": [
+        "castor"
+    ],
+    "pastry": [
+        "paltry",
+        "pantry"
+    ],
+    "patchy": [
+        "catchy"
+    ],
+    "patent": [
+        "latent",
+        "potent",
+        "parent"
+    ],
+    "pathos": [
+        "bathos"
+    ],
+    "patrol": [
+        "petrol",
+        "patron"
+    ],
+    "patron": [
+        "patrol",
+        "matron"
+    ],
+    "patter": [
+        "batter",
+        "hatter",
+        "latter",
+        "matter",
+        "potter",
+        "putter"
+    ],
+    "paunch": [
+        "haunch",
+        "launch"
+    ],
+    "pauper": [
+        "pamper"
+    ],
+    "paving": [
+        "caving",
+        "paling",
+        "raving",
+        "paring",
+        "saving"
+    ],
+    "payday": [
+        "mayday"
+    ],
+    "payoff": [
+        "layoff"
+    ],
+    "payout": [
+        "layout"
+    ],
+    "pearly": [
+        "dearly",
+        "nearly",
+        "yearly"
+    ],
+    "pecker": [
+        "packer",
+        "picker",
+        "pucker"
+    ],
+    "peddle": [
+        "paddle",
+        "piddle",
+        "meddle",
+        "puddle"
+    ],
+    "peeler": [
+        "feeler"
+    ],
+    "pellet": [
+        "pallet",
+        "pelmet"
+    ],
+    "pelmet": [
+        "helmet",
+        "pellet"
+    ],
+    "pepper": [
+        "popper"
+    ],
+    "perish": [
+        "parish"
+    ],
+    "permit": [
+        "hermit"
+    ],
+    "person": [
+        "parson"
+    ],
+    "pester": [
+        "fester",
+        "jester",
+        "poster",
+        "tester",
+        "pewter"
+    ],
+    "pestle": [
+        "nestle"
+    ],
+    "petard": [
+        "retard"
+    ],
+    "petrel": [
+        "petrol"
+    ],
+    "petrol": [
+        "patrol",
+        "petrel"
+    ],
+    "pewter": [
+        "pester"
+    ],
+    "phobia": [
+        "phobic"
+    ],
+    "phobic": [
+        "phobia"
+    ],
+    "phoney": [
+        "phooey"
+    ],
+    "phooey": [
+        "phoney"
+    ],
+    "photon": [
+        "proton"
+    ],
+    "picker": [
+        "packer",
+        "bicker",
+        "dicker",
+        "pecker",
+        "ticker",
+        "picket",
+        "pucker",
+        "wicker"
+    ],
+    "picket": [
+        "packet",
+        "pocket",
+        "picker",
+        "ticket",
+        "wicket"
+    ],
+    "pickle": [
+        "sickle",
+        "tickle"
+    ],
+    "piddle": [
+        "paddle",
+        "diddle",
+        "peddle",
+        "fiddle",
+        "middle",
+        "riddle",
+        "puddle"
+    ],
+    "pierce": [
+        "fierce"
+    ],
+    "piffle": [
+        "riffle"
+    ],
+    "pillow": [
+        "billow",
+        "willow"
+    ],
+    "pimple": [
+        "dimple",
+        "simple",
+        "pimply"
+    ],
+    "pimply": [
+        "pimple",
+        "simply"
+    ],
+    "pincer": [
+        "mincer"
+    ],
+    "pinion": [
+        "minion"
+    ],
+    "pissed": [
+        "pisser"
+    ],
+    "pisser": [
+        "pissed"
+    ],
+    "pistil": [
+        "distil",
+        "pistol"
+    ],
+    "pistol": [
+        "pistil",
+        "piston"
+    ],
+    "piston": [
+        "pistol"
+    ],
+    "pitted": [
+        "fitted",
+        "potted"
+    ],
+    "plague": [
+        "plaque"
+    ],
+    "plaque": [
+        "plague"
+    ],
+    "plated": [
+        "elated"
+    ],
+    "player": [
+        "prayer"
+    ],
+    "pledge": [
+        "sledge"
+    ],
+    "plight": [
+        "alight",
+        "blight",
+        "flight",
+        "slight"
+    ],
+    "plough": [
+        "slough"
+    ],
+    "plover": [
+        "clover"
+    ],
+    "plucky": [
+        "clucky"
+    ],
+    "pocket": [
+        "packet",
+        "docket",
+        "picket",
+        "locket",
+        "rocket",
+        "socket"
+    ],
+    "poison": [
+        "prison"
+    ],
+    "police": [
+        "polite",
+        "policy"
+    ],
+    "policy": [
+        "police"
+    ],
+    "polish": [
+        "palish"
+    ],
+    "polite": [
+        "police"
+    ],
+    "pommel": [
+        "pummel"
+    ],
+    "poncho": [
+        "honcho"
+    ],
+    "ponder": [
+        "pander",
+        "wonder",
+        "powder",
+        "yonder"
+    ],
+    "poodle": [
+        "doodle",
+        "noodle",
+        "pootle"
+    ],
+    "pootle": [
+        "poodle",
+        "tootle"
+    ],
+    "popper": [
+        "pepper",
+        "topper",
+        "poppet"
+    ],
+    "poppet": [
+        "moppet",
+        "popper",
+        "puppet"
+    ],
+    "porker": [
+        "corker",
+        "porter",
+        "worker"
+    ],
+    "portal": [
+        "mortal",
+        "postal"
+    ],
+    "porter": [
+        "porker",
+        "poster",
+        "potter"
+    ],
+    "portly": [
+        "partly"
+    ],
+    "postal": [
+        "portal"
+    ],
+    "posted": [
+        "poster",
+        "potted"
+    ],
+    "poster": [
+        "posted",
+        "pester",
+        "foster",
+        "roster",
+        "porter",
+        "potter"
+    ],
+    "potent": [
+        "patent"
+    ],
+    "potion": [
+        "lotion",
+        "motion",
+        "notion"
+    ],
+    "potted": [
+        "pitted",
+        "potter",
+        "posted"
+    ],
+    "potter": [
+        "patter",
+        "potted",
+        "jotter",
+        "rotter",
+        "porter",
+        "poster",
+        "totter",
+        "putter"
+    ],
+    "pounce": [
+        "bounce"
+    ],
+    "powder": [
+        "ponder"
+    ],
+    "prance": [
+        "prince",
+        "trance"
+    ],
+    "prayer": [
+        "player"
+    ],
+    "preach": [
+        "breach"
+    ],
+    "prince": [
+        "prance"
+    ],
+    "prison": [
+        "poison"
+    ],
+    "privet": [
+        "trivet"
+    ],
+    "propel": [
+        "proper"
+    ],
+    "proper": [
+        "groper",
+        "propel"
+    ],
+    "proton": [
+        "photon"
+    ],
+    "psyche": [
+        "psycho"
+    ],
+    "psycho": [
+        "psyche"
+    ],
+    "pucker": [
+        "packer",
+        "pecker",
+        "fucker",
+        "picker",
+        "sucker",
+        "tucker"
+    ],
+    "puddle": [
+        "paddle",
+        "cuddle",
+        "peddle",
+        "fuddle",
+        "huddle",
+        "piddle",
+        "muddle"
+    ],
+    "puffin": [
+        "muffin"
+    ],
+    "pummel": [
+        "pommel"
+    ],
+    "punter": [
+        "putter"
+    ],
+    "puppet": [
+        "muppet",
+        "poppet"
+    ],
+    "purely": [
+        "surely"
+    ],
+    "purify": [
+        "purity"
+    ],
+    "purist": [
+        "jurist",
+        "purism"
+    ],
+    "purism": [
+        "purist"
+    ],
+    "purity": [
+        "parity",
+        "purify"
+    ],
+    "purvey": [
+        "survey"
+    ],
+    "pushed": [
+        "bushed",
+        "hushed",
+        "rushed",
+        "pusher"
+    ],
+    "pusher": [
+        "pushed",
+        "gusher"
+    ],
+    "putter": [
+        "patter",
+        "butter",
+        "gutter",
+        "mutter",
+        "nutter",
+        "punter",
+        "potter"
+    ],
+    "puzzle": [
+        "guzzle",
+        "muzzle",
+        "nuzzle"
+    ],
+    "oafish": [
+        "offish"
+    ],
+    "object": [
+        "abject"
+    ],
+    "octane": [
+        "octave"
+    ],
+    "octave": [
+        "octane"
+    ],
+    "offish": [
+        "oafish"
+    ],
+    "oilcan": [
+        "oilman"
+    ],
+    "oilman": [
+        "oilcan"
+    ],
+    "onside": [
+        "inside"
+    ],
+    "onward": [
+        "inward"
+    ],
+    "orange": [
+        "grange"
+    ],
+    "ouster": [
+        "buster",
+        "duster",
+        "luster",
+        "muster",
+        "oyster"
+    ],
+    "outfit": [
+        "outwit"
+    ],
+    "outgun": [
+        "outrun"
+    ],
+    "outlaw": [
+        "outlay"
+    ],
+    "outlay": [
+        "outlaw"
+    ],
+    "outlet": [
+        "outset"
+    ],
+    "outrun": [
+        "outran",
+        "outgun"
+    ],
+    "outran": [
+        "outrun"
+    ],
+    "outset": [
+        "outlet"
+    ],
+    "outwit": [
+        "outfit"
+    ],
+    "oyster": [
+        "ouster"
+    ],
+    "tackle": [
+        "cackle",
+        "tickle"
+    ],
+    "tagger": [
+        "dagger"
+    ],
+    "tagine": [
+        "tajine"
+    ],
+    "tailor": [
+        "sailor"
+    ],
+    "tajine": [
+        "tagine"
+    ],
+    "talker": [
+        "tanker",
+        "walker"
+    ],
+    "tallow": [
+        "callow",
+        "fallow",
+        "sallow",
+        "wallow"
+    ],
+    "tamper": [
+        "camper",
+        "damper",
+        "temper",
+        "hamper",
+        "pamper"
+    ],
+    "tangle": [
+        "bangle",
+        "dangle",
+        "tingle",
+        "jangle",
+        "mangle",
+        "tangoe",
+        "wangle"
+    ],
+    "tangoe": [
+        "tangle"
+    ],
+    "tanker": [
+        "banker",
+        "canker",
+        "hanker",
+        "tinker",
+        "talker",
+        "tanner",
+        "wanker"
+    ],
+    "tanner": [
+        "banner",
+        "tenner",
+        "tanker",
+        "manner"
+    ],
+    "taoism": [
+        "daoism",
+        "maoism",
+        "taoist"
+    ],
+    "taoist": [
+        "taoism"
+    ],
+    "tartan": [
+        "tartar"
+    ],
+    "tartar": [
+        "tartan"
+    ],
+    "taster": [
+        "caster",
+        "easter",
+        "tester",
+        "master",
+        "waster"
+    ],
+    "tattle": [
+        "battle",
+        "cattle",
+        "rattle"
+    ],
+    "taught": [
+        "caught",
+        "naught"
+    ],
+    "tavern": [
+        "cavern"
+    ],
+    "tedium": [
+        "medium"
+    ],
+    "teeter": [
+        "tester"
+    ],
+    "teethe": [
+        "seethe"
+    ],
+    "teller": [
+        "feller",
+        "tiller",
+        "seller"
+    ],
+    "temper": [
+        "tamper"
+    ],
+    "tender": [
+        "bender",
+        "fender",
+        "gender",
+        "tinder",
+        "lender",
+        "tenner",
+        "render"
+    ],
+    "tenner": [
+        "tanner",
+        "tender"
+    ],
+    "tester": [
+        "taster",
+        "teeter",
+        "fester",
+        "jester",
+        "pester"
+    ],
+    "tetchy": [
+        "titchy"
+    ],
+    "tether": [
+        "nether"
+    ],
+    "thence": [
+        "whence"
+    ],
+    "thingy": [
+        "thinly"
+    ],
+    "thinly": [
+        "thingy"
+    ],
+    "thirty": [
+        "shirty"
+    ],
+    "though": [
+        "trough"
+    ],
+    "thrash": [
+        "thresh",
+        "thrush"
+    ],
+    "thread": [
+        "threat"
+    ],
+    "threat": [
+        "thread",
+        "throat"
+    ],
+    "thresh": [
+        "thrash",
+        "thrush"
+    ],
+    "thrice": [
+        "thrive"
+    ],
+    "thrill": [
+        "shrill"
+    ],
+    "thrive": [
+        "thrice",
+        "throve"
+    ],
+    "throat": [
+        "threat"
+    ],
+    "throne": [
+        "throng",
+        "throve"
+    ],
+    "throng": [
+        "throne"
+    ],
+    "throve": [
+        "thrive",
+        "throne"
+    ],
+    "thrush": [
+        "thrash",
+        "thresh",
+        "thrust"
+    ],
+    "thrust": [
+        "thrush"
+    ],
+    "ticker": [
+        "bicker",
+        "dicker",
+        "tinker",
+        "picker",
+        "ticket",
+        "tucker",
+        "wicker"
+    ],
+    "ticket": [
+        "picket",
+        "ticker",
+        "wicket"
+    ],
+    "tickle": [
+        "tackle",
+        "tinkle",
+        "pickle",
+        "sickle"
+    ],
+    "tidbit": [
+        "titbit"
+    ],
+    "tiddly": [
+        "diddly",
+        "fiddly"
+    ],
+    "tights": [
+        "nights"
+    ],
+    "tiller": [
+        "teller",
+        "filler",
+        "killer",
+        "miller"
+    ],
+    "timber": [
+        "limber"
+    ],
+    "timing": [
+        "tiring"
+    ],
+    "tinder": [
+        "binder",
+        "cinder",
+        "tender",
+        "finder",
+        "hinder",
+        "tinker",
+        "minder",
+        "winder"
+    ],
+    "tingle": [
+        "tangle",
+        "jingle",
+        "tinkle",
+        "mingle",
+        "single"
+    ],
+    "tinker": [
+        "tanker",
+        "ticker",
+        "tinder",
+        "sinker"
+    ],
+    "tinkle": [
+        "tickle",
+        "tingle",
+        "winkle"
+    ],
+    "tinned": [
+        "tinted"
+    ],
+    "tinted": [
+        "tinned"
+    ],
+    "tipple": [
+        "nipple",
+        "topple",
+        "ripple"
+    ],
+    "tiring": [
+        "airing",
+        "firing",
+        "hiring",
+        "timing",
+        "wiring"
+    ],
+    "titbit": [
+        "tidbit"
+    ],
+    "titchy": [
+        "bitchy",
+        "tetchy"
+    ],
+    "titter": [
+        "bitter",
+        "fitter",
+        "litter",
+        "totter",
+        "sitter",
+        "witter"
+    ],
+    "toffee": [
+        "coffee"
+    ],
+    "toggle": [
+        "boggle",
+        "goggle",
+        "joggle"
+    ],
+    "tootle": [
+        "pootle"
+    ],
+    "topper": [
+        "popper"
+    ],
+    "topple": [
+        "tipple"
+    ],
+    "torpid": [
+        "torrid"
+    ],
+    "torrid": [
+        "horrid",
+        "torpid"
+    ],
+    "tosser": [
+        "dosser"
+    ],
+    "totter": [
+        "titter",
+        "jotter",
+        "potter",
+        "rotter"
+    ],
+    "tottie": [
+        "hottie"
+    ],
+    "touche": [
+        "douche",
+        "touchy"
+    ],
+    "touchy": [
+        "touche",
+        "toughy"
+    ],
+    "toughy": [
+        "touchy",
+        "doughy"
+    ],
+    "tracer": [
+        "trader"
+    ],
+    "trader": [
+        "tracer"
+    ],
+    "trance": [
+        "prance"
+    ],
+    "travel": [
+        "gravel"
+    ],
+    "trench": [
+        "drench",
+        "french",
+        "wrench"
+    ],
+    "trifle": [
+        "triple"
+    ],
+    "triple": [
+        "trifle"
+    ],
+    "trivet": [
+        "privet"
+    ],
+    "trough": [
+        "though"
+    ],
+    "trudge": [
+        "grudge"
+    ],
+    "trusty": [
+        "crusty"
+    ],
+    "trying": [
+        "crying"
+    ],
+    "tubing": [
+        "tuning"
+    ],
+    "tucker": [
+        "fucker",
+        "ticker",
+        "pucker",
+        "sucker"
+    ],
+    "tumble": [
+        "bumble",
+        "fumble",
+        "humble",
+        "jumble",
+        "mumble"
+    ],
+    "tumour": [
+        "humour",
+        "rumour"
+    ],
+    "tuning": [
+        "tubing"
+    ],
+    "tunnel": [
+        "funnel",
+        "gunnel"
+    ],
+    "turbid": [
+        "turgid"
+    ],
+    "turgid": [
+        "turbid"
+    ],
+    "turtle": [
+        "hurtle"
+    ],
+    "twitch": [
+        "switch"
+    ],
+    "sachet": [
+        "cachet"
+    ],
+    "sadder": [
+        "ladder",
+        "sander",
+        "sadden"
+    ],
+    "sadden": [
+        "madden",
+        "sodden",
+        "sadder",
+        "sudden"
+    ],
+    "saddle": [
+        "paddle",
+        "waddle"
+    ],
+    "sadism": [
+        "sadist"
+    ],
+    "sadist": [
+        "sadism"
+    ],
+    "safely": [
+        "safety"
+    ],
+    "safety": [
+        "safely"
+    ],
+    "sagged": [
+        "jagged",
+        "ragged"
+    ],
+    "sailor": [
+        "tailor"
+    ],
+    "sallow": [
+        "callow",
+        "fallow",
+        "tallow",
+        "wallow"
+    ],
+    "salmon": [
+        "saloon"
+    ],
+    "saloon": [
+        "salmon"
+    ],
+    "salver": [
+        "silver"
+    ],
+    "sample": [
+        "simple"
+    ],
+    "sandal": [
+        "vandal"
+    ],
+    "sander": [
+        "sadder",
+        "gander",
+        "pander",
+        "wander"
+    ],
+    "sanity": [
+        "vanity"
+    ],
+    "sarong": [
+        "strong"
+    ],
+    "savage": [
+        "ravage"
+    ],
+    "saving": [
+        "caving",
+        "paving",
+        "raving",
+        "saying"
+    ],
+    "saying": [
+        "saving"
+    ],
+    "scanty": [
+        "shanty",
+        "scatty"
+    ],
+    "scared": [
+        "shared",
+        "scarey"
+    ],
+    "scarey": [
+        "scared"
+    ],
+    "scatty": [
+        "scanty"
+    ],
+    "schema": [
+        "scheme"
+    ],
+    "scheme": [
+        "schema"
+    ],
+    "schism": [
+        "schist"
+    ],
+    "schist": [
+        "schism"
+    ],
+    "scorch": [
+        "scotch"
+    ],
+    "scotch": [
+        "scorch"
+    ],
+    "scrawl": [
+        "sprawl"
+    ],
+    "scrimp": [
+        "shrimp",
+        "scrump"
+    ],
+    "scrump": [
+        "scrimp"
+    ],
+    "scurry": [
+        "slurry",
+        "scurvy"
+    ],
+    "scurvy": [
+        "scurry"
+    ],
+    "seabed": [
+        "sealed",
+        "seamed",
+        "seated"
+    ],
+    "sealed": [
+        "seabed",
+        "seamed",
+        "seated"
+    ],
+    "seaman": [
+        "shaman"
+    ],
+    "seamed": [
+        "seabed",
+        "sealed",
+        "seated"
+    ],
+    "seance": [
+        "stance"
+    ],
+    "search": [
+        "starch"
+    ],
+    "season": [
+        "reason"
+    ],
+    "seated": [
+        "seabed",
+        "heated",
+        "sealed",
+        "seamed",
+        "seater"
+    ],
+    "seater": [
+        "beater",
+        "seated",
+        "heater",
+        "skater",
+        "setter"
+    ],
+    "secede": [
+        "recede"
+    ],
+    "sector": [
+        "hector",
+        "rector",
+        "vector"
+    ],
+    "sedate": [
+        "senate"
+    ],
+    "seduce": [
+        "deduce",
+        "reduce"
+    ],
+    "seeded": [
+        "needed"
+    ],
+    "seethe": [
+        "teethe"
+    ],
+    "seller": [
+        "feller",
+        "teller"
+    ],
+    "senate": [
+        "sedate"
+    ],
+    "senior": [
+        "sensor"
+    ],
+    "sensor": [
+        "censor",
+        "senior"
+    ],
+    "serial": [
+        "aerial"
+    ],
+    "settee": [
+        "settle",
+        "setter",
+        "suttee"
+    ],
+    "setter": [
+        "seater",
+        "better",
+        "settee",
+        "fetter",
+        "sitter",
+        "letter"
+    ],
+    "settle": [
+        "settee",
+        "fettle",
+        "kettle",
+        "mettle",
+        "nettle"
+    ],
+    "severe": [
+        "revere"
+    ],
+    "sexism": [
+        "sexist"
+    ],
+    "sexist": [
+        "sexism"
+    ],
+    "shaker": [
+        "staker",
+        "shaver"
+    ],
+    "shalom": [
+        "slalom"
+    ],
+    "shaman": [
+        "seaman"
+    ],
+    "shammy": [
+        "shimmy"
+    ],
+    "shandy": [
+        "shanty"
+    ],
+    "shanty": [
+        "chanty",
+        "scanty",
+        "shandy"
+    ],
+    "shaped": [
+        "shared"
+    ],
+    "shared": [
+        "scared",
+        "shaped"
+    ],
+    "shaven": [
+        "shaver"
+    ],
+    "shaver": [
+        "shiver",
+        "shaker",
+        "shaven"
+    ],
+    "sherry": [
+        "cherry"
+    ],
+    "shifty": [
+        "shirty",
+        "shitty",
+        "shufty"
+    ],
+    "shimmy": [
+        "shammy"
+    ],
+    "shiner": [
+        "shiver",
+        "whiner"
+    ],
+    "shinny": [
+        "skinny",
+        "whinny"
+    ],
+    "shirty": [
+        "shifty",
+        "thirty",
+        "shitty"
+    ],
+    "shitty": [
+        "shifty",
+        "shirty"
+    ],
+    "shiver": [
+        "shaver",
+        "skiver",
+        "sliver",
+        "shiner"
+    ],
+    "shorts": [
+        "sports"
+    ],
+    "shrank": [
+        "shrink",
+        "shrunk"
+    ],
+    "shriek": [
+        "shrink"
+    ],
+    "shrill": [
+        "thrill"
+    ],
+    "shrimp": [
+        "scrimp"
+    ],
+    "shrine": [
+        "shrink"
+    ],
+    "shrink": [
+        "shrank",
+        "shriek",
+        "shrine",
+        "shrunk"
+    ],
+    "shrunk": [
+        "shrank",
+        "shrink"
+    ],
+    "shufti": [
+        "shufty"
+    ],
+    "shufty": [
+        "shifty",
+        "shufti"
+    ],
+    "sicken": [
+        "silken"
+    ],
+    "sickie": [
+        "bickie",
+        "sickle"
+    ],
+    "sickle": [
+        "sickie",
+        "pickle",
+        "tickle",
+        "suckle",
+        "sickly"
+    ],
+    "sickly": [
+        "sickle"
+    ],
+    "siding": [
+        "hiding",
+        "riding"
+    ],
+    "siesta": [
+        "fiesta"
+    ],
+    "sifter": [
+        "sister",
+        "sitter"
+    ],
+    "silken": [
+        "sicken"
+    ],
+    "silver": [
+        "salver"
+    ],
+    "simile": [
+        "simple"
+    ],
+    "simmer": [
+        "simper",
+        "summer",
+        "zimmer"
+    ],
+    "simper": [
+        "simmer"
+    ],
+    "simple": [
+        "sample",
+        "dimple",
+        "simile",
+        "pimple",
+        "simply"
+    ],
+    "simply": [
+        "simple",
+        "pimply"
+    ],
+    "singer": [
+        "finger",
+        "ginger",
+        "sinker",
+        "linger",
+        "minger",
+        "winger"
+    ],
+    "single": [
+        "jingle",
+        "mingle",
+        "tingle",
+        "singly"
+    ],
+    "singly": [
+        "single"
+    ],
+    "sinker": [
+        "singer",
+        "tinker"
+    ],
+    "siphon": [
+        "syphon"
+    ],
+    "sister": [
+        "sifter",
+        "mister",
+        "sitter"
+    ],
+    "sitter": [
+        "bitter",
+        "setter",
+        "fitter",
+        "sifter",
+        "litter",
+        "sister",
+        "titter",
+        "witter"
+    ],
+    "sizzle": [
+        "fizzle"
+    ],
+    "skanky": [
+        "swanky"
+    ],
+    "skater": [
+        "seater"
+    ],
+    "skinny": [
+        "shinny"
+    ],
+    "skiver": [
+        "shiver",
+        "sliver"
+    ],
+    "slalom": [
+        "shalom"
+    ],
+    "sleaze": [
+        "sleazy"
+    ],
+    "sleazy": [
+        "sleaze"
+    ],
+    "sledge": [
+        "pledge",
+        "sludge"
+    ],
+    "sleepy": [
+        "sleety"
+    ],
+    "sleety": [
+        "sleepy"
+    ],
+    "sliced": [
+        "slicer"
+    ],
+    "slicer": [
+        "sliced",
+        "sliver"
+    ],
+    "slight": [
+        "alight",
+        "blight",
+        "flight",
+        "plight"
+    ],
+    "slippy": [
+        "sloppy"
+    ],
+    "sliver": [
+        "slicer",
+        "shiver",
+        "skiver"
+    ],
+    "sloppy": [
+        "floppy",
+        "slippy"
+    ],
+    "slouch": [
+        "slough"
+    ],
+    "slough": [
+        "slouch",
+        "plough"
+    ],
+    "sludge": [
+        "sledge",
+        "smudge",
+        "sludgy"
+    ],
+    "sludgy": [
+        "sludge",
+        "smudgy"
+    ],
+    "slurry": [
+        "scurry",
+        "flurry"
+    ],
+    "slutty": [
+        "smutty"
+    ],
+    "smidge": [
+        "smudge"
+    ],
+    "smiley": [
+        "smiler"
+    ],
+    "smiler": [
+        "smiley"
+    ],
+    "smoked": [
+        "smoker",
+        "smokey"
+    ],
+    "smoker": [
+        "smoked",
+        "stoker",
+        "smokey"
+    ],
+    "smokey": [
+        "smoked",
+        "smoker"
+    ],
+    "smooch": [
+        "smooth"
+    ],
+    "smooth": [
+        "smooch"
+    ],
+    "smudge": [
+        "smidge",
+        "sludge",
+        "smudgy"
+    ],
+    "smudgy": [
+        "smudge",
+        "sludgy"
+    ],
+    "smutty": [
+        "slutty"
+    ],
+    "snarky": [
+        "sparky"
+    ],
+    "snatch": [
+        "snitch",
+        "swatch"
+    ],
+    "sniffy": [
+        "spiffy"
+    ],
+    "snitch": [
+        "snatch",
+        "stitch",
+        "switch"
+    ],
+    "snivel": [
+        "swivel"
+    ],
+    "snooty": [
+        "snotty"
+    ],
+    "snotty": [
+        "knotty",
+        "snooty",
+        "spotty"
+    ],
+    "socket": [
+        "docket",
+        "locket",
+        "pocket",
+        "rocket"
+    ],
+    "sodden": [
+        "sadden",
+        "sudden"
+    ],
+    "softie": [
+        "sortie"
+    ],
+    "solder": [
+        "folder",
+        "holder",
+        "molder"
+    ],
+    "solely": [
+        "sorely"
+    ],
+    "somber": [
+        "bomber"
+    ],
+    "sonnet": [
+        "bonnet"
+    ],
+    "sorely": [
+        "solely",
+        "surely"
+    ],
+    "sorrow": [
+        "borrow",
+        "morrow"
+    ],
+    "sortie": [
+        "softie"
+    ],
+    "sought": [
+        "bought",
+        "nought"
+    ],
+    "sparky": [
+        "snarky"
+    ],
+    "spiffy": [
+        "sniffy"
+    ],
+    "spinal": [
+        "spiral"
+    ],
+    "spiral": [
+        "spinal"
+    ],
+    "splash": [
+        "splosh"
+    ],
+    "splint": [
+        "sprint"
+    ],
+    "splosh": [
+        "splash"
+    ],
+    "sponge": [
+        "spongy"
+    ],
+    "spongy": [
+        "sponge"
+    ],
+    "sports": [
+        "shorts",
+        "sporty"
+    ],
+    "sporty": [
+        "sports",
+        "spotty"
+    ],
+    "spotty": [
+        "snotty",
+        "sporty"
+    ],
+    "sprain": [
+        "strain"
+    ],
+    "sprang": [
+        "spring",
+        "sprung"
+    ],
+    "sprawl": [
+        "scrawl"
+    ],
+    "spring": [
+        "sprang",
+        "string",
+        "sprint",
+        "sprung"
+    ],
+    "sprint": [
+        "spring",
+        "splint"
+    ],
+    "sprite": [
+        "spritz"
+    ],
+    "spritz": [
+        "sprite"
+    ],
+    "sprung": [
+        "sprang",
+        "spring",
+        "strung"
+    ],
+    "square": [
+        "squire"
+    ],
+    "squash": [
+        "squish"
+    ],
+    "squeak": [
+        "squeal"
+    ],
+    "squeal": [
+        "squeak"
+    ],
+    "squire": [
+        "square",
+        "squirm"
+    ],
+    "squirm": [
+        "squire"
+    ],
+    "squish": [
+        "squash"
+    ],
+    "stable": [
+        "staple"
+    ],
+    "stager": [
+        "staker",
+        "stayer",
+        "stagey"
+    ],
+    "stagey": [
+        "stager"
+    ],
+    "staker": [
+        "stager",
+        "shaker",
+        "stoker",
+        "stayer"
+    ],
+    "stance": [
+        "seance",
+        "stanch"
+    ],
+    "stanch": [
+        "stench",
+        "stance",
+        "starch"
+    ],
+    "stapes": [
+        "staves"
+    ],
+    "staple": [
+        "stable"
+    ],
+    "starch": [
+        "search",
+        "stanch"
+    ],
+    "statue": [
+        "status"
+    ],
+    "status": [
+        "statue"
+    ],
+    "staves": [
+        "stapes"
+    ],
+    "stayer": [
+        "stager",
+        "staker"
+    ],
+    "steady": [
+        "steamy"
+    ],
+    "steamy": [
+        "steady"
+    ],
+    "stench": [
+        "stanch"
+    ],
+    "sterny": [
+        "sterna"
+    ],
+    "sterna": [
+        "sterny"
+    ],
+    "sticky": [
+        "stocky"
+    ],
+    "stitch": [
+        "snitch",
+        "switch"
+    ],
+    "stocky": [
+        "sticky"
+    ],
+    "stodge": [
+        "stooge",
+        "stodgy"
+    ],
+    "stodgy": [
+        "stodge"
+    ],
+    "stoker": [
+        "staker",
+        "smoker"
+    ],
+    "stooge": [
+        "stodge"
+    ],
+    "storey": [
+        "stormy"
+    ],
+    "stormy": [
+        "storey"
+    ],
+    "strafe": [
+        "strife"
+    ],
+    "strain": [
+        "sprain",
+        "strait"
+    ],
+    "strait": [
+        "strain"
+    ],
+    "stride": [
+        "strife",
+        "strike",
+        "strode",
+        "stripe",
+        "strive"
+    ],
+    "strife": [
+        "strafe",
+        "stride",
+        "strike",
+        "stripe",
+        "strive"
+    ],
+    "strike": [
+        "stride",
+        "strife",
+        "stroke",
+        "stripe",
+        "strive"
+    ],
+    "string": [
+        "strong",
+        "spring",
+        "strung"
+    ],
+    "stripe": [
+        "stride",
+        "strife",
+        "strike",
+        "strive",
+        "stripy"
+    ],
+    "stripy": [
+        "stripe"
+    ],
+    "strive": [
+        "stride",
+        "strife",
+        "strike",
+        "strove",
+        "stripe"
+    ],
+    "strobe": [
+        "strode",
+        "stroke",
+        "strove"
+    ],
+    "strode": [
+        "strobe",
+        "stride",
+        "stroke",
+        "strove"
+    ],
+    "stroke": [
+        "strobe",
+        "strode",
+        "strike",
+        "strove"
+    ],
+    "strong": [
+        "sarong",
+        "string",
+        "strung"
+    ],
+    "strove": [
+        "strobe",
+        "strode",
+        "strive",
+        "stroke"
+    ],
+    "strung": [
+        "string",
+        "strong",
+        "sprung"
+    ],
+    "sublet": [
+        "subset"
+    ],
+    "submit": [
+        "summit"
+    ],
+    "subset": [
+        "sublet",
+        "sunset"
+    ],
+    "subtle": [
+        "subtly"
+    ],
+    "subtly": [
+        "subtle"
+    ],
+    "sucker": [
+        "fucker",
+        "pucker",
+        "tucker"
+    ],
+    "suckle": [
+        "buckle",
+        "sickle"
+    ],
+    "sudden": [
+        "sadden",
+        "sodden"
+    ],
+    "suffer": [
+        "buffer",
+        "duffer",
+        "surfer"
+    ],
+    "sultan": [
+        "suntan"
+    ],
+    "summat": [
+        "summit"
+    ],
+    "summer": [
+        "bummer",
+        "hummer",
+        "simmer"
+    ],
+    "summit": [
+        "summat",
+        "submit"
+    ],
+    "sundae": [
+        "sunday"
+    ],
+    "sunday": [
+        "sundae",
+        "sunray",
+        "sundry"
+    ],
+    "sundry": [
+        "sunday"
+    ],
+    "sunray": [
+        "sunday"
+    ],
+    "sunset": [
+        "subset"
+    ],
+    "suntan": [
+        "sultan"
+    ],
+    "supple": [
+        "supply"
+    ],
+    "supply": [
+        "supple"
+    ],
+    "surely": [
+        "sorely",
+        "purely",
+        "surety"
+    ],
+    "surety": [
+        "surely"
+    ],
+    "surfer": [
+        "suffer"
+    ],
+    "survey": [
+        "purvey"
+    ],
+    "suture": [
+        "future"
+    ],
+    "swanky": [
+        "skanky"
+    ],
+    "swatch": [
+        "switch",
+        "snatch"
+    ],
+    "switch": [
+        "swatch",
+        "snitch",
+        "twitch",
+        "stitch"
+    ],
+    "swivel": [
+        "snivel"
+    ],
+    "syphon": [
+        "siphon"
+    ],
+    "suttee": [
+        "settee"
+    ],
+    "rabble": [
+        "babble",
+        "dabble",
+        "gabble",
+        "ramble",
+        "rubble"
+    ],
+    "racial": [
+        "radial",
+        "facial"
+    ],
+    "racing": [
+        "facing",
+        "raging",
+        "raring",
+        "rating",
+        "raving"
+    ],
+    "racism": [
+        "racist"
+    ],
+    "racist": [
+        "racism",
+        "rapist"
+    ],
+    "racket": [
+        "jacket",
+        "rocket",
+        "packet"
+    ],
+    "radial": [
+        "racial"
+    ],
+    "radish": [
+        "rakish",
+        "ravish"
+    ],
+    "radium": [
+        "radius"
+    ],
+    "radius": [
+        "radium"
+    ],
+    "raffle": [
+        "baffle",
+        "riffle",
+        "ruffle",
+        "waffle"
+    ],
+    "ragbag": [
+        "ratbag",
+        "ragtag"
+    ],
+    "ragged": [
+        "jagged",
+        "sagged"
+    ],
+    "raging": [
+        "racing",
+        "raring",
+        "rating",
+        "raving"
+    ],
+    "ragtag": [
+        "ragbag"
+    ],
+    "rakish": [
+        "radish",
+        "ravish"
+    ],
+    "ramble": [
+        "rabble",
+        "gamble"
+    ],
+    "random": [
+        "ransom"
+    ],
+    "ranger": [
+        "banger",
+        "danger",
+        "hanger",
+        "manger"
+    ],
+    "ransom": [
+        "random"
+    ],
+    "rapier": [
+        "rapper"
+    ],
+    "rapist": [
+        "racist",
+        "papist"
+    ],
+    "rappel": [
+        "rapper"
+    ],
+    "rapper": [
+        "dapper",
+        "rapier",
+        "rappel",
+        "zapper"
+    ],
+    "rarely": [
+        "barely"
+    ],
+    "raring": [
+        "caring",
+        "racing",
+        "daring",
+        "raging",
+        "paring",
+        "rating",
+        "raving"
+    ],
+    "rarity": [
+        "parity"
+    ],
+    "rasher": [
+        "masher",
+        "rather",
+        "washer"
+    ],
+    "ratbag": [
+        "ragbag"
+    ],
+    "rather": [
+        "bather",
+        "father",
+        "gather",
+        "lather",
+        "rasher"
+    ],
+    "rating": [
+        "racing",
+        "raging",
+        "raring",
+        "raving"
+    ],
+    "ration": [
+        "cation",
+        "nation"
+    ],
+    "rattle": [
+        "battle",
+        "cattle",
+        "tattle"
+    ],
+    "ravage": [
+        "savage"
+    ],
+    "ravine": [
+        "raving"
+    ],
+    "raving": [
+        "caving",
+        "racing",
+        "ravine",
+        "raging",
+        "roving",
+        "paving",
+        "raring",
+        "saving",
+        "rating"
+    ],
+    "ravish": [
+        "radish",
+        "rakish",
+        "lavish"
+    ],
+    "razzle": [
+        "dazzle"
+    ],
+    "reader": [
+        "redder",
+        "header",
+        "leader",
+        "reamer",
+        "render"
+    ],
+    "really": [
+        "realty"
+    ],
+    "realty": [
+        "really"
+    ],
+    "reamer": [
+        "reader"
+    ],
+    "reason": [
+        "season"
+    ],
+    "rebate": [
+        "debate",
+        "relate"
+    ],
+    "recant": [
+        "decant",
+        "recent"
+    ],
+    "recede": [
+        "secede"
+    ],
+    "recent": [
+        "recant",
+        "decent",
+        "regent",
+        "relent",
+        "repent",
+        "resent"
+    ],
+    "recipe": [
+        "recite"
+    ],
+    "recite": [
+        "recipe"
+    ],
+    "reckon": [
+        "beckon"
+    ],
+    "record": [
+        "reword"
+    ],
+    "rector": [
+        "hector",
+        "sector",
+        "vector"
+    ],
+    "redder": [
+        "reader",
+        "render",
+        "redden",
+        "rudder"
+    ],
+    "redden": [
+        "ridden",
+        "redder"
+    ],
+    "reduce": [
+        "deduce",
+        "seduce"
+    ],
+    "refine": [
+        "define"
+    ],
+    "reform": [
+        "deform"
+    ],
+    "refuge": [
+        "refuse",
+        "refute"
+    ],
+    "refuse": [
+        "defuse",
+        "refuge",
+        "refute"
+    ],
+    "refute": [
+        "refuge",
+        "repute",
+        "refuse"
+    ],
+    "regain": [
+        "remain",
+        "retain"
+    ],
+    "regard": [
+        "retard",
+        "reward"
+    ],
+    "regent": [
+        "recent",
+        "relent",
+        "repent",
+        "resent"
+    ],
+    "region": [
+        "legion"
+    ],
+    "relate": [
+        "rebate"
+    ],
+    "relent": [
+        "recent",
+        "regent",
+        "repent",
+        "resent"
+    ],
+    "relief": [
+        "belief"
+    ],
+    "relive": [
+        "revive"
+    ],
+    "remade": [
+        "remake"
+    ],
+    "remain": [
+        "regain",
+        "retain"
+    ],
+    "remake": [
+        "remade",
+        "retake"
+    ],
+    "remand": [
+        "demand",
+        "remind"
+    ],
+    "remind": [
+        "remand",
+        "rewind"
+    ],
+    "remote": [
+        "remove"
+    ],
+    "remove": [
+        "remote"
+    ],
+    "render": [
+        "reader",
+        "bender",
+        "redder",
+        "fender",
+        "gender",
+        "lender",
+        "tender",
+        "renter"
+    ],
+    "rental": [
+        "dental",
+        "mental"
+    ],
+    "rented": [
+        "renter",
+        "rested"
+    ],
+    "renter": [
+        "center",
+        "render",
+        "rented"
+    ],
+    "repaid": [
+        "repair"
+    ],
+    "repair": [
+        "repaid"
+    ],
+    "repeal": [
+        "repeat",
+        "reveal"
+    ],
+    "repeat": [
+        "repeal",
+        "repent"
+    ],
+    "repent": [
+        "repeat",
+        "recent",
+        "regent",
+        "relent",
+        "resent"
+    ],
+    "report": [
+        "deport",
+        "resort",
+        "retort"
+    ],
+    "repose": [
+        "depose"
+    ],
+    "repute": [
+        "depute",
+        "refute"
+    ],
+    "resent": [
+        "recent",
+        "regent",
+        "relent",
+        "repent"
+    ],
+    "reside": [
+        "beside"
+    ],
+    "resign": [
+        "design"
+    ],
+    "resort": [
+        "report",
+        "retort"
+    ],
+    "rested": [
+        "rented"
+    ],
+    "retail": [
+        "detail",
+        "retain"
+    ],
+    "retain": [
+        "detain",
+        "regain",
+        "retail",
+        "remain"
+    ],
+    "retake": [
+        "remake"
+    ],
+    "retard": [
+        "regard",
+        "petard",
+        "reward"
+    ],
+    "retire": [
+        "rewire"
+    ],
+    "retort": [
+        "report",
+        "resort"
+    ],
+    "reveal": [
+        "repeal"
+    ],
+    "revere": [
+        "severe",
+        "revert"
+    ],
+    "revert": [
+        "revere"
+    ],
+    "revile": [
+        "revise",
+        "revive"
+    ],
+    "revise": [
+        "devise",
+        "revile",
+        "revive"
+    ],
+    "revive": [
+        "relive",
+        "revile",
+        "revise"
+    ],
+    "reward": [
+        "regard",
+        "reword",
+        "retard"
+    ],
+    "rewind": [
+        "remind"
+    ],
+    "rewire": [
+        "retire"
+    ],
+    "reword": [
+        "reward",
+        "record",
+        "rework"
+    ],
+    "rework": [
+        "reword"
+    ],
+    "ribbon": [
+        "gibbon"
+    ],
+    "ridden": [
+        "redden"
+    ],
+    "riddle": [
+        "diddle",
+        "fiddle",
+        "middle",
+        "piddle"
+    ],
+    "riding": [
+        "hiding",
+        "siding",
+        "rising"
+    ],
+    "riffle": [
+        "raffle",
+        "piffle",
+        "ruffle"
+    ],
+    "rigour": [
+        "vigour"
+    ],
+    "ripple": [
+        "nipple",
+        "tipple"
+    ],
+    "rising": [
+        "riding"
+    ],
+    "risque": [
+        "bisque"
+    ],
+    "robber": [
+        "cobber",
+        "dobber",
+        "rubber"
+    ],
+    "rocker": [
+        "docker",
+        "locker",
+        "rocket"
+    ],
+    "rocket": [
+        "racket",
+        "docket",
+        "locket",
+        "pocket",
+        "rocker",
+        "socket"
+    ],
+    "roller": [
+        "holler"
+    ],
+    "roofer": [
+        "roomer",
+        "rooser"
+    ],
+    "rookie": [
+        "bookie",
+        "cookie"
+    ],
+    "roomer": [
+        "roofer",
+        "rooser"
+    ],
+    "rooser": [
+        "roofer",
+        "roomer"
+    ],
+    "rosary": [
+        "rotary"
+    ],
+    "roster": [
+        "foster",
+        "poster",
+        "rotter"
+    ],
+    "rotary": [
+        "notary",
+        "rosary"
+    ],
+    "rotten": [
+        "gotten",
+        "rotter"
+    ],
+    "rotter": [
+        "jotter",
+        "rotten",
+        "potter",
+        "roster",
+        "totter"
+    ],
+    "rouble": [
+        "double"
+    ],
+    "roving": [
+        "raving",
+        "loving",
+        "moving"
+    ],
+    "rubber": [
+        "robber"
+    ],
+    "rubble": [
+        "rabble",
+        "bubble"
+    ],
+    "ruched": [
+        "rushed"
+    ],
+    "rudder": [
+        "redder",
+        "judder"
+    ],
+    "ruffle": [
+        "raffle",
+        "riffle",
+        "muffle"
+    ],
+    "rugger": [
+        "bugger",
+        "mugger"
+    ],
+    "rumour": [
+        "humour",
+        "tumour"
+    ],
+    "runner": [
+        "gunner"
+    ],
+    "rushed": [
+        "bushed",
+        "ruched",
+        "hushed",
+        "pushed"
+    ],
+    "russet": [
+        "gusset"
+    ],
+    "rustle": [
+        "bustle",
+        "hustle"
+    ],
+    "rutted": [
+        "gutted"
+    ],
+    "vainly": [
+        "mainly"
+    ],
+    "valley": [
+        "volley"
+    ],
+    "valour": [
+        "velour",
+        "vapour"
+    ],
+    "valued": [
+        "valuer"
+    ],
+    "valuer": [
+        "valued"
+    ],
+    "vandal": [
+        "sandal"
+    ],
+    "vanish": [
+        "banish",
+        "danish"
+    ],
+    "vanity": [
+        "sanity"
+    ],
+    "vapour": [
+        "valour"
+    ],
+    "vastly": [
+        "lastly"
+    ],
+    "vector": [
+        "hector",
+        "victor",
+        "rector",
+        "sector"
+    ],
+    "veiled": [
+        "veined"
+    ],
+    "veined": [
+        "veiled"
+    ],
+    "velour": [
+        "valour"
+    ],
+    "venial": [
+        "denial",
+        "genial",
+        "menial"
+    ],
+    "verbal": [
+        "herbal",
+        "vernal"
+    ],
+    "verger": [
+        "merger"
+    ],
+    "verify": [
+        "verily",
+        "verity"
+    ],
+    "verily": [
+        "verify",
+        "verity"
+    ],
+    "verity": [
+        "verify",
+        "verily"
+    ],
+    "vernal": [
+        "verbal"
+    ],
+    "vertex": [
+        "vortex"
+    ],
+    "viable": [
+        "liable",
+        "viably"
+    ],
+    "viably": [
+        "viable"
+    ],
+    "victor": [
+        "vector"
+    ],
+    "vigour": [
+        "rigour"
+    ],
+    "viking": [
+        "hiking",
+        "liking"
+    ],
+    "volley": [
+        "valley"
+    ],
+    "vortex": [
+        "cortex",
+        "vertex"
+    ],
+    "voting": [
+        "doting"
+    ],
+    "votive": [
+        "motive"
+    ],
+    "vulgar": [
+        "bulgar"
+    ],
+    "umpire": [
+        "empire"
+    ],
+    "unable": [
+        "enable",
+        "usable"
+    ],
+    "unborn": [
+        "inborn"
+    ],
+    "unease": [
+        "uneasy"
+    ],
+    "uneasy": [
+        "unease"
+    ],
+    "unfold": [
+        "enfold",
+        "unsold",
+        "untold"
+    ],
+    "unkind": [
+        "unwind"
+    ],
+    "unload": [
+        "upload"
+    ],
+    "unpack": [
+        "unpick"
+    ],
+    "unpaid": [
+        "unsaid"
+    ],
+    "unpick": [
+        "unpack"
+    ],
+    "unsaid": [
+        "unpaid"
+    ],
+    "unsold": [
+        "unfold",
+        "untold"
+    ],
+    "unsure": [
+        "ensure",
+        "insure"
+    ],
+    "untold": [
+        "unfold",
+        "unsold"
+    ],
+    "unwind": [
+        "unkind",
+        "upwind"
+    ],
+    "upheld": [
+        "uphold"
+    ],
+    "uphold": [
+        "upheld"
+    ],
+    "upload": [
+        "unload"
+    ],
+    "upwind": [
+        "unwind"
+    ],
+    "usable": [
+        "unable"
+    ],
+    "waddle": [
+        "paddle",
+        "saddle"
+    ],
+    "waffle": [
+        "baffle",
+        "raffle"
+    ],
+    "waggle": [
+        "gaggle",
+        "haggle",
+        "wiggle",
+        "wangle"
+    ],
+    "waiter": [
+        "writer",
+        "waster",
+        "waiver"
+    ],
+    "waiver": [
+        "waiter"
+    ],
+    "walker": [
+        "wanker",
+        "talker"
+    ],
+    "wallah": [
+        "hallah"
+    ],
+    "walled": [
+        "wallet"
+    ],
+    "wallet": [
+        "ballet",
+        "walled",
+        "mallet",
+        "pallet"
+    ],
+    "wallop": [
+        "gallop",
+        "wallow"
+    ],
+    "wallow": [
+        "callow",
+        "fallow",
+        "willow",
+        "wallop",
+        "sallow",
+        "tallow"
+    ],
+    "wander": [
+        "gander",
+        "winder",
+        "wanker",
+        "wonder",
+        "pander",
+        "warder",
+        "sander"
+    ],
+    "wangle": [
+        "bangle",
+        "dangle",
+        "waggle",
+        "jangle",
+        "mangle",
+        "tangle"
+    ],
+    "wanker": [
+        "banker",
+        "canker",
+        "wander",
+        "hanker",
+        "walker",
+        "tanker"
+    ],
+    "wanted": [
+        "wonted",
+        "wasted"
+    ],
+    "wanton": [
+        "canton"
+    ],
+    "warble": [
+        "marble"
+    ],
+    "warden": [
+        "garden",
+        "harden",
+        "warren",
+        "warder"
+    ],
+    "warder": [
+        "larder",
+        "wander",
+        "warden"
+    ],
+    "warren": [
+        "barren",
+        "warden"
+    ],
+    "washer": [
+        "masher",
+        "rasher",
+        "waster"
+    ],
+    "wasted": [
+        "wanted",
+        "waster"
+    ],
+    "waster": [
+        "caster",
+        "wasted",
+        "easter",
+        "washer",
+        "waiter",
+        "master",
+        "taster"
+    ],
+    "watery": [
+        "eatery"
+    ],
+    "wealth": [
+        "health"
+    ],
+    "wearer": [
+        "hearer"
+    ],
+    "weekly": [
+        "meekly"
+    ],
+    "weight": [
+        "height"
+    ],
+    "welder": [
+        "welter"
+    ],
+    "welter": [
+        "welder"
+    ],
+    "whence": [
+        "thence"
+    ],
+    "whiner": [
+        "shiner"
+    ],
+    "whinny": [
+        "shinny"
+    ],
+    "whiten": [
+        "whitey"
+    ],
+    "whitey": [
+        "whiten"
+    ],
+    "wholly": [
+        "woolly"
+    ],
+    "wicked": [
+        "wicker",
+        "wicket"
+    ],
+    "wicker": [
+        "bicker",
+        "dicker",
+        "wicked",
+        "picker",
+        "ticker",
+        "wicket"
+    ],
+    "wicket": [
+        "wicked",
+        "picket",
+        "wicker",
+        "ticket"
+    ],
+    "widget": [
+        "fidget",
+        "midget"
+    ],
+    "wiener": [
+        "winner"
+    ],
+    "wifely": [
+        "wisely"
+    ],
+    "wiggle": [
+        "waggle",
+        "giggle",
+        "jiggle",
+        "niggle",
+        "wiggly"
+    ],
+    "wiggly": [
+        "wiggle",
+        "giggly"
+    ],
+    "wildly": [
+        "mildly"
+    ],
+    "willow": [
+        "wallow",
+        "billow",
+        "pillow"
+    ],
+    "winded": [
+        "winged",
+        "winder"
+    ],
+    "winder": [
+        "wander",
+        "binder",
+        "cinder",
+        "winded",
+        "finder",
+        "winger",
+        "hinder",
+        "minder",
+        "winner",
+        "wonder",
+        "tinder",
+        "winter"
+    ],
+    "window": [
+        "winnow"
+    ],
+    "winged": [
+        "winded",
+        "hinged",
+        "winger"
+    ],
+    "winger": [
+        "winder",
+        "winged",
+        "finger",
+        "ginger",
+        "linger",
+        "minger",
+        "winner",
+        "singer",
+        "winter"
+    ],
+    "winkle": [
+        "tinkle"
+    ],
+    "winner": [
+        "dinner",
+        "winder",
+        "wiener",
+        "winger",
+        "winter"
+    ],
+    "winnow": [
+        "window",
+        "minnow"
+    ],
+    "winter": [
+        "winder",
+        "winger",
+        "winner",
+        "witter"
+    ],
+    "wiring": [
+        "airing",
+        "firing",
+        "hiring",
+        "tiring"
+    ],
+    "wisely": [
+        "wifely"
+    ],
+    "wither": [
+        "dither",
+        "either",
+        "hither",
+        "witter",
+        "zither"
+    ],
+    "witter": [
+        "bitter",
+        "fitter",
+        "wither",
+        "litter",
+        "winter",
+        "sitter",
+        "titter"
+    ],
+    "wizard": [
+        "lizard"
+    ],
+    "wobble": [
+        "bobble",
+        "cobble",
+        "gobble",
+        "hobble",
+        "wobbly"
+    ],
+    "wobbly": [
+        "wobble"
+    ],
+    "wombat": [
+        "combat"
+    ],
+    "wonder": [
+        "wander",
+        "winder",
+        "ponder",
+        "yonder"
+    ],
+    "wonted": [
+        "wanted"
+    ],
+    "wooded": [
+        "hooded",
+        "wooden"
+    ],
+    "wooden": [
+        "wooded",
+        "woolen"
+    ],
+    "woolen": [
+        "wooden"
+    ],
+    "woolly": [
+        "coolly",
+        "wholly"
+    ],
+    "worker": [
+        "corker",
+        "porker"
+    ],
+    "wotcha": [
+        "gotcha"
+    ],
+    "wreath": [
+        "breath"
+    ],
+    "wrench": [
+        "drench",
+        "french",
+        "trench",
+        "wretch"
+    ],
+    "wretch": [
+        "wrench"
+    ],
+    "writer": [
+        "waiter"
+    ],
+    "yammer": [
+        "hammer"
+    ],
+    "yearly": [
+        "dearly",
+        "nearly",
+        "pearly"
+    ],
+    "yellow": [
+        "bellow",
+        "fellow",
+        "mellow"
+    ],
+    "yonder": [
+        "ponder",
+        "wonder"
+    ],
+    "zapper": [
+        "dapper",
+        "zipper",
+        "rapper"
+    ],
+    "zimmer": [
+        "simmer"
+    ],
+    "zipper": [
+        "zapper",
+        "kipper",
+        "nipper"
+    ],
+    "zither": [
+        "dither",
+        "either",
+        "hither",
+        "wither"
+    ]
+}

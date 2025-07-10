@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "CRU": [1, 2, 3],
+    "CUR": [1, 4, 7],
+    "RUC": [7, 8, 9],
+    "UR": [8, 11]
+  },
+  "allowedGrids": "1, 2, 3, 4, 7, 8, 9, 11",
+  "sentence": "CRUURUCR",
+  "keys": ["C","R","U"]
+}

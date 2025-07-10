@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "DON": [1, 2, 3],
+    "NOD": [3, 7, 11],
+    "ON": [9, 13],
+    "NO": [13, 14]
+  },
+  "allowedGrids": "1, 2, 3, 7, 9, 11, 13, 14",
+  "sentence": "DONOODNO",
+  "keys": ["D","O","N"]
+}

@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Indian honorific"
+    },
+
+    "6" :{
+      "clue": "Vestige"
+    },
+
+    "7" :{
+      "clue": "See eye to eye"
+    },
+
+    "8" :{
+      "clue": "Cow's chew"
+    },
+
+    "9" :{
+      "clue": "Crucial"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Pile"
+    },
+
+    "2" :{
+      "clue": "Debate"
+    },
+
+    "3" :{
+      "clue": "Robust"
+    },
+
+    "4" :{
+      "clue": "Rink surface"
+    },
+
+    "5" :{
+      "clue": "Spelling contest"
+    }
+},
+
+  "letters": "SAHIBTRACEAGREECUDKEY",
+  "words": "10.5",
+  "disallowedGrids": "19,20,24,25",
+  "firstSolved": ""
+}

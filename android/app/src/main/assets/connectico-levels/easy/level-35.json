@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "GOT": [1, 2, 3],
+    "TOG": [3, 7, 11],
+    "GO": [11, 12],
+    "TO": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 9, 11, 12, 13",
+  "sentence": "GOTOTGOO",
+  "keys": ["G","O","T"]
+}

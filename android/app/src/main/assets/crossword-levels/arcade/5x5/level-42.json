@@ -1,0 +1,40 @@
+{
+    "placeholder": "1,2,3,4,6,10,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Foot part"
+    },
+
+    "5" :{
+      "clue": "Indian honorific"
+    },
+
+    "7" :{
+      "clue": "Extra"
+    },
+
+    "8" :{
+      "clue": "Unexpected victory"
+    },
+
+    "9" :{
+      "clue": "Checked out"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Debate topic"
+    },
+
+    "2" :{
+      "clue": ""
+    }
+},
+
+  "letters": "INCHSAHIBSPAREUPSETEYED",
+  "words": "7",
+  "disallowedGrids": "5,25",
+  "firstSolved": ""
+}

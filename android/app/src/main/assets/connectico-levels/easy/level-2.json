@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "BOG": [1, 2, 3],
+    "GOB": [3, 7, 11],
+    "OB": [7, 8],
+    "GO": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 11, 13",
+  "sentence": "BOGOBGBO",
+  "keys": ["B","O","G"]
+}

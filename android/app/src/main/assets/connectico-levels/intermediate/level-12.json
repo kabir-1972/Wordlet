@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "HUCK": [1, 2, 3, 4],
+    "CH": [3, 7],
+    "UK": [9, 10],
+    "UH": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 4, 7, 9, 10, 13",
+  "sentence": "HUCKHUKH",
+  "keys": ["H","U","C","K"]
+}

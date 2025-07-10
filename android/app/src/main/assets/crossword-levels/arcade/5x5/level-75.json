@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Conflict"
+    },
+
+    "6" :{
+      "clue": "Straight: Prefix"
+    },
+
+    "7" :{
+      "clue": "Rose oil variation"
+    },
+
+    "8" :{
+      "clue": "Twenty"
+    },
+
+    "9" :{
+      "clue": "Bit"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Angry"
+    },
+
+    "2" :{
+      "clue": "Creep, slangily"
+    },
+
+    "3" :{
+      "clue": "Thespian"
+    },
+
+    "4" :{
+      "clue": "Gawk"
+    },
+
+    "5" :{
+      "clue": "Took on"
+    }
+},
+
+  "letters": "CLASHRECTIOTTARSCORESHRED",
+  "words": "10",
+  "disallowedGrids": "",
+  "firstSolved": ""
+}

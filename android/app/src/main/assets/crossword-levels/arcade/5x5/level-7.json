@@ -1,0 +1,52 @@
+{
+    "placeholder": "3,4,5,6,7,11,16,23",
+
+  "across":{
+    "1" :{
+      "clue": "___ Vegas"
+    },
+
+    "4" :{
+      "clue": "Representative"
+    },
+
+    "6" :{
+      "clue": "Chain of hills"
+    },
+
+    "7" :{
+      "clue": "Moth"
+    },
+
+    "8" :{
+      "clue": "Directional suffix"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Shelf"
+    },
+
+    "2" :{
+      "clue": "Tee off"
+    },
+
+    "3" :{
+      "clue": "Back of a boat"
+    },
+
+    "4" :{
+      "clue": "Exist"
+    },
+
+    "5" :{
+      "clue": "Band booking"
+    }
+},
+
+  "letters": "LASAGENTRIDGEEGGERERN",
+  "words": "10",
+  "disallowedGrids": "1,2,21,22",
+  "firstSolved": ""
+}

@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 3,
+  "words": {
+    "JOB": [1, 2, 3],
+    "BO": [3, 6],
+    "OB": [7, 8]
+  },
+  "allowedGrids": "1, 2, 3, 6, 7, 8",
+  "sentence": "JOBOOB",
+  "keys": ["J","O","B"]
+}

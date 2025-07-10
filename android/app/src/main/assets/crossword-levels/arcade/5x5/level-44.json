@@ -1,0 +1,48 @@
+{
+    "placeholder": "2,3,4,5,7,11,17,22",
+
+  "across":{
+    "1" :{
+      "clue": "Lasting mark"
+    },
+
+    "5" :{
+      "clue": "Ashen"
+    },
+
+    "6" :{
+      "clue": "Trivial Pursuit edition"
+    },
+
+    "7" :{
+      "clue": "Function"
+    },
+
+    "8" :{
+      "clue": "Gist"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Kind of whale"
+    },
+
+    "2" :{
+      "clue": "Rapids transit"
+    },
+
+    "3" :{
+      "clue": "\"Be-Bop-___\" (Gene Vincent hit)"
+    },
+
+    "4" :{
+      "clue": "Bowling alley button"
+    }
+},
+
+  "letters": "SCARPALEGENUSROLEMEAT",
+  "words": "9",
+  "disallowedGrids": "1,6,16,21",
+  "firstSolved": ""
+}

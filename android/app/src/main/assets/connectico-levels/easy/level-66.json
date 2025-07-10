@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "TIC": [1, 2, 3],
+    "CIT": [3, 7, 11],
+    "TI": [11, 12],
+    "IT": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 9, 11, 12, 13",
+  "sentence": "TICIITIT",
+  "keys": ["C","I","T"]
+}

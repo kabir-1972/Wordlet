@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Climb"
+    },
+
+    "5" :{
+      "clue": "Story"
+    },
+
+    "6" :{
+      "clue": "Press"
+    },
+
+    "7" :{
+      "clue": "Affectionate"
+    },
+
+    "8" :{
+      "clue": "Blood partner"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Rigid"
+    },
+
+    "2" :{
+      "clue": "Christmas song"
+    },
+
+    "3" :{
+      "clue": "Unaccompanied"
+    },
+
+    "4" :{
+      "clue": "Imparts"
+    }
+},
+
+  "letters": "SCALETALEIRONFONDFLESH",
+  "words": "9",
+  "disallowedGrids": "10,15,20",
+  "firstSolved": ""
+}

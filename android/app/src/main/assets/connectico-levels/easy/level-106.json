@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "COS": [1, 2, 3],
+    "SOC": [3, 7, 11],
+    "OS": [7, 8],
+    "SO": [13, 14]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 11, 13, 14",
+  "sentence": "COSOSCSO",
+  "keys": ["C","O","S"]
+}

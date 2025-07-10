@@ -1,0 +1,32 @@
+{
+    "placeholder": "1,2,4,11,21",
+
+  "across":{
+    "1" :{
+      "clue": "Leaves"
+    },
+
+    "4" :{
+      "clue": "Spicy Indian dish"
+    },
+
+    "5" :{
+      "clue": "A band or troop of soldiers"
+    }
+},
+
+  "down":{
+    "2" :{
+      "clue": "Mistreat"
+    },
+
+    "3" :{
+      "clue": "Spooky"
+    }
+},
+
+  "letters": "PAGESBECURRYSIWERED",
+  "words": "5",
+  "disallowedGrids": "6,8,10,16,18,20",
+  "firstSolved": ""
+}

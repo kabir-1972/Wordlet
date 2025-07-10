@@ -1,0 +1,13 @@
+{
+  "rows": 2,
+  "cols": 4,
+  "words": {
+    "IN": [1, 2],
+    "ID": [1, 5],
+    "GI": [7, 8],
+    "MI": [4, 8]
+  },
+  "allowedGrids": "1, 2, 4, 5, 7, 8",
+  "sentence": "INMDGI",
+  "keys": ["I","N"]
+}

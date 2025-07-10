@@ -1,0 +1,48 @@
+{
+    "placeholder": "5,6,7,8,9,11,16,21",
+
+  "across":{
+    "2" :{
+      "clue": "Light wood"
+    },
+
+    "6" :{
+      "clue": "Approximately"
+    },
+
+    "7" :{
+      "clue": "Bias"
+    },
+
+    "8" :{
+      "clue": "Covered with marsh vegetation"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Like some acids"
+    },
+
+    "2" :{
+      "clue": "Low voice"
+    },
+
+    "3" :{
+      "clue": "Competent"
+    },
+
+    "4" :{
+      "clue": "Burden"
+    },
+
+    "5" :{
+      "clue": "Vocalized"
+    }
+},
+
+  "letters": "FBALSAABOUTSLANTSEDGY",
+  "words": "9",
+  "disallowedGrids": "1,2,3,4",
+  "firstSolved": ""
+}

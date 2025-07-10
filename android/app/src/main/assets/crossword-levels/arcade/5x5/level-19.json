@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,6,9,10,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Tank filler"
+    },
+
+    "4" :{
+      "clue": "Eye-related"
+    },
+
+    "7" :{
+      "clue": "Musical drama"
+    },
+
+    "8" :{
+      "clue": "Catch some Z's"
+    },
+
+    "9" :{
+      "clue": "Sushi fish"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Honking bird"
+    },
+
+    "2" :{
+      "clue": "Orchard fruit"
+    },
+
+    "3" :{
+      "clue": "Pittsburgh product"
+    },
+
+    "5" :{
+      "clue": "Anger"
+    },
+
+    "6" :{
+      "clue": "Limit"
+    }
+},
+
+  "letters": "GASOPTICOPERASLEEPEEL",
+  "words": "10",
+  "disallowedGrids": "4,5,24,25",
+  "firstSolved": ""
+}

@@ -1,0 +1,52 @@
+{
+    "placeholder": "2,3,4,5,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Earth"
+    },
+
+    "5" :{
+      "clue": "Garden tool"
+    },
+
+    "6" :{
+      "clue": "Spoken for"
+    },
+
+    "7" :{
+      "clue": "Mountain nymph"
+    },
+
+    "8" :{
+      "clue": "Writes"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Extra"
+    },
+
+    "2" :{
+      "clue": "\"The Old ___ Bucket\""
+    },
+
+    "3" :{
+      "clue": "Notions"
+    },
+
+    "4" :{
+      "clue": "Impart"
+    },
+
+    "5" :{
+      "clue": "Halt"
+    }
+},
+
+  "letters": "SOILSPADETAKENOREADPENS",
+  "words": "10",
+  "disallowedGrids": "1,25",
+  "firstSolved": ""
+}

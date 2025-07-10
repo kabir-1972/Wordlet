@@ -1,0 +1,60 @@
+{
+    "placeholder": "4,5,6,8,9,13,19,25,31",
+
+  "across":{
+    "1" :{
+      "clue": "Faux ___"
+    },
+
+    "4" :{
+      "clue": "Stock unit"
+    },
+
+    "6" :{
+      "clue": "Part of a Clue accusation"
+    },
+
+    "7" :{
+      "clue": "Play the market"
+    },
+
+    "8" :{
+      "clue": "Night noise"
+    },
+
+    "9" :{
+      "clue": "Lobbying org"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Origami need"
+    },
+
+    "2" :{
+      "clue": "Came up"
+    },
+
+    "3" :{
+      "clue": "Dispatched"
+    },
+
+    "4" :{
+      "clue": "Medicinal plant"
+    },
+
+    "5" :{
+      "clue": "Devastation"
+    },
+
+    "6" :{
+      "clue": "Bit of smoke"
+    }
+},
+
+  "letters": "PASSHAREWEAPONINVESTSNOREPAC",
+  "words": "12",
+  "disallowedGrids": "1,2,3,7,30,34,35,36",
+  "firstSolved": ""
+}

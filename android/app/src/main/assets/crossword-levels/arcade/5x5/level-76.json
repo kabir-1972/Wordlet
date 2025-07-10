@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Stage"
+    },
+
+    "6" :{
+      "clue": "Actress Sophia"
+    },
+
+    "7" :{
+      "clue": "On one's toes"
+    },
+
+    "8" :{
+      "clue": "Drudge"
+    },
+
+    "9" :{
+      "clue": "Microwave device"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Suffix with proto-"
+    },
+
+    "2" :{
+      "clue": "Shout-out word"
+    },
+
+    "3" :{
+      "clue": "Regions"
+    },
+
+    "4" :{
+      "clue": "Wait on"
+    },
+
+    "5" :{
+      "clue": "Stage direction"
+    }
+},
+
+  "letters": "PHASELORENALERTSLAVEMASTER",
+  "words": "10",
+  "disallowedGrids": "",
+  "firstSolved": ""
+}

@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 5,
+  "words": {
+    "CAR": [1, 2, 3],
+    "ARC": [2, 7, 12],
+    "RAC": [10, 15, 20],
+    "AR": [9, 10]
+  },
+  "allowedGrids": "1, 2, 3, 7, 9, 10, 12, 15, 20",
+  "sentence": "CARRARCAC",
+  "keys": ["A","R","C"]
+}

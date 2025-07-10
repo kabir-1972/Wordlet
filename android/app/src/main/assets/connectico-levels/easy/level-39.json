@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "EON": [1, 2, 3],
+    "ONE": [2, 6, 10],
+    "NO": [6, 7],
+    "ON": [15, 16]
+  },
+  "allowedGrids": "1, 2, 3, 6, 7, 10, 15, 16",
+  "sentence": "EONNOEON",
+  "keys": ["E","O","N"]
+}

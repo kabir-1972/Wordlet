@@ -1,0 +1,51 @@
+{
+  "placeholder": "3,4,5,8,11,12,16,21", 
+
+  "across":{
+    "1" :{
+      "clue": "Comic book sound effect"
+    },
+
+    "4":{
+      "clue": "Historical Period"
+    },
+
+    "5":{
+      "clue": "Commence"
+    },
+
+    "7":{
+      "clue": "Entertain"
+    },
+
+    "8":{
+      "clue": "Sand hill"
+    }
+  },
+
+  "down": {
+    "1": {
+      "clue": "Started"
+    },
+    "2": {
+      "clue": "Come up"
+    },
+    
+    "3":{
+      "clue": "Lion's pride"
+    },
+
+    "5":{
+      "clue": "Naughty"
+    },
+
+    "6":{
+      "clue": "Big Bird"
+    }
+  },
+
+  "letters": "BAMERABEGINAMUSEDUNE",
+  "words": 10,
+  "disallowedGrids": "1,2,6,7,25",
+  "firstSolved": ""
+}

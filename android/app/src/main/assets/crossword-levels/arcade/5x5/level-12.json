@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16",
+
+  "across":{
+    "1" :{
+      "clue": "Grain husks"
+    },
+
+    "6" :{
+      "clue": "Pay tribute to"
+    },
+
+    "7" :{
+      "clue": "Unaccompanied"
+    },
+
+    "8" :{
+      "clue": "Imparts"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Classroom supply"
+    },
+
+    "2" :{
+      "clue": "Golfer's target"
+    },
+
+    "3" :{
+      "clue": "Old fashioned word for \"Soon\""
+    },
+
+    "4" :{
+      "clue": "Affectionate"
+    },
+
+    "5" :{
+      "clue": "Just picked"
+    }
+},
+
+  "letters": "CHAFFHONORALONELENDSKH",
+  "words": "9",
+  "disallowedGrids": "22,23,24",
+  "firstSolved": ""
+}

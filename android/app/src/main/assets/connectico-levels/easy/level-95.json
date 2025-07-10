@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 4,
+  "words": {
+    "LOT": [1, 2, 3],
+    "LO": [1, 5],
+    "TO": [8, 12]
+  },
+  "allowedGrids": "1, 2, 3, 5, 8, 12",
+  "sentence": "LOTOTO",
+  "keys": ["L","O","T"]
+}

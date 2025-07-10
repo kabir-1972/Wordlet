@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,17,22",
+
+  "across":{
+    "1" :{
+      "clue": "Second-stringer"
+    },
+
+    "6" :{
+      "clue": "Sports venue"
+    },
+
+    "7" :{
+      "clue": "Jeans material"
+    },
+
+    "8" :{
+      "clue": "Consume"
+    },
+
+    "9" :{
+      "clue": "Crafty"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Blue"
+    },
+
+    "2" :{
+      "clue": "Canadian Indians"
+    },
+
+    "3" :{
+      "clue": "Kidney-related"
+    },
+
+    "4" :{
+      "clue": "Togetherness"
+    },
+
+    "5" :{
+      "clue": "\"Kapow!\""
+    }
+},
+
+  "letters": "SCRUBARENADENIMEATSLY",
+  "words": "10",
+  "disallowedGrids": "16,20,21,25",
+  "firstSolved": ""
+}

@@ -1,0 +1,13 @@
+{
+  "rows": 3,
+  "cols": 5,
+  "words": {
+    "REW": [1, 2, 3],
+    "ER": [2, 7],
+    "RE": [5, 10],
+    "WE": [13, 14]
+  },
+  "allowedGrids": "1, 2, 3, 5, 7, 10, 13, 14",
+  "sentence": "REWRREWE",
+  "keys": ["R","E","W"]
+}

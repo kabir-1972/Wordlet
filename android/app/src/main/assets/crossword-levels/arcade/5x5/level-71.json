@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16",
+
+  "across":{
+    "1" :{
+      "clue": "Second-stringer"
+    },
+
+    "6" :{
+      "clue": "Came up"
+    },
+
+    "7" :{
+      "clue": "Lips"
+    },
+
+    "8" :{
+      "clue": "Happening"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Store event"
+    },
+
+    "2" :{
+      "clue": "Hunger for"
+    },
+
+    "3" :{
+      "clue": "Dressing gown"
+    },
+
+    "4" :{
+      "clue": "Taking advantage of"
+    },
+
+    "5" :{
+      "clue": "Exhausted"
+    }
+},
+
+  "letters": "SCRUBAROSELABIAEVENTEG",
+  "words": "9",
+  "disallowedGrids": "21,23,25",
+  "firstSolved": ""
+}

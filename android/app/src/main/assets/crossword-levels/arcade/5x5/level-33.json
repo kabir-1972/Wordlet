@@ -1,0 +1,52 @@
+{
+    "placeholder": "2,3,4,5,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "School subject"
+    },
+
+    "5" :{
+      "clue": "Member of the lowest Hindu caste"
+    },
+
+    "6" :{
+      "clue": "Retinue"
+    },
+
+    "7" :{
+      "clue": "Prodded"
+    },
+
+    "8" :{
+      "clue": "Indigent"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Diving bird"
+    },
+
+    "2" :{
+      "clue": "Saw"
+    },
+
+    "3" :{
+      "clue": "True's partner"
+    },
+
+    "4" :{
+      "clue": "Convenient"
+    },
+
+    "5" :{
+      "clue": "Flabbergast"
+    }
+},
+
+  "letters": "MATHSUDRATRAINURGEDNEEDY",
+  "words": "10",
+  "disallowedGrids": "1",
+  "firstSolved": ""
+}

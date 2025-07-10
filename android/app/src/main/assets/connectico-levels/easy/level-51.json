@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "PA": [1, 2],
+    "AT": [2, 5],
+    "TA": [5, 6],
+    "RA": [7, 10]
+  },
+  "allowedGrids": "1, 2, 5, 6, 7, 10",
+  "sentence": "PATARA",
+  "keys": ["P","A"]
+}

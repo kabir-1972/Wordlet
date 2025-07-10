@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,6,11,15,16,23",
+
+  "across":{
+    "1" :{
+      "clue": "Norse god"
+    },
+
+    "5" :{
+      "clue": "Carnival attraction"
+    },
+
+    "6" :{
+      "clue": "Bitter"
+    },
+
+    "8" :{
+      "clue": "Permission"
+    },
+
+    "9" :{
+      "clue": "Soap ingredient"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Spoken"
+    },
+
+    "2" :{
+      "clue": "Casino cubes"
+    },
+
+    "3" :{
+      "clue": "Perfect"
+    },
+
+    "4" :{
+      "clue": "Brazen"
+    },
+
+    "7" :{
+      "clue": "Spelling contest"
+    }
+},
+
+  "letters": "ODINRIDEACERBLEAVELYE",
+  "words": "10",
+  "disallowedGrids": "5,10,21,22",
+  "firstSolved": ""
+}

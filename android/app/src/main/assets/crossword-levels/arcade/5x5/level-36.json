@@ -1,0 +1,48 @@
+{
+    "placeholder": "2,3,4,5,7,11,17,21",
+
+  "across":{
+    "1" :{
+      "clue": "Baseball feature"
+    },
+
+    "5" :{
+      "clue": "Protagonist"
+    },
+
+    "6" :{
+      "clue": "Got along"
+    },
+
+    "7" :{
+      "clue": "Cellar stock"
+    },
+
+    "8" :{
+      "clue": "Repast"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Early form of the oboe"
+    },
+
+    "2" :{
+      "clue": "Spooky"
+    },
+
+    "3" :{
+      "clue": "Sports venue"
+    },
+
+    "4" :{
+      "clue": "Runway walker"
+    }
+},
+
+  "letters": "SEAMHEROFAREDWINEMEAL",
+  "words": "9",
+  "disallowedGrids": "1,6,16,21",
+  "firstSolved": ""
+}

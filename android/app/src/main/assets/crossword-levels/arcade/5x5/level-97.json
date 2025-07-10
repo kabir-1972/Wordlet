@@ -1,0 +1,48 @@
+{
+    "placeholder": "5,6,7,8,9,11,16,21",
+
+  "across":{
+    "2" :{
+      "clue": "On edge"
+    },
+
+    "6" :{
+      "clue": "Approximately"
+    },
+
+    "7" :{
+      "clue": "Steed"
+    },
+
+    "8" :{
+      "clue": "Exalt"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Pier"
+    },
+
+    "2" :{
+      "clue": "Domesticated"
+    },
+
+    "3" :{
+      "clue": "Black"
+    },
+
+    "4" :{
+      "clue": "Entre ___"
+    },
+
+    "5" :{
+      "clue": "Done for"
+    }
+},
+
+  "letters": "JTENSEABOUTMOUNTENSKY",
+  "words": "9",
+  "disallowedGrids": "1,2,3,4",
+  "firstSolved": ""
+}

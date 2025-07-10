@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "PUY": [1, 2, 3],
+    "YUP": [3, 7, 11],
+    "UP": [7, 8],
+    "YU": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 11, 13",
+  "sentence": "PUYUPYPU",
+  "keys": ["P","U","Y"]
+}

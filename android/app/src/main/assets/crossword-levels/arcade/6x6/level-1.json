@@ -1,0 +1,56 @@
+{
+    "placeholder": "6,7,8,9,10,11,13,19,25,31",
+
+  "across":{
+    "2" :{
+      "clue": "Go by"
+    },
+
+    "7" :{
+      "clue": "Make bubbly"
+    },
+
+    "8" :{
+      "clue": "Make fit"
+    },
+
+    "9" :{
+      "clue": "Ancient ascetic"
+    },
+
+    "10" :{
+      "clue": "Required"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Looked searchingly"
+    },
+
+    "2" :{
+      "clue": "Consumed"
+    },
+
+    "3" :{
+      "clue": "Rental agreement"
+    },
+
+    "4" :{
+      "clue": "Come up"
+    },
+
+    "5" :{
+      "clue": "Lost color"
+    },
+
+    "6" :{
+      "clue": "Boulder"
+    }
+},
+
+  "letters": "PELAPSEAERATETAILORESSENCENEEDED",
+  "words": "11",
+  "disallowedGrids": "1,2,3,4,5",
+  "firstSolved": ""
+}

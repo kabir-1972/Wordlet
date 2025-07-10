@@ -1,0 +1,60 @@
+{
+    "placeholder": "4,5,6,7,8,9,13,19,25,31",
+
+  "across":{
+    "1" :{
+      "clue": "In the past"
+    },
+
+    "4" :{
+      "clue": "Merciful one"
+    },
+
+    "7" :{
+      "clue": "Asked for ID"
+    },
+
+    "8" :{
+      "clue": "Wrinkled"
+    },
+
+    "9" :{
+      "clue": "Loan shark"
+    },
+
+    "10" :{
+      "clue": "Spelling contest"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Passion"
+    },
+
+    "2" :{
+      "clue": "Honkers"
+    },
+
+    "3" :{
+      "clue": "Command"
+    },
+
+    "4" :{
+      "clue": "Second-stringer"
+    },
+
+    "5" :{
+      "clue": "Hesitate"
+    },
+
+    "6" :{
+      "clue": "Debate"
+    }
+},
+
+  "letters": "AGOSPARERCARDEDRUGOSEUSURERBEE",
+  "words": "12",
+  "disallowedGrids": "1,2,3,34,35,36",
+  "firstSolved": ""
+}

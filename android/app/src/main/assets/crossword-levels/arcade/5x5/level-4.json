@@ -1,0 +1,47 @@
+{
+    "placeholder": "2,3,4,6,11,16,22",
+
+  "across":{
+    "1" :{
+      "clue": "Droop"
+    },
+
+    "4":{
+      "clue": "Swagger"
+    },
+
+    "5":{
+      "clue": "Impulse"
+    },
+
+    "6":{
+      "clue": "Hesitate"
+    },
+
+    "7":{
+      "clue": "Absolutely"
+    }
+  },
+
+  "down": {
+    "1": {
+      "clue": "Wander"
+    },
+    "2": {
+      "clue": "Debate"
+    },
+    
+    "3":{
+      "clue": "Conjecture"
+    },
+
+    "4":{
+      "clue": "Dine"
+    }
+  },
+
+  "letters": "SAGSTRUTURGEPAUSEYES",
+  "words": "7",
+  "disallowedGrids": "1,5,15,21,25",
+  "firstSolved": ""
+}

@@ -1,0 +1,12 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "FEG": [1, 2, 3],
+    "EF": [2, 5],
+    "FE": [11, 12]
+  },
+  "allowedGrids": "1, 2, 3, 5, 10, 11, 12",
+  "sentence": "FEGFFE",
+  "keys": ["F","E","G"]
+}

@@ -1,0 +1,52 @@
+{
+    "placeholder": "3,4,5,6,7,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Swab"
+    },
+
+    "4" :{
+      "clue": "Bouquet"
+    },
+
+    "6" :{
+      "clue": "Memento"
+    },
+
+    "7" :{
+      "clue": "Thaw"
+    },
+
+    "8" :{
+      "clue": "Wild blue yonder"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Pitcher of fame"
+    },
+
+    "2" :{
+      "clue": "Leave out"
+    },
+
+    "3" :{
+      "clue": "Lobbying org"
+    },
+
+    "4" :{
+      "clue": "Weaponry"
+    },
+
+    "5" :{
+      "clue": "Stink"
+    }
+},
+
+  "letters": "MOPAROMARELICMELTSKY",
+  "words": "10",
+  "disallowedGrids": "1,2,20,24,25",
+  "firstSolved": ""
+}

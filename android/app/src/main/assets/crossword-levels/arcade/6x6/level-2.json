@@ -1,0 +1,60 @@
+{
+    "placeholder": "3,4,5,6,8,13,19,25,31",
+
+  "across":{
+    "1" :{
+      "clue": "Track shape"
+    },
+
+    "5" :{
+      "clue": "Took the wheel"
+    },
+
+    "6" :{
+      "clue": "Appropriate"
+    },
+
+    "7" :{
+      "clue": "Insistence"
+    },
+
+    "8" :{
+      "clue": "Shrink in fear"
+    },
+
+    "9" :{
+      "clue": "One in the closet"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Starting point"
+    },
+
+    "2" :{
+      "clue": "November activity"
+    },
+
+    "3" :{
+      "clue": "Get even for"
+    },
+
+    "4" :{
+      "clue": "Accountant's book"
+    },
+
+    "5" :{
+      "clue": "Sorghum variety"
+    },
+
+    "6" :{
+      "clue": "\"No ___ luck!\""
+    }
+},
+
+  "letters": "OVALDROVESUITEDURGINGCRINGEHANGER",
+  "words": "12",
+  "disallowedGrids": "1,2,7",
+  "firstSolved": ""
+}

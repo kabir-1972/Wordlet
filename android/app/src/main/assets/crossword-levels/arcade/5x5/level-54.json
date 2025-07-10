@@ -1,0 +1,48 @@
+{
+    "placeholder": "2,4,6,8,10,11,16,21",
+
+  "across":{
+    "3" :{
+      "clue": "Book of maps"
+    },
+
+    "6" :{
+      "clue": "Friars Club event"
+    },
+
+    "7" :{
+      "clue": "Slogan"
+    },
+
+    "8" :{
+      "clue": "Catch some Z's"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Pub perch"
+    },
+
+    "2" :{
+      "clue": "Cheap jewelry"
+    },
+
+    "3" :{
+      "clue": "Weaponry"
+    },
+
+    "4" :{
+      "clue": "Tardy"
+    },
+
+    "5" :{
+      "clue": "Halt"
+    }
+},
+
+  "letters": "SPATLASROASTMOTTOSLEEP",
+  "words": "9",
+  "disallowedGrids": "1,3,5",
+  "firstSolved": ""
+}

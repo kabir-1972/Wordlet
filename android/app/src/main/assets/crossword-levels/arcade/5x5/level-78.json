@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,5,7,11,17,21",
+
+  "across":{
+    "1" :{
+      "clue": "Let in"
+    },
+
+    "6" :{
+      "clue": "Got up"
+    },
+
+    "7" :{
+      "clue": "On edge"
+    },
+
+    "8" :{
+      "clue": "Flabbergast"
+    },
+
+    "9" :{
+      "clue": "Fireplace residue"
+    }
+},
+
+  "down":{
+    "2" :{
+      "clue": "Attire"
+    },
+
+    "3" :{
+      "clue": "Calendar page"
+    },
+
+    "4" :{
+      "clue": "Debate topic"
+    },
+
+    "5" :{
+      "clue": "Adolescents"
+    }
+},
+
+  "letters": "ADMITROSETENSESTUNASHES",
+  "words": "9",
+  "disallowedGrids": "6,16",
+  "firstSolved": ""
+}

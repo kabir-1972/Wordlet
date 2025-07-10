@@ -1,0 +1,56 @@
+{
+    "placeholder": "4,6,7,8,9,11,13,19,25,31",
+
+  "across":{
+    "3" :{
+      "clue": "Low-wheeled carriage"
+    },
+
+    "7" :{
+      "clue": "Awn"
+    },
+
+    "8" :{
+      "clue": "Inning half"
+    },
+
+    "9" :{
+      "clue": "On land"
+    },
+
+    "10" :{
+      "clue": "Looked impolitely"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Pollux's twin"
+    },
+
+    "2" :{
+      "clue": "Disgraced"
+    },
+
+    "3" :{
+      "clue": "Conspiracy"
+    },
+
+    "4" :{
+      "clue": "Came up"
+    },
+
+    "5" :{
+      "clue": "Supple"
+    },
+
+    "6" :{
+      "clue": "Mall unit"
+    }
+},
+
+  "letters": "CSCALASHARISTABOTTOMASHORELEERED",
+  "words": "11",
+  "disallowedGrids": "1,2,3,5",
+  "firstSolved": ""
+}

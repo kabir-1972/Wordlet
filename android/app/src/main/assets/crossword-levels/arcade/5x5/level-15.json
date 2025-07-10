@@ -1,0 +1,52 @@
+{
+    "placeholder": "2,3,4,6,10,11,16,22",
+
+  "across":{
+    "1" :{
+      "clue": "Mimic"
+    },
+
+    "4" :{
+      "clue": "Move stealthily"
+    },
+
+    "6" :{
+      "clue": "Greek marketplace"
+    },
+
+    "7" :{
+      "clue": "Toga alternative"
+    },
+
+    "8" :{
+      "clue": "Hurricane center"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Debate"
+    },
+
+    "2" :{
+      "clue": "Indiana's state flower"
+    },
+
+    "3" :{
+      "clue": "Spooky"
+    },
+
+    "4" :{
+      "clue": "Hipster"
+    },
+
+    "5" :{
+      "clue": "Lobbying org"
+    }
+},
+
+  "letters": "APECREEPAGORATUNICEYE",
+  "words": "10",
+  "disallowedGrids": "1,5,21,25",
+  "firstSolved": ""
+}

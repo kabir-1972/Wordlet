@@ -1,0 +1,48 @@
+{
+    "placeholder": "2,3,4,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Drench"
+    },
+
+    "4" :{
+      "clue": "Flabbergast"
+    },
+
+    "5" :{
+      "clue": "Salad servers"
+    },
+
+    "6" :{
+      "clue": "Formerly"
+    },
+
+    "7" :{
+      "clue": "Rind"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Boulder"
+    },
+
+    "2" :{
+      "clue": "Snow leopard"
+    },
+
+    "3" :{
+      "clue": "Broadway backer"
+    },
+
+    "4" :{
+      "clue": "Halt"
+    }
+},
+
+  "letters": "SOAKSTUNTONGSONCEPEEL",
+  "words": "9",
+  "disallowedGrids": "1,10,20,25",
+  "firstSolved": ""
+}

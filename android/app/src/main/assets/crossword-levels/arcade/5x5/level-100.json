@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,6,10,11,16,22",
+
+  "across":{
+    "1" :{
+      "clue": "One and only"
+    },
+
+    "5" :{
+      "clue": "Coffee lightener"
+    },
+
+    "7" :{
+      "clue": "Century plant"
+    },
+
+    "8" :{
+      "clue": "\"Bolero\" composer"
+    },
+
+    "9" :{
+      "clue": "Hatchling's home"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Lasting mark"
+    },
+
+    "2" :{
+      "clue": "Church instrument"
+    },
+
+    "3" :{
+      "clue": "Permission"
+    },
+
+    "4" :{
+      "clue": "Roof overhangs"
+    },
+
+    "6" :{
+      "clue": "Thaw"
+    }
+},
+
+  "letters": "SOLECREAMAGAVERAVELNEST",
+  "words": "10",
+  "disallowedGrids": "5,21",
+  "firstSolved": ""
+}

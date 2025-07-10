@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 3,
+  "words": {
+    "ERK": [1, 2, 3],
+    "ER": [1, 4],
+    "RE": [8, 9]
+  },
+  "allowedGrids": "1, 2, 3, 4, 8, 9",
+  "sentence": "ERKRRE",
+  "keys": ["E","R","K"]
+}

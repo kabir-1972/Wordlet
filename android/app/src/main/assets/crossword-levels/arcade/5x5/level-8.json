@@ -1,0 +1,52 @@
+{
+    "placeholder": "2,3,4,6,10,11,16,22",
+
+  "across":{
+    "1" :{
+      "clue": "Tavern"
+    },
+
+    "4" :{
+      "clue": "Kind of cigarette"
+    },
+
+    "6" :{
+      "clue": "Came up"
+    },
+
+    "7" :{
+      "clue": "Jackknifed"
+    },
+
+    "8" :{
+      "clue": "Bottom line"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Engraving tool"
+    },
+
+    "2" :{
+      "clue": "Superior to"
+    },
+
+    "3" :{
+      "clue": "Bowling alley button"
+    },
+
+    "4" :{
+      "clue": "Bounder"
+    },
+
+    "5" :{
+      "clue": "Garden plot"
+    }
+},
+
+  "letters": "BARCUBEBAROSEDIVEDNET",
+  "words": "10",
+  "disallowedGrids": "1,5,21,25",
+  "firstSolved": ""
+}

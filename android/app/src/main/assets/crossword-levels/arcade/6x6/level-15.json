@@ -1,0 +1,52 @@
+{
+    "placeholder": "4,6,7,8,9,11,13,19,25,31",
+
+  "across":{
+    "3" :{
+      "clue": "\"Wheel of Fortune\" category"
+    },
+
+    "7" :{
+      "clue": "God of the winds"
+    },
+
+    "8" :{
+      "clue": "Eye inflammation"
+    },
+
+    "9" :{
+      "clue": "Strike out"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Bryan's Emmy-winning \"Breaking Bad\" character"
+    },
+
+    "2" :{
+      "clue": "Craft"
+    },
+
+    "3" :{
+      "clue": "Invoice stamp"
+    },
+
+    "4" :{
+      "clue": "Roll-call response"
+    },
+
+    "5" :{
+      "clue": "Stir up"
+    },
+
+    "6" :{
+      "clue": "Legal action"
+    }
+},
+
+  "letters": "WVPHRASEAEOLUSIRITISDELETERL",
+  "words": "10",
+  "disallowedGrids": "1,2,3,5,31,32,33,35",
+  "firstSolved": ""
+}

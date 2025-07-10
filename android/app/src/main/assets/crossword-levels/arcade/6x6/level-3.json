@@ -1,0 +1,56 @@
+{
+    "placeholder": "4,6,7,8,9,11,13,19,25,31",
+
+  "across":{
+    "3" :{
+      "clue": "Bristly"
+    },
+
+    "7" :{
+      "clue": "Invent"
+    },
+
+    "8" :{
+      "clue": "Haphazard"
+    },
+
+    "9" :{
+      "clue": "Ancient ascetic"
+    },
+
+    "10" :{
+      "clue": "Did some gardening"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Egged on"
+    },
+
+    "2" :{
+      "clue": "Appeared"
+    },
+
+    "3" :{
+      "clue": "Threaded fastener"
+    },
+
+    "4" :{
+      "clue": "Wipe out"
+    },
+
+    "5" :{
+      "clue": "On edge"
+    },
+
+    "6" :{
+      "clue": "Boulder"
+    }
+},
+
+  "letters": "GSSETOSECREATERANDOMESSENCEWEEDED",
+  "words": "11",
+  "disallowedGrids": "1,2,3,5",
+  "firstSolved": ""
+}

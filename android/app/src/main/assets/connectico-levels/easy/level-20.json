@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "MID": [1, 2, 3],
+    "DIM": [3, 7, 11],
+    "ID": [7, 8],
+    "MI": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 11, 13",
+  "sentence": "MIDIDMMI",
+  "keys": ["D","I","M"]
+}

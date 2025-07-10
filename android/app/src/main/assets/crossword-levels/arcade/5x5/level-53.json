@@ -1,0 +1,36 @@
+{
+    "placeholder": "1,3,5,11,21",
+
+  "across":{
+    "1" :{
+      "clue": "Term of endearment"
+    },
+
+    "4" :{
+      "clue": "Make merry"
+    },
+
+    "5" :{
+      "clue": "Lose one's cool"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Backpack part"
+    },
+
+    "2" :{
+      "clue": "Established fact"
+    },
+
+    "3" :{
+      "clue": "Ancient artifact"
+    }
+},
+
+  "letters": "SUGARTIEREVELAEIPANIC",
+  "words": "6",
+  "disallowedGrids": "7,9,17,19",
+  "firstSolved": ""
+}

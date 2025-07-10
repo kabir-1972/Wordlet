@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "BAN": [1, 2, 3],
+    "NAB": [3, 7, 11],
+    "AN": [7, 8],
+    "NA": [8, 12]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 11, 12",
+  "sentence": "BANANBA",
+  "keys": ["B","A","N"]
+}

@@ -1,0 +1,56 @@
+{
+    "placeholder": "7,8,9,10,11,14,19,24,25,31",
+
+  "across":{
+    "1" :{
+      "clue": "Breeding ground"
+    },
+
+    "6" :{
+      "clue": "Audubon subject"
+    },
+
+    "7" :{
+      "clue": "Smear"
+    },
+
+    "9" :{
+      "clue": "Income from wealth"
+    },
+
+    "10" :{
+      "clue": "Emasculated, as a horse"
+    }
+},
+
+  "down":{
+    "2" :{
+      "clue": "Corpulent"
+    },
+
+    "3" :{
+      "clue": "Kind of wave"
+    },
+
+    "4" :{
+      "clue": "Stigmatize"
+    },
+
+    "5" :{
+      "clue": "Draw out"
+    },
+
+    "7" :{
+      "clue": "Annoy"
+    },
+
+    "8" :{
+      "clue": "Garden plot"
+    }
+},
+
+  "letters": "HOTBEDBIRDBEDAUBUSANCEGELDED",
+  "words": "11",
+  "disallowedGrids": "1,2,3,4,5,6,13,18",
+  "firstSolved": ""
+}

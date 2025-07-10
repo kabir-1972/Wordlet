@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Beasts of burden"
+    },
+
+    "5" :{
+      "clue": "Whirl"
+    },
+
+    "6" :{
+      "clue": "Smidgen"
+    },
+
+    "7" :{
+      "clue": "Regimen"
+    },
+
+    "8" :{
+      "clue": "Church official"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Out of the way"
+    },
+
+    "2" :{
+      "clue": "Go bad"
+    },
+
+    "3" :{
+      "clue": "Located"
+    },
+
+    "4" :{
+      "clue": "Growing out"
+    }
+},
+
+  "letters": "ASSESSPINIOTADIETELDER",
+  "words": "9",
+  "disallowedGrids": "10,15,20",
+  "firstSolved": ""
+}

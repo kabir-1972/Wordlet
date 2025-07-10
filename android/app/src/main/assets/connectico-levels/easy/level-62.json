@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "PAW": [1, 2, 3],
+    "WAP": [3, 7, 11],
+    "AW": [7, 8],
+    "PA": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 11, 13",
+  "sentence": "PAWAWPPA",
+  "keys": ["P","A","W"]
+}

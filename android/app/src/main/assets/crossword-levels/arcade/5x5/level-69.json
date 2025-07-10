@@ -1,0 +1,48 @@
+{
+    "placeholder": "6,7,8,9,11,15,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "St. Louis landmark"
+    },
+
+    "5" :{
+      "clue": "Chocolate substitute"
+    },
+
+    "7" :{
+      "clue": "Wipe out"
+    },
+
+    "8" :{
+      "clue": "Stitched"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "High cards"
+    },
+
+    "2" :{
+      "clue": "Steak order"
+    },
+
+    "3" :{
+      "clue": "Bird's crop"
+    },
+
+    "4" :{
+      "clue": "Stockings"
+    },
+
+    "6" :{
+      "clue": "Garden plot"
+    }
+},
+
+  "letters": "ARCHCAROBERASESEWED",
+  "words": "9",
+  "disallowedGrids": "1,2,3,4,5,10",
+  "firstSolved": ""
+}

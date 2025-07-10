@@ -1,0 +1,13 @@
+{
+  "rows": 5,
+  "cols": 3,
+  "words": {
+    "GAW": [1, 2, 3],
+    "WAG": [3, 6, 9],
+    "AG": [10, 11],
+    "AW": [10, 13]
+  },
+  "allowedGrids": "1, 2, 3, 6, 9, 10, 11, 13",
+  "sentence": "GAWAGAGW",
+  "keys": ["G","A","W"]
+}

@@ -1,0 +1,60 @@
+{
+    "placeholder": "1,3,4,5,6,7,8,13,19,25,33",
+
+  "across":{
+    "2" :{
+      "clue": "Star in Lyra"
+    },
+
+    "6" :{
+      "clue": "___ monkey"
+    },
+
+    "8" :{
+      "clue": "Like Uzbek or Kyrgyz"
+    },
+
+    "9" :{
+      "clue": "Light"
+    },
+
+    "10" :{
+      "clue": "Sailor"
+    },
+
+    "11" :{
+      "clue": "Lady's man"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Monet or Manet"
+    },
+
+    "2" :{
+      "clue": "Springlike"
+    },
+
+    "3" :{
+      "clue": "Igloo dweller"
+    },
+
+    "4" :{
+      "clue": "Segovia's instrument"
+    },
+
+    "5" :{
+      "clue": "Climb"
+    },
+
+    "7" :{
+      "clue": "Enormous"
+    }
+},
+
+  "letters": "AVEGARHESUSTURKICIGNITESEAMANTLORD",
+  "words": "12",
+  "disallowedGrids": "2,32",
+  "firstSolved": ""
+}

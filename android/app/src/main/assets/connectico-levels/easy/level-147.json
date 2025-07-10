@@ -1,0 +1,14 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "PAY": [1, 2, 3],
+    "PYA": [1, 5, 9],
+    "YAP": [3, 7, 11],
+    "PA": [11, 12],
+    "AY": [7, 8]
+  },
+  "allowedGrids": "1, 2, 3, 5, 7, 8, 9, 11, 12",
+  "sentence": "PAYYAYAPA",
+  "keys": ["P","A","Y"]
+}

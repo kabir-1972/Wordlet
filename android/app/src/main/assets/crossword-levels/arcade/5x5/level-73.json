@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Disgrace"
+    },
+
+    "5" :{
+      "clue": "Melody"
+    },
+
+    "6" :{
+      "clue": "\"You said it!\""
+    },
+
+    "7" :{
+      "clue": "Pleat"
+    },
+
+    "8" :{
+      "clue": "Just picked"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Personnel"
+    },
+
+    "2" :{
+      "clue": "Indulge"
+    },
+
+    "3" :{
+      "clue": "Anoint, old style"
+    },
+
+    "4" :{
+      "clue": "Patches up"
+    }
+},
+
+  "letters": "SHAMETUNEAMENFOLDFRESH",
+  "words": "9",
+  "disallowedGrids": "10,15,20",
+  "firstSolved": ""
+}

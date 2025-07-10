@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "PAC": [1, 2, 3],
+    "CAP": [3, 7, 11],
+    "AC": [9, 13],
+    "PA": [11, 12]
+  },
+  "allowedGrids": "1, 2, 3, 7, 9, 11, 12, 13",
+  "sentence": "PACAAPAC",
+  "keys": ["C","A","P"]
+}

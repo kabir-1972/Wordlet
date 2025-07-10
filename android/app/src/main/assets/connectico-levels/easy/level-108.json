@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "GAR": [1, 2, 3],
+    "RAG": [3, 7, 11],
+    "AG": [7, 8],
+    "AR": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 11, 13",
+  "sentence": "GARAGAGR",
+  "keys": ["G","A","R"]
+}

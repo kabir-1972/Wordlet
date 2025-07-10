@@ -1,0 +1,13 @@
+{
+  "rows": 2,
+  "cols": 4,
+  "words": {
+    "KOP": [1, 2, 3],
+    "KO": [1, 5],
+    "PO": [3, 7],
+    "OP": [7, 8]
+  },
+  "allowedGrids": "1, 2, 3, 5, 7, 8",
+  "sentence": "KOPOOP",
+  "keys": ["K","O","P"]
+}

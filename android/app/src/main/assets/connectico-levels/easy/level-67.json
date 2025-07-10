@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "SEI": [1, 2, 3],
+    "ES": [2, 5],
+    "IS": [7, 10],
+    "SI": [10, 11]
+  },
+  "allowedGrids": "1, 2, 3, 5, 7, 10, 11",
+  "sentence": "SEISISI",
+  "keys": ["S","E","I"]
+}

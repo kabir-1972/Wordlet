@@ -1,0 +1,48 @@
+{
+    "placeholder": "3,6,7,9,10,11,16,21",
+
+  "across":{
+    "2" :{
+      "clue": "Indian honorific"
+    },
+
+    "6" :{
+      "clue": "Swap"
+    },
+
+    "7" :{
+      "clue": "See eye to eye"
+    },
+
+    "8" :{
+      "clue": "Type of type"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Amulet"
+    },
+
+    "2" :{
+      "clue": "Headliner"
+    },
+
+    "3" :{
+      "clue": "Jason's ship"
+    },
+
+    "4" :{
+      "clue": "Notion"
+    },
+
+    "5" :{
+      "clue": "\"___ there, done that\""
+    }
+},
+
+  "letters": "CSAHIBTRADEAGREEROMAN",
+  "words": "9",
+  "disallowedGrids": "1,2,4,5",
+  "firstSolved": ""
+}

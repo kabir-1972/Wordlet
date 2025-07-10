@@ -1,0 +1,28 @@
+{
+    "placeholder": "2,4,6,16",
+
+  "across":{
+    "3" :{
+      "clue": "Goes American, perhaps"
+    },
+
+    "4" :{
+      "clue": "Let in"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Move effortlessly"
+    },
+
+    "2" :{
+      "clue": "Deserve"
+    }
+},
+
+  "letters": "GMFLIESIRADMITET",
+  "words": "4",
+  "disallowedGrids": "1,3,5,11,13,15,21,23,25",
+  "firstSolved": ""
+}

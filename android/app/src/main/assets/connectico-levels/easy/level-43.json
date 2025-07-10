@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "GEL": [1, 2, 3],
+    "LEG": [3, 7, 11],
+    "EL": [7, 8],
+    "LE": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 11, 13",
+  "sentence": "GELELLGE",
+  "keys": ["G","E","L"]
+}

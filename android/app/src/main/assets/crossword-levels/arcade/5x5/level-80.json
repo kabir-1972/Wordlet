@@ -1,0 +1,48 @@
+{
+    "placeholder": "2,4,6,8,10,11,16,21",
+
+  "across":{
+    "3" :{
+      "clue": "Feeling ho-hum"
+    },
+
+    "6" :{
+      "clue": "Excuse"
+    },
+
+    "7" :{
+      "clue": "Mother-of-pearl"
+    },
+
+    "8" :{
+      "clue": "Fear"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Pivotal"
+    },
+
+    "2" :{
+      "clue": "Striped equine"
+    },
+
+    "3" :{
+      "clue": "Musical group"
+    },
+
+    "4" :{
+      "clue": "Paddy product"
+    },
+
+    "5" :{
+      "clue": "Conked out"
+    }
+},
+
+  "letters": "PZBOREDALIBINACREDREAD",
+  "words": "9",
+  "disallowedGrids": "1,3,5",
+  "firstSolved": ""
+}

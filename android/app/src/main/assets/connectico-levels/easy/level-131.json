@@ -1,0 +1,14 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "SOP": [1, 2, 3],
+    "POS": [3, 6, 9],
+    "OPS": [7, 8, 9],
+    "OP": [7, 10],
+    "PO": [10, 11]
+  },
+  "allowedGrids": "1, 2, 3, 6, 7, 8, 9, 10, 11",
+  "sentence": "SOPOOPSPO",
+  "keys": ["O","P","S"]
+}

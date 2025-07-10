@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Benchwarmer"
+    },
+
+    "6" :{
+      "clue": "Thin pancake"
+    },
+
+    "7" :{
+      "clue": "Bring up"
+    },
+
+    "8" :{
+      "clue": "Tee off"
+    },
+
+    "9" :{
+      "clue": "Confined"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Discard"
+    },
+
+    "2" :{
+      "clue": "Construction site sight"
+    },
+
+    "3" :{
+      "clue": "Rule"
+    },
+
+    "4" :{
+      "clue": "Unexpected victory"
+    },
+
+    "5" :{
+      "clue": "Cold one"
+    }
+},
+
+  "letters": "SCRUBCREPERAISEANGERPENT",
+  "words": "10",
+  "disallowedGrids": "25",
+  "firstSolved": ""
+}

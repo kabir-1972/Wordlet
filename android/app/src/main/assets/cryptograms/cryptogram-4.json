@@ -1,0 +1,601 @@
+{
+    "1": {
+    "sentence" : "the candle dripped slowly",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [1, 2, 5, 6, 11, 12, 17, 19, 20, 21, 22]
+    },
+
+    "2": {
+    "sentence" : "he unzipped the small pouch",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 6, 8, 9, 13, 16, 17, 19, 23, 24, 25]
+    },
+
+    "3": {
+    "sentence" : "she scrolled through photos",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [2, 6, 13, 15, 17, 18, 19, 22, 24, 25, 26]
+    },
+
+    "4": {
+    "sentence" : "the magnet clung to metal",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [0, 5, 6, 7, 12, 13, 14, 20, 21, 22, 24]
+    },
+
+    "5": {
+    "sentence" : "he tapped the wooden post",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [1, 4, 5, 6, 10, 14, 15, 16, 21, 23, 24]
+    },
+
+    "6": {
+    "sentence" : "a cloud blocked the sun",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 2, 3, 4, 5, 6, 8, 9, 11, 16, 17]
+    },
+
+    "7": {
+    "sentence" : "she scribbled on the wall",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 1, 2, 5, 7, 8, 9, 11, 15, 22, 24]
+    },
+
+    "8": {
+    "sentence" : "he placed logs in the fire",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 3, 5, 8, 10, 12, 19, 20, 22, 23, 25]
+    },
+
+    "9": {
+    "sentence" : "the doorbell rang once",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 4, 6, 10, 11, 13, 14, 15, 16, 20, 21]
+    },
+
+    "10": {
+    "sentence" : "she tightened the shoelace",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [0, 4, 6, 7, 8, 10, 15, 16, 18, 19, 25]
+    },
+
+    "11": {
+    "sentence" : "a plane flew overhead",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 3, 4, 5, 6, 8, 9, 11, 15, 18, 19]
+    },
+
+    "12": {
+    "sentence" : "he cleaned the glasses case",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 3, 4, 7, 8, 12, 13, 16, 17, 21, 24]
+    },
+
+    "13": {
+    "sentence" : "the closet door creaked open",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [0, 1, 2, 4, 5, 6, 8, 14, 18, 25, 26]
+    },
+
+    "14": {
+    "sentence" : "she folded the clean towel",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 1, 2, 5, 6, 8, 9, 15, 18, 22, 24]
+    },
+
+    "15": {
+    "sentence" : "the cat leapt to the window",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 2, 4, 5, 11, 12, 18, 19, 21, 22, 24]
+    },
+
+    "16": {
+    "sentence" : "he sorted through receipts",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [0, 3, 5, 7, 8, 12, 21, 22, 23, 24, 25]
+    },
+
+    "17": {
+    "sentence" : "rain splashed on the glass",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [2, 3, 6, 8, 9, 10, 11, 14, 18, 22, 23]
+    },
+
+    "18": {
+    "sentence" : "she organized the pencils",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 5, 6, 11, 12, 14, 15, 16, 19, 21, 23]
+    },
+
+    "19": {
+    "sentence" : "he flipped the coin midair",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [3, 4, 5, 6, 7, 8, 11, 12, 13, 20, 22]
+    },
+
+    "20": {
+    "sentence" : "the paper tore in half",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [0, 1, 5, 6, 10, 11, 12, 13, 16, 18, 20]
+    },
+
+    "21": {
+    "sentence" : "she added salt to the soup",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 1, 2, 11, 12, 13, 19, 22, 23, 24, 25]
+    },
+
+    "22": {
+    "sentence" : "he checked the rear mirror",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [1, 3, 4, 5, 7, 11, 17, 21, 22, 23, 24]
+    },
+
+    "23": {
+    "sentence" : "the pillow fell to floor",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [1, 2, 4, 7, 12, 13, 14, 17, 20, 22, 23]
+    },
+
+    "24": {
+    "sentence" : "a bubble popped loudly",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 2, 4, 5, 7, 9, 10, 14, 16, 17, 18]
+    },
+
+    "25": {
+    "sentence" : "she tucked in her scarf",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [1, 2, 4, 5, 6, 7, 9, 11, 16, 19, 21]
+    },
+
+    "26": {
+    "sentence" : "he clicked the seatbelt",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 1, 3, 5, 7, 9, 11, 12, 17, 19, 21]
+    },
+
+    "27": {
+    "sentence" : "the ice slid into water",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [2, 5, 6, 9, 11, 13, 16, 18, 20, 21, 22]
+    },
+
+    "28": {
+    "sentence" : "she brushed the crumbs off",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 2, 8, 14, 16, 17, 18, 19, 20, 21, 25]
+    },
+
+    "29": {
+    "sentence" : "he switched channels quickly",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [5, 7, 9, 10, 12, 13, 14, 17, 21, 25, 27]
+    },
+
+    "30": {
+    "sentence" : "the dog pawed at the door",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 1, 4, 9, 10, 12, 15, 18, 19, 21, 24]
+    },
+
+    "31": {
+    "sentence" : "she sprayed the perfume",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [1, 2, 5, 6, 8, 9, 13, 14, 20, 21, 22]
+    },
+
+    "32": {
+    "sentence" : "he arranged the chairs",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [0, 1, 3, 5, 9, 10, 12, 16, 17, 20, 21]
+    },
+
+    "33": {
+    "sentence" : "a windchime clinked softly",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 2, 3, 6, 7, 13, 15, 16, 18, 22, 23]
+    },
+
+    "34": {
+    "sentence" : "she cracked open a book",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 4, 5, 6, 7, 9, 12, 19, 20, 21, 22]
+    },
+
+    "35": {
+    "sentence" : "he wrapped the gift tightly",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [0, 3, 4, 8, 11, 13, 15, 16, 18, 21, 26]
+    },
+
+    "36": {
+    "sentence" : "the notebook snapped shut",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 1, 7, 13, 14, 15, 16, 18, 19, 22, 24]
+    },
+
+    "37": {
+    "sentence" : "she wiped her glasses clean",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [1, 2, 6, 11, 12, 16, 19, 20, 22, 25, 26]
+    },
+
+    "38": {
+    "sentence" : "he crossed off the list",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 4, 5, 6, 7, 9, 11, 15, 16, 21, 22]
+    },
+
+    "39": {
+    "sentence" : "a bee landed on the leaf",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 2, 3, 4, 9, 10, 14, 16, 20, 21, 23]
+    },
+
+    "40": {
+    "sentence" : "she clicked her nails",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 4, 5, 7, 9, 10, 16, 17, 18, 19, 20]
+    },
+
+    "41": {
+    "sentence" : "he dunked the cookie in tea",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [1, 5, 6, 7, 8, 15, 16, 18, 19, 24, 26]
+    },
+
+    "42": {
+    "sentence" : "the laundry spun loudly",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [5, 8, 9, 10, 12, 13, 14, 15, 17, 21, 22]
+    },
+
+    "43": {
+    "sentence" : "she knelt to tie her boots",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 2, 10, 14, 15, 17, 19, 21, 23, 24, 25]
+    },
+
+    "44": {
+    "sentence" : "he pushed the stool back",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 1, 3, 5, 7, 10, 12, 15, 16, 17, 22]
+    },
+
+    "45": {
+    "sentence" : "the lamp flickered again",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [1, 2, 4, 9, 13, 14, 15, 16, 17, 21, 23]
+    },
+
+    "46": {
+    "sentence" : "she twisted off the cap",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 2, 4, 6, 7, 8, 10, 12, 16, 18, 22]
+    },
+
+    "47": {
+    "sentence" : "a gust lifted her hair",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 3, 5, 7, 8, 9, 15, 16, 19, 20, 21]
+    },
+
+    "48": {
+    "sentence" : "he straightened the frame",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [0, 3, 4, 5, 7, 9, 12, 13, 14, 21, 22]
+    },
+
+    "49": {
+    "sentence" : "she brushed the cat gently",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [1, 4, 5, 7, 8, 10, 16, 17, 20, 21, 23]
+    },
+
+    "50": {
+    "sentence" : "the wind pushed the door open",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 1, 4, 5, 6, 11, 16, 18, 25, 27, 28]
+    },
+
+    "51": {
+    "sentence" : "he opened the jar carefully",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [1, 5, 6, 15, 16, 18, 19, 20, 21, 22, 23]
+    },
+
+    "52": {
+    "sentence" : "she sharpened the crayon",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 4, 5, 6, 9, 10, 14, 15, 18, 20, 21]
+    },
+
+    "53": {
+    "sentence" : "a truck reversed slowly",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 2, 4, 5, 8, 9, 11, 15, 19, 20, 22]
+    },
+
+    "54": {
+    "sentence" : "he tapped the mic twice",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [0, 5, 7, 8, 10, 11, 16, 18, 19, 20, 22]
+    },
+
+    "55": {
+    "sentence" : "she picked up the thread",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [2, 6, 8, 9, 11, 14, 15, 18, 20, 21, 22]
+    },
+
+    "56": {
+    "sentence" : "the calendar flipped over",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 2, 4, 5, 7, 9, 10, 14, 15, 21, 22]
+    },
+
+    "57": {
+    "sentence" : "he tugged at the zipper",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 1, 4, 6, 7, 14, 15, 17, 18, 20, 22]
+    },
+
+    "58": {
+    "sentence" : "she scratched the label off",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [4, 5, 7, 8, 10, 14, 16, 20, 21, 22, 24]
+    },
+
+    "59": {
+    "sentence" : "the water boiled quickly",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [1, 2, 5, 6, 7, 13, 14, 15, 20, 21, 22]
+    },
+
+    "60": {
+    "sentence" : "he stacked the bowls",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [0, 3, 4, 7, 8, 12, 15, 16, 17, 18, 19]
+    },
+
+    "61": {
+    "sentence" : "she polished the wood edge",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [1, 2, 6, 8, 11, 13, 14, 18, 19, 22, 25]
+    },
+
+    "62": {
+    "sentence" : "the shadow crept across wall",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [5, 8, 11, 14, 15, 17, 21, 24, 25, 26, 27]
+    },
+
+    "63": {
+    "sentence" : "he packed the last sock",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [1, 4, 7, 10, 12, 15, 16, 17, 19, 20, 21]
+    },
+
+    "64": {
+    "sentence" : "the napkin blew away",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 1, 4, 5, 7, 8, 9, 13, 14, 16, 18]
+    },
+
+    "65": {
+    "sentence" : "she zipped up the binder",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [1, 2, 4, 9, 14, 15, 16, 18, 19, 20, 22]
+    },
+
+    "66": {
+    "sentence" : "he whispered a small prayer",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [1, 6, 9, 10, 13, 15, 16, 19, 23, 25, 26]
+    },
+
+    "67": {
+    "sentence" : "a car pulled into driveway",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [2, 3, 4, 7, 8, 11, 14, 19, 21, 24, 25]
+    },
+
+    "68": {
+    "sentence" : "she covered her mouth",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [0, 1, 2, 4, 7, 8, 13, 14, 16, 17, 19]
+    },
+
+    "69": {
+    "sentence" : "he rubbed the foggy mirror",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [1, 5, 6, 11, 14, 15, 16, 18, 22, 23, 25]
+    },
+
+    "70": {
+    "sentence" : "she cut the paper neatly",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [2, 4, 5, 8, 9, 12, 13, 14, 16, 18, 19]
+    },
+
+    "71": {
+    "sentence" : "he lined up the blocks",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 3, 5, 6, 7, 9, 12, 13, 14, 16, 18]
+    },
+
+    "72": {
+    "sentence" : "a squirrel dropped a nut",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 3, 5, 8, 9, 12, 14, 16, 21, 22, 23]
+    },
+
+    "73": {
+    "sentence" : "she watched the steam rise",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 1, 2, 5, 6, 8, 9, 10, 16, 22, 24]
+    },
+
+    "74": {
+    "sentence" : "he unlocked the shed door",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [1, 3, 4, 6, 7, 12, 14, 17, 18, 21, 23]
+    },
+
+    "75": {
+    "sentence" : "she stirred cream into coffee",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [1, 6, 8, 10, 12, 15, 16, 18, 19, 24, 28]
+    },
+
+    "76": {
+    "sentence" : "a dog chased the bird",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [2, 3, 4, 8, 13, 14, 15, 17, 18, 19, 20]
+    },
+
+    "77": {
+    "sentence" : "he tossed his cap up",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 4, 5, 8, 10, 11, 12, 15, 16, 18, 19]
+    },
+
+    "78": {
+    "sentence" : "she traced circles in dust",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [0, 1, 4, 5, 6, 12, 13, 17, 19, 22, 23]
+    },
+
+    "79": {
+    "sentence" : "he stuck tape on the edge",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [3, 4, 6, 7, 9, 10, 11, 17, 18, 21, 22]
+    },
+
+    "80": {
+    "sentence" : "a fan clattered loudly",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 2, 3, 6, 7, 8, 11, 13, 14, 17, 21]
+    },
+
+    "81": {
+    "sentence" : "she pulled open the drawer",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [0, 2, 5, 6, 8, 17, 20, 21, 22, 24, 25]
+    },
+
+    "82": {
+    "sentence" : "he slapped the bug flat",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [1, 3, 4, 5, 7, 11, 12, 15, 19, 20, 21]
+    },
+
+    "83": {
+    "sentence" : "she turned the dial slowly",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [0, 4, 6, 7, 8, 9, 11, 13, 16, 24, 25]
+    },
+
+    "84": {
+    "sentence" : "he poured tea from the pot",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [3, 4, 5, 6, 7, 11, 16, 21, 23, 24, 25]
+    },
+
+    "85": {
+    "sentence" : "a feather drifted down",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 3, 4, 5, 6, 8, 10, 12, 13, 15, 19]
+    },
+
+    "86": {
+    "sentence" : "she stacked the pillows up",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [4, 5, 7, 8, 10, 13, 14, 16, 19, 24, 25]
+    },
+
+    "87": {
+    "sentence" : "he picked lint off shirt",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 4, 6, 8, 12, 13, 15, 19, 21, 22, 23]
+    },
+
+    "88": {
+    "sentence" : "the bag zipped open fast",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 5, 6, 8, 9, 10, 11, 13, 15, 17, 23]
+    },
+
+    "89": {
+    "sentence" : "she bit the end of straw",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [2, 4, 10, 12, 13, 14, 17, 19, 20, 21, 22]
+    },
+
+    "90": {
+    "sentence" : "he peeled back the sticker",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [0, 3, 5, 8, 10, 12, 17, 19, 20, 23, 24]
+    },
+
+    "91": {
+    "sentence" : "she rolled the window down",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [4, 5, 7, 8, 9, 12, 16, 20, 23, 24, 25]
+    },
+
+    "92": {
+    "sentence" : "he mumbled a quick reply",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [0, 1, 3, 7, 9, 11, 13, 15, 17, 19, 20]
+    },
+
+    "93": {
+    "sentence" : "a tag poked from his shirt",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [2, 3, 4, 6, 8, 9, 14, 15, 17, 18, 22]
+    },
+
+    "94": {
+    "sentence" : "she brushed the table edge",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [4, 5, 7, 8, 9, 10, 12, 20, 22, 23, 24]
+    },
+
+    "95": {
+    "sentence" : "he cracked his knuckles twice",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [5, 6, 7, 9, 13, 15, 18, 21, 26, 27, 28]
+    },
+
+    "96": {
+    "sentence" : "she counted coins quickly",
+    "randomizationIndex" : 0,
+    "hintedCharactersIndex" : [1, 5, 6, 10, 13, 14, 15, 16, 20, 21, 24]
+    },
+
+    "97": {
+    "sentence" : "he reached under the sink",
+    "randomizationIndex" : 1,
+    "hintedCharactersIndex" : [3, 4, 5, 6, 11, 13, 14, 15, 17, 18, 23]
+    },
+
+    "98": {
+    "sentence" : "she blinked in bright light",
+    "randomizationIndex" : 4,
+    "hintedCharactersIndex" : [1, 6, 7, 8, 9, 10, 12, 18, 22, 25, 26]
+    },
+
+    "99": {
+    "sentence" : "he sorted the colored pens",
+    "randomizationIndex" : 3,
+    "hintedCharactersIndex" : [4, 8, 12, 14, 16, 17, 18, 22, 23, 24, 25]
+    },
+
+    "100": {
+    "sentence" : "he flipped the latch upward",
+    "randomizationIndex" : 2,
+    "hintedCharactersIndex" : [0, 1, 4, 7, 8, 13, 15, 16, 22, 25, 26]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "placeholder": "3,4,5,6,7,11,16,23",
+
+  "across":{
+    "1" :{
+      "clue": "Short cut"
+    },
+
+    "4" :{
+      "clue": "Small egg"
+    },
+
+    "6" :{
+      "clue": "Finger or toe"
+    },
+
+    "7" :{
+      "clue": "Dig"
+    },
+
+    "8" :{
+      "clue": "Sushi fish"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Reveille instrument"
+    },
+
+    "2" :{
+      "clue": "Martini garnish"
+    },
+
+    "3" :{
+      "clue": "Asian palm"
+    },
+
+    "4" :{
+      "clue": "Peculiar"
+    },
+
+    "5" :{
+      "clue": "Compete"
+    }
+},
+
+  "letters": "BOBOVULEDIGITDELVEEEL",
+  "words": "10",
+  "disallowedGrids": "1,2,21,22",
+  "firstSolved": ""
+}

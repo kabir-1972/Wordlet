@@ -1,0 +1,48 @@
+{
+    "placeholder": "3,4,5,6,7,12,16,23",
+
+  "across":{
+    "1" :{
+      "clue": "Language suffix"
+    },
+
+    "4" :{
+      "clue": "Early evening"
+    },
+
+    "6" :{
+      "clue": "Repair"
+    },
+
+    "7" :{
+      "clue": "Prize money"
+    },
+
+    "8" :{
+      "clue": "Media mogul Turner"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Turn inside out"
+    },
+
+    "2" :{
+      "clue": "Have a feeling"
+    },
+
+    "3" :{
+      "clue": "Over"
+    },
+
+    "5" :{
+      "clue": "Flightless big australian bird"
+    }
+},
+
+  "letters": "ESESEVENMENDPURSETED",
+  "words": "9",
+  "disallowedGrids": "1,2,11,21,22",
+  "firstSolved": ""
+}

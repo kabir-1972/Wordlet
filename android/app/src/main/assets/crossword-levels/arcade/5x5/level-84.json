@@ -1,0 +1,48 @@
+{
+    "placeholder": "2,3,4,5,7,11,17,22",
+
+  "across":{
+    "1" :{
+      "clue": "Doll's cry"
+    },
+
+    "5" :{
+      "clue": "Norse god"
+    },
+
+    "6" :{
+      "clue": "Smart"
+    },
+
+    "7" :{
+      "clue": "Cad"
+    },
+
+    "8" :{
+      "clue": "Certain"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Closet pests"
+    },
+
+    "2" :{
+      "clue": "Parting word"
+    },
+
+    "3" :{
+      "clue": "Gold digger"
+    },
+
+    "4" :{
+      "clue": "Point of view"
+    }
+},
+
+  "letters": "MAMAODINSTINGHEELSURE",
+  "words": "9",
+  "disallowedGrids": "1,6,16,21",
+  "firstSolved": ""
+}

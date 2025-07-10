@@ -1,0 +1,52 @@
+{
+    "placeholder": "3,4,5,8,11,12,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Mother, in British dialect"
+    },
+
+    "4" :{
+      "clue": "Kimono sash"
+    },
+
+    "5" :{
+      "clue": "Started"
+    },
+
+    "7" :{
+      "clue": "Entertain"
+    },
+
+    "8" :{
+      "clue": "Regulation"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Business bigwig"
+    },
+
+    "2" :{
+      "clue": "Mistreat"
+    },
+
+    "3" :{
+      "clue": "Not yours"
+    },
+
+    "5" :{
+      "clue": "Tavern"
+    },
+
+    "6" :{
+      "clue": "Big bird"
+    }
+},
+
+  "letters": "MAMOBIBEGUNAMUSERULE",
+  "words": "10",
+  "disallowedGrids": "1,2,6,7,25",
+  "firstSolved": ""
+}

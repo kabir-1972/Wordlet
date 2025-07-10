@@ -1,0 +1,12 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "WAX": [1, 2, 3],
+    "AW": [2, 5],
+    "AX": [10, 11]
+  },
+  "allowedGrids": "1, 2, 3, 5, 10, 11",
+  "sentence": "WAXWAX",
+  "keys": ["W","A","X"]
+}

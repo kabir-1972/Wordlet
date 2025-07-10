@@ -1,0 +1,12 @@
+{
+  "rows": 2,
+  "cols": 4,
+  "words": {
+    "COG": [1, 2, 3],
+    "GO": [3, 7],
+    "OG": [7, 8]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8",
+  "sentence": "COGOG",
+  "keys": ["C","O","G"]
+}

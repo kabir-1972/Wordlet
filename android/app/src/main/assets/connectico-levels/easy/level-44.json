@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "END": [1, 2, 3],
+    "DEN": [3, 7, 11],
+    "EN": [7, 8],
+    "NE": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 11, 13",
+  "sentence": "ENDENNNE",
+  "keys": ["E","N","D"]
+}

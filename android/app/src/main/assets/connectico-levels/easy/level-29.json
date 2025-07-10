@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "COD": [1, 2, 3],
+    "DOC": [3, 7, 11],
+    "OC": [7, 8],
+    "DO": [9, 13]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 9, 11, 13",
+  "sentence": "CODOCDCO",
+  "keys": ["D","O","C"]
+}

@@ -1,0 +1,12 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "FOG": [5, 6, 7],
+    "GOF": [2, 6, 10],
+    "OF": [15, 16]
+  },
+  "allowedGrids": "2, 5, 6, 7, 10, 15, 16",
+  "sentence": "GFOGFOF",
+  "keys": ["F","O","G"]
+}

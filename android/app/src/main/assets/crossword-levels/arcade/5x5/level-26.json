@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,6,11,14,15,17,21",
+
+  "across":{
+    "1" :{
+      "clue": "Expert"
+    },
+
+    "4" :{
+      "clue": "Cleaning cloth"
+    },
+
+    "5" :{
+      "clue": "Debate"
+    },
+
+    "8" :{
+      "clue": "Microbe"
+    },
+
+    "9" :{
+      "clue": "Horn"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Coach Parseghian"
+    },
+
+    "2" :{
+      "clue": "Freight"
+    },
+
+    "3" :{
+      "clue": "Moth"
+    },
+
+    "6" :{
+      "clue": "Samovar"
+    },
+
+    "7" :{
+      "clue": "Big bird"
+    }
+},
+
+  "letters": "ACERAGARGUEGERMCORNU",
+  "words": "10",
+  "disallowedGrids": "4,5,9,10,16",
+  "firstSolved": ""
+}

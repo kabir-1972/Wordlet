@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 3,
+  "words": {
+    "KIR": [1, 2, 3],
+    "IRK": [2, 5, 8],
+    "KI": [8, 9]
+  },
+  "allowedGrids": "1, 2, 3, 5, 8, 9",
+  "sentence": "KIRRKI",
+  "keys": ["I","R","K"]
+}

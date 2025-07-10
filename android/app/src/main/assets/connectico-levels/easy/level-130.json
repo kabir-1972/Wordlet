@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "VAT": [1, 2, 3],
+    "TAV": [3, 6, 9],
+    "AT": [7, 10],
+    "TA": [10, 11]
+  },
+  "allowedGrids": "1, 2, 3, 6, 7, 9, 10, 11",
+  "sentence": "VATAAVTA",
+  "keys": ["T","A","V"]
+}

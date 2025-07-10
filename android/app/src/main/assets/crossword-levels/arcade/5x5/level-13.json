@@ -1,0 +1,52 @@
+{
+    "placeholder": "2,3,4,6,10,11,16,22",
+
+  "across":{
+    "1" :{
+      "clue": "Took a load off"
+    },
+
+    "4" :{
+      "clue": "Piece of bacon"
+    },
+
+    "6" :{
+      "clue": "Bouquet"
+    },
+
+    "7" :{
+      "clue": "Soother of the savage beast"
+    },
+
+    "8" :{
+      "clue": "Media mogul Turner"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Swagger"
+    },
+
+    "2" :{
+      "clue": "Came up"
+    },
+
+    "3" :{
+      "clue": "Fainthearted"
+    },
+
+    "4" :{
+      "clue": "\"Casablanca\" pianist"
+    },
+
+    "5" :{
+      "clue": "Lobbying org"
+    }
+},
+
+  "letters": "SATSTRIPAROMAMUSICTED",
+  "words": "10",
+  "disallowedGrids": "1,5,21,25",
+  "firstSolved": ""
+}

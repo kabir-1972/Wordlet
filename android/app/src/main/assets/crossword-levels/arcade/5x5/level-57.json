@@ -1,0 +1,52 @@
+{
+    "placeholder": "3,4,5,6,7,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Male swan"
+    },
+
+    "4" :{
+      "clue": "Mall unit"
+    },
+
+    "6" :{
+      "clue": "Wanderer"
+    },
+
+    "7" :{
+      "clue": "Nimble"
+    },
+
+    "8" :{
+      "clue": "Lobbying org"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Humorous"
+    },
+
+    "2" :{
+      "clue": "Spoken"
+    },
+
+    "3" :{
+      "clue": "Eliot's \"Adam ___\""
+    },
+
+    "4" :{
+      "clue": "Piece of cake"
+    },
+
+    "5" :{
+      "clue": "Forum garb"
+    }
+},
+
+  "letters": "COBSTORENOMADAGILEPAC",
+  "words": "10",
+  "disallowedGrids": "1,2,24,25",
+  "firstSolved": ""
+}

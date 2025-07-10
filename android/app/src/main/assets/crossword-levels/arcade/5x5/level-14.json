@@ -1,0 +1,52 @@
+{
+    "placeholder": "3,4,5,8,11,12,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Swiss peak"
+    },
+
+    "4" :{
+      "clue": "Female rabbit"
+    },
+
+    "5" :{
+      "clue": "Manila hemp"
+    },
+
+    "7" :{
+      "clue": "Term of endearment"
+    },
+
+    "8" :{
+      "clue": "Aroma"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Saw"
+    },
+
+    "2" :{
+      "clue": "From around here"
+    },
+
+    "3" :{
+      "clue": "Bit of wisdom"
+    },
+
+    "5" :{
+      "clue": "Beast of burden"
+    },
+
+    "6" :{
+      "clue": "Cadge"
+    }
+},
+
+  "letters": "ALPDOEABACASUGARSMELL",
+  "words": "10",
+  "disallowedGrids": "1,2,6,7",
+  "firstSolved": ""
+}

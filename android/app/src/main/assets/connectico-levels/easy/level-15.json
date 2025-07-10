@@ -1,0 +1,14 @@
+{
+  "rows": 4,
+  "cols": 4,
+  "words": {
+    "BAT": [1, 2, 3],
+    "TAB": [3, 7, 11],
+    "BA": [1, 5],
+    "AT": [7, 8],
+    "TA": [8, 12]
+  },
+  "allowedGrids": "1, 2, 3, 7, 8, 11, 12",
+  "sentence": "BATATBA",
+  "keys": ["B","A","T"]
+}

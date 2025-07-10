@@ -1,0 +1,48 @@
+{
+    "placeholder": "5,6,7,8,9,11,16,21",
+
+  "across":{
+    "2" :{
+      "clue": "Hue"
+    },
+
+    "6" :{
+      "clue": "Spooky"
+    },
+
+    "7" :{
+      "clue": "Wept"
+    },
+
+    "8" :{
+      "clue": "Hot alcoholic drink"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Like an oboe's sound"
+    },
+
+    "2" :{
+      "clue": "Splinter group"
+    },
+
+    "3" :{
+      "clue": "Protagonist"
+    },
+
+    "4" :{
+      "clue": "Parched"
+    },
+
+    "5" :{
+      "clue": "Conked out"
+    }
+},
+
+  "letters": "RSHADEEERIECRIEDTODDY",
+  "words": "9",
+  "disallowedGrids": "1,2,3,4",
+  "firstSolved": ""
+}

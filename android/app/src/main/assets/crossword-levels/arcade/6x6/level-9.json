@@ -1,0 +1,56 @@
+{
+    "placeholder": "4,6,7,8,9,11,13,19,25,31",
+
+  "across":{
+    "3" :{
+      "clue": "Claim"
+    },
+
+    "7" :{
+      "clue": "Joint"
+    },
+
+    "8" :{
+      "clue": "Zodiac twins"
+    },
+
+    "9" :{
+      "clue": "Eye"
+    },
+
+    "10" :{
+      "clue": "Separate the wheat from the chaff"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Sully"
+    },
+
+    "2" :{
+      "clue": "\"___ the thought!\""
+    },
+
+    "3" :{
+      "clue": "Jargon"
+    },
+
+    "4" :{
+      "clue": "Parasite"
+    },
+
+    "5" :{
+      "clue": "Madagascar mammal"
+    },
+
+    "6" :{
+      "clue": "Trivial Pursuit edition"
+    }
+},
+
+  "letters": "DPALLEGEREEFERGEMINIOCULUSTHRESH",
+  "words": "11",
+  "disallowedGrids": "1,2,3,5",
+  "firstSolved": ""
+}

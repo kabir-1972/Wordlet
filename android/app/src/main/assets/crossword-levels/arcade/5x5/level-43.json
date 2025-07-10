@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,5,6,11,14,18,23",
+
+  "across":{
+    "1" :{
+      "clue": "Gangster's gun"
+    },
+
+    "5" :{
+      "clue": "In the past"
+    },
+
+    "6" :{
+      "clue": "Have a feeling"
+    },
+
+    "8" :{
+      "clue": "Wrigley field?"
+    },
+
+    "9" :{
+      "clue": "Health resort"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Hydrogen and helium"
+    },
+
+    "2" :{
+      "clue": "Ripen"
+    },
+
+    "3" :{
+      "clue": "Salad servers"
+    },
+
+    "4" :{
+      "clue": "Backdoor medical procedure?"
+    },
+
+    "7" :{
+      "clue": "Dine"
+    }
+},
+
+  "letters": "GATEAGONSENSEEGUMSSPA",
+  "words": "10",
+  "disallowedGrids": "4,9,17,22",
+  "firstSolved": ""
+}

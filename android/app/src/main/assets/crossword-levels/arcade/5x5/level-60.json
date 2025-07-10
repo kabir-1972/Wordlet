@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,6,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Humble"
+    },
+
+    "5" :{
+      "clue": "Reverberate"
+    },
+
+    "6" :{
+      "clue": "Battery fluid"
+    },
+
+    "7" :{
+      "clue": "Vocalized"
+    },
+
+    "8" :{
+      "clue": "Cornered"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Minimum"
+    },
+
+    "2" :{
+      "clue": "Happen"
+    },
+
+    "3" :{
+      "clue": "Moan and groan"
+    },
+
+    "4" :{
+      "clue": "Skier's quarters"
+    }
+},
+
+  "letters": "LOWLYECHOACIDSUNGTREED",
+  "words": "9",
+  "disallowedGrids": "10,15,20",
+  "firstSolved": ""
+}

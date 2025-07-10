@@ -1,0 +1,48 @@
+{
+    "placeholder": "5,6,7,8,9,11,16,21",
+
+  "across":{
+    "2" :{
+      "clue": "\"Cabaret\" director"
+    },
+
+    "6" :{
+      "clue": "Approximately"
+    },
+
+    "7" :{
+      "clue": "Humorous"
+    },
+
+    "8" :{
+      "clue": "Pearly whites"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "(Clue to be added)"
+    },
+
+    "2" :{
+      "clue": "Datum"
+    },
+
+    "3" :{
+      "clue": "Woodwind instrument"
+    },
+
+    "4" :{
+      "clue": "A few"
+    },
+
+    "5" :{
+      "clue": "Diamonds, e.g"
+    }
+},
+
+  "letters": "LFOSSEABOUTCOMICTEETH",
+  "words": "9.5",
+  "disallowedGrids": "1,2,3,4",
+  "firstSolved": ""
+}

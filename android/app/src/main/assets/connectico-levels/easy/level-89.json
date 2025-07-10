@@ -1,0 +1,12 @@
+{
+  "rows": 2,
+  "cols": 3,
+  "words": {
+    "RIT": [1, 2, 3],
+    "IT": [2, 5],
+    "TI": [5, 6]
+  },
+  "allowedGrids": "1, 2, 3, 5, 6",
+  "sentence": "RITTI",
+  "keys": ["R","I","T"]
+}

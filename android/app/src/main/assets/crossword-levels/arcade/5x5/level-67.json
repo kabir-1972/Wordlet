@@ -1,0 +1,52 @@
+{
+    "placeholder": "3,4,5,6,7,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Little one"
+    },
+
+    "4" :{
+      "clue": "Expressionless"
+    },
+
+    "6" :{
+      "clue": "Irrigate"
+    },
+
+    "7" :{
+      "clue": "Corpulent"
+    },
+
+    "8" :{
+      "clue": "Cadge"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Tribal symbol"
+    },
+
+    "2" :{
+      "clue": "Change for a five"
+    },
+
+    "3" :{
+      "clue": "Phoenician port"
+    },
+
+    "4" :{
+      "clue": "Mop: Var"
+    },
+
+    "5" :{
+      "clue": "Forbidden"
+    }
+},
+
+  "letters": "TOTSTONYWATEROBESEBUM",
+  "words": "10",
+  "disallowedGrids": "1,2,24,25",
+  "firstSolved": ""
+}

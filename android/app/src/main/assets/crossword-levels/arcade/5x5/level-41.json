@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16",
+
+  "across":{
+    "1" :{
+      "clue": "Minimum"
+    },
+
+    "6" :{
+      "clue": "Happen"
+    },
+
+    "7" :{
+      "clue": "Moan and groan"
+    },
+
+    "8" :{
+      "clue": "File, as a complaint"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Humble"
+    },
+
+    "2" :{
+      "clue": "Reverberate"
+    },
+
+    "3" :{
+      "clue": "Battery fluid"
+    },
+
+    "4" :{
+      "clue": "Vocalized"
+    },
+
+    "5" :{
+      "clue": "Cornered"
+    }
+},
+
+  "letters": "LEASTOCCURWHINELODGEYD",
+  "words": "9",
+  "disallowedGrids": "22,23,24",
+  "firstSolved": ""
+}

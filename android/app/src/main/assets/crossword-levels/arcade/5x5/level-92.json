@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,17,22",
+
+  "across":{
+    "1" :{
+      "clue": "Behind bars"
+    },
+
+    "6" :{
+      "clue": "Musical drama"
+    },
+
+    "7" :{
+      "clue": "Moolah"
+    },
+
+    "8" :{
+      "clue": "CIA forerunner"
+    },
+
+    "9" :{
+      "clue": "Born"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Male swan"
+    },
+
+    "2" :{
+      "clue": "Cook's cover-up"
+    },
+
+    "3" :{
+      "clue": "Honkers"
+    },
+
+    "4" :{
+      "clue": "Wipe out"
+    },
+
+    "5" :{
+      "clue": "Pop"
+    }
+},
+
+  "letters": "CAGEDOPERABREADOSSNEE",
+  "words": "10",
+  "disallowedGrids": "16,20,21,25",
+  "firstSolved": ""
+}

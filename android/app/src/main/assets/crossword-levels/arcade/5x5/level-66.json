@@ -1,0 +1,48 @@
+{
+    "placeholder": "1,2,3,4,5,6,11,16",
+
+  "across":{
+    "1" :{
+      "clue": "Out of the way"
+    },
+
+    "6" :{
+      "clue": "Go bad"
+    },
+
+    "7" :{
+      "clue": "Couldn't stand"
+    },
+
+    "8" :{
+      "clue": "Growing out"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Fireplace residue"
+    },
+
+    "2" :{
+      "clue": "Bridge"
+    },
+
+    "3" :{
+      "clue": "Smidgen"
+    },
+
+    "4" :{
+      "clue": "Regimen"
+    },
+
+    "5" :{
+      "clue": "Church official"
+    }
+},
+
+  "letters": "ASIDESPOILHATEDENATESR",
+  "words": "9",
+  "disallowedGrids": "22,23,24",
+  "firstSolved": ""
+}

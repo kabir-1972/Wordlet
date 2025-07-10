@@ -1,0 +1,13 @@
+{
+  "rows": 5,
+  "cols": 3,
+  "words": {
+    "GED": [1, 2, 3],
+    "DEG": [3, 6, 9],
+    "DE": [7, 10],
+    "ED": [10, 11]
+  },
+  "allowedGrids": "1, 2, 3, 6, 7, 9, 10, 11",
+  "sentence": "GEDEDGED",
+  "keys": ["D","E","G"]
+}

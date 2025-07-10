@@ -1,0 +1,32 @@
+{
+    "placeholder": "1,4,11,21",
+
+  "across":{
+    "1" :{
+      "clue": "A wide, flat piece of fabric, worn around the neck"
+    },
+
+    "3" :{
+      "clue": "From Athens"
+    },
+
+    "4" :{
+      "clue": "Out-and-out"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Swagger"
+    },
+
+    "2" :{
+      "clue": "Corpulent"
+    }
+},
+
+  "letters": "ASCOTTBGREEKUSUTTER",
+  "words": "5",
+  "disallowedGrids": "6,10,16,20",
+  "firstSolved": ""
+}

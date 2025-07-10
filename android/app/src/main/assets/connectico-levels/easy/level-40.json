@@ -1,0 +1,13 @@
+{
+  "rows": 3,
+  "cols": 4,
+  "words": {
+    "ANT": [1, 2, 3],
+    "AT": [1, 5],
+    "TAN": [3, 7, 11],
+    "AN": [7, 8]
+  },
+  "allowedGrids": "1, 2, 3, 5, 7, 8, 11",
+  "sentence": "ANTTANN",
+  "keys": ["A","N","T"]
+}

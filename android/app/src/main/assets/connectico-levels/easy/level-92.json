@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 3,
+  "words": {
+    "BES": [1, 2, 3],
+    "BE": [1, 4],
+    "ES": [8, 9]
+  },
+  "allowedGrids": "1, 2, 3, 4, 8, 9, 10",
+  "sentence": "BESEESS",
+  "keys": ["B","E","S"]
+}

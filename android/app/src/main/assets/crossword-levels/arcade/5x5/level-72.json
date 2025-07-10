@@ -1,0 +1,52 @@
+{
+    "placeholder": "1,2,3,4,5,11,16,21",
+
+  "across":{
+    "1" :{
+      "clue": "Incline"
+    },
+
+    "6" :{
+      "clue": "Drank to excess"
+    },
+
+    "7" :{
+      "clue": "Taking advantage of"
+    },
+
+    "8" :{
+      "clue": "Backyard barrier"
+    },
+
+    "9" :{
+      "clue": "Let go"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Things"
+    },
+
+    "2" :{
+      "clue": "Also-ran"
+    },
+
+    "3" :{
+      "clue": "Think"
+    },
+
+    "4" :{
+      "clue": "British coins"
+    },
+
+    "5" :{
+      "clue": "Barely defeated"
+    }
+},
+
+  "letters": "SLOPETOPEDUSINGFENCEFREED",
+  "words": "10",
+  "disallowedGrids": "",
+  "firstSolved": ""
+}

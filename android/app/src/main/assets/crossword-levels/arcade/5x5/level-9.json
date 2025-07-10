@@ -1,0 +1,52 @@
+{
+    "placeholder": "2,3,4,6,10,11,16,22",
+
+  "across":{
+    "1" :{
+      "clue": "Gullet"
+    },
+
+    "4" :{
+      "clue": "Chocolate substitute"
+    },
+
+    "6" :{
+      "clue": "Musical drama"
+    },
+
+    "7" :{
+      "clue": "Tissue material"
+    },
+
+    "8" :{
+      "clue": "Superlative suffix"
+    }
+},
+
+  "down":{
+    "1" :{
+      "clue": "Syrup source"
+    },
+
+    "2" :{
+      "clue": "Regions"
+    },
+
+    "3" :{
+      "clue": "More than worse"
+    },
+
+    "4" :{
+      "clue": "Filch"
+    },
+
+    "5" :{
+      "clue": "\"Kapow!\""
+    }
+},
+
+  "letters": "MAWCAROBOPERAPLASMEST",
+  "words": "10",
+  "disallowedGrids": "1,5,21,25",
+  "firstSolved": ""
+}

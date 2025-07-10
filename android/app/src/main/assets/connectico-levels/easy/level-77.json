@@ -1,0 +1,12 @@
+{
+  "rows": 3,
+  "cols": 3,
+  "words": {
+    "JOR": [1, 2, 3],
+    "JO": [1, 4],
+    "OR": [8, 9]
+  },
+  "allowedGrids": "1, 2, 3, 4, 8, 9",
+  "sentence": "JOROOR",
+  "keys": ["J","O","R"]
+}

@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "ADD": [1, 2, 3],
+    "DAD": [3, 6, 9],
+    "AD": [7, 10],
+    "DA": [10, 11]
+  },
+  "allowedGrids": "1, 2, 3, 6, 7, 9, 10, 11",
+  "sentence": "ADDAADDA",
+  "keys": ["A","D","D"]
+}

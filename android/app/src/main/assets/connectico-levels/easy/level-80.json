@@ -1,0 +1,13 @@
+{
+  "rows": 4,
+  "cols": 3,
+  "words": {
+    "HIM": [1, 2, 3],
+    "HI": [1, 4],
+    "MI": [3, 6],
+    "HM": [8, 11]
+  },
+  "allowedGrids": "1, 2, 3, 4, 6, 8, 10, 11",
+  "sentence": "HIMIIHM",
+  "keys": ["H","I","M"]
+}
