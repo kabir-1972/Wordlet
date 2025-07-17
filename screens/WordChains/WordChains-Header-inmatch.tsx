@@ -276,7 +276,7 @@ export const AnagrammistGameInfoModal=(props: GameInfoModalProps)=>{
                   <View style={modalStyles.modalContent}>
                     <ParagraphText style={{color: '#dcf9f5'}}>Objective</ParagraphText>
                     <View style={modalStyles.modalSubContent}>
-                        <ModalContentText>Build a continuous chain of words, where each new word begins with the last letter of the previous one. Players aim to think quickly and creatively while avoiding repetition or invalid entries, continuing the chain for as long as possible.</ModalContentText>
+                        <ModalContentText>Build a continuous chain of words, where each new word begins with the last letter of the previous one. </ModalContentText>
                     </View>
                     <WordleText style={{textAlign: 'center', fontSize: 20, marginTop: 10, marginBottom: 3, color: 'wheat'}}>Guidelines</WordleText>
                     <View style={modalStyles.horizontalBar}></View>

@@ -77,6 +77,11 @@ export const Rewards={
         2: {xp: 0, coins: 0},
         3: {xp: 500, coins: 1000},
         4: {xp: 500, coins: 1000}
+    },
+
+    Matching:{
+        xp: 10, coins: 0
+
     }
 
 }

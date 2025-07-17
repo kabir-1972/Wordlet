@@ -2,14 +2,13 @@
  * Header to be shown in Wordle Matches...
 **/
 
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useRef, useState } from 'react';
 import { View, Text, TextProps, ImageBackground, Animated, Image, Pressable, Modal, ImageSourcePropType, ScrollView } from 'react-native';
 import { styles } from "../../source/styles/header-inmatch-styles"
 import { modalStyles } from '../../source/styles/wordle-header-inmatch-modals-style';
 import { buttons, icons, modalBackgrounds } from '../../source/styles/assets';
 import { buttonPressIn,buttonPressOut } from '../../source/styles/allAnimations';
 import { OutlinedText } from '../../source/styles/outlinedText';
-import LightSweep from '../../source/styles/ingame-animations';
 import { Gapfills} from './Gapfills-GameInfo-SubScreen';
 import { AddCoinModal } from '../Add-Coin-Modal'
 import { SettingsData, SettingsModal } from '../Settings';

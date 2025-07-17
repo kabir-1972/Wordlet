@@ -1,0 +1,1602 @@
+{
+    "1": {
+        "column1": [
+            "acrimonious",
+            "harmonious",
+            "bitter",
+            "sweet",
+            "caustic"
+        ],
+        "column2": [
+            "peaceful",
+            "resentful",
+            "pleasant",
+            "harsh",
+            "gentle"
+        ]
+    },
+    "2": {
+        "column1": [
+            "cupidity",
+            "generosity",
+            "avarice",
+            "charity",
+            "greed"
+        ],
+        "column2": [
+            "desire",
+            "giving",
+            "greediness",
+            "kindness",
+            "covetousness"
+        ]
+    },
+    "3": {
+        "column1": [
+            "abstruse",
+            "simple",
+            "complex",
+            "clear",
+            "recondite"
+        ],
+        "column2": [
+            "difficult",
+            "easy",
+            "complicated",
+            "obvious",
+            "obscure"
+        ]
+    },
+    "4": {
+        "column1": [
+            "abstruse",
+            "simple",
+            "complex",
+            "clear",
+            "obscure"
+        ],
+        "column2": [
+            "straightforward",
+            "complicated",
+            "obvious",
+            "difficult",
+            "plain"
+        ]
+    },
+    "5": {
+        "column1": [
+            "robust",
+            "frail",
+            "strong",
+            "weak",
+            "sturdy"
+        ],
+        "column2": [
+            "healthy",
+            "feeble",
+            "vigorous",
+            "fragile",
+            "hardy"
+        ]
+    },
+    "6": {
+        "column1": [
+            "soporific",
+            "stimulating",
+            "sedative",
+            "energizing",
+            "narcotic"
+        ],
+        "column2": [
+            "sleep-inducing",
+            "awakening",
+            "calming",
+            "exciting",
+            "drugging"
+        ]
+    },
+    "7": {
+        "column1": [
+            "risible",
+            "serious",
+            "laughable",
+            "grave",
+            "absurd"
+        ],
+        "column2": [
+            "funny",
+            "solemn",
+            "amusing",
+            "important",
+            "ridiculous"
+        ]
+    },
+    "8": {
+        "column1": [
+            "byzantine",
+            "straightforward",
+            "convoluted",
+            "direct",
+            "labyrinthine"
+        ],
+        "column2": [
+            "complex",
+            "simple",
+            "twisted",
+            "clear",
+            "maze-like"
+        ]
+    },
+    "9": {
+        "column1": [
+            "venerable",
+            "wholesome",
+            "yearning",
+            "zealot",
+            "abject"
+        ],
+        "column2": [
+            "contemptible",
+            "corrupt",
+            "satisfied",
+            "moderate",
+            "dignified"
+        ]
+    },
+    "10": {
+        "column1": [
+            "heinous",
+            "admirable",
+            "atrocious",
+            "praiseworthy",
+            "abominable"
+        ],
+        "column2": [
+            "commendable",
+            "terrible",
+            "laudable",
+            "detestable",
+            "virtuous"
+        ]
+    },
+    "11": {
+        "column1": [
+            "effulgent",
+            "feckless",
+            "gaunt",
+            "histrionic",
+            "ignominious"
+        ],
+        "column2": [
+            "dim",
+            "effective",
+            "plump",
+            "understated",
+            "honorable"
+        ]
+    },
+    "12": {
+        "column1": [
+            "knavish",
+            "honest",
+            "roguish",
+            "trustworthy",
+            "mischievous"
+        ],
+        "column2": [
+            "dishonest",
+            "truthful",
+            "playful",
+            "reliable",
+            "naughty"
+        ]
+    },
+    "13": {
+        "column1": [
+            "wizened",
+            "youthful",
+            "shriveled",
+            "fresh",
+            "wrinkled"
+        ],
+        "column2": [
+            "aged",
+            "young",
+            "dried",
+            "new",
+            "creased"
+        ]
+    },
+    "14": {
+        "column1": [
+            "pervasive",
+            "rare",
+            "everywhere",
+            "scarce",
+            "omnipresent"
+        ],
+        "column2": [
+            "universal",
+            "uncommon",
+            "widespread",
+            "limited",
+            "ubiquitous"
+        ]
+    },
+    "15": {
+        "column1": [
+            "torpid",
+            "active",
+            "sluggish",
+            "energetic",
+            "lethargic"
+        ],
+        "column2": [
+            "inactive",
+            "lively",
+            "slow",
+            "vigorous",
+            "drowsy"
+        ]
+    },
+    "16": {
+        "column1": [
+            "sanguine",
+            "pessimistic",
+            "optimistic",
+            "melancholic",
+            "phlegmatic"
+        ],
+        "column2": [
+            "cheerful",
+            "negative",
+            "hopeful",
+            "sad",
+            "calm"
+        ]
+    },
+    "17": {
+        "column1": [
+            "dynamic",
+            "static",
+            "energetic",
+            "stagnant",
+            "active"
+        ],
+        "column2": [
+            "vigorous",
+            "motionless",
+            "powerful",
+            "inactive",
+            "forceful"
+        ]
+    },
+    "18": {
+        "column1": [
+            "vehement",
+            "wither",
+            "xenophobic",
+            "yoke",
+            "zenith"
+        ],
+        "column2": [
+            "mild",
+            "flourish",
+            "accepting",
+            "liberate",
+            "nadir"
+        ]
+    },
+    "19": {
+        "column1": [
+            "jaunty",
+            "kindle",
+            "lachrymose",
+            "mawkish",
+            "nonchalant"
+        ],
+        "column2": [
+            "dejected",
+            "quench",
+            "cheerful",
+            "genuine",
+            "concerned"
+        ]
+    },
+    "20": {
+        "column1": [
+            "grandiloquent",
+            "simple",
+            "pompous",
+            "plain",
+            "bombastic"
+        ],
+        "column2": [
+            "modest",
+            "inflated",
+            "humble",
+            "verbose",
+            "understated"
+        ]
+    },
+    "21": {
+        "column1": [
+            "ebullient",
+            "subdued",
+            "exuberant",
+            "calm",
+            "effervescent"
+        ],
+        "column2": [
+            "enthusiastic",
+            "quiet",
+            "lively",
+            "peaceful",
+            "bubbly"
+        ]
+    },
+    "22": {
+        "column1": [
+            "gregarious",
+            "reclusive",
+            "magnanimous",
+            "parsimonious",
+            "audacious"
+        ],
+        "column2": [
+            "solitary",
+            "sociable",
+            "petty",
+            "generous",
+            "timid"
+        ]
+    },
+    "23": {
+        "column1": [
+            "joyful",
+            "sorrowful",
+            "happy",
+            "sad",
+            "elated"
+        ],
+        "column2": [
+            "cheerful",
+            "mournful",
+            "glad",
+            "dejected",
+            "jubilant"
+        ]
+    },
+    "24": {
+        "column1": [
+            "indefatigable",
+            "tired",
+            "inexhaustible",
+            "weary",
+            "tireless"
+        ],
+        "column2": [
+            "untiring",
+            "exhausted",
+            "endless",
+            "fatigued",
+            "persistent"
+        ]
+    },
+    "25": {
+        "column1": [
+            "contentious",
+            "agreeable",
+            "combative",
+            "peaceful",
+            "argumentative"
+        ],
+        "column2": [
+            "cooperative",
+            "hostile",
+            "harmonious",
+            "belligerent",
+            "conciliatory"
+        ]
+    },
+    "26": {
+        "column1": [
+            "malicious",
+            "benevolent",
+            "spiteful",
+            "kind",
+            "vindictive"
+        ],
+        "column2": [
+            "evil",
+            "good",
+            "harmful",
+            "helpful",
+            "cruel"
+        ]
+    },
+    "27": {
+        "column1": [
+            "truculent",
+            "peaceful",
+            "belligerent",
+            "pacifist",
+            "pugnacious"
+        ],
+        "column2": [
+            "aggressive",
+            "calm",
+            "hostile",
+            "non-violent",
+            "combative"
+        ]
+    },
+    "28": {
+        "column1": [
+            "taciturn",
+            "loquacious",
+            "reticent",
+            "garrulous",
+            "verbose"
+        ],
+        "column2": [
+            "quiet",
+            "talkative",
+            "reserved",
+            "chatty",
+            "wordy"
+        ]
+    },
+    "29": {
+        "column1": [
+            "cupidity",
+            "generosity",
+            "avarice",
+            "charity",
+            "greed"
+        ],
+        "column2": [
+            "desire",
+            "giving",
+            "greediness",
+            "kindness",
+            "covetousness"
+        ]
+    },
+    "30": {
+        "column1": [
+            "sagacious",
+            "foolish",
+            "astute",
+            "naive",
+            "discerning"
+        ],
+        "column2": [
+            "wise",
+            "stupid",
+            "shrewd",
+            "gullible",
+            "perceptive"
+        ]
+    },
+    "31": {
+        "column1": [
+            "fastidious",
+            "laudable",
+            "intrepid",
+            "malleable",
+            "vivacious"
+        ],
+        "column2": [
+            "slovenly",
+            "deplorable",
+            "cowardly",
+            "rigid",
+            "listless"
+        ]
+    },
+    "32": {
+        "column1": [
+            "indigenous",
+            "foreign",
+            "exotic",
+            "familiar",
+            "novel"
+        ],
+        "column2": [
+            "alien",
+            "native",
+            "commonplace",
+            "strange",
+            "conventional"
+        ]
+    },
+    "33": {
+        "column1": [
+            "laconic",
+            "magnanimous",
+            "nonchalant",
+            "opulent",
+            "pedestrian"
+        ],
+        "column2": [
+            "verbose",
+            "petty",
+            "concerned",
+            "impoverished",
+            "extraordinary"
+        ]
+    },
+    "34": {
+        "column1": [
+            "incisive",
+            "dull",
+            "penetrating",
+            "superficial",
+            "acute"
+        ],
+        "column2": [
+            "sharp",
+            "blunt",
+            "piercing",
+            "shallow",
+            "keen"
+        ]
+    },
+    "35": {
+        "column1": [
+            "deleterious",
+            "beneficial",
+            "harmful",
+            "helpful",
+            "noxious"
+        ],
+        "column2": [
+            "advantageous",
+            "injurious",
+            "good",
+            "toxic",
+            "healing"
+        ]
+    },
+    "36": {
+        "column1": [
+            "unctuous",
+            "sincere",
+            "oily",
+            "genuine",
+            "smarmy"
+        ],
+        "column2": [
+            "insincere",
+            "honest",
+            "greasy",
+            "authentic",
+            "smooth"
+        ]
+    },
+    "37": {
+        "column1": [
+            "ubiquitous",
+            "venerable",
+            "wane",
+            "xenodochial",
+            "yearning"
+        ],
+        "column2": [
+            "rare",
+            "contemptible",
+            "wax",
+            "xenophobic",
+            "satisfied"
+        ]
+    },
+    "38": {
+        "column1": [
+            "yonder",
+            "zephyr",
+            "austere",
+            "blithe",
+            "candid"
+        ],
+        "column2": [
+            "here",
+            "gale",
+            "indulgent",
+            "melancholy",
+            "deceptive"
+        ]
+    },
+    "39": {
+        "column1": [
+            "jocund",
+            "melancholy",
+            "cheerful",
+            "sad",
+            "jovial"
+        ],
+        "column2": [
+            "merry",
+            "gloomy",
+            "happy",
+            "depressed",
+            "jolly"
+        ]
+    },
+    "40": {
+        "column1": [
+            "chicanery",
+            "honesty",
+            "deception",
+            "straightforwardness",
+            "trickery"
+        ],
+        "column2": [
+            "fraud",
+            "truthfulness",
+            "deceit",
+            "directness",
+            "cunning"
+        ]
+    },
+    "41": {
+        "column1": [
+            "tenacious",
+            "yielding",
+            "persistent",
+            "flexible",
+            "steadfast"
+        ],
+        "column2": [
+            "compliant",
+            "stubborn",
+            "adaptable",
+            "rigid",
+            "wavering"
+        ]
+    },
+    "42": {
+        "column1": [
+            "gossamer",
+            "harbinger",
+            "inscrutable",
+            "jettison",
+            "knotty"
+        ],
+        "column2": [
+            "substantial",
+            "epilogue",
+            "transparent",
+            "retain",
+            "simple"
+        ]
+    },
+    "43": {
+        "column1": [
+            "surreptitious",
+            "overt",
+            "clandestine",
+            "transparent",
+            "covert"
+        ],
+        "column2": [
+            "secretive",
+            "open",
+            "hidden",
+            "clear",
+            "concealed"
+        ]
+    },
+    "44": {
+        "column1": [
+            "benevolent",
+            "malevolent",
+            "kind",
+            "cruel",
+            "generous"
+        ],
+        "column2": [
+            "charitable",
+            "evil",
+            "good",
+            "harsh",
+            "giving"
+        ]
+    },
+    "45": {
+        "column1": [
+            "redoubtable",
+            "weak",
+            "formidable",
+            "feeble",
+            "intimidating"
+        ],
+        "column2": [
+            "powerless",
+            "impressive",
+            "frail",
+            "mighty",
+            "harmless"
+        ]
+    },
+    "46": {
+        "column1": [
+            "cogent",
+            "weak",
+            "convincing",
+            "feeble",
+            "compelling"
+        ],
+        "column2": [
+            "persuasive",
+            "powerless",
+            "strong",
+            "ineffective",
+            "forceful"
+        ]
+    },
+    "47": {
+        "column1": [
+            "ameliorate",
+            "exacerbate",
+            "construct",
+            "illuminate",
+            "fortify"
+        ],
+        "column2": [
+            "worsen",
+            "improve",
+            "demolish",
+            "obscure",
+            "weaken"
+        ]
+    },
+    "48": {
+        "column1": [
+            "salubrious",
+            "torpid",
+            "urbane",
+            "volatile",
+            "winsome"
+        ],
+        "column2": [
+            "unhealthy",
+            "active",
+            "boorish",
+            "stable",
+            "repulsive"
+        ]
+    },
+    "49": {
+        "column1": [
+            "yoke",
+            "zestful",
+            "abstruse",
+            "bombastic",
+            "clandestine"
+        ],
+        "column2": [
+            "liberate",
+            "apathetic",
+            "clear",
+            "understated",
+            "overt"
+        ]
+    },
+    "50": {
+        "column1": [
+            "quell",
+            "rancid",
+            "salubrious",
+            "tawdry",
+            "unctuous"
+        ],
+        "column2": [
+            "incite",
+            "fresh",
+            "unhealthy",
+            "elegant",
+            "genuine"
+        ]
+    },
+    "51": {
+        "column1": [
+            "abscond",
+            "remain",
+            "flee",
+            "stay",
+            "escape"
+        ],
+        "column2": [
+            "run away",
+            "continue",
+            "bolt",
+            "persist",
+            "depart"
+        ]
+    },
+    "52": {
+        "column1": [
+            "impartial",
+            "biased",
+            "fair",
+            "prejudiced",
+            "neutral"
+        ],
+        "column2": [
+            "objective",
+            "subjective",
+            "unbiased",
+            "partial",
+            "balanced"
+        ]
+    },
+    "53": {
+        "column1": [
+            "humble",
+            "arrogant",
+            "modest",
+            "proud",
+            "meek"
+        ],
+        "column2": [
+            "unassuming",
+            "conceited",
+            "unpretentious",
+            "haughty",
+            "submissive"
+        ]
+    },
+    "54": {
+        "column1": [
+            "prolific",
+            "barren",
+            "fecund",
+            "sterile",
+            "productive"
+        ],
+        "column2": [
+            "infertile",
+            "fertile",
+            "unproductive",
+            "fruitful",
+            "idle"
+        ]
+    },
+    "55": {
+        "column1": [
+            "prudent",
+            "reckless",
+            "cautious",
+            "careless",
+            "wise"
+        ],
+        "column2": [
+            "sensible",
+            "foolish",
+            "careful",
+            "imprudent",
+            "judicious"
+        ]
+    },
+    "56": {
+        "column1": [
+            "fecund",
+            "barren",
+            "fertile",
+            "sterile",
+            "prolific"
+        ],
+        "column2": [
+            "productive",
+            "unproductive",
+            "fruitful",
+            "infertile",
+            "abundant"
+        ]
+    },
+    "57": {
+        "column1": [
+            "dolorous",
+            "exigent",
+            "furtive",
+            "germane",
+            "haughty"
+        ],
+        "column2": [
+            "joyful",
+            "optional",
+            "open",
+            "irrelevant",
+            "humble"
+        ]
+    },
+    "58": {
+        "column1": [
+            "cacophonous",
+            "harmonious",
+            "discordant",
+            "melodious",
+            "jarring"
+        ],
+        "column2": [
+            "noisy",
+            "pleasant",
+            "harsh",
+            "musical",
+            "grating"
+        ]
+    },
+    "59": {
+        "column1": [
+            "verdant",
+            "wither",
+            "xenial",
+            "youthful",
+            "zenith"
+        ],
+        "column2": [
+            "barren",
+            "flourish",
+            "hostile",
+            "ancient",
+            "nadir"
+        ]
+    },
+    "60": {
+        "column1": [
+            "nugatory",
+            "obsequious",
+            "querulous",
+            "turgid",
+            "wary"
+        ],
+        "column2": [
+            "valuable",
+            "independent",
+            "content",
+            "clear",
+            "trusting"
+        ]
+    },
+    "61": {
+        "column1": [
+            "mellifluous",
+            "harsh",
+            "harmonious",
+            "discordant",
+            "melodious"
+        ],
+        "column2": [
+            "rough",
+            "smooth",
+            "cacophonous",
+            "pleasant",
+            "grating"
+        ]
+    },
+    "62": {
+        "column1": [
+            "fecund",
+            "genial",
+            "heterogeneous",
+            "importune",
+            "jovial"
+        ],
+        "column2": [
+            "barren",
+            "unfriendly",
+            "homogeneous",
+            "discourage",
+            "morose"
+        ]
+    },
+    "63": {
+        "column1": [
+            "nonchalant",
+            "anxious",
+            "casual",
+            "worried",
+            "indifferent"
+        ],
+        "column2": [
+            "unconcerned",
+            "concerned",
+            "relaxed",
+            "troubled",
+            "cool"
+        ]
+    },
+    "64": {
+        "column1": [
+            "truculent",
+            "peaceful",
+            "belligerent",
+            "pacifist",
+            "pugnacious"
+        ],
+        "column2": [
+            "aggressive",
+            "calm",
+            "hostile",
+            "non-violent",
+            "combative"
+        ]
+    },
+    "65": {
+        "column1": [
+            "yawning",
+            "narrow",
+            "gaping",
+            "closed",
+            "wide"
+        ],
+        "column2": [
+            "opening",
+            "tight",
+            "expansive",
+            "shut",
+            "broad"
+        ]
+    },
+    "66": {
+        "column1": [
+            "fatuous",
+            "genial",
+            "haughty",
+            "immaculate",
+            "jejune"
+        ],
+        "column2": [
+            "sensible",
+            "unfriendly",
+            "humble",
+            "filthy",
+            "mature"
+        ]
+    },
+    "67": {
+        "column1": [
+            "inscrutable",
+            "transparent",
+            "enigmatic",
+            "pellucid",
+            "cryptic"
+        ],
+        "column2": [
+            "mysterious",
+            "clear",
+            "puzzling",
+            "understandable",
+            "coded"
+        ]
+    },
+    "68": {
+        "column1": [
+            "zealous",
+            "apathetic",
+            "fervent",
+            "indifferent",
+            "passionate"
+        ],
+        "column2": [
+            "enthusiastic",
+            "uninterested",
+            "ardent",
+            "uncaring",
+            "devoted"
+        ]
+    },
+    "69": {
+        "column1": [
+            "ebullient",
+            "subdued",
+            "effervescent",
+            "somber",
+            "vivacious"
+        ],
+        "column2": [
+            "enthusiastic",
+            "quiet",
+            "bubbly",
+            "serious",
+            "lively"
+        ]
+    },
+    "70": {
+        "column1": [
+            "quixotic",
+            "practical",
+            "idealistic",
+            "realistic",
+            "utopian"
+        ],
+        "column2": [
+            "impractical",
+            "sensible",
+            "visionary",
+            "pragmatic",
+            "perfect"
+        ]
+    },
+    "71": {
+        "column1": [
+            "laudable",
+            "reprehensible",
+            "commendable",
+            "deplorable",
+            "praiseworthy"
+        ],
+        "column2": [
+            "admirable",
+            "blameworthy",
+            "worthy",
+            "shameful",
+            "excellent"
+        ]
+    },
+    "72": {
+        "column1": [
+            "ineffable",
+            "describable",
+            "indescribable",
+            "expressible",
+            "unspeakable"
+        ],
+        "column2": [
+            "explainable",
+            "inexpressible",
+            "articulable",
+            "unutterable",
+            "definable"
+        ]
+    },
+    "73": {
+        "column1": [
+            "ineffable",
+            "expressible",
+            "indescribable",
+            "clear",
+            "unspeakable"
+        ],
+        "column2": [
+            "speakable",
+            "beyond words",
+            "obvious",
+            "inexpressible",
+            "articulate"
+        ]
+    },
+    "74": {
+        "column1": [
+            "urbane",
+            "rustic",
+            "sophisticated",
+            "crude",
+            "refined"
+        ],
+        "column2": [
+            "polished",
+            "rough",
+            "cultured",
+            "coarse",
+            "suave"
+        ]
+    },
+    "75": {
+        "column1": [
+            "impetuous",
+            "cautious",
+            "rash",
+            "deliberate",
+            "hasty"
+        ],
+        "column2": [
+            "impulsive",
+            "careful",
+            "reckless",
+            "thoughtful",
+            "quick"
+        ]
+    },
+    "76": {
+        "column1": [
+            "quaint",
+            "rancorous",
+            "stolid",
+            "taciturn",
+            "unassuming"
+        ],
+        "column2": [
+            "modern",
+            "forgiving",
+            "emotional",
+            "garrulous",
+            "pretentious"
+        ]
+    },
+    "77": {
+        "column1": [
+            "pensive",
+            "thoughtless",
+            "contemplative",
+            "impulsive",
+            "reflective"
+        ],
+        "column2": [
+            "thoughtful",
+            "careless",
+            "meditative",
+            "rash",
+            "pondering"
+        ]
+    },
+    "78": {
+        "column1": [
+            "keen",
+            "limpid",
+            "mellifluous",
+            "noxious",
+            "opaque"
+        ],
+        "column2": [
+            "dull",
+            "turbid",
+            "harsh",
+            "beneficial",
+            "transparent"
+        ]
+    },
+    "79": {
+        "column1": [
+            "lenient",
+            "strict",
+            "permissive",
+            "harsh",
+            "tolerant"
+        ],
+        "column2": [
+            "gentle",
+            "severe",
+            "forgiving",
+            "rigid",
+            "merciful"
+        ]
+    },
+    "80": {
+        "column1": [
+            "esoteric",
+            "obvious",
+            "obscure",
+            "clear",
+            "abstruse"
+        ],
+        "column2": [
+            "hidden",
+            "evident",
+            "difficult",
+            "plain",
+            "complex"
+        ]
+    },
+    "81": {
+        "column1": [
+            "maudlin",
+            "nascent",
+            "oblivious",
+            "pensive",
+            "quash"
+        ],
+        "column2": [
+            "stoic",
+            "dying",
+            "aware",
+            "thoughtless",
+            "encourage"
+        ]
+    },
+    "82": {
+        "column1": [
+            "recalcitrant",
+            "cooperative",
+            "stubborn",
+            "willing",
+            "defiant"
+        ],
+        "column2": [
+            "helpful",
+            "obstinate",
+            "agreeable",
+            "rebellious",
+            "compliant"
+        ]
+    },
+    "83": {
+        "column1": [
+            "germane",
+            "irrelevant",
+            "relevant",
+            "unrelated",
+            "pertinent"
+        ],
+        "column2": [
+            "inappropriate",
+            "fitting",
+            "beside the point",
+            "suitable",
+            "extraneous"
+        ]
+    },
+    "84": {
+        "column1": [
+            "sardonic",
+            "sincere",
+            "sarcastic",
+            "earnest",
+            "mocking"
+        ],
+        "column2": [
+            "cynical",
+            "genuine",
+            "ironic",
+            "serious",
+            "ridiculing"
+        ]
+    },
+    "85": {
+        "column1": [
+            "ebullient",
+            "subdued",
+            "exuberant",
+            "calm",
+            "effervescent"
+        ],
+        "column2": [
+            "depressed",
+            "lively",
+            "tranquil",
+            "bubbly",
+            "somber"
+        ]
+    },
+    "86": {
+        "column1": [
+            "disparate",
+            "homogeneous",
+            "immutable",
+            "transient",
+            "perennial"
+        ],
+        "column2": [
+            "different",
+            "uniform",
+            "unchanging",
+            "fleeting",
+            "enduring"
+        ]
+    },
+    "87": {
+        "column1": [
+            "reticent",
+            "voluble",
+            "taciturn",
+            "loquacious",
+            "reserved"
+        ],
+        "column2": [
+            "talkative",
+            "silent",
+            "garrulous",
+            "laconic",
+            "outgoing"
+        ]
+    },
+    "88": {
+        "column1": [
+            "genuine",
+            "fake",
+            "authentic",
+            "artificial",
+            "real"
+        ],
+        "column2": [
+            "sincere",
+            "false",
+            "true",
+            "counterfeit",
+            "honest"
+        ]
+    },
+    "89": {
+        "column1": [
+            "jovial",
+            "morose",
+            "cheerful",
+            "gloomy",
+            "merry"
+        ],
+        "column2": [
+            "jolly",
+            "sullen",
+            "happy",
+            "sad",
+            "festive"
+        ]
+    },
+    "90": {
+        "column1": [
+            "ubiquitous",
+            "scarce",
+            "abundant",
+            "depleted",
+            "profuse"
+        ],
+        "column2": [
+            "everywhere",
+            "rare",
+            "plentiful",
+            "exhausted",
+            "copious"
+        ]
+    },
+    "91": {
+        "column1": [
+            "sagacious",
+            "foolish",
+            "judicious",
+            "unwise",
+            "prudent"
+        ],
+        "column2": [
+            "wise",
+            "stupid",
+            "sensible",
+            "imprudent",
+            "careful"
+        ]
+    },
+    "92": {
+        "column1": [
+            "xerotic",
+            "moist",
+            "dry",
+            "wet",
+            "arid"
+        ],
+        "column2": [
+            "damp",
+            "withered",
+            "soaked",
+            "dehydrated",
+            "humid"
+        ]
+    },
+    "93": {
+        "column1": [
+            "conflagration",
+            "dampness",
+            "fire",
+            "moisture",
+            "blaze"
+        ],
+        "column2": [
+            "inferno",
+            "wetness",
+            "flame",
+            "humidity",
+            "burning"
+        ]
+    },
+    "94": {
+        "column1": [
+            "erstwhile",
+            "current",
+            "former",
+            "present",
+            "previous"
+        ],
+        "column2": [
+            "past",
+            "contemporary",
+            "bygone",
+            "existing",
+            "earlier"
+        ]
+    },
+    "95": {
+        "column1": [
+            "pernicious",
+            "beneficial",
+            "deleterious",
+            "salutary",
+            "noxious"
+        ],
+        "column2": [
+            "harmful",
+            "helpful",
+            "damaging",
+            "healthy",
+            "poisonous"
+        ]
+    },
+    "96": {
+        "column1": [
+            "laudable",
+            "reprehensible",
+            "commendable",
+            "deplorable",
+            "praiseworthy"
+        ],
+        "column2": [
+            "admirable",
+            "blameworthy",
+            "worthy",
+            "shameful",
+            "excellent"
+        ]
+    },
+    "97": {
+        "column1": [
+            "eloquent",
+            "inarticulate",
+            "articulate",
+            "stammering",
+            "fluent"
+        ],
+        "column2": [
+            "expressive",
+            "mumbling",
+            "well-spoken",
+            "tongue-tied",
+            "persuasive"
+        ]
+    },
+    "98": {
+        "column1": [
+            "ascetic",
+            "hedonistic",
+            "abstemious",
+            "indulgent",
+            "austere"
+        ],
+        "column2": [
+            "self-denying",
+            "pleasure-seeking",
+            "moderate",
+            "excessive",
+            "strict"
+        ]
+    },
+    "99": {
+        "column1": [
+            "lugubrious",
+            "cheerful",
+            "mournful",
+            "happy",
+            "doleful"
+        ],
+        "column2": [
+            "sorrowful",
+            "joyful",
+            "sad",
+            "glad",
+            "melancholy"
+        ]
+    },
+    "100": {
+        "column1": [
+            "sedulous",
+            "lazy",
+            "diligent",
+            "idle",
+            "industrious"
+        ],
+        "column2": [
+            "sluggish",
+            "hardworking",
+            "inactive",
+            "busy",
+            "negligent"
+        ]
+    }
+}

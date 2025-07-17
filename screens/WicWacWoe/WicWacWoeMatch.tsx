@@ -434,6 +434,8 @@ function checkForSubmission(){
 }
 
 function endtheMatch(prompt: string){
+  if(player2Words.length==0||player1Words.length==0) return;
+
   if(player1Words.length>player2Words.length&&route.params.type==1){
     const _profileData=profileData;
     _profileData.playerXP+=xp;
@@ -442,8 +444,8 @@ function endtheMatch(prompt: string){
     updateXpsAndCoinsInPreviousProfileFile(_profileData.playerXP, _profileData.playerCoins);
   }
 
-  setGameEndString(prompt);
-  setGameEndModalVisibility(true);
+    setGameEndString(prompt);
+    setGameEndModalVisibility(true);
 }
 
 
@@ -787,7 +789,7 @@ useEffect(()=>{
       xp={(profileData.playerLevel).toString()}
       coins={profileData.playerCoins}
       gameName={gameName}
-      gameMode={""}
+      gameMode={gameMode}
       />
     <View style={{backgroundColor: '#fcdec7c0', alignSelf: 'center', paddingVertical: 4, marginVertical: 10, paddingHorizontal: 10, borderRadius: 4}}>
         <WordleText style={{fontSize: 16}}>{currentPlayer==1?"Player 1's turn":route.params.type==1?"Computer's turn":"Player 2's turn"}
@@ -948,19 +950,22 @@ useEffect(()=>{
                 <View style={{marginBottom: 5, height: 3, width: '80%', alignSelf: 'center', backgroundColor: '#04806b'}}></View>
                 <View style={styles.matchEndWordBox}>
                 {
-                  player1Words.map((item, index)=>(<WordleText key={index} style={{fontSize: 15, color: '#222222'}}>{item}</WordleText>))
+                  player1Words.length>0? 
+                  (player1Words.map((item, index)=>(<WordleText key={index} style={{fontSize: 15, color: '#222222'}}>{item}</WordleText>))): null
                 }
                 </View>
                 <WordleText style={{fontSize: 16, marginVertical: 5}}>Words Created by {route.params.type==2?"Player 2":"Computer"}</WordleText>
                 <View style={{marginBottom: 5, height: 3, width: '80%', alignSelf: 'center', backgroundColor: '#04806b'}}></View>
                 <View style={styles.matchEndWordBox}>
                 {
-                  player2Words.map((item, index)=>(<WordleText key={index}  style={{fontSize: 15, color: '#222222'}}>{item}</WordleText>))
+                  player2Words.length>0?
+                  (player2Words.map((item, index)=>(<WordleText key={index}  style={{fontSize: 15, color: '#222222'}}>{item}</WordleText>))): null
                 }
                 </View>
                 <WordleText style={[styles.matchEndTextPrompts, {backgroundColor: '#a9fcdb', color: '#002919'}]}>
-                  {player1Words.length==player2Words.length?`Both of them has created equal number of words. The match is tied`:`Player 1 has created ${Math.abs(player1Words.length-player2Words.length)} words ${player1Words.length>player2Words.length?'more': 'less'} than ${route.params.type==1?'Computer':'Player 2'}
-                 `}
+                  {
+                  player1Words.length==player2Words.length?`Both of them has created equal number of words. The match is tied`:`Player 1 has created ${Math.abs(player1Words.length-player2Words.length)} words ${player1Words.length>player2Words.length?'more': 'less'} than ${route.params.type==1?'Computer':'Player 2'}`
+                  }
                    </WordleText>
                   <View style={{flexDirection: 'row', gap: 20, marginTop: 10}}>
                     <Animated.View style={{transform: [{scale: returnToHomeBtnScale}]}}>

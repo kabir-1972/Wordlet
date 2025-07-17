@@ -13,34 +13,34 @@ import { HeaderForMatchEnd } from "../Components-For-End-Match";
 import { getTheMaxXpForNextLevel, ProfileData, readProfileDataFile, saveProfileDataToFile } from "../AccessProfileData";
 import { _targetWord } from "../Wordle/Wordle-Match-End";
 import { buttonPressIn, buttonPressOut } from "../../source/styles/allAnimations";
-import { CrosswordGameInfoModal, ModalContentText } from "./Cryptograms-Header-inmatch";
+import { MatchingGameInfoModal, ModalContentText } from "./Matching-Header-inmatch";
 import { Rewards} from "../../source/styles/crosswords-modals-styles";
 import { NoOfLevels, Rewards as RewardsData } from "../Rewards";
 
-import { getTheListofLevelsCleared } from "./Cryptograms-Data-Files";
+import { getTheListofLevelsCleared } from "./Matching-Data-Files";
 import LottieView from "lottie-react-native";
 
-export type CrosswordMatchRouteProp = RouteProp<RootStackParamList, 'CryptogramLevels'>;
+export type CrosswordMatchRouteProp = RouteProp<RootStackParamList, 'MatchingLevels'>;
 export type NavigationProp =NativeStackNavigationProp<RootStackParamList, 'Home'>;
     
 let coins: number;
 let xp: number;
 let numberOfLevels: number;
-const CryptogramLevels=()=>{
-    const route = useRoute<CrosswordMatchRouteProp>();
+const MatchingLevels=()=>{
+    //const route = useRoute<CrosswordMatchRouteProp>();
     /*const route={
         params:{
             size : 1,
             level: 1
         }
     }*/
-    coins = RewardsData.Cryptogram.coins; xp= RewardsData.Cryptogram. xp;
+    coins = RewardsData.Matching.coins; xp= RewardsData.Matching. xp;
     numberOfLevels=NoOfLevels.CryptoGram/5;
 
     const data = Array.from({ length: numberOfLevels }, (_, i) => ({ id: i }));
     const navigation = useNavigation<NavigationProp>();
-    const [routeParameterAndProfileRead, setRouteParameterAndProfileRead]=useState(false);
-    const gameName="Cryptogram";
+    //const [routeParameterAndProfileRead, setRouteParameterAndProfileRead]=useState(false);
+    const gameName="Matching";
 
     const [profileData, setProfileData]=useState<ProfileData>({
         profileName: "Wordleteer",
@@ -83,13 +83,7 @@ const CryptogramLevels=()=>{
     }
     }
 
-    function readRouteParameters(){
-    }
-
     loadProfileData();
-    readRouteParameters();
-
-    setRouteParameterAndProfileRead(true);
     },[])
   const animatedScales = useRef(data.map(() => new Animated.Value(1))).current;
   const scaleHeaderBtn = useRef(new Animated.Value(1)).current;
@@ -107,18 +101,18 @@ const levelHeadingButtons = useRef(
 ).current;
   
 
+  const [selectedHeading, setSelectedHeading]=useState(0);
+  
   useEffect(()=>{
     async function setUpListOfLevelsCleared(){
-      if(!route.params) return; 
       const _listOfLevelsCleared=await getTheListofLevelsCleared(selectedHeading);
       setListOfLevelsCleared(_listOfLevelsCleared);
     }
     setUpListOfLevelsCleared();
-  },[])
+  },[selectedHeading])
 
-  const [selectedHeading, setSelectedHeading]=useState(0);
 
-  if(routeParameterAndProfileRead&&listOfLevelsCleared)  
+  if(/*routeParameterAndProfileRead&&*/listOfLevelsCleared)  
   return(
   <ImageBackground
         source={SettingsData.background}
@@ -143,7 +137,7 @@ const levelHeadingButtons = useRef(
   >
     <ImageBackground
     source={buttons.pinkButton}
-    style={styles.button}
+    style={[styles.button, {width: 100}]}
     imageStyle={styles.bgImage}
     >
       <View style={{paddingVertical: 6}}>
@@ -154,7 +148,7 @@ const levelHeadingButtons = useRef(
   </Animated.View>
 
   <View style={moreStyles.levelHeaderParagraph}>
-    <ModalContentText>A total of {numberOfLevels*5} levels of Cryptograms are presented here. You can play any level as you want and leave the game keeping the data saved. The rewards for winning each of the game is:</ModalContentText>
+    <ModalContentText>A total of {numberOfLevels*5} levels of Matchings are presented here. You can play any level as you want and leave the game keeping the data saved. The rewards for winning each of the game is:</ModalContentText>
     <Rewards coins={coins.toString()} xp={xp.toString()}></Rewards>
     <ModalContentText style={{textAlign: 'center'}}>Levels Cleared: {listOfLevelsCleared.length} / {numberOfLevels*5}</ModalContentText>
   </View>
@@ -257,7 +251,7 @@ const levelHeadingButtons = useRef(
               onPressIn={() => buttonPressIn(animatedScales[item.id])}
               onPressOut={() => buttonPressOut(animatedScales[item.id])}
               onPress={() =>
-                navigation.navigate('CryptogramMatch', {
+                navigation.navigate('MatchingMatch', {
                   level: item.id + 1,
                   heading: selectedHeading + 1
                 })
@@ -293,7 +287,7 @@ const levelHeadingButtons = useRef(
   )}
     />
 }
-  <CrosswordGameInfoModal
+  <MatchingGameInfoModal
         bgImage={modalBackgrounds.blackModalBackgroundImg}
         visible={gameInfoModalVisiblity}
         onclose={hideGameInfoModal}
@@ -303,4 +297,4 @@ const levelHeadingButtons = useRef(
   )
 }
 
-export default CryptogramLevels;
+export default MatchingLevels;

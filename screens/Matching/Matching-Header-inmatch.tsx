@@ -9,7 +9,7 @@ import { modalStyles } from '../../source/styles/wordle-header-inmatch-modals-st
 import { buttons, icons, modalBackgrounds } from '../../source/styles/assets';
 import { buttonPressIn,buttonPressOut } from '../../source/styles/allAnimations';
 import { OutlinedText } from '../../source/styles/outlinedText';
-import { WordChains} from './WicWacWoe-GameInfo-SubScreen';
+import { WordChains} from './Matching-GameInfo-SubScreen';
 import { AddCoinModal } from '../Add-Coin-Modal'
 import { SettingsData, SettingsModal } from '../Settings';
 import { ProfileModal } from '../Profile';
@@ -146,7 +146,7 @@ export const HeaderInMatch=(props: HeaderDataProps)=>{
         onclose={hideSettingsModal}
         />
 
-        <AnagrammistGameInfoModal
+        <MatchingGameInfoModal
         bgImage={modalBackgrounds.blackModalBackgroundImg}
         visible={gameInfoModalVisiblity}
         onclose={hideGameInfoModal}
@@ -228,7 +228,7 @@ type GameInfoModalProps={
     gameName: string
 }
 
-export const AnagrammistGameInfoModal=(props: GameInfoModalProps)=>{
+export const MatchingGameInfoModal=(props: GameInfoModalProps)=>{
     return (
         <Modal
                 visible={props.visible}
@@ -276,7 +276,7 @@ export const AnagrammistGameInfoModal=(props: GameInfoModalProps)=>{
                   <View style={modalStyles.modalContent}>
                     <ParagraphText style={{color: '#dcf9f5'}}>Objective</ParagraphText>
                     <View style={modalStyles.modalSubContent}>
-                        <ModalContentText>Create words as many as you can and fill up the board, following the rules.</ModalContentText>
+                        <ModalContentText>Match the words on the left column with the corresponding synonyms or antonyms [that you find out] written on the column at the right</ModalContentText>
                     </View>
                     <WordleText style={{textAlign: 'center', fontSize: 20, marginTop: 10, marginBottom: 3, color: 'wheat'}}>Guidelines</WordleText>
                     <View style={modalStyles.horizontalBar}></View>

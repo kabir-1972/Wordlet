@@ -297,6 +297,7 @@ function submit(){
     _profileData.playerCoins+=coins;
     setProfileData(_profileData);
     updateXpsAndCoinsInPreviousProfileFile(_profileData.playerXP, _profileData.playerCoins);
+    updateNumberofLevelsCleared(route.params.heading, route.params.level);
     setTimeout(()=>{
     const maxLevels=100;
     if(route.params.level==maxLevels){

@@ -93,8 +93,8 @@ export const playerCryptogramData=async(level: number, size: number, gameName: s
 }
 */
 
-export const getTheListofLevelsCleared=async(level: number, heading: number)=>{
-  const gameDataFileName = "cryptogram-"+ level +"-"+heading+"-"+ ".json";
+export const getTheListofLevelsCleared=async(/*level: number,*/ heading: number)=>{
+  const gameDataFileName = "cryptogram-"+heading+".json";
   const path=`${RNFS.DocumentDirectoryPath}/${gameDataFileName}`;
   const exists = await RNFS.exists(path);
   

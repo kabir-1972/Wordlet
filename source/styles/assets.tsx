@@ -55,12 +55,17 @@ export const icons={
     audioIcon:require("../images/icons/audio-icon.png"),
     keyboardIcon:require("../images/icons/keyboard-icon.png"),
     greenTickIcon:require("../images/icons/tick-mark.png"),
+    brightGreenTickIcon:require("../images/icons/bright-tick-mark.png"),
     redCrossIcon:require("../images/icons/cross-mark.png"),
     yellowBulb: require("../images/icons/light-bulb-icon.png"),
     heart: require("../images/icons/heart.png"),
     rightUpArrow: require("../images/icons/right-up-arrow.png"),
-    eye:require("../images/icons/eye.png")
-
+    eye:require("../images/icons/eye.png"),
+    message:require("../images/icons/message-icon.png"),
+    dice:require("../images/icons/dice.png"),
+    achive: require("../images/icons/achieve.png"),
+    chest: require("../images/icons/chest.png"),
+    blackDeleteIcon: require("../images/icons/delete-icon.png"),
 }
 
 export const modalBackgrounds={   

@@ -4,6 +4,7 @@ export type RootStackParamList = {
     Wordle: undefined;
     Crosswords: undefined;
     MoreGames: undefined;
+    VocabularyGames: undefined;
 
     BasicWordleMatch: {
         size: number;
@@ -121,4 +122,10 @@ export type RootStackParamList = {
     WicWacWoeMatch: {
         type: number
     };
+
+    MatchingLevels: undefined;
+    MatchingMatch: {
+        level: number
+        heading: number
+    }
   };

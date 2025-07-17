@@ -43,6 +43,11 @@ import CrptogramLevels from './screens/Cryptograms/CryptogramsLevels'
 import WordChainsMatch from './screens/WordChains/WordChainsMatch';
 import WicWacWoeMatch from './screens/WicWacWoe/WicWacWoeMatch';
 
+import VocabularyGames from  './screens/VocabularyGamesScreen';
+
+import MatchingLevels from './screens/Matching/MatchingLevels';
+import MatchingMatch from './screens/Matching/MatchingMatch';
+
 const Stack = createNativeStackNavigator();
 
 export default function App() {
@@ -52,7 +57,7 @@ export default function App() {
       <Stack.Screen name="Home" component={HomeScreen} />
 
       {
-        <Stack.Navigator initialRouteName="Home"
+        <Stack.Navigator initialRouteName="MatchingLevels"
         screenOptions={{
         headerShown: false,
         animation: 'none',
@@ -185,6 +190,22 @@ export default function App() {
         name="WicWacWoeMatch"
         component={WicWacWoeMatch}
         />
+
+      <Stack.Screen
+      name="VocabularyGames"
+      component={VocabularyGames}
+      />
+
+      <Stack.Screen
+      name="MatchingLevels"
+      component={MatchingLevels}
+      />
+
+      <Stack.Screen
+      name="MatchingMatch"
+      component={MatchingMatch}
+      />
+
 
       </Stack.Navigator>}
     </NavigationContainer>

@@ -1,0 +1,2752 @@
+{
+  "1": {
+    "word": "ambiguous",
+    "partsOfSpeech": "adjective",
+    "meaning": "open to more than one interpretation; having a double meaning"
+  },
+  "2": {
+    "word": "enhance",
+    "partsOfSpeech": "verb",
+    "meaning": "to intensify, increase, or further improve the quality of"
+  },
+  "3": {
+    "word": "oscillate",
+    "partsOfSpeech": "verb",
+    "meaning": "move or swing in a regular and repeated way"
+  },
+  "4": {
+    "word": "ostentatious",
+    "partsOfSpeech": "adjective",
+    "meaning": "intended to attract notice and impress others"
+  },
+  "5": {
+    "word": "kismet",
+    "partsOfSpeech": "noun",
+    "meaning": "destiny; fate"
+  },
+  "6": {
+    "word": "morose",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing a brooding ill humor"
+  },
+  "7": {
+    "word": "ominous",
+    "partsOfSpeech": "adjective",
+    "meaning": "giving the impression that something bad will happen"
+  },
+  "8": {
+    "word": "legerdemain",
+    "partsOfSpeech": "noun",
+    "meaning": "skillful use of one's hands when performing tricks"
+  },
+  "9": {
+    "word": "abundant",
+    "partsOfSpeech": "adjective",
+    "meaning": "existing or available in large quantities; plentiful"
+  },
+  "10": {
+    "word": "bilk",
+    "partsOfSpeech": "verb",
+    "meaning": "cheat somebody out of what is due, especially money"
+  },
+  "11": {
+    "word": "predilection",
+    "partsOfSpeech": "noun",
+    "meaning": "a predisposition in favor of something"
+  },
+  "12": {
+    "word": "mundane",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking interest or excitement; ordinary"
+  },
+  "13": {
+    "word": "malevolent",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing a wish to do evil to others"
+  },
+  "14": {
+    "word": "concomitant",
+    "partsOfSpeech": "adjective",
+    "meaning": "following as a consequence"
+  },
+  "15": {
+    "word": "fathom",
+    "partsOfSpeech": "verb",
+    "meaning": "comprehend"
+  },
+  "16": {
+    "word": "unctuous",
+    "partsOfSpeech": "adjective",
+    "meaning": "unpleasantly and excessively suave or ingratiating in manner or speech"
+  },
+  "17": {
+    "word": "fidelity",
+    "partsOfSpeech": "noun",
+    "meaning": "the quality of being faithful"
+  },
+  "18": {
+    "word": "implacable",
+    "partsOfSpeech": "adjective",
+    "meaning": "incapable of being placated"
+  },
+  "19": {
+    "word": "charlatan",
+    "partsOfSpeech": "noun",
+    "meaning": "a quack or a pretender to medical knowledge"
+  },
+  "20": {
+    "word": "germane",
+    "partsOfSpeech": "adjective",
+    "meaning": "relevant and appropriate"
+  },
+  "21": {
+    "word": "diffident",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking self-confidence"
+  },
+  "22": {
+    "word": "pulchritude",
+    "partsOfSpeech": "noun",
+    "meaning": "physical beauty (especially of a woman)"
+  },
+  "23": {
+    "word": "inane",
+    "partsOfSpeech": "adjective",
+    "meaning": "devoid of intelligence"
+  },
+  "24": {
+    "word": "rescind",
+    "partsOfSpeech": "verb",
+    "meaning": "cancel officially"
+  },
+  "25": {
+    "word": "refute",
+    "partsOfSpeech": "verb",
+    "meaning": "to prove a statement wrong; to deny the truth of"
+  },
+  "26": {
+    "word": "adulation",
+    "partsOfSpeech": "noun",
+    "meaning": "excessive praise or flattery"
+  },
+  "27": {
+    "word": "fervor",
+    "partsOfSpeech": "noun",
+    "meaning": "feelings of great warmth and intensity"
+  },
+  "28": {
+    "word": "cavort",
+    "partsOfSpeech": "verb",
+    "meaning": "play boisterously"
+  },
+  "29": {
+    "word": "deliberate",
+    "partsOfSpeech": "adjective",
+    "meaning": "done consciously and intentionally; carefully considered"
+  },
+  "30": {
+    "word": "mitigate",
+    "partsOfSpeech": "verb",
+    "meaning": "lessen or to try to lessen the seriousness or extent of"
+  },
+  "31": {
+    "word": "resolve",
+    "partsOfSpeech": "verb",
+    "meaning": "reach a conclusion after a discussion or deliberation"
+  },
+  "32": {
+    "word": "penury",
+    "partsOfSpeech": "noun",
+    "meaning": "a state of extreme poverty or destitution"
+  },
+  "33": {
+    "word": "specious",
+    "partsOfSpeech": "adjective",
+    "meaning": "plausible but false"
+  },
+  "34": {
+    "word": "culminate",
+    "partsOfSpeech": "verb",
+    "meaning": "end, especially to reach a final or climactic stage"
+  },
+  "35": {
+    "word": "capitulate",
+    "partsOfSpeech": "verb",
+    "meaning": "surrender under agreed conditions"
+  },
+  "36": {
+    "word": "equivocal",
+    "partsOfSpeech": "adjective",
+    "meaning": "open to two or more interpretations"
+  },
+  "37": {
+    "word": "astute",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing an ability to accurately assess situations"
+  },
+  "38": {
+    "word": "inscrutable",
+    "partsOfSpeech": "adjective",
+    "meaning": "of an obscure nature"
+  },
+  "39": {
+    "word": "vicissitude",
+    "partsOfSpeech": "noun",
+    "meaning": "a change of circumstances or fortune"
+  },
+  "40": {
+    "word": "renowned",
+    "partsOfSpeech": "adjective",
+    "meaning": "known or talked about by many people; famous"
+  },
+  "41": {
+    "word": "yoke",
+    "partsOfSpeech": "verb",
+    "meaning": "join with stable gear, as two draft animals"
+  },
+  "42": {
+    "word": "guile",
+    "partsOfSpeech": "noun",
+    "meaning": "sly or cunning intelligence; crafty deception"
+  },
+  "43": {
+    "word": "congenial",
+    "partsOfSpeech": "adjective",
+    "meaning": "pleasant because of a personality or interests similar to one's own"
+  },
+  "44": {
+    "word": "wanton",
+    "partsOfSpeech": "noun",
+    "meaning": "a lewd or immoral person"
+  },
+  "45": {
+    "word": "desolate",
+    "partsOfSpeech": "adjective",
+    "meaning": "deserted and giving an impression of bleak emptiness"
+  },
+  "46": {
+    "word": "flaunt",
+    "partsOfSpeech": "verb",
+    "meaning": "display proudly"
+  },
+  "47": {
+    "word": "imbibe",
+    "partsOfSpeech": "verb",
+    "meaning": "take in liquids"
+  },
+  "48": {
+    "word": "passionate",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing or caused by strong feelings or beliefs"
+  },
+  "49": {
+    "word": "languid",
+    "partsOfSpeech": "adjective",
+    "meaning": "displaying a disinclination for physical exertion; weak"
+  },
+  "50": {
+    "word": "ingenious",
+    "partsOfSpeech": "adjective",
+    "meaning": "clever, original, and inventive"
+  },
+  "51": {
+    "word": "benevolent",
+    "partsOfSpeech": "adjective",
+    "meaning": "well-meaning and kindly; charitable"
+  },
+  "52": {
+    "word": "prevalent",
+    "partsOfSpeech": "adjective",
+    "meaning": "widespread in a particular area at a particular time"
+  },
+  "53": {
+    "word": "fortuitous",
+    "partsOfSpeech": "adjective",
+    "meaning": "happening by accident or chance rather than design"
+  },
+  "54": {
+    "word": "haughty",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing arrogant superiority to and disdain of those one views as unworthy"
+  },
+  "55": {
+    "word": "jejune",
+    "partsOfSpeech": "adjective",
+    "meaning": "naive, simplistic, and superficial"
+  },
+  "56": {
+    "word": "hinder",
+    "partsOfSpeech": "verb",
+    "meaning": "be an impediment to"
+  },
+  "57": {
+    "word": "subjugate",
+    "partsOfSpeech": "verb",
+    "meaning": "make subservient; abase or enslave"
+  },
+  "58": {
+    "word": "elucidate",
+    "partsOfSpeech": "verb",
+    "meaning": "make free from confusion or ambiguity"
+  },
+  "59": {
+    "word": "harangue",
+    "partsOfSpeech": "noun",
+    "meaning": "a lengthy and aggressive speech"
+  },
+  "60": {
+    "word": "permeate",
+    "partsOfSpeech": "verb",
+    "meaning": "spread or diffuse through"
+  },
+  "61": {
+    "word": "didactic",
+    "partsOfSpeech": "adjective",
+    "meaning": "instructive, especially excessively"
+  },
+  "62": {
+    "word": "obdurate",
+    "partsOfSpeech": "adjective",
+    "meaning": "stubbornly persistent in wrongdoing"
+  },
+  "63": {
+    "word": "transient",
+    "partsOfSpeech": "adjective",
+    "meaning": "lasting a very short time"
+  },
+  "64": {
+    "word": "compelling",
+    "partsOfSpeech": "adjective",
+    "meaning": "evoking interest or attention in a powerfully irresistible way"
+  },
+  "65": {
+    "word": "resilient",
+    "partsOfSpeech": "adjective",
+    "meaning": "able to withstand or recover quickly from difficulties"
+  },
+  "66": {
+    "word": "orthodox",
+    "partsOfSpeech": "adjective",
+    "meaning": "following traditional beliefs or practices"
+  },
+  "67": {
+    "word": "diaphanous",
+    "partsOfSpeech": "adjective",
+    "meaning": "light, delicate, and translucent"
+  },
+  "68": {
+    "word": "fundamental",
+    "partsOfSpeech": "adjective",
+    "meaning": "forming a necessary base or core; essential"
+  },
+  "69": {
+    "word": "hegemony",
+    "partsOfSpeech": "noun",
+    "meaning": "the dominance or leadership of one social group or nation over others"
+  },
+  "70": {
+    "word": "catalyst",
+    "partsOfSpeech": "noun",
+    "meaning": "a person or thing that precipitates an event or change"
+  },
+  "71": {
+    "word": "iconoclast",
+    "partsOfSpeech": "noun",
+    "meaning": "a person who attacks cherished beliefs or institutions"
+  },
+  "72": {
+    "word": "incontrovertible",
+    "partsOfSpeech": "adjective",
+    "meaning": "impossible to deny or disprove"
+  },
+  "73": {
+    "word": "condone",
+    "partsOfSpeech": "verb",
+    "meaning": "to accept behavior that is morally wrong or offensive"
+  },
+  "74": {
+    "word": "meretricious",
+    "partsOfSpeech": "adjective",
+    "meaning": "tastelessly showy"
+  },
+  "75": {
+    "word": "eclectic",
+    "partsOfSpeech": "adjective",
+    "meaning": "selecting what seems best of various styles or ideas"
+  },
+  "76": {
+    "word": "exigent",
+    "partsOfSpeech": "adjective",
+    "meaning": "demanding immediate attention"
+  },
+  "77": {
+    "word": "homogeneous",
+    "partsOfSpeech": "adjective",
+    "meaning": "of the same kind; alike throughout"
+  },
+  "78": {
+    "word": "credible",
+    "partsOfSpeech": "adjective",
+    "meaning": "able to be believed; convincing"
+  },
+  "79": {
+    "word": "dormant",
+    "partsOfSpeech": "adjective",
+    "meaning": "temporarily inactive; lying asleep or as if asleep"
+  },
+  "80": {
+    "word": "dissonance",
+    "partsOfSpeech": "noun",
+    "meaning": "disagreeable sounds"
+  },
+  "81": {
+    "word": "mellifluous",
+    "partsOfSpeech": "adjective",
+    "meaning": "pleasing to the ear"
+  },
+  "82": {
+    "word": "construe",
+    "partsOfSpeech": "verb",
+    "meaning": "make sense of; assign a meaning to"
+  },
+  "83": {
+    "word": "eccentric",
+    "partsOfSpeech": "adjective",
+    "meaning": "unconventional and slightly strange in behavior"
+  },
+  "84": {
+    "word": "nefarious",
+    "partsOfSpeech": "adjective",
+    "meaning": "wicked or criminal"
+  },
+  "85": {
+    "word": "complacent",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing smug satisfaction with oneself or one's achievements"
+  },
+  "86": {
+    "word": "vehement",
+    "partsOfSpeech": "adjective",
+    "meaning": "characterized by forcefulness of expression or intensity of emotion"
+  },
+  "87": {
+    "word": "explicate",
+    "partsOfSpeech": "verb",
+    "meaning": "elaborate, as of theories and hypotheses"
+  },
+  "88": {
+    "word": "inimical",
+    "partsOfSpeech": "adjective",
+    "meaning": "not friendly"
+  },
+  "89": {
+    "word": "jeopardize",
+    "partsOfSpeech": "verb",
+    "meaning": "to put someone or something into a situation of danger"
+  },
+  "90": {
+    "word": "predominant",
+    "partsOfSpeech": "adjective",
+    "meaning": "present as the strongest or main element"
+  },
+  "91": {
+    "word": "foment",
+    "partsOfSpeech": "verb",
+    "meaning": "try to stir up public opinion"
+  },
+  "92": {
+    "word": "contemporary",
+    "partsOfSpeech": "adjective",
+    "meaning": "belonging to or occurring in the present time"
+  },
+  "93": {
+    "word": "querulous",
+    "partsOfSpeech": "adjective",
+    "meaning": "complaining in a whining manner"
+  },
+  "94": {
+    "word": "parsimonious",
+    "partsOfSpeech": "adjective",
+    "meaning": "excessively unwilling to spend"
+  },
+  "95": {
+    "word": "reticent",
+    "partsOfSpeech": "adjective",
+    "meaning": "temperamentally disinclined to talk"
+  },
+  "96": {
+    "word": "comprehensive",
+    "partsOfSpeech": "adjective",
+    "meaning": "complete and including everything that is necessary"
+  },
+  "97": {
+    "word": "quixotic",
+    "partsOfSpeech": "adjective",
+    "meaning": "exceedingly idealistic; unrealistic and impractical"
+  },
+  "98": {
+    "word": "intuitive",
+    "partsOfSpeech": "adjective",
+    "meaning": "using or based on what one feels to be true without reasoning"
+  },
+  "99": {
+    "word": "monotonous",
+    "partsOfSpeech": "adjective",
+    "meaning": "dull and repetitive; lacking in variety"
+  },
+  "100": {
+    "word": "undulate",
+    "partsOfSpeech": "verb",
+    "meaning": "move in a wavy pattern or with a rising and falling motion"
+  },
+  "101": {
+    "word": "incompatible",
+    "partsOfSpeech": "adjective",
+    "meaning": "unable to exist together in harmony; conflicting"
+  },
+  "102": {
+    "word": "coherent",
+    "partsOfSpeech": "adjective",
+    "meaning": "logical and consistent; clearly expressed"
+  },
+  "103": {
+    "word": "amiable",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or displaying a friendly and pleasant manner"
+  },
+  "104": {
+    "word": "laudable",
+    "partsOfSpeech": "adjective",
+    "meaning": "worthy of high praise"
+  },
+  "105": {
+    "word": "malleable",
+    "partsOfSpeech": "adjective",
+    "meaning": "capable of being shaped or bent or drawn out"
+  },
+  "106": {
+    "word": "stolid",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or revealing little emotion or sensibility"
+  },
+  "107": {
+    "word": "synthesis",
+    "partsOfSpeech": "noun",
+    "meaning": "the combining of separate elements or substances to form a coherent whole"
+  },
+  "108": {
+    "word": "congruity",
+    "partsOfSpeech": "noun",
+    "meaning": "the quality of agreeing; being suitable and appropriate"
+  },
+  "109": {
+    "word": "oblivious",
+    "partsOfSpeech": "adjective",
+    "meaning": "not aware of what is happening around one"
+  },
+  "110": {
+    "word": "plausible",
+    "partsOfSpeech": "adjective",
+    "meaning": "seeming reasonable or probable"
+  },
+  "111": {
+    "word": "chicanery",
+    "partsOfSpeech": "noun",
+    "meaning": "the use of tricks to deceive someone"
+  },
+  "112": {
+    "word": "insipid",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking interest or flavor"
+  },
+  "113": {
+    "word": "heritage",
+    "partsOfSpeech": "noun",
+    "meaning": "valued objects and qualities that have been passed down from previous generations"
+  },
+  "114": {
+    "word": "enfranchise",
+    "partsOfSpeech": "verb",
+    "meaning": "grant the rights of citizenship to"
+  },
+  "115": {
+    "word": "cavalier",
+    "partsOfSpeech": "adjective",
+    "meaning": "given to haughty disregard of others"
+  },
+  "116": {
+    "word": "ostensible",
+    "partsOfSpeech": "adjective",
+    "meaning": "appearing to be true but not necessarily so"
+  },
+  "117": {
+    "word": "irascible",
+    "partsOfSpeech": "adjective",
+    "meaning": "characterized by outbursts of temper"
+  },
+  "118": {
+    "word": "avarice",
+    "partsOfSpeech": "noun",
+    "meaning": "extreme greed for wealth or material gain"
+  },
+  "119": {
+    "word": "ebullient",
+    "partsOfSpeech": "adjective",
+    "meaning": "joyously unrestrained"
+  },
+  "120": {
+    "word": "eulogy",
+    "partsOfSpeech": "noun",
+    "meaning": "a speech or writing in praise of a person or thing"
+  },
+  "121": {
+    "word": "nonplussed",
+    "partsOfSpeech": "adjective",
+    "meaning": "surprised and confused so much that one is unsure how to react"
+  },
+  "122": {
+    "word": "penchant",
+    "partsOfSpeech": "noun",
+    "meaning": "a strong liking"
+  },
+  "123": {
+    "word": "fecund",
+    "partsOfSpeech": "adjective",
+    "meaning": "capable of producing offspring or vegetation"
+  },
+  "124": {
+    "word": "mordant",
+    "partsOfSpeech": "adjective",
+    "meaning": "biting or caustic in thought, manner, or style"
+  },
+  "125": {
+    "word": "immaterial",
+    "partsOfSpeech": "adjective",
+    "meaning": "of no importance or relevance"
+  },
+  "126": {
+    "word": "heterodox",
+    "partsOfSpeech": "adjective",
+    "meaning": "characterized by departure from accepted beliefs or standards"
+  },
+  "127": {
+    "word": "pessimistic",
+    "partsOfSpeech": "adjective",
+    "meaning": "tending to see the worst aspect of things"
+  },
+  "128": {
+    "word": "equanimity",
+    "partsOfSpeech": "noun",
+    "meaning": "steadiness of mind under stress"
+  },
+  "129": {
+    "word": "kindle",
+    "partsOfSpeech": "verb",
+    "meaning": "to light or set on fire; to arouse or inspire"
+  },
+  "130": {
+    "word": "defiant",
+    "partsOfSpeech": "adjective",
+    "meaning": "openly resistant or bold disobedience"
+  },
+  "131": {
+    "word": "candid",
+    "partsOfSpeech": "adjective",
+    "meaning": "truthful and straightforward; frank"
+  },
+  "132": {
+    "word": "saccharine",
+    "partsOfSpeech": "adjective",
+    "meaning": "overly sweet"
+  },
+  "133": {
+    "word": "debilitate",
+    "partsOfSpeech": "verb",
+    "meaning": "make weak"
+  },
+  "134": {
+    "word": "sublime",
+    "partsOfSpeech": "adjective",
+    "meaning": "of high moral or intellectual value"
+  },
+  "135": {
+    "word": "reluctant",
+    "partsOfSpeech": "adjective",
+    "meaning": "unwilling and hesitant; disinclined"
+  },
+  "136": {
+    "word": "convergent",
+    "partsOfSpeech": "adjective",
+    "meaning": "coming closer together; tending to meet at a point"
+  },
+  "137": {
+    "word": "exacerbate",
+    "partsOfSpeech": "verb",
+    "meaning": "make worse"
+  },
+  "138": {
+    "word": "endorse",
+    "partsOfSpeech": "verb",
+    "meaning": "to declare one's public approval or support of"
+  },
+  "139": {
+    "word": "impertinent",
+    "partsOfSpeech": "adjective",
+    "meaning": "improperly bold or forward"
+  },
+  "140": {
+    "word": "imperious",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing arrogant superiority to"
+  },
+  "141": {
+    "word": "poignant",
+    "partsOfSpeech": "adjective",
+    "meaning": "evoking a keen sense of sadness or regret"
+  },
+  "142": {
+    "word": "renounce",
+    "partsOfSpeech": "verb",
+    "meaning": "give up, such as power, right, or possession"
+  },
+  "143": {
+    "word": "censure",
+    "partsOfSpeech": "verb",
+    "meaning": "to express severe disapproval of; to criticize harshly"
+  },
+  "144": {
+    "word": "anachronistic",
+    "partsOfSpeech": "adjective",
+    "meaning": "chronologically misplaced"
+  },
+  "145": {
+    "word": "mendacious",
+    "partsOfSpeech": "adjective",
+    "meaning": "not telling the truth; lying"
+  },
+  "146": {
+    "word": "diligent",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing care in one's work or duties"
+  },
+  "147": {
+    "word": "remorse",
+    "partsOfSpeech": "noun",
+    "meaning": "deep regret or guilt for wrongdoing"
+  },
+  "148": {
+    "word": "hypocritical",
+    "partsOfSpeech": "adjective",
+    "meaning": "behaving in a way that contradicts one's stated beliefs"
+  },
+  "149": {
+    "word": "obscure",
+    "partsOfSpeech": "adjective",
+    "meaning": "not well known; difficult to understand"
+  },
+  "150": {
+    "word": "lugubrious",
+    "partsOfSpeech": "adjective",
+    "meaning": "excessively mournful"
+  },
+  "151": {
+    "word": "engender",
+    "partsOfSpeech": "verb",
+    "meaning": "call forth"
+  },
+  "152": {
+    "word": "culpable",
+    "partsOfSpeech": "adjective",
+    "meaning": "deserving blame or censure as being wrong or injurious"
+  },
+  "153": {
+    "word": "quaint",
+    "partsOfSpeech": "adjective",
+    "meaning": "attractively unusual or old-fashioned"
+  },
+  "154": {
+    "word": "assuage",
+    "partsOfSpeech": "verb",
+    "meaning": "provide physical relief, as from pain"
+  },
+  "155": {
+    "word": "prestigious",
+    "partsOfSpeech": "adjective",
+    "meaning": "inspiring respect and admiration; having high status"
+  },
+  "156": {
+    "word": "antipathy",
+    "partsOfSpeech": "noun",
+    "meaning": "a feeling of intense dislike"
+  },
+  "157": {
+    "word": "panacea",
+    "partsOfSpeech": "noun",
+    "meaning": "a solution or remedy for all problems"
+  },
+  "158": {
+    "word": "vapid",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking taste or flavor or tang"
+  },
+  "159": {
+    "word": "impecunious",
+    "partsOfSpeech": "adjective",
+    "meaning": "not having enough money to pay for necessities"
+  },
+  "160": {
+    "word": "notorious",
+    "partsOfSpeech": "adjective",
+    "meaning": "famous for something bad; infamous"
+  },
+  "161": {
+    "word": "deplore",
+    "partsOfSpeech": "verb",
+    "meaning": "to feel or express strong disapproval of; to regret deeply"
+  },
+  "162": {
+    "word": "intrepid",
+    "partsOfSpeech": "adjective",
+    "meaning": "invulnerable to fear or intimidation"
+  },
+  "163": {
+    "word": "intermittent",
+    "partsOfSpeech": "adjective",
+    "meaning": "occurring at irregular intervals; not continuous"
+  },
+  "164": {
+    "word": "sanguine",
+    "partsOfSpeech": "adjective",
+    "meaning": "confidently optimistic and cheerful"
+  },
+  "165": {
+    "word": "deride",
+    "partsOfSpeech": "verb",
+    "meaning": "treat or speak of with contempt"
+  },
+  "166": {
+    "word": "vacillate",
+    "partsOfSpeech": "verb",
+    "meaning": "be undecided about something; waver between conflicting positions or courses of action"
+  },
+  "167": {
+    "word": "gullible",
+    "partsOfSpeech": "adjective",
+    "meaning": "easily persuaded to believe something; credulous"
+  },
+  "168": {
+    "word": "requisite",
+    "partsOfSpeech": "adjective",
+    "meaning": "necessary for a purpose or function"
+  },
+  "169": {
+    "word": "empirical",
+    "partsOfSpeech": "adjective",
+    "meaning": "relying on or derived from observation or experiment"
+  },
+  "170": {
+    "word": "demagogue",
+    "partsOfSpeech": "noun",
+    "meaning": "a political leader who seeks support by appealing to popular passions and prejudices"
+  },
+  "171": {
+    "word": "misanthrope",
+    "partsOfSpeech": "noun",
+    "meaning": "a person who hates or distrusts humankind"
+  },
+  "172": {
+    "word": "unfeigned",
+    "partsOfSpeech": "adjective",
+    "meaning": "not pretended; sincerely felt or expressed"
+  },
+  "173": {
+    "word": "disseminate",
+    "partsOfSpeech": "verb",
+    "meaning": "spread abroad or through a medium"
+  },
+  "174": {
+    "word": "pertinacious",
+    "partsOfSpeech": "adjective",
+    "meaning": "stubbornly unyielding to argument or pleading or reason"
+  },
+  "175": {
+    "word": "arduous",
+    "partsOfSpeech": "adjective",
+    "meaning": "involving or requiring strenuous effort; difficult and tiring"
+  },
+  "176": {
+    "word": "contemplate",
+    "partsOfSpeech": "verb",
+    "meaning": "to think about carefully; to consider thoughtfully"
+  },
+  "177": {
+    "word": "maelstrom",
+    "partsOfSpeech": "noun",
+    "meaning": "a powerful whirlpool or a situation of confused movement"
+  },
+  "178": {
+    "word": "hostile",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing or feeling opposition or dislike; unfriendly"
+  },
+  "179": {
+    "word": "demeanor",
+    "partsOfSpeech": "noun",
+    "meaning": "outward behavior or bearing; manner of conducting oneself"
+  },
+  "180": {
+    "word": "articulate",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing the ability to speak fluently and coherently"
+  },
+  "181": {
+    "word": "zealot",
+    "partsOfSpeech": "noun",
+    "meaning": "a person who is fanatical about a cause"
+  },
+  "182": {
+    "word": "discrepancy",
+    "partsOfSpeech": "noun",
+    "meaning": "a difference between conflicting facts or claims or opinions"
+  },
+  "183": {
+    "word": "eloquent",
+    "partsOfSpeech": "adjective",
+    "meaning": "fluent and persuasive in speaking or writing"
+  },
+  "184": {
+    "word": "phenomenal",
+    "partsOfSpeech": "adjective",
+    "meaning": "remarkable or exceptional, especially remarkably good"
+  },
+  "185": {
+    "word": "meager",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking in quantity or quality; inadequate"
+  },
+  "186": {
+    "word": "disparate",
+    "partsOfSpeech": "adjective",
+    "meaning": "fundamentally different or distinct in quality or kind"
+  },
+  "187": {
+    "word": "trepidation",
+    "partsOfSpeech": "noun",
+    "meaning": "a feeling of alarm or dread"
+  },
+  "188": {
+    "word": "fastidious",
+    "partsOfSpeech": "adjective",
+    "meaning": "very attentive to detail; hard to please"
+  },
+  "189": {
+    "word": "subterfuge",
+    "partsOfSpeech": "noun",
+    "meaning": "something intended to misrepresent the true nature of an activity"
+  },
+  "190": {
+    "word": "cursory",
+    "partsOfSpeech": "adjective",
+    "meaning": "hasty and superficial; not thorough"
+  },
+  "191": {
+    "word": "prescient",
+    "partsOfSpeech": "adjective",
+    "meaning": "perceiving the significance of events before they occur"
+  },
+  "192": {
+    "word": "delineate",
+    "partsOfSpeech": "verb",
+    "meaning": "describe in vivid detail"
+  },
+  "193": {
+    "word": "insidious",
+    "partsOfSpeech": "adjective",
+    "meaning": "working or spreading in a hidden and usually injurious way"
+  },
+  "194": {
+    "word": "verbose",
+    "partsOfSpeech": "adjective",
+    "meaning": "using or containing too many words"
+  },
+  "195": {
+    "word": "circuitous",
+    "partsOfSpeech": "adjective",
+    "meaning": "deviating from a straight course"
+  },
+  "196": {
+    "word": "diminish",
+    "partsOfSpeech": "verb",
+    "meaning": "to make or become less; to reduce in size or importance"
+  },
+  "197": {
+    "word": "facetious",
+    "partsOfSpeech": "adjective",
+    "meaning": "treating serious issues with deliberately inappropriate humor"
+  },
+  "198": {
+    "word": "trite",
+    "partsOfSpeech": "adjective",
+    "meaning": "repeated too often; overfamiliar through overuse"
+  },
+  "199": {
+    "word": "implicit",
+    "partsOfSpeech": "adjective",
+    "meaning": "implied though not plainly expressed; understood"
+  },
+  "200": {
+    "word": "indefatigable",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing sustained enthusiastic action with unflagging vitality"
+  },
+  "201": {
+    "word": "zeitgeist",
+    "partsOfSpeech": "noun",
+    "meaning": "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time"
+  },
+  "202": {
+    "word": "resolute",
+    "partsOfSpeech": "adjective",
+    "meaning": "admirably purposeful and unwavering"
+  },
+  "203": {
+    "word": "lethargic",
+    "partsOfSpeech": "adjective",
+    "meaning": "sluggish and apathetic; lacking energy"
+  },
+  "204": {
+    "word": "consecrate",
+    "partsOfSpeech": "verb",
+    "meaning": "dedicate to a sacred purpose"
+  },
+  "205": {
+    "word": "banal",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking originality; boring"
+  },
+  "206": {
+    "word": "placid",
+    "partsOfSpeech": "adjective",
+    "meaning": "(of a body of water) free from disturbance by heavy waves"
+  },
+  "207": {
+    "word": "clandestine",
+    "partsOfSpeech": "adjective",
+    "meaning": "conducted with or marked by hidden aims or methods"
+  },
+  "208": {
+    "word": "taciturn",
+    "partsOfSpeech": "adjective",
+    "meaning": "reserved or uncommunicative in speech"
+  },
+  "209": {
+    "word": "prosaic",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking wit or imagination"
+  },
+  "210": {
+    "word": "imperative",
+    "partsOfSpeech": "adjective",
+    "meaning": "of vital importance; crucial"
+  },
+  "211": {
+    "word": "concord",
+    "partsOfSpeech": "noun",
+    "meaning": "agreement of opinions"
+  },
+  "212": {
+    "word": "repudiate",
+    "partsOfSpeech": "verb",
+    "meaning": "refuse to acknowledge, ratify, or recognize as valid"
+  },
+  "213": {
+    "word": "pertinent",
+    "partsOfSpeech": "adjective",
+    "meaning": "relevant or applicable to a particular matter"
+  },
+  "214": {
+    "word": "robust",
+    "partsOfSpeech": "adjective",
+    "meaning": "strong and healthy; vigorous"
+  },
+  "215": {
+    "word": "relegate",
+    "partsOfSpeech": "verb",
+    "meaning": "assign to a lower position"
+  },
+  "216": {
+    "word": "archetypal",
+    "partsOfSpeech": "adjective",
+    "meaning": "of an original pattern on which other things are modeled"
+  },
+  "217": {
+    "word": "perspicacious",
+    "partsOfSpeech": "adjective",
+    "meaning": "acutely insightful and wise"
+  },
+  "218": {
+    "word": "solicitous",
+    "partsOfSpeech": "adjective",
+    "meaning": "full of anxiety and concern"
+  },
+  "219": {
+    "word": "protean",
+    "partsOfSpeech": "adjective",
+    "meaning": "taking on different forms"
+  },
+  "220": {
+    "word": "elicit",
+    "partsOfSpeech": "verb",
+    "meaning": "call forth (emotions, feelings, and responses)"
+  },
+  "221": {
+    "word": "wizened",
+    "partsOfSpeech": "adjective",
+    "meaning": "lean and wrinkled by shrinkage as from age or illness"
+  },
+  "222": {
+    "word": "corroborate",
+    "partsOfSpeech": "verb",
+    "meaning": "to confirm or give support to; to verify"
+  },
+  "223": {
+    "word": "redundant",
+    "partsOfSpeech": "adjective",
+    "meaning": "not needed because something else serves the same purpose"
+  },
+  "224": {
+    "word": "aberrant",
+    "partsOfSpeech": "adjective",
+    "meaning": "departing from an accepted standard; deviating from what is normal or expected"
+  },
+  "225": {
+    "word": "recalcitrant",
+    "partsOfSpeech": "adjective",
+    "meaning": "resisting authority or control"
+  },
+  "226": {
+    "word": "gauche",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking social grace"
+  },
+  "227": {
+    "word": "belligerent",
+    "partsOfSpeech": "adjective",
+    "meaning": "characteristic of an enemy or one eager to fight"
+  },
+  "228": {
+    "word": "eminent",
+    "partsOfSpeech": "adjective",
+    "meaning": "famous and respected within a particular sphere"
+  },
+  "229": {
+    "word": "zenith",
+    "partsOfSpeech": "noun",
+    "meaning": "the highest point of something"
+  },
+  "230": {
+    "word": "disparage",
+    "partsOfSpeech": "verb",
+    "meaning": "to regard or represent as being of little worth; to belittle"
+  },
+  "231": {
+    "word": "alacrity",
+    "partsOfSpeech": "noun",
+    "meaning": "brisk and cheerful readiness"
+  },
+  "232": {
+    "word": "rancor",
+    "partsOfSpeech": "noun",
+    "meaning": "a feeling of deep and bitter anger and ill-will"
+  },
+  "233": {
+    "word": "spurious",
+    "partsOfSpeech": "adjective",
+    "meaning": "plausible but false"
+  },
+  "234": {
+    "word": "incendiary",
+    "partsOfSpeech": "noun",
+    "meaning": "a bomb containing an incendiary material"
+  },
+  "235": {
+    "word": "dogmatic",
+    "partsOfSpeech": "adjective",
+    "meaning": "given to the expression of opinions as if they were facts"
+  },
+  "236": {
+    "word": "sagacious",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing keen mental discernment"
+  },
+  "237": {
+    "word": "expunge",
+    "partsOfSpeech": "verb",
+    "meaning": "remove by erasing or crossing out or as if by drawing a line"
+  },
+  "238": {
+    "word": "unabashed",
+    "partsOfSpeech": "adjective",
+    "meaning": "not embarrassed or ashamed"
+  },
+  "239": {
+    "word": "rational",
+    "partsOfSpeech": "adjective",
+    "meaning": "based on reason or logic"
+  },
+  "240": {
+    "word": "naive",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing a lack of experience or judgment; innocent"
+  },
+  "241": {
+    "word": "decorum",
+    "partsOfSpeech": "noun",
+    "meaning": "propriety in manners and conduct"
+  },
+  "242": {
+    "word": "capricious",
+    "partsOfSpeech": "adjective",
+    "meaning": "given to sudden changes of mood or behavior"
+  },
+  "243": {
+    "word": "perfunctory",
+    "partsOfSpeech": "adjective",
+    "meaning": "hasty and without attention to detail; not thorough"
+  },
+  "244": {
+    "word": "cacophony",
+    "partsOfSpeech": "noun",
+    "meaning": "a harsh discordant mixture of sounds"
+  },
+  "245": {
+    "word": "circumspect",
+    "partsOfSpeech": "adjective",
+    "meaning": "wary and unwilling to take risks"
+  },
+  "246": {
+    "word": "inherent",
+    "partsOfSpeech": "adjective",
+    "meaning": "existing as a natural or basic part of something"
+  },
+  "247": {
+    "word": "effrontery",
+    "partsOfSpeech": "noun",
+    "meaning": "audacious behavior that you have no right to"
+  },
+  "248": {
+    "word": "embezzlement",
+    "partsOfSpeech": "noun",
+    "meaning": "the fraudulent appropriation of property by a person to whom it has been entrusted"
+  },
+  "249": {
+    "word": "sycophant",
+    "partsOfSpeech": "noun",
+    "meaning": "a person who tries to please someone in order to gain a personal advantage"
+  },
+  "250": {
+    "word": "pensive",
+    "partsOfSpeech": "adjective",
+    "meaning": "engaged in deep thought; contemplative"
+  },
+  "251": {
+    "word": "invective",
+    "partsOfSpeech": "noun",
+    "meaning": "abusive language used to express blame or censure"
+  },
+  "252": {
+    "word": "neophyte",
+    "partsOfSpeech": "noun",
+    "meaning": "any new participant in some activity"
+  },
+  "253": {
+    "word": "commensurate",
+    "partsOfSpeech": "adjective",
+    "meaning": "corresponding in size or degree or extent"
+  },
+  "254": {
+    "word": "pragmatic",
+    "partsOfSpeech": "adjective",
+    "meaning": "dealing with things in a practical way"
+  },
+  "255": {
+    "word": "authentic",
+    "partsOfSpeech": "adjective",
+    "meaning": "of undisputed origin; genuine and real"
+  },
+  "256": {
+    "word": "cordial",
+    "partsOfSpeech": "adjective",
+    "meaning": "warm and friendly in manner; pleasant"
+  },
+  "257": {
+    "word": "indigent",
+    "partsOfSpeech": "adjective",
+    "meaning": "poor enough to need help from others"
+  },
+  "258": {
+    "word": "somnolent",
+    "partsOfSpeech": "adjective",
+    "meaning": "inclined to sleep"
+  },
+  "259": {
+    "word": "optimistic",
+    "partsOfSpeech": "adjective",
+    "meaning": "hopeful and confident about the future"
+  },
+  "260": {
+    "word": "negligent",
+    "partsOfSpeech": "adjective",
+    "meaning": "failing to take proper care; careless"
+  },
+  "261": {
+    "word": "formidable",
+    "partsOfSpeech": "adjective",
+    "meaning": "inspiring fear or respect through being impressively powerful"
+  },
+  "262": {
+    "word": "ephemeral",
+    "partsOfSpeech": "adjective",
+    "meaning": "lasting for a very short time; transitory"
+  },
+  "263": {
+    "word": "mollify",
+    "partsOfSpeech": "verb",
+    "meaning": "cause to be more favorably inclined"
+  },
+  "264": {
+    "word": "vacillate",
+    "partsOfSpeech": "verb",
+    "meaning": "be undecided about something; waver between conflicting positions or courses of action"
+  },
+  "265": {
+    "word": "tangential",
+    "partsOfSpeech": "adjective",
+    "meaning": "of superficial relevance if any"
+  },
+  "266": {
+    "word": "inculcate",
+    "partsOfSpeech": "verb",
+    "meaning": "teach and impress by frequent repetitions or admonitions"
+  },
+  "267": {
+    "word": "paradigm",
+    "partsOfSpeech": "noun",
+    "meaning": "a standard or typical example"
+  },
+  "268": {
+    "word": "histrionic",
+    "partsOfSpeech": "adjective",
+    "meaning": "overly theatrical or melodramatic"
+  },
+  "269": {
+    "word": "deceptive",
+    "partsOfSpeech": "adjective",
+    "meaning": "giving an appearance different from the true one; misleading"
+  },
+  "270": {
+    "word": "assiduous",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing great care and perseverance; diligent"
+  },
+  "271": {
+    "word": "debunk",
+    "partsOfSpeech": "verb",
+    "meaning": "expose while ridiculing"
+  },
+  "272": {
+    "word": "indolent",
+    "partsOfSpeech": "adjective",
+    "meaning": "disinclined to work or exertion"
+  },
+  "273": {
+    "word": "dissident",
+    "partsOfSpeech": "noun",
+    "meaning": "a person who objects to some established policy"
+  },
+  "274": {
+    "word": "desiccate",
+    "partsOfSpeech": "verb",
+    "meaning": "remove water from"
+  },
+  "275": {
+    "word": "ironic",
+    "partsOfSpeech": "adjective",
+    "meaning": "expressing one's meaning by using language signifying the opposite"
+  },
+  "276": {
+    "word": "divulge",
+    "partsOfSpeech": "verb",
+    "meaning": "make known to the public information that was previously known only to a few people or to one person"
+  },
+  "277": {
+    "word": "unimpeachable",
+    "partsOfSpeech": "adjective",
+    "meaning": "beyond doubt or reproach"
+  },
+  "278": {
+    "word": "instigate",
+    "partsOfSpeech": "verb",
+    "meaning": "provoke or stir up"
+  },
+  "279": {
+    "word": "interminable",
+    "partsOfSpeech": "adjective",
+    "meaning": "tiresomely long; seemingly without end"
+  },
+  "280": {
+    "word": "pejorative",
+    "partsOfSpeech": "adjective",
+    "meaning": "expressing disapproval"
+  },
+  "281": {
+    "word": "integrity",
+    "partsOfSpeech": "noun",
+    "meaning": "the quality of being honest and having strong moral principles"
+  },
+  "282": {
+    "word": "tantamount",
+    "partsOfSpeech": "adjective",
+    "meaning": "being essentially equal to something"
+  },
+  "283": {
+    "word": "strident",
+    "partsOfSpeech": "adjective",
+    "meaning": "unpleasantly loud and harsh"
+  },
+  "284": {
+    "word": "eschew",
+    "partsOfSpeech": "verb",
+    "meaning": "avoid and stay away from deliberately"
+  },
+  "285": {
+    "word": "discretion",
+    "partsOfSpeech": "noun",
+    "meaning": "the quality of behaving or speaking in a way that avoids offense"
+  },
+  "286": {
+    "word": "philanthropic",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing love to mankind"
+  },
+  "287": {
+    "word": "limpid",
+    "partsOfSpeech": "adjective",
+    "meaning": "(of a liquid) clear and bright"
+  },
+  "288": {
+    "word": "tangential",
+    "partsOfSpeech": "adjective",
+    "meaning": "of superficial relevance if any"
+  },
+  "289": {
+    "word": "vocation",
+    "partsOfSpeech": "noun",
+    "meaning": "the particular occupation for which you are trained"
+  },
+  "290": {
+    "word": "diverse",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing a great deal of variety; very different"
+  },
+  "291": {
+    "word": "temerity",
+    "partsOfSpeech": "noun",
+    "meaning": "fearless daring"
+  },
+  "292": {
+    "word": "enigmatic",
+    "partsOfSpeech": "adjective",
+    "meaning": "difficult to interpret or understand; mysterious"
+  },
+  "293": {
+    "word": "exculpate",
+    "partsOfSpeech": "verb",
+    "meaning": "pronounce not guilty of criminal charges"
+  },
+  "294": {
+    "word": "contentious",
+    "partsOfSpeech": "adjective",
+    "meaning": "causing or likely to cause an argument; controversial"
+  },
+  "295": {
+    "word": "jocund",
+    "partsOfSpeech": "adjective",
+    "meaning": "full of or showing high-spirited merriment"
+  },
+  "296": {
+    "word": "inexorable",
+    "partsOfSpeech": "adjective",
+    "meaning": "not to be persuaded, stopped, or moved by entreaty or prayer"
+  },
+  "297": {
+    "word": "pompous",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing an inflated opinion of one's importance"
+  },
+  "298": {
+    "word": "travesty",
+    "partsOfSpeech": "noun",
+    "meaning": "a composition that imitates somebody's style in a humorous way"
+  },
+  "299": {
+    "word": "efficacious",
+    "partsOfSpeech": "adjective",
+    "meaning": "producing or capable of producing an intended result or use"
+  },
+  "300": {
+    "word": "obsolete",
+    "partsOfSpeech": "adjective",
+    "meaning": "no longer in use; outdated"
+  },
+  "301": {
+    "word": "juxtaposition",
+    "partsOfSpeech": "noun",
+    "meaning": "the act of positioning close together (or side by side)"
+  },
+  "302": {
+    "word": "modicum",
+    "partsOfSpeech": "noun",
+    "meaning": "a small or moderate or token amount"
+  },
+  "303": {
+    "word": "contrite",
+    "partsOfSpeech": "adjective",
+    "meaning": "feeling or expressing pain or sorrow for sins or offenses"
+  },
+  "304": {
+    "word": "prominent",
+    "partsOfSpeech": "adjective",
+    "meaning": "important; standing out so as to be easily seen"
+  },
+  "305": {
+    "word": "adumbrate",
+    "partsOfSpeech": "verb",
+    "meaning": "describe roughly or give the main points or summary of"
+  },
+  "306": {
+    "word": "nostalgic",
+    "partsOfSpeech": "adjective",
+    "meaning": "feeling or inspiring a sentimental longing for the past"
+  },
+  "307": {
+    "word": "egregious",
+    "partsOfSpeech": "adjective",
+    "meaning": "conspicuously and outrageously bad or reprehensible"
+  },
+  "308": {
+    "word": "acumen",
+    "partsOfSpeech": "noun",
+    "meaning": "the ability to make good judgments and quick decisions"
+  },
+  "309": {
+    "word": "apocryphal",
+    "partsOfSpeech": "adjective",
+    "meaning": "being of questionable authenticity"
+  },
+  "310": {
+    "word": "paradox",
+    "partsOfSpeech": "noun",
+    "meaning": "a statement that seems contradictory but may be true"
+  },
+  "311": {
+    "word": "discordant",
+    "partsOfSpeech": "adjective",
+    "meaning": "not in agreement or harmony"
+  },
+  "312": {
+    "word": "recidivism",
+    "partsOfSpeech": "noun",
+    "meaning": "the act of relapsing into antisocial or criminal behavior"
+  },
+  "313": {
+    "word": "repartee",
+    "partsOfSpeech": "noun",
+    "meaning": "a quick and witty reply"
+  },
+  "314": {
+    "word": "lament",
+    "partsOfSpeech": "noun",
+    "meaning": "a cry of sorrow and grief"
+  },
+  "315": {
+    "word": "recondite",
+    "partsOfSpeech": "adjective",
+    "meaning": "difficult to understand"
+  },
+  "316": {
+    "word": "concise",
+    "partsOfSpeech": "adjective",
+    "meaning": "giving a lot of information clearly in few words; brief"
+  },
+  "317": {
+    "word": "perceptive",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing sensitive insight"
+  },
+  "318": {
+    "word": "indifferent",
+    "partsOfSpeech": "adjective",
+    "meaning": "having no particular interest or sympathy; unconcerned"
+  },
+  "319": {
+    "word": "incentive",
+    "partsOfSpeech": "noun",
+    "meaning": "something that motivates or encourages one to do something"
+  },
+  "320": {
+    "word": "venerate",
+    "partsOfSpeech": "verb",
+    "meaning": "regard with feelings of respect and reverence"
+  },
+  "321": {
+    "word": "duress",
+    "partsOfSpeech": "noun",
+    "meaning": "compulsory force or threat"
+  },
+  "322": {
+    "word": "corpulence",
+    "partsOfSpeech": "noun",
+    "meaning": "the property of excessive fatness"
+  },
+  "323": {
+    "word": "reprehensible",
+    "partsOfSpeech": "adjective",
+    "meaning": "deserving censure or condemnation"
+  },
+  "324": {
+    "word": "turpitude",
+    "partsOfSpeech": "noun",
+    "meaning": "a corrupt or depraved or degenerate act or practice"
+  },
+  "325": {
+    "word": "paucity",
+    "partsOfSpeech": "noun",
+    "meaning": "an insufficient quantity or number"
+  },
+  "326": {
+    "word": "terse",
+    "partsOfSpeech": "adjective",
+    "meaning": "brief and to the point"
+  },
+  "327": {
+    "word": "exorbitant",
+    "partsOfSpeech": "adjective",
+    "meaning": "greatly exceeding bounds of reason or moderation"
+  },
+  "328": {
+    "word": "futile",
+    "partsOfSpeech": "adjective",
+    "meaning": "incapable of producing any useful result; pointless"
+  },
+  "329": {
+    "word": "reciprocal",
+    "partsOfSpeech": "adjective",
+    "meaning": "given or felt by each toward the other; mutual"
+  },
+  "330": {
+    "word": "imminent",
+    "partsOfSpeech": "adjective",
+    "meaning": "about to happen; approaching rapidly"
+  },
+  "331": {
+    "word": "ubiquitous",
+    "partsOfSpeech": "adjective",
+    "meaning": "being present everywhere at once"
+  },
+  "332": {
+    "word": "acute",
+    "partsOfSpeech": "adjective",
+    "meaning": "having a sharp point or edge; extremely sharp or intense"
+  },
+  "333": {
+    "word": "inchoate",
+    "partsOfSpeech": "adjective",
+    "meaning": "just begun and not fully formed or developed"
+  },
+  "334": {
+    "word": "precocious",
+    "partsOfSpeech": "adjective",
+    "meaning": "developed earlier than usual; advanced"
+  },
+  "335": {
+    "word": "conjecture",
+    "partsOfSpeech": "noun",
+    "meaning": "reasoning that involves the formation of conclusions from incomplete evidence"
+  },
+  "336": {
+    "word": "connive",
+    "partsOfSpeech": "verb",
+    "meaning": "form intrigues (for malicious purposes)"
+  },
+  "337": {
+    "word": "intransigent",
+    "partsOfSpeech": "adjective",
+    "meaning": "unwilling or refusing to change one's views or to agree about something"
+  },
+  "338": {
+    "word": "audacious",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing a willingness to take surprisingly bold risks"
+  },
+  "339": {
+    "word": "innovation",
+    "partsOfSpeech": "noun",
+    "meaning": "the introduction of something new; a new method or idea"
+  },
+  "340": {
+    "word": "portent",
+    "partsOfSpeech": "noun",
+    "meaning": "a sign of something about to happen"
+  },
+  "341": {
+    "word": "reverent",
+    "partsOfSpeech": "adjective",
+    "meaning": "feeling or showing deep respect"
+  },
+  "342": {
+    "word": "sanctimonious",
+    "partsOfSpeech": "adjective",
+    "meaning": "excessively or hypocritically pious"
+  },
+  "343": {
+    "word": "punctilious",
+    "partsOfSpeech": "adjective",
+    "meaning": "marked by precise accordance with details"
+  },
+  "344": {
+    "word": "verisimilitude",
+    "partsOfSpeech": "noun",
+    "meaning": "the appearance of truth; the quality of seeming to be true"
+  },
+  "345": {
+    "word": "probity",
+    "partsOfSpeech": "noun",
+    "meaning": "complete and confirmed integrity"
+  },
+  "346": {
+    "word": "cogent",
+    "partsOfSpeech": "adjective",
+    "meaning": "powerfully persuasive"
+  },
+  "347": {
+    "word": "emphatic",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing or giving emphasis; forceful and clear"
+  },
+  "348": {
+    "word": "digress",
+    "partsOfSpeech": "verb",
+    "meaning": "turn aside from the main subject of attention"
+  },
+  "349": {
+    "word": "humble",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing a modest estimate of one's importance"
+  },
+  "350": {
+    "word": "duplicity",
+    "partsOfSpeech": "noun",
+    "meaning": "acting in bad faith"
+  },
+  "351": {
+    "word": "ignominious",
+    "partsOfSpeech": "adjective",
+    "meaning": "(used of conduct or character) deserving or bringing disgrace or shame"
+  },
+  "352": {
+    "word": "fatuous",
+    "partsOfSpeech": "adjective",
+    "meaning": "silly and pointless"
+  },
+  "353": {
+    "word": "deleterious",
+    "partsOfSpeech": "adjective",
+    "meaning": "causing harm or damage"
+  },
+  "354": {
+    "word": "erratic",
+    "partsOfSpeech": "adjective",
+    "meaning": "unpredictable in behavior or movement"
+  },
+  "355": {
+    "word": "linchpin",
+    "partsOfSpeech": "noun",
+    "meaning": "a central cohesive source of support and stability"
+  },
+  "356": {
+    "word": "anticipate",
+    "partsOfSpeech": "verb",
+    "meaning": "to expect or predict; to regard as probable"
+  },
+  "357": {
+    "word": "pusillanimous",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking in courage and manly strength and resolution"
+  },
+  "358": {
+    "word": "surreptitious",
+    "partsOfSpeech": "adjective",
+    "meaning": "conducted with or marked by hidden aims or methods"
+  },
+  "359": {
+    "word": "dilettante",
+    "partsOfSpeech": "noun",
+    "meaning": "showing frivolous or superficial interest"
+  },
+  "360": {
+    "word": "scrupulous",
+    "partsOfSpeech": "adjective",
+    "meaning": "characterized by extreme care and great effort"
+  },
+  "361": {
+    "word": "soporific",
+    "partsOfSpeech": "adjective",
+    "meaning": "tending to induce drowsiness or sleep"
+  },
+  "362": {
+    "word": "forestall",
+    "partsOfSpeech": "verb",
+    "meaning": "keep from happening or arising"
+  },
+  "363": {
+    "word": "irresolute",
+    "partsOfSpeech": "adjective",
+    "meaning": "uncertain how to act or proceed"
+  },
+  "364": {
+    "word": "genial",
+    "partsOfSpeech": "adjective",
+    "meaning": "friendly and cheerful; warmly pleasant"
+  },
+  "365": {
+    "word": "grandiloquent",
+    "partsOfSpeech": "adjective",
+    "meaning": "pompous or extravagant in language"
+  },
+  "366": {
+    "word": "precipitous",
+    "partsOfSpeech": "adjective",
+    "meaning": "extremely steep"
+  },
+  "367": {
+    "word": "forbearance",
+    "partsOfSpeech": "noun",
+    "meaning": "a delay in enforcing rights or claims or privileges"
+  },
+  "368": {
+    "word": "ameliorate",
+    "partsOfSpeech": "verb",
+    "meaning": "to make better or more tolerable; to improve"
+  },
+  "369": {
+    "word": "disabuse",
+    "partsOfSpeech": "verb",
+    "meaning": "free somebody from an erroneous belief"
+  },
+  "370": {
+    "word": "xenophobia",
+    "partsOfSpeech": "noun",
+    "meaning": "dislike of or prejudice against people from other countries"
+  },
+  "371": {
+    "word": "abhor",
+    "partsOfSpeech": "verb",
+    "meaning": "to regard with disgust and hatred; to detest"
+  },
+  "372": {
+    "word": "protracted",
+    "partsOfSpeech": "adjective",
+    "meaning": "relatively long in duration"
+  },
+  "373": {
+    "word": "vituperative",
+    "partsOfSpeech": "adjective",
+    "meaning": "marked by harshly abusive criticism"
+  },
+  "374": {
+    "word": "lucid",
+    "partsOfSpeech": "adjective",
+    "meaning": "expressed clearly; easy to understand"
+  },
+  "375": {
+    "word": "desultory",
+    "partsOfSpeech": "adjective",
+    "meaning": "marked by lack of definite plan or regularity or purpose"
+  },
+  "376": {
+    "word": "rhetoric",
+    "partsOfSpeech": "noun",
+    "meaning": "study of the technique and rules for using language effectively"
+  },
+  "377": {
+    "word": "arbitrary",
+    "partsOfSpeech": "adjective",
+    "meaning": "based on random choice rather than reason or system"
+  },
+  "378": {
+    "word": "feasible",
+    "partsOfSpeech": "adjective",
+    "meaning": "possible to do easily or conveniently; achievable"
+  },
+  "379": {
+    "word": "tirade",
+    "partsOfSpeech": "noun",
+    "meaning": "a speech of violent denunciation"
+  },
+  "380": {
+    "word": "loquacious",
+    "partsOfSpeech": "adjective",
+    "meaning": "full of trivial conversation"
+  },
+  "381": {
+    "word": "garrulous",
+    "partsOfSpeech": "adjective",
+    "meaning": "excessively talkative"
+  },
+  "382": {
+    "word": "idiosyncratic",
+    "partsOfSpeech": "adjective",
+    "meaning": "peculiar to the individual"
+  },
+  "383": {
+    "word": "proffer",
+    "partsOfSpeech": "verb",
+    "meaning": "present for acceptance or rejection"
+  },
+  "384": {
+    "word": "denounce",
+    "partsOfSpeech": "verb",
+    "meaning": "to publicly declare to be wrong or evil; to condemn"
+  },
+  "385": {
+    "word": "polemic",
+    "partsOfSpeech": "noun",
+    "meaning": "a controversy (especially over a belief or dogma)"
+  },
+  "386": {
+    "word": "remonstrate",
+    "partsOfSpeech": "verb",
+    "meaning": "censure severely or angrily"
+  },
+  "387": {
+    "word": "reclusive",
+    "partsOfSpeech": "adjective",
+    "meaning": "withdrawn from society; seeking solitude"
+  },
+  "388": {
+    "word": "fickle",
+    "partsOfSpeech": "adjective",
+    "meaning": "liable to sudden unpredictable change"
+  },
+  "389": {
+    "word": "itinerant",
+    "partsOfSpeech": "adjective",
+    "meaning": "traveling from place to place to work"
+  },
+  "390": {
+    "word": "ubiquitous",
+    "partsOfSpeech": "adjective",
+    "meaning": "present or found everywhere"
+  },
+  "391": {
+    "word": "precarious",
+    "partsOfSpeech": "adjective",
+    "meaning": "not securely held; dependent on chance"
+  },
+  "392": {
+    "word": "onerous",
+    "partsOfSpeech": "adjective",
+    "meaning": "not easily borne; exacting"
+  },
+  "393": {
+    "word": "credence",
+    "partsOfSpeech": "noun",
+    "meaning": "the mental attitude that something is believable and should be accepted as true"
+  },
+  "394": {
+    "word": "erudite",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing great knowledge learned from reading"
+  },
+  "395": {
+    "word": "conflate",
+    "partsOfSpeech": "verb",
+    "meaning": "mix together different elements or concepts"
+  },
+  "396": {
+    "word": "esoteric",
+    "partsOfSpeech": "adjective",
+    "meaning": "intended for or likely to be understood by a small number of people"
+  },
+  "397": {
+    "word": "proclivity",
+    "partsOfSpeech": "noun",
+    "meaning": "a natural inclination"
+  },
+  "398": {
+    "word": "prolific",
+    "partsOfSpeech": "adjective",
+    "meaning": "producing much fruit or many offspring; very productive"
+  },
+  "399": {
+    "word": "meticulous",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing great attention to detail; very careful"
+  },
+  "400": {
+    "word": "provocative",
+    "partsOfSpeech": "adjective",
+    "meaning": "causing annoyance or another strong reaction"
+  },
+  "401": {
+    "word": "semaphore",
+    "partsOfSpeech": "noun",
+    "meaning": "an apparatus for visual signaling"
+  },
+  "402": {
+    "word": "austere",
+    "partsOfSpeech": "adjective",
+    "meaning": "severe or strict in manner or appearance"
+  },
+  "403": {
+    "word": "juggernaut",
+    "partsOfSpeech": "noun",
+    "meaning": "a massive inexorable force that crushes everything in its path"
+  },
+  "404": {
+    "word": "aberration",
+    "partsOfSpeech": "noun",
+    "meaning": "a departure from what is normal or expected"
+  },
+  "405": {
+    "word": "extant",
+    "partsOfSpeech": "adjective",
+    "meaning": "still in existence; surviving"
+  },
+  "406": {
+    "word": "effulgent",
+    "partsOfSpeech": "adjective",
+    "meaning": "shining brightly; radiant"
+  },
+  "407": {
+    "word": "advocate",
+    "partsOfSpeech": "verb",
+    "meaning": "to publicly recommend or support; to speak in favor of"
+  },
+  "408": {
+    "word": "magnanimous",
+    "partsOfSpeech": "adjective",
+    "meaning": "generous in forgiving; unselfish"
+  },
+  "409": {
+    "word": "preclude",
+    "partsOfSpeech": "verb",
+    "meaning": "make impossible, especially beforehand"
+  },
+  "410": {
+    "word": "inevitable",
+    "partsOfSpeech": "adjective",
+    "meaning": "certain to happen; unavoidable"
+  },
+  "411": {
+    "word": "taciturn",
+    "partsOfSpeech": "adjective",
+    "meaning": "habitually reserved and uncommunicative"
+  },
+  "412": {
+    "word": "yokel",
+    "partsOfSpeech": "noun",
+    "meaning": "an uneducated and unsophisticated person from the countryside"
+  },
+  "413": {
+    "word": "extol",
+    "partsOfSpeech": "verb",
+    "meaning": "praise, glorify, or honor"
+  },
+  "414": {
+    "word": "profound",
+    "partsOfSpeech": "adjective",
+    "meaning": "having deep meaning or significance"
+  },
+  "415": {
+    "word": "anachronism",
+    "partsOfSpeech": "noun",
+    "meaning": "something located at a time when it could not have existed"
+  },
+  "416": {
+    "word": "succinct",
+    "partsOfSpeech": "adjective",
+    "meaning": "briefly giving the gist of something"
+  },
+  "417": {
+    "word": "obfuscate",
+    "partsOfSpeech": "verb",
+    "meaning": "to make obscure or unclear"
+  },
+  "418": {
+    "word": "denigrate",
+    "partsOfSpeech": "verb",
+    "meaning": "attack the good name and reputation of someone"
+  },
+  "419": {
+    "word": "fetter",
+    "partsOfSpeech": "noun",
+    "meaning": "a shackle for the ankles or feet"
+  },
+  "420": {
+    "word": "euphemism",
+    "partsOfSpeech": "noun",
+    "meaning": "an inoffensive expression substituted for an offensive one"
+  },
+  "421": {
+    "word": "relentless",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing no abatement of severity or intensity"
+  },
+  "422": {
+    "word": "arboreal",
+    "partsOfSpeech": "adjective",
+    "meaning": "of or relating to or formed by trees"
+  },
+  "423": {
+    "word": "inadvertent",
+    "partsOfSpeech": "adjective",
+    "meaning": "done without conscious intention; accidental"
+  },
+  "424": {
+    "word": "copious",
+    "partsOfSpeech": "adjective",
+    "meaning": "abundant in supply or quantity; plentiful"
+  },
+  "425": {
+    "word": "extravagant",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking restraint in spending money; exceeding reasonable limits"
+  },
+  "426": {
+    "word": "incumbent",
+    "partsOfSpeech": "adjective",
+    "meaning": "necessary as a duty or responsibility; morally binding"
+  },
+  "427": {
+    "word": "licentious",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking moral discipline"
+  },
+  "428": {
+    "word": "perfidious",
+    "partsOfSpeech": "adjective",
+    "meaning": "tending to betray"
+  },
+  "429": {
+    "word": "precursor",
+    "partsOfSpeech": "noun",
+    "meaning": "something that precedes and indicates the approach of something or someone"
+  },
+  "430": {
+    "word": "innocuous",
+    "partsOfSpeech": "adjective",
+    "meaning": "not injurious to physical or mental health"
+  },
+  "431": {
+    "word": "persistent",
+    "partsOfSpeech": "adjective",
+    "meaning": "continuing firmly despite difficulty or opposition"
+  },
+  "432": {
+    "word": "sequester",
+    "partsOfSpeech": "verb",
+    "meaning": "remove something from direct contact"
+  },
+  "433": {
+    "word": "emend",
+    "partsOfSpeech": "verb",
+    "meaning": "make corrections to"
+  },
+  "434": {
+    "word": "insightful",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing an accurate understanding of a situation"
+  },
+  "435": {
+    "word": "turbid",
+    "partsOfSpeech": "adjective",
+    "meaning": "(of a liquid) clouded as with sediment"
+  },
+  "436": {
+    "word": "trenchant",
+    "partsOfSpeech": "adjective",
+    "meaning": "vigorous or incisive in expression or style"
+  },
+  "437": {
+    "word": "impetuous",
+    "partsOfSpeech": "adjective",
+    "meaning": "acting quickly without thought or care; impulsive"
+  },
+  "438": {
+    "word": "wax",
+    "partsOfSpeech": "verb",
+    "meaning": "to increase in size, number, strength, or intensity"
+  },
+  "439": {
+    "word": "deprecate",
+    "partsOfSpeech": "verb",
+    "meaning": "express strong disapproval of"
+  },
+  "440": {
+    "word": "jettison",
+    "partsOfSpeech": "verb",
+    "meaning": "throw away, of something encumbering"
+  },
+  "441": {
+    "word": "largess",
+    "partsOfSpeech": "noun",
+    "meaning": "generosity in bestowing money or gifts upon others"
+  },
+  "442": {
+    "word": "wanton",
+    "partsOfSpeech": "adjective",
+    "meaning": "deliberate and unprovoked"
+  },
+  "443": {
+    "word": "discern",
+    "partsOfSpeech": "verb",
+    "meaning": "to perceive or recognize; to distinguish mentally"
+  },
+  "444": {
+    "word": "propensity",
+    "partsOfSpeech": "noun",
+    "meaning": "an inclination to do something"
+  },
+  "445": {
+    "word": "scrutinize",
+    "partsOfSpeech": "verb",
+    "meaning": "examine carefully for accuracy with the intent of verification"
+  },
+  "446": {
+    "word": "discomfit",
+    "partsOfSpeech": "verb",
+    "meaning": "cause to lose one's composure"
+  },
+  "447": {
+    "word": "gregarious",
+    "partsOfSpeech": "adjective",
+    "meaning": "fond of the company of others; sociable"
+  },
+  "448": {
+    "word": "prudent",
+    "partsOfSpeech": "adjective",
+    "meaning": "acting with care and thought for the future"
+  },
+  "449": {
+    "word": "explicit",
+    "partsOfSpeech": "adjective",
+    "meaning": "stated clearly and in detail, leaving no room for confusion"
+  },
+  "450": {
+    "word": "connoisseur",
+    "partsOfSpeech": "noun",
+    "meaning": "an expert judge in matters of taste"
+  },
+  "451": {
+    "word": "revere",
+    "partsOfSpeech": "verb",
+    "meaning": "regard with feelings of respect and reverence"
+  },
+  "452": {
+    "word": "frugal",
+    "partsOfSpeech": "adjective",
+    "meaning": "sparing or economical with regard to money or food"
+  },
+  "453": {
+    "word": "fallacious",
+    "partsOfSpeech": "adjective",
+    "meaning": "based on an unsound argument or reasoning"
+  },
+  "454": {
+    "word": "insolent",
+    "partsOfSpeech": "adjective",
+    "meaning": "marked by casual disrespect"
+  },
+  "455": {
+    "word": "veracity",
+    "partsOfSpeech": "noun",
+    "meaning": "conformity to truth and fact"
+  },
+  "456": {
+    "word": "rigorous",
+    "partsOfSpeech": "adjective",
+    "meaning": "extremely thorough and accurate"
+  },
+  "457": {
+    "word": "prodigal",
+    "partsOfSpeech": "adjective",
+    "meaning": "recklessly wasteful"
+  },
+  "458": {
+    "word": "elusive",
+    "partsOfSpeech": "adjective",
+    "meaning": "difficult to find, catch, or achieve"
+  },
+  "459": {
+    "word": "dubious",
+    "partsOfSpeech": "adjective",
+    "meaning": "hesitating or doubting; of questionable quality"
+  },
+  "460": {
+    "word": "trenchant",
+    "partsOfSpeech": "adjective",
+    "meaning": "clearly or sharply defined to the mind"
+  },
+  "461": {
+    "word": "expurgate",
+    "partsOfSpeech": "verb",
+    "meaning": "edit by omitting or modifying parts considered indelicate"
+  },
+  "462": {
+    "word": "opulent",
+    "partsOfSpeech": "adjective",
+    "meaning": "rich and superior in quality"
+  },
+  "463": {
+    "word": "enervate",
+    "partsOfSpeech": "verb",
+    "meaning": "to weaken or drain energy"
+  },
+  "464": {
+    "word": "prosperous",
+    "partsOfSpeech": "adjective",
+    "meaning": "successful in material terms; flourishing financially"
+  },
+  "465": {
+    "word": "haphazard",
+    "partsOfSpeech": "adjective",
+    "meaning": "lacking any obvious principle of organization; random"
+  },
+  "466": {
+    "word": "vitriolic",
+    "partsOfSpeech": "adjective",
+    "meaning": "harsh, bitter, or malicious in tone"
+  },
+  "467": {
+    "word": "expedient",
+    "partsOfSpeech": "adjective",
+    "meaning": "appropriate to a purpose"
+  },
+  "468": {
+    "word": "redress",
+    "partsOfSpeech": "noun",
+    "meaning": "act of correcting an error or a fault or an evil"
+  },
+  "469": {
+    "word": "pugnacious",
+    "partsOfSpeech": "adjective",
+    "meaning": "ready and able to engage in fights"
+  },
+  "470": {
+    "word": "maudlin",
+    "partsOfSpeech": "adjective",
+    "meaning": "effusively or insincerely emotional"
+  },
+  "471": {
+    "word": "vicarious",
+    "partsOfSpeech": "adjective",
+    "meaning": "experienced in the imagination through the feelings or actions of another person"
+  },
+  "472": {
+    "word": "anomaly",
+    "partsOfSpeech": "noun",
+    "meaning": "something that deviates from what is standard or expected"
+  },
+  "473": {
+    "word": "inured",
+    "partsOfSpeech": "adjective",
+    "meaning": "made tough by habitual exposure"
+  },
+  "474": {
+    "word": "hermetic",
+    "partsOfSpeech": "adjective",
+    "meaning": "completely sealed"
+  },
+  "475": {
+    "word": "impartial",
+    "partsOfSpeech": "adjective",
+    "meaning": "treating all rivals or disputants equally; fair and unbiased"
+  },
+  "476": {
+    "word": "earnest",
+    "partsOfSpeech": "adjective",
+    "meaning": "resulting from or showing sincere conviction"
+  },
+  "477": {
+    "word": "zest",
+    "partsOfSpeech": "noun",
+    "meaning": "great enthusiasm and energy"
+  },
+  "478": {
+    "word": "ascertain",
+    "partsOfSpeech": "verb",
+    "meaning": "to find out for certain; to make sure of"
+  },
+  "479": {
+    "word": "winsome",
+    "partsOfSpeech": "adjective",
+    "meaning": "charming in a childlike or naive way"
+  },
+  "480": {
+    "word": "retrospective",
+    "partsOfSpeech": "adjective",
+    "meaning": "looking back on past events"
+  },
+  "481": {
+    "word": "nonchalant",
+    "partsOfSpeech": "adjective",
+    "meaning": "marked by a lack of interest"
+  },
+  "482": {
+    "word": "incisive",
+    "partsOfSpeech": "adjective",
+    "meaning": "showing clear thought and good understanding of what is important"
+  },
+  "483": {
+    "word": "impugn",
+    "partsOfSpeech": "verb",
+    "meaning": "attack as false or questionable"
+  },
+  "484": {
+    "word": "dichotomy",
+    "partsOfSpeech": "noun",
+    "meaning": "a division into two parts"
+  },
+  "485": {
+    "word": "florid",
+    "partsOfSpeech": "adjective",
+    "meaning": "elaborately or excessively ornamented"
+  },
+  "486": {
+    "word": "bellicose",
+    "partsOfSpeech": "adjective",
+    "meaning": "demonstrating aggression and willingness to fight"
+  },
+  "487": {
+    "word": "fervent",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or displaying passionate intensity"
+  },
+  "488": {
+    "word": "untenable",
+    "partsOfSpeech": "adjective",
+    "meaning": "(of a position or view) not able to be maintained or defended against attack or objection"
+  },
+  "489": {
+    "word": "extemporaneous",
+    "partsOfSpeech": "adjective",
+    "meaning": "with little or no preparation or forethought"
+  },
+  "490": {
+    "word": "feral",
+    "partsOfSpeech": "adjective",
+    "meaning": "wild and untamed"
+  },
+  "491": {
+    "word": "paragon",
+    "partsOfSpeech": "noun",
+    "meaning": "a model of excellence or perfection"
+  },
+  "492": {
+    "word": "obsequious",
+    "partsOfSpeech": "adjective",
+    "meaning": "obedient or attentive to an excessive degree"
+  },
+  "493": {
+    "word": "daunting",
+    "partsOfSpeech": "adjective",
+    "meaning": "seeming difficult to deal with in prospect; intimidating"
+  },
+  "494": {
+    "word": "expedite",
+    "partsOfSpeech": "verb",
+    "meaning": "to make an action happen sooner or be accomplished more quickly"
+  },
+  "495": {
+    "word": "satiate",
+    "partsOfSpeech": "verb",
+    "meaning": "fill to contentment"
+  },
+  "496": {
+    "word": "salient",
+    "partsOfSpeech": "adjective",
+    "meaning": "having a quality that thrusts itself into attention"
+  },
+  "497": {
+    "word": "docile",
+    "partsOfSpeech": "adjective",
+    "meaning": "easily managed or handled"
+  },
+  "498": {
+    "word": "ineffable",
+    "partsOfSpeech": "adjective",
+    "meaning": "defying expression or description"
+  },
+  "499": {
+    "word": "pique",
+    "partsOfSpeech": "noun",
+    "meaning": "a sudden outburst of anger"
+  },
+  "500": {
+    "word": "reprobate",
+    "partsOfSpeech": "noun",
+    "meaning": "an unprincipled person"
+  },
+  "501": {
+    "word": "plethora",
+    "partsOfSpeech": "noun",
+    "meaning": "extreme excess"
+  },
+  "502": {
+    "word": "intimidate",
+    "partsOfSpeech": "verb",
+    "meaning": "to frighten or overawe someone so as to make them do what one wants"
+  },
+  "503": {
+    "word": "sophistry",
+    "partsOfSpeech": "noun",
+    "meaning": "a subtle, tricky, superficially plausible, but generally fallacious method of reasoning"
+  },
+  "504": {
+    "word": "cajole",
+    "partsOfSpeech": "verb",
+    "meaning": "influence or urge by gentle urging, caressing, or flattering"
+  },
+  "505": {
+    "word": "proliferate",
+    "partsOfSpeech": "verb",
+    "meaning": "grow rapidly"
+  },
+  "506": {
+    "word": "anathema",
+    "partsOfSpeech": "noun",
+    "meaning": "a detested person"
+  },
+  "507": {
+    "word": "obstinate",
+    "partsOfSpeech": "adjective",
+    "meaning": "stubbornly unyielding to argument or pleading or reason"
+  },
+  "508": {
+    "word": "scintillating",
+    "partsOfSpeech": "adjective",
+    "meaning": "brilliantly clever"
+  },
+  "509": {
+    "word": "quandary",
+    "partsOfSpeech": "noun",
+    "meaning": "a state of perplexity or doubt"
+  },
+  "510": {
+    "word": "judicious",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing good judgment; wise"
+  },
+  "511": {
+    "word": "exemplary",
+    "partsOfSpeech": "adjective",
+    "meaning": "serving as a desirable model; representing the best of its kind"
+  },
+  "512": {
+    "word": "frivolous",
+    "partsOfSpeech": "adjective",
+    "meaning": "not having any serious purpose or value; trivial"
+  },
+  "513": {
+    "word": "serendipity",
+    "partsOfSpeech": "noun",
+    "meaning": "good luck in making unexpected and fortunate discoveries"
+  },
+  "514": {
+    "word": "abrogate",
+    "partsOfSpeech": "verb",
+    "meaning": "revoke formally"
+  },
+  "515": {
+    "word": "zealot",
+    "partsOfSpeech": "noun",
+    "meaning": "a person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals"
+  },
+  "516": {
+    "word": "supercilious",
+    "partsOfSpeech": "adjective",
+    "meaning": "having or showing arrogant superiority to"
+  },
+  "517": {
+    "word": "truculent",
+    "partsOfSpeech": "adjective",
+    "meaning": "defiantly aggressive"
+  },
+  "518": {
+    "word": "palliate",
+    "partsOfSpeech": "verb",
+    "meaning": "lessen or to try to lessen the seriousness or extent of"
+  },
+  "519": {
+    "word": "analogous",
+    "partsOfSpeech": "adjective",
+    "meaning": "comparable in certain respects; having similarity or correspondence"
+  },
+  "520": {
+    "word": "laconic",
+    "partsOfSpeech": "adjective",
+    "meaning": "using very few words"
+  },
+  "521": {
+    "word": "demure",
+    "partsOfSpeech": "adjective",
+    "meaning": "affectedly modest or shy especially in a playful or provocative way"
+  },
+  "522": {
+    "word": "algorithm",
+    "partsOfSpeech": "noun",
+    "meaning": "a set of rules for solving a problem, often computational"
+  },
+  "523": {
+    "word": "albedo",
+    "partsOfSpeech": "noun",
+    "meaning": "the reflectivity of a surface, affecting climate"
+  },
+  "524": {
+    "word": "euphoria",
+    "partsOfSpeech": "noun",
+    "meaning": "intense happiness or excitement"
+  },
+  "525": {
+    "word": "bathos",
+    "partsOfSpeech": "noun",
+    "meaning": "a sudden shift from the sublime to the ridiculous"
+  },
+  "526": {
+    "word": "anaphora",
+    "partsOfSpeech": "noun",
+    "meaning": "repetition of a word or phrase at the start of clauses"
+  },
+  "527": {
+    "word": "caveat",
+    "partsOfSpeech": "noun",
+    "meaning": "a warning or qualification about a statement or action"
+  },
+  "528": {
+    "word": "cosmogony",
+    "partsOfSpeech": "noun",
+    "meaning": "a myth or theory about the universe's origin"
+  },
+  "529": {
+    "word": "apostrophe",
+    "partsOfSpeech": "noun",
+    "meaning": "adressing an absent or imaginary person or thing"
+  },
+  "530": {
+    "word": "aureate",
+    "partsOfSpeech": "adjective",
+    "meaning": "golden and ornate"
+  },
+  "531": {
+    "word": "liability",
+    "partsOfSpeech": "noun",
+    "meaning": "something for which one is legally responsible, usually involving a disadvantage or risk"
+  },
+  "532": {
+    "word": "sidereal",
+    "partsOfSpeech": "adjective",
+    "meaning": "related to stars"
+  },
+  "533": {
+    "word": "gonadotrophin",
+    "partsOfSpeech": "noun",
+    "meaning": "a hormone that helps control growth and reproduction"
+  },
+  "534": {
+    "word": "caecilian",
+    "partsOfSpeech": "noun",
+    "meaning": "a small, worm-like legless amphibian"
+  },
+  "535": {
+    "word": "quoter",
+    "partsOfSpeech": "noun",
+    "meaning": "someone who used quotes when speaking or writing"
+  },
+  "536": {
+    "word": "demur",
+    "partsOfSpeech": "verb",
+    "meaning": "to raise objections or show reluctance"
+  },
+  "537": {
+    "word": "quixotic",
+    "partsOfSpeech": "adjective",
+    "meaning": "unrealistically optimistic or impractical"
+  },
+  "538": {
+    "word": "leverage",
+    "partsOfSpeech": "noun",
+    "meaning": "using borrowed funds to increase investment returns"
+  },
+  "539": {
+    "word": "dissocation",
+    "partsOfSpeech": "noun",
+    "meaning": "detachment from one's emotions or identity"
+  },
+  "540": {
+    "word": "ephiphany",
+    "partsOfSpeech": "noun",
+    "meaning": "a sudden realization or insight"
+  },
+  "541": {
+    "word": "zephyr",
+    "partsOfSpeech": "noun",
+    "meaning": "a gentle breeze"
+  },
+  "542": {
+    "word": "vellichor",
+    "partsOfSpeech": "noun",
+    "meaning": "the strange wistfulness of used bookstores"
+  },
+  "543": {
+    "word": "catachresis",
+    "partsOfSpeech": "noun",
+    "meaning": "a strained or mized metaphor"
+  },
+  "544": {
+    "word": "sublimation",
+    "partsOfSpeech": "noun",
+    "meaning": "channeling unacceptable impulses into productive outlets"
+  },
+  "545": {
+    "word": "vertiginous",
+    "partsOfSpeech": "adjective",
+    "meaning": "causing dizziness as in rapid market changes"
+  },
+  "546": {
+    "word": "angst",
+    "partsOfSpeech": "noun",
+    "meaning": "a feeling of deep anxiety or dread"
+  },
+  "547": {
+    "word": "lilt",
+    "partsOfSpeech": "noun",
+    "meaning": "a cheerful rhythm"
+  },
+  "548": {
+    "word": "vernacular",
+    "partsOfSpeech": "adjective",
+    "meaning": "using native or local styles in art or architecture"
+  },
+  "549": {
+    "word": "patina",
+    "partsOfSpeech": "noun",
+    "meaning": "a surface sheen from age or use, valued in antiques"
+  },
+  "550": {
+    "word": "gestalt",
+    "partsOfSpeech": "noun",
+    "meaning": "a unified whole greater than the sum of its parts"
+  }
+}
