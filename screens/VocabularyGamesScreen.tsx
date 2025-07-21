@@ -3,7 +3,7 @@ import { RouteProp, useRoute } from "@react-navigation/native";
 import React, {useRef, useState, useEffect} from 'react';
 import {View, ImageBackground, ScrollView, ImageSourcePropType} from 'react-native';
 import {styles, WordleScreenButtons} from '../source/styles/ingame-screen-styles.tsx';
-import { ModalForAnagrammist, ModalForBoggle, ModalForGapFills, ModalForWordLadder, ModalForWordChain, ModalForWicWacWoe} from './VocabularyGamesModals.tsx';
+import { ModalForFlashCard} from './VocabularyGamesModals.tsx';
 import {buttons,modalBackgrounds} from "../source/styles/assets.tsx";
 import { HeaderForMatchEnd } from './Components-For-End-Match.tsx';
 import { ProfileData, saveProfileDataToFile, readProfileDataFile, getTheMaxXpForNextLevel} from './AccessProfileData.tsx';
@@ -17,16 +17,8 @@ const basicVocabularyGamesImage = require('../source/images/homepage-icons/icon-
 export type CrosswordMatchRouteProp = RouteProp<RootStackParamList, 'VocabularyGames'>;
 export type NavigationProp =NativeStackNavigationProp<RootStackParamList, 'Home'>;
 
-const boggleData={  
-    heading : "Boggle",
-    headingColor: "#870319",
-    bgImage: modalBackgrounds.orangeModalBackgroundImg,
-    difficultyTabImage: buttons.blueButton,
-    partsOfSpeechTabImage: buttons.redButton
-};
-
-const anagramistData={  
-    heading : "Matching",
+const flashCardData={  
+    heading : "Flash Cards",
     headingColor: "#ffffff",
     bgImage: modalBackgrounds.redModalBackgroundImg,
     difficultyTabImage: buttons.blueButton,
@@ -60,8 +52,7 @@ const wordChainsData={
 
 
 const App = () => {
-    const [boggleModalVisible, setBoggleModalVisible] = useState(false);
-    const [anagrammistModalVisible, setAngrammistModalVisible] = useState(false);
+    const [flashCardModalVisible, setFlashCardModalVisible] = useState(false);
     const [gapFillsModalVisible, setGapFillsModalVisible] = useState(false);
     const [wordLadderModalVisible, setWordLadderModalVisible]=useState(false);
     
@@ -78,7 +69,7 @@ const App = () => {
           gameMode: ""
     });
     
-    const showBoggleModal = (data: {
+    const showFlashCardModal = (data: {
           headingColor: string,
           heading: string,
           bgImage: ImageSourcePropType,
@@ -87,27 +78,11 @@ const App = () => {
           gameMode: string
     })=>{
         setModalData(data);
-        setBoggleModalVisible(true); 
+        setFlashCardModalVisible(true); 
       };
     
-    const hideBoggleModal = () => {
-        setBoggleModalVisible(false);
-    };
-
-    const showAnagrammistModal = (data: {
-          headingColor: string,
-          heading: string,
-          bgImage: ImageSourcePropType,
-          difficultyTabImage: ImageSourcePropType,
-          partsOfSpeechTabImage: ImageSourcePropType,
-          gameMode: string
-    })=>{
-        setModalData(data);
-        setAngrammistModalVisible(true); 
-      };
-    
-    const hideAnagrammistModal = () => {
-        setAngrammistModalVisible(false);
+    const hideFlashCardModal = () => {
+        setFlashCardModalVisible(false);
     };
 
     const showGapFillModal = (data: {
@@ -245,14 +220,8 @@ const App = () => {
     description="Find the words from the square grid."
     image={basicVocabularyGamesImage}
     bgImage={buttons.yellowButton}
-    onPress={()=>{showBoggleModal({
-      headingColor: boggleData.headingColor,
-      heading: boggleData.heading,
-      bgImage: boggleData.bgImage,
-      difficultyTabImage: boggleData.difficultyTabImage,
-      partsOfSpeechTabImage: boggleData.partsOfSpeechTabImage,
-      gameMode: ''
-    });
+    onPress={()=>{
+      navigation.navigate("BoggleLevels");
     }}>
     </WordleScreenButtons>
   </View>
@@ -284,12 +253,12 @@ const App = () => {
     description="Sort out the desired word by clicking the letters of the word in correct order."
     image={basicVocabularyGamesImage}
     bgImage={buttons.redButton}
-    onPress={()=>{showAnagrammistModal({
-      headingColor: anagramistData.headingColor,
-      heading: anagramistData.heading,
-      bgImage: anagramistData.bgImage,
-      difficultyTabImage: anagramistData.difficultyTabImage,
-      partsOfSpeechTabImage: anagramistData.partsOfSpeechTabImage,
+    onPress={()=>{showFlashCardModal({
+      headingColor: flashCardData.headingColor,
+      heading: flashCardData.heading,
+      bgImage: flashCardData.bgImage,
+      difficultyTabImage: flashCardData.difficultyTabImage,
+      partsOfSpeechTabImage: flashCardData.partsOfSpeechTabImage,
       gameMode: ''
     });
     }}>
@@ -341,32 +310,35 @@ const App = () => {
     </WordleScreenButtons>
   </View>
 
+  <View style={styles.container}>
+    <WordleScreenButtons 
+    preHeadingColor="#ffffff"
+    postHeadingColor="#404040"
+    descriptionTextColor="#036b56" 
+    preHeading="Orto"
+    heading="Graphia"
+    description="Spellings...something that is a plus for your vocabs"
+    image={basicVocabularyGamesImage}
+    bgImage={buttons.tealButton}
+    onPress={()=>{
+    }}>
+    </WordleScreenButtons>
+  </View>
+
   </ScrollView>
 
-  <ModalForBoggle
+  <ModalForFlashCard
     headingColor={modalData.headingColor}
     heading={modalData.heading}
     bgImage={modalData.bgImage}
     difficultyTabImage={modalData.difficultyTabImage}
     partsOfSpeechTabImage={modalData.partsOfSpeechTabImage}
-    onclose={hideBoggleModal}
-    visible={boggleModalVisible}
-    gameMode={modalData.gameMode}
-  ></ModalForBoggle>
-
-  <ModalForWordChain
-    headingColor={modalData.headingColor}
-    heading={modalData.heading}
-    bgImage={modalData.bgImage}
-    difficultyTabImage={modalData.difficultyTabImage}
-    partsOfSpeechTabImage={modalData.partsOfSpeechTabImage}
-    onclose={hideWordChainModal}
-    visible={wordChainModalVisible}
-    playerLevel={profileData.playerLevel}
+    onclose={hideFlashCardModal}
+    visible={flashCardModalVisible}
     >
-  </ModalForWordChain>
+  </ModalForFlashCard>
 
-  <ModalForWicWacWoe
+{/*   <ModalForWicWacWoe
     headingColor={modalData.headingColor}
     heading={modalData.heading}
     bgImage={modalData.bgImage}
@@ -376,7 +348,7 @@ const App = () => {
     visible={wicWacWoeModalVisible}
     playerLevel={profileData.playerLevel}
     >
-  </ModalForWicWacWoe>
+  </ModalForWicWacWoe> */}
 
   </ImageBackground>
 );}

@@ -1,0 +1,562 @@
+{
+  "1": {
+    "word": "pusillanimous",
+    "definition": "showing a lack of courage or determination; timid",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His pusillanimous approach to confronting the issue disappointed his colleagues.",
+    "synonyms": ["cowardly", "timid", "craven"],
+    "antonyms": ["brave", "bold", "courageous"]
+  },
+  "2": {
+    "word": "vituperate",
+    "definition": "to blame or insult someone in strong or violent language",
+    "partOfSpeech": "verb",
+    "exampleUsage": "The critic vituperated the director's latest film with harsh words.",
+    "synonyms": ["berate", "castigate", "lambaste"],
+    "antonyms": ["praise", "commend", "applaud"]
+  },
+  "3": {
+    "word": "perspicacious",
+    "definition": "having keen insight or discernment; mentally sharp",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "Her perspicacious analysis revealed the underlying flaws in the argument.",
+    "synonyms": ["astute", "perceptive", "shrewd"],
+    "antonyms": ["obtuse", "dull", "imperceptive"]
+  },
+  "4": {
+    "word": "obfuscate",
+    "definition": "to deliberately make something unclear or difficult to understand",
+    "partOfSpeech": "verb",
+    "exampleUsage": "Politicians often obfuscate their true intentions with complex rhetoric.",
+    "synonyms": ["confuse", "bewilder", "muddle"],
+    "antonyms": ["clarify", "illuminate", "elucidate"]
+  },
+  "5": {
+    "word": "truculent",
+    "definition": "eager or quick to argue or fight; aggressively defiant",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The truculent customer refused to accept any compromise from the manager.",
+    "synonyms": ["belligerent", "pugnacious", "combative"],
+    "antonyms": ["peaceful", "conciliatory", "docile"]
+  },
+  "6": {
+    "word": "grandiloquent",
+    "definition": "pompous or extravagant in language, style, or manner",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His grandiloquent speech impressed few but alienated many listeners.",
+    "synonyms": ["bombastic", "pretentious", "flowery"],
+    "antonyms": ["simple", "modest", "understated"]
+  },
+  "7": {
+    "word": "contumacious",
+    "definition": "stubbornly disobedient to authority",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The contumacious student repeatedly defied the school's dress code.",
+    "synonyms": ["rebellious", "defiant", "insubordinate"],
+    "antonyms": ["obedient", "compliant", "submissive"]
+  },
+  "8": {
+    "word": "tergiversate",
+    "definition": "to make conflicting or evasive statements; equivocate",
+    "partOfSpeech": "verb",
+    "exampleUsage": "The witness began to tergiversate when pressed for specific details.",
+    "synonyms": ["prevaricate", "vacillate", "waver"],
+    "antonyms": ["commit", "decide", "resolve"]
+  },
+  "9": {
+    "word": "lugubrious",
+    "definition": "looking or sounding sad and dismal",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The lugubrious melody perfectly captured the mourners' grief.",
+    "synonyms": ["mournful", "doleful", "melancholy"],
+    "antonyms": ["cheerful", "upbeat", "joyful"]
+  },
+  "10": {
+    "word": "obsequious",
+    "definition": "obedient or attentive to an excessive or servile degree",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His obsequious behavior toward the boss made his coworkers uncomfortable.",
+    "synonyms": ["sycophantic", "fawning", "servile"],
+    "antonyms": ["independent", "assertive", "defiant"]
+  },
+  "11": {
+    "word": "recondite",
+    "definition": "little known; abstruse or dealing with very profound subjects",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The professor's recondite research on quantum mechanics was beyond most students.",
+    "synonyms": ["esoteric", "arcane", "obscure"],
+    "antonyms": ["obvious", "simple", "accessible"]
+  },
+  "12": {
+    "word": "supercilious",
+    "definition": "behaving as though one thinks they are superior to others",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "Her supercilious attitude alienated potential friends at the party.",
+    "synonyms": ["arrogant", "condescending", "haughty"],
+    "antonyms": ["humble", "modest", "respectful"]
+  },
+  "13": {
+    "word": "ignominious",
+    "definition": "deserving or causing public disgrace or shame",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The team's ignominious defeat ended their championship dreams.",
+    "synonyms": ["shameful", "disgraceful", "humiliating"],
+    "antonyms": ["honorable", "glorious", "triumphant"]
+  },
+  "14": {
+    "word": "vitiate",
+    "definition": "to spoil or impair the quality or efficiency of something",
+    "partOfSpeech": "verb",
+    "exampleUsage": "The new evidence could vitiate the prosecutor's entire case.",
+    "synonyms": ["corrupt", "contaminate", "undermine"],
+    "antonyms": ["improve", "enhance", "strengthen"]
+  },
+  "15": {
+    "word": "pellucid",
+    "definition": "transparently clear in style or meaning; easily understood",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The author's pellucid prose made complex ideas accessible to all readers.",
+    "synonyms": ["clear", "lucid", "transparent"],
+    "antonyms": ["opaque", "murky", "confusing"]
+  },
+  "16": {
+    "word": "querulous",
+    "definition": "complaining in a petulant or whining manner",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The querulous customer found fault with every aspect of the service.",
+    "synonyms": ["whining", "complaining", "petulant"],
+    "antonyms": ["satisfied", "content", "appreciative"]
+  },
+  "17": {
+    "word": "magnanimous",
+    "definition": "generous in forgiving an insult or injury; free from petty resentfulness",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "Despite the harsh criticism, she remained magnanimous toward her detractors.",
+    "synonyms": ["generous", "forgiving", "noble"],
+    "antonyms": ["petty", "vindictive", "spiteful"]
+  },
+  "18": {
+    "word": "perfunctory",
+    "definition": "carried out with a minimum of effort or reflection",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His perfunctory apology failed to address the real issues at hand.",
+    "synonyms": ["cursory", "superficial", "mechanical"],
+    "antonyms": ["thorough", "careful", "meticulous"]
+  },
+  "19": {
+    "word": "soporific",
+    "definition": "tending to induce drowsiness or sleep",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The professor's soporific lecture had half the class nodding off.",
+    "synonyms": ["sleep-inducing", "sedative", "hypnotic"],
+    "antonyms": ["stimulating", "energizing", "invigorating"]
+  },
+  "20": {
+    "word": "ubiquitous",
+    "definition": "present, appearing, or found everywhere",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "Smartphones have become ubiquitous in modern society.",
+    "synonyms": ["omnipresent", "pervasive", "universal"],
+    "antonyms": ["rare", "absent", "scarce"]
+  },
+  "21": {
+    "word": "sanguine",
+    "definition": "optimistic or positive, especially in an apparently bad situation",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "Despite the setbacks, she remained sanguine about the project's success.",
+    "synonyms": ["optimistic", "hopeful", "confident"],
+    "antonyms": ["pessimistic", "despondent", "gloomy"]
+  },
+  "22": {
+    "word": "torpid",
+    "definition": "mentally or physically inactive; lethargic",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The torpid bear barely moved during its winter hibernation.",
+    "synonyms": ["sluggish", "dormant", "inactive"],
+    "antonyms": ["active", "energetic", "lively"]
+  },
+  "23": {
+    "word": "vacuous",
+    "definition": "having or showing a lack of thought or intelligence",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His vacuous remarks added nothing meaningful to the discussion.",
+    "synonyms": ["empty", "mindless", "shallow"],
+    "antonyms": ["thoughtful", "intelligent", "meaningful"]
+  },
+  "24": {
+    "word": "insidious",
+    "definition": "proceeding in a gradual, subtle way, but with harmful effects",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The insidious disease progressed unnoticed for years before symptoms appeared.",
+    "synonyms": ["stealthy", "treacherous", "cunning"],
+    "antonyms": ["obvious", "harmless", "beneficial"]
+  },
+  "25": {
+    "word": "fastidious",
+    "definition": "very attentive to and concerned about accuracy and detail",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The fastidious editor caught every minor error in the manuscript.",
+    "synonyms": ["meticulous", "particular", "scrupulous"],
+    "antonyms": ["careless", "sloppy", "negligent"]
+  },
+  "26": {
+    "word": "garrulous",
+    "definition": "excessively talkative, especially on trivial matters",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The garrulous neighbor kept them on the porch for an hour with idle chatter.",
+    "synonyms": ["talkative", "loquacious", "chatty"],
+    "antonyms": ["taciturn", "reticent", "quiet"]
+  },
+  "27": {
+    "word": "quixotic",
+    "definition": "extremely idealistic and unrealistic",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His quixotic plan to eliminate poverty overnight was admirable but impractical.",
+    "synonyms": ["idealistic", "impractical", "romantic"],
+    "antonyms": ["realistic", "practical", "pragmatic"]
+  },
+  "28": {
+    "word": "mendacious",
+    "definition": "given to or characterized by deception or falsehood",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The mendacious politician's lies eventually caught up with him.",
+    "synonyms": ["dishonest", "deceitful", "false"],
+    "antonyms": ["truthful", "honest", "sincere"]
+  },
+  "29": {
+    "word": "pernicious",
+    "definition": "having a harmful effect, especially in a gradual or subtle way",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The pernicious influence of social media on young minds concerns many parents.",
+    "synonyms": ["harmful", "destructive", "toxic"],
+    "antonyms": ["beneficial", "helpful", "constructive"]
+  },
+  "30": {
+    "word": "punctilious",
+    "definition": "showing great attention to detail or correct behavior",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The punctilious butler ensured every aspect of the dinner was perfect.",
+    "synonyms": ["meticulous", "precise", "conscientious"],
+    "antonyms": ["careless", "negligent", "sloppy"]
+  },
+  "31": {
+    "word": "phlegmatic",
+    "definition": "having an unemotional and stolidly calm disposition",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His phlegmatic response to the crisis surprised everyone in the room.",
+    "synonyms": ["calm", "composed", "impassive"],
+    "antonyms": ["excitable", "emotional", "passionate"]
+  },
+  "32": {
+    "word": "sagacious",
+    "definition": "having or showing keen mental discernment and good judgment",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The sagacious investor avoided the market crash through careful analysis.",
+    "synonyms": ["wise", "astute", "shrewd"],
+    "antonyms": ["foolish", "unwise", "naive"]
+  },
+  "33": {
+    "word": "obstreperous",
+    "definition": "noisy and difficult to control",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The obstreperous children disrupted the entire library with their loud games.",
+    "synonyms": ["unruly", "boisterous", "rowdy"],
+    "antonyms": ["quiet", "well-behaved", "docile"]
+  },
+  "34": {
+    "word": "parsimonious",
+    "definition": "characterized by or showing parsimony; extremely frugal or stingy",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His parsimonious nature made him reluctant to spend money even on necessities.",
+    "synonyms": ["stingy", "miserly", "frugal"],
+    "antonyms": ["generous", "spendthrift", "lavish"]
+  },
+  "35": {
+    "word": "intransigent",
+    "definition": "unwilling or refusing to change one's views or to agree about something",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The intransigent negotiator refused to consider any compromise.",
+    "synonyms": ["stubborn", "inflexible", "uncompromising"],
+    "antonyms": ["flexible", "accommodating", "yielding"]
+  },
+  "36": {
+    "word": "propitious",
+    "definition": "giving or indicating a good chance of success; favorable",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The clear weather provided propitious conditions for the outdoor wedding.",
+    "synonyms": ["favorable", "auspicious", "promising"],
+    "antonyms": ["unfavorable", "inauspicious", "ominous"]
+  },
+  "37": {
+    "word": "tenacious",
+    "definition": "tending to keep a firm hold of something; persistent",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "Her tenacious pursuit of justice led to the corrupt official's conviction.",
+    "synonyms": ["persistent", "determined", "resolute"],
+    "antonyms": ["yielding", "weak", "irresolute"]
+  },
+  "38": {
+    "word": "ebullient",
+    "definition": "cheerful and full of energy",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The ebullient host made every guest feel welcome at the party.",
+    "synonyms": ["exuberant", "enthusiastic", "vivacious"],
+    "antonyms": ["subdued", "lethargic", "melancholic"]
+  },
+  "39": {
+    "word": "duplicitous",
+    "definition": "deceitful; double-dealing",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His duplicitous behavior earned him enemies on both sides of the conflict.",
+    "synonyms": ["deceitful", "dishonest", "two-faced"],
+    "antonyms": ["honest", "straightforward", "sincere"]
+  },
+  "40": {
+    "word": "indefatigable",
+    "definition": "persisting tirelessly",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The indefatigable researcher worked day and night to find a cure.",
+    "synonyms": ["tireless", "persistent", "untiring"],
+    "antonyms": ["lazy", "fatigued", "weary"]
+  },
+  "41": {
+    "word": "recalcitrant",
+    "definition": "having an obstinately uncooperative attitude toward authority or discipline",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The recalcitrant teenager refused to follow any household rules.",
+    "synonyms": ["defiant", "rebellious", "uncooperative"],
+    "antonyms": ["obedient", "compliant", "cooperative"]
+  },
+  "42": {
+    "word": "inscrutable",
+    "definition": "impossible to understand or interpret",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The ancient manuscript contained inscrutable symbols that puzzled scholars.",
+    "synonyms": ["mysterious", "enigmatic", "unfathomable"],
+    "antonyms": ["clear", "obvious", "transparent"]
+  },
+  "43": {
+    "word": "temerity",
+    "definition": "excessive confidence or boldness; audacity",
+    "partOfSpeech": "noun",
+    "exampleUsage": "He had the temerity to question the CEO's decision in front of the board.",
+    "synonyms": ["audacity", "boldness", "nerve"],
+    "antonyms": ["timidity", "restraint", "caution"]
+  },
+  "44": {
+    "word": "supine",
+    "definition": "failing to act or protest as a result of moral weakness or indolence",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The supine legislature allowed the dictator to seize more power.",
+    "synonyms": ["passive", "inactive", "inert"],
+    "antonyms": ["active", "assertive", "engaged"]
+  },
+  "45": {
+    "word": "mordant",
+    "definition": "having or showing a sharp or critical quality; biting",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "Her mordant wit often left others feeling uncomfortable but impressed.",
+    "synonyms": ["caustic", "acerbic", "scathing"],
+    "antonyms": ["gentle", "kind", "mild"]
+  },
+  "46": {
+    "word": "redolent",
+    "definition": "strongly reminiscent or suggestive of something",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The old house was redolent of childhood memories and grandmother's cooking.",
+    "synonyms": ["evocative", "reminiscent", "suggestive"],
+    "antonyms": ["unreminiscent", "neutral", "bland"]
+  },
+  "47": {
+    "word": "fractious",
+    "definition": "irritable and quarrelsome",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The fractious committee members could never agree on anything.",
+    "synonyms": ["quarrelsome", "irritable", "contentious"],
+    "antonyms": ["agreeable", "peaceful", "harmonious"]
+  },
+  "48": {
+    "word": "laconic",
+    "definition": "using very few words; terse",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His laconic response of 'maybe' left everyone guessing his true feelings.",
+    "synonyms": ["terse", "concise", "brief"],
+    "antonyms": ["verbose", "wordy", "loquacious"]
+  },
+  "49": {
+    "word": "perfidious",
+    "definition": "deceitful and untrustworthy",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The perfidious ally betrayed their secrets to the enemy.",
+    "synonyms": ["treacherous", "disloyal", "faithless"],
+    "antonyms": ["loyal", "faithful", "trustworthy"]
+  },
+  "50": {
+    "word": "internecine",
+    "definition": "destructive to both sides in a conflict",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The internecine war devastated both rival factions completely.",
+    "synonyms": ["mutually destructive", "ruinous", "devastating"],
+    "antonyms": ["constructive", "beneficial", "peaceful"]
+  },
+  "51": {
+    "word": "insouciant",
+    "definition": "showing a casual lack of concern; indifferent",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "Her insouciant attitude toward deadlines worried her supervisor.",
+    "synonyms": ["nonchalant", "carefree", "unconcerned"],
+    "antonyms": ["concerned", "worried", "anxious"]
+  },
+  "52": {
+    "word": "imperturbable",
+    "definition": "unable to be upset or excited; calm",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The imperturbable surgeon remained focused despite the chaos around him.",
+    "synonyms": ["unflappable", "composed", "serene"],
+    "antonyms": ["agitated", "excitable", "nervous"]
+  },
+  "53": {
+    "word": "cogent",
+    "definition": "clear, logical, and convincing",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "She presented a cogent argument that swayed the entire jury.",
+    "synonyms": ["compelling", "persuasive", "convincing"],
+    "antonyms": ["weak", "unconvincing", "illogical"]
+  },
+  "54": {
+    "word": "dilatory",
+    "definition": "slow to act; intended to cause delay",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His dilatory tactics frustrated everyone trying to complete the project.",
+    "synonyms": ["delaying", "procrastinating", "tardy"],
+    "antonyms": ["prompt", "swift", "expeditious"]
+  },
+  "55": {
+    "word": "veracious",
+    "definition": "speaking or representing the truth",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The journalist was known for her veracious reporting of difficult subjects.",
+    "synonyms": ["truthful", "honest", "accurate"],
+    "antonyms": ["false", "deceptive", "mendacious"]
+  },
+  "56": {
+    "word": "nugatory",
+    "definition": "of no value or importance; useless",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The committee deemed his suggestions nugatory and moved on to other proposals.",
+    "synonyms": ["worthless", "futile", "trivial"],
+    "antonyms": ["valuable", "important", "significant"]
+  },
+  "57": {
+    "word": "vitriolic",
+    "definition": "filled with bitter criticism or malice",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The reviewer's vitriolic critique destroyed the author's confidence completely.",
+    "synonyms": ["caustic", "scathing", "venomous"],
+    "antonyms": ["kind", "gentle", "supportive"]
+  },
+  "58": {
+    "word": "meretricious",
+    "definition": "apparently attractive but having in reality no value or integrity",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The meretricious advertisement promised results it could never deliver.",
+    "synonyms": ["flashy", "superficial", "tawdry"],
+    "antonyms": ["genuine", "authentic", "substantial"]
+  },
+  "59": {
+    "word": "penurious",
+    "definition": "characterized by poverty; extremely stingy",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "Despite his wealth, his penurious lifestyle puzzled his friends.",
+    "synonyms": ["miserly", "stingy", "impoverished"],
+    "antonyms": ["generous", "wealthy", "lavish"]
+  },
+  "60": {
+    "word": "turbid",
+    "definition": "cloudy, opaque, or thick with suspended matter",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The turbid water made it impossible to see the bottom of the lake.",
+    "synonyms": ["murky", "cloudy", "muddy"],
+    "antonyms": ["clear", "transparent", "pure"]
+  },
+  "61": {
+    "word": "vicissitude",
+    "definition": "a natural change or mutation visible in nature or human affairs",
+    "partOfSpeech": "noun",
+    "exampleUsage": "Life's vicissitudes taught him to appreciate both good times and bad.",
+    "synonyms": ["change", "variation", "fluctuation"],
+    "antonyms": ["stability", "constancy", "permanence"]
+  },
+  "62": {
+    "word": "perspicuous",
+    "definition": "clearly expressed and easily understood; lucid",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The manual's perspicuous instructions made assembly surprisingly simple.",
+    "synonyms": ["clear", "lucid", "understandable"],
+    "antonyms": ["unclear", "confusing", "obscure"]
+  },
+  "63": {
+    "word": "fatuous",
+    "definition": "silly and pointless",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "His fatuous remarks during the serious discussion annoyed everyone present.",
+    "synonyms": ["foolish", "inane", "silly"],
+    "antonyms": ["sensible", "intelligent", "wise"]
+  },
+  "64": {
+    "word": "restive",
+    "definition": "unable to keep still or silent; impatient or eager to act",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The restive audience grew increasingly impatient during the long delay.",
+    "synonyms": ["restless", "impatient", "fidgety"],
+    "antonyms": ["calm", "patient", "still"]
+  },
+  "65": {
+    "word": "prurient",
+    "definition": "having or encouraging an excessive interest in sexual matters",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The tabloid's prurient coverage of the scandal increased its circulation.",
+    "synonyms": ["lustful", "salacious", "lecherous"],
+    "antonyms": ["pure", "innocent", "chaste"]
+  },
+  "66": {
+    "word": "surreptitious",
+    "definition": "kept secret, especially because it would not be approved of",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "She cast surreptitious glances at her phone during the boring meeting.",
+    "synonyms": ["secretive", "stealthy", "covert"],
+    "antonyms": ["open", "obvious", "overt"]
+  },
+  "67": {
+    "word": "quiescent",
+    "definition": "in a state or period of inactivity or dormancy",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The volcano had been quiescent for decades before suddenly erupting.",
+    "synonyms": ["inactive", "dormant", "quiet"],
+    "antonyms": ["active", "energetic", "dynamic"]
+  },
+  "68": {
+    "word": "rancorous",
+    "definition": "characterized by bitterness or resentment",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The rancorous debate divided the community for months afterward.",
+    "synonyms": ["bitter", "spiteful", "vindictive"],
+    "antonyms": ["forgiving", "kind", "benevolent"]
+  },
+  "69": {
+    "word": "peripatetic",
+    "definition": "traveling from place to place, in particular working in various places",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "The peripatetic teacher visited multiple schools throughout the district.",
+    "synonyms": ["nomadic", "itinerant", "wandering"],
+    "antonyms": ["stationary", "settled", "fixed"]
+  },
+  "70": {
+    "word": "pejorative",
+    "definition": "expressing contempt or disapproval",
+    "partOfSpeech": "adjective",
+    "exampleUsage": "She avoided using pejorative terms when discussing her opponents' policies.",
+    "synonyms": ["derogatory", "disparaging", "deprecatory"],
+    "antonyms": ["complimentary", "flattering", "positive"]
+  }
+}

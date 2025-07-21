@@ -6,7 +6,7 @@ import React, { useState } from "react";
 import { NavigationProp } from "./HomeScreen";
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-import { CompleteAnagrammistModal, AnagrammistChoice} from '../source/styles/anagrammist-modal-styles';
+import { CompleteFlashCardModal, FlashCardChoice} from '../source/styles/flashcard-modal-styles';
 import { CompleteWordLadderModal, WordLadderChoice} from '../source/styles/wordladder-modal-styles';
 import { CompleteGapFillsModal, GapFillsChoice } from '../source/styles/gapfill-modal-styles';
 import { CompleteWordChainsModal } from '../source/styles/wordchain-modal-styles';
@@ -24,14 +24,13 @@ type ModalProps = {
     onclose: ()=> void;
 }
 
-type AnagrammistModalProps = {
+type FlashCardModalProps = {
     headingColor: string,
     heading: string,
     bgImage: ImageSourcePropType,
     visible: boolean;
     difficultyTabImage: ImageSourcePropType;
     partsOfSpeechTabImage: ImageSourcePropType;
-    levelsCleared: number[]
     onclose: ()=> void;
 }
 
@@ -57,18 +56,13 @@ type WordChainsModalProps = {
     playerLevel: number;
 }
 
-
-export const ModalForBoggle=(props: ModalProps)=>{
+export const ModalForFlashCard=(props: FlashCardModalProps)=>{
     const navigation = useNavigation<NavigationProp>();
-    const createAConnecticoMatch = () => {
-    type ConnecticoMatchScreens = "ConnecticoLevels"
-    let moreGamesWindow: ConnecticoMatchScreens = "ConnecticoLevels";
-    navigation.navigate(moreGamesWindow, {
-      size: ConnecticoChoice.difficulty
-    });
-}
- 
-    let playButton=<ModalButton onclick={()=>createAConnecticoMatch()} buttonImage={buttons.playButton}></ModalButton>
+    const createAnFlashCardMatch = () => {
+      switch(FlashCardChoice.option){
+        case 1: navigation.navigate("FlashCardViewScreen"); break;
+      }
+    }
     
     return (
         <Modal
@@ -85,10 +79,10 @@ export const ModalForBoggle=(props: ModalProps)=>{
         <View style={styles.modalBackground}>
           <View style={styles.modalContent}>
             <Text style={[styles.modalHeading , {color: props.headingColor}]}>{props.heading}</Text>
-            <CompleteConnecticoModal difficultyTabImage={props.difficultyTabImage} partsOfSpeechTabImage={props.partsOfSpeechTabImage} gameMode={props.gameMode}/>
+            <CompleteFlashCardModal difficultyTabImage={props.difficultyTabImage} partsOfSpeechTabImage={props.partsOfSpeechTabImage}/>
             <View style={styles.modalButtons}>
             <ModalButton onclick={()=>props.onclose()} buttonImage={buttons.cancelButton}></ModalButton>
-            {playButton}
+            <ModalButton onclick={()=>createAnFlashCardMatch()} buttonImage={buttons.playButton}></ModalButton>
             </View>
           </View>
         </View>
@@ -98,51 +92,12 @@ export const ModalForBoggle=(props: ModalProps)=>{
     );
 };
 
-export const ModalForAnagrammist=(props: AnagrammistModalProps)=>{
-    const navigation = useNavigation<NavigationProp>();
-    const createAnAnagrammistMatch = () => {
-    type AnagrammistMatchScreens = "AnagrammistMatch"
-    let moreGamesWindow: AnagrammistMatchScreens = "AnagrammistMatch";
-    navigation.navigate(moreGamesWindow, {
-      wordSize: AnagrammistChoice.wordSize
-    });
-}
- 
-    let playButton=<ModalButton onclick={()=>createAnAnagrammistMatch()} buttonImage={buttons.playButton}></ModalButton>
-    
-    return (
-        <Modal
-        visible={props.visible}
-        onRequestClose={props.onclose}
-        transparent={true}
-        >
-    <View style={styles.container}>
-        <ImageBackground 
-        source={props.bgImage}
-        style={styles.backgroundImage}
-        imageStyle={{resizeMode: 'stretch'}}
-        >  
-        <View style={styles.modalBackground}>
-          <View style={styles.modalContent}>
-            <Text style={[styles.modalHeading , {color: props.headingColor}]}>{props.heading}</Text>
-            <CompleteAnagrammistModal difficultyTabImage={props.difficultyTabImage} partsOfSpeechTabImage={props.partsOfSpeechTabImage} levelsCleared={props.levelsCleared}/>
-            <View style={styles.modalButtons}>
-            <ModalButton onclick={()=>props.onclose()} buttonImage={buttons.cancelButton}></ModalButton>
-            {playButton}
-            </View>
-          </View>
-        </View>
-        </ImageBackground>
-    </View>
-        </Modal>
-    );
-};
-
-export const ModalForGapFills=(props: AnagrammistModalProps)=>{
+/* 
+export const ModalForGapFills=(props: FlashCardModalProps)=>{
     const navigation = useNavigation<NavigationProp>();
     const createAGapFillMatch = () => {
-    type AnagrammistMatchScreens = "GapFillsMatch"
-    let moreGamesWindow: AnagrammistMatchScreens = "GapFillsMatch";
+    type FlashCardMatchScreens = "GapFillsMatch"
+    let moreGamesWindow: FlashCardMatchScreens = "GapFillsMatch";
     navigation.navigate(moreGamesWindow, {
       wordSize: GapFillsChoice.wordSize
     });
@@ -165,8 +120,8 @@ export const ModalForGapFills=(props: AnagrammistModalProps)=>{
         <View style={styles.modalBackground}>
           <View style={styles.modalContent}>
             <Text style={[styles.modalHeading , {color: props.headingColor}]}>{props.heading}</Text>
-            <CompleteGapFillsModal difficultyTabImage={props.difficultyTabImage} partsOfSpeechTabImage={props.partsOfSpeechTabImage} levelsCleared={props.levelsCleared}/>
-            <View style={styles.modalButtons}>
+            {/* <CompleteGapFillsModal difficultyTabImage={props.difficultyTabImage} partsOfSpeechTabImage={props.partsOfSpeechTabImage} levelsCleared={props.levelsCleared}/>
+             }<View style={styles.modalButtons}>
             <ModalButton onclick={()=>props.onclose()} buttonImage={buttons.cancelButton}></ModalButton>
             {playButton}
             </View>
@@ -178,12 +133,11 @@ export const ModalForGapFills=(props: AnagrammistModalProps)=>{
     );
 };
 
-
 export const ModalForWordLadder=(props: WordLadderModalProps)=>{
     const navigation = useNavigation<NavigationProp>();
     const createAGapFillMatch = () => {
-    type AnagrammistMatchScreens = "WordLadderMatch"
-    let moreGamesWindow: AnagrammistMatchScreens = "WordLadderMatch";
+    type FlashCardMatchScreens = "WordLadderMatch"
+    let moreGamesWindow: FlashCardMatchScreens = "WordLadderMatch";
     navigation.navigate(moreGamesWindow, {
       wordSize: WordLadderChoice.wordSize
     });
@@ -367,4 +321,4 @@ export const ModalForWicWacWoe=(props: WordChainsModalProps)=>{
     </View>
         </Modal>
     );
-}
+} */

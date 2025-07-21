@@ -81,7 +81,14 @@ export const Rewards={
 
     Matching:{
         xp: 10, coins: 0
+    },
 
+    Boggle:{
+        "3": {xp: 5, coins: 1},
+        "4": {xp: 8, coins: 4},
+        "5": {xp: 12, coins: 8},
+        "6": {xp: 20, coins: 12},
+        "7": {xp: 25, coins: 20},
     }
 
 }

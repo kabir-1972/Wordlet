@@ -1,9 +1,9 @@
 import React from 'react';
 import { View } from 'react-native';
 import { modalStyles } from '../../source/styles/wordle-header-inmatch-modals-style';
-import { ParagraphText, ModalContentText } from './Matching-Header-inmatch'
+import { ParagraphText, ModalContentText } from './FlashCard-Header-inmatch'
 
-export const Matching=()=>{
+export const FlashCard=()=>{
     return (
         <View>
         <ParagraphText style={{color: '#dcf9f5'}}>1. The Table</ParagraphText>

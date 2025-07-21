@@ -71,8 +71,7 @@ export type NavigationProp =NativeStackNavigationProp<RootStackParamList, 'Home'
 
     const scale= new Animated.Value(1);
     const clearAllBtnScale = new Animated.Value(1);
-    
-
+   
 /* Listed are all the use Effects for this match...*/
 
 // Series of useEffect Settings....

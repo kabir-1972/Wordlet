@@ -121,7 +121,7 @@ useEffect(()=>{
                     }
                     await RNFS.writeFile(statusPath, JSON.stringify(newStatus), 'utf8');
             }
-            const wordData=words[currentIndexNumber+1];
+            const wordData=words[currentIndexNumber];
             const wordDataObject={
                 word: wordData.word,
                 partsOfSpeech: wordData.partsOfSpeech,
@@ -137,7 +137,7 @@ useEffect(()=>{
     getTheWordOfTheDay();
 
 },[])
-
+    const navigation = useNavigation<NavigationProp>();
     return(
     <ImageBackground
       source={require('../source/images/background.png')}
@@ -254,7 +254,7 @@ useEffect(()=>{
             <Pressable
             onPressIn={()=>buttonPressIn(enhanceVocabBtn)}
             onPressOut={()=>buttonPressOut(enhanceVocabBtn)}
-            onPress={()=>{}}
+            onPress={()=>navigation.navigate("VocabularyGames")}
             >
                 <Animated.View style={{transform: [{scale: enhanceVocabBtn}]}}>
                 <ImageBackground

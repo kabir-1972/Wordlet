@@ -48,6 +48,15 @@ import VocabularyGames from  './screens/VocabularyGamesScreen';
 import MatchingLevels from './screens/Matching/MatchingLevels';
 import MatchingMatch from './screens/Matching/MatchingMatch';
 
+import BoggleLevels from './screens/Boggle/BoggleLevels';
+import BoggleMatch from './screens/Boggle/BoggleMatch';
+
+import FlashCardView from './screens/FlashCards/FlashCardsViewScreen';
+import FlashCardCreate from './screens/FlashCards/FlashCardsCreateScreen';
+import FlashCardWordlet from './screens/FlashCards/FlashCard-Wordlet';
+
+
+
 const Stack = createNativeStackNavigator();
 
 export default function App() {
@@ -57,7 +66,7 @@ export default function App() {
       <Stack.Screen name="Home" component={HomeScreen} />
 
       {
-        <Stack.Navigator initialRouteName="MatchingLevels"
+        <Stack.Navigator initialRouteName="FlashCardCreateScreen"
         screenOptions={{
         headerShown: false,
         animation: 'none',
@@ -204,6 +213,31 @@ export default function App() {
       <Stack.Screen
       name="MatchingMatch"
       component={MatchingMatch}
+      />
+
+      <Stack.Screen
+      name="BoggleLevels"
+      component={BoggleLevels}
+      />
+
+      <Stack.Screen
+      name="BoggleMatch"
+      component={BoggleMatch}
+      />
+
+      <Stack.Screen
+      name="FlashCardViewScreen"
+      component={FlashCardView}
+      />
+
+      <Stack.Screen
+      name="FlashCardCreateScreen"
+      component={FlashCardCreate}
+      />
+
+      <Stack.Screen
+      name="FlashCardWordlet"
+      component={FlashCardWordlet}
       />
 
 

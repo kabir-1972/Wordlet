@@ -9,7 +9,7 @@ import { modalStyles } from '../../source/styles/wordle-header-inmatch-modals-st
 import { buttons, icons, modalBackgrounds } from '../../source/styles/assets';
 import { buttonPressIn,buttonPressOut } from '../../source/styles/allAnimations';
 import { OutlinedText } from '../../source/styles/outlinedText';
-import { Matching} from './Matching-GameInfo-SubScreen';
+import { FlashCard} from './FlashCard-GameInfo-SubScreen';
 import { AddCoinModal } from '../Add-Coin-Modal'
 import { SettingsData, SettingsModal } from '../Settings';
 import { ProfileModal } from '../Profile';
@@ -280,7 +280,7 @@ export const MatchingGameInfoModal=(props: GameInfoModalProps)=>{
                     </View>
                     <WordleText style={{textAlign: 'center', fontSize: 20, marginTop: 10, marginBottom: 3, color: 'wheat'}}>Guidelines</WordleText>
                     <View style={modalStyles.horizontalBar}></View>
-                    {Matching()}
+                    {FlashCard()}
                             <View style={{alignItems: 'center'}}>
                             <HeaderText style={{fontSize: 15, lineHeight: 24}}>Currently Set Dictionary Language:</HeaderText>
                             <HeaderText style={{fontSize: 15, lineHeight: 24}}>{SettingsData.dictionary}</HeaderText>

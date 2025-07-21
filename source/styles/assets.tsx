@@ -66,6 +66,7 @@ export const icons={
     achive: require("../images/icons/achieve.png"),
     chest: require("../images/icons/chest.png"),
     blackDeleteIcon: require("../images/icons/delete-icon.png"),
+    editIcon: require("../images/icons/edit.png"),
 }
 
 export const modalBackgrounds={   

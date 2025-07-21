@@ -128,4 +128,11 @@ export type RootStackParamList = {
         level: number
         heading: number
     }
+
+    BoggleLevels: undefined;
+    BoggleMatch: {level: number}
+    
+    FlashCardViewScreen: undefined;
+    FlashCardCreateScreen: undefined;
+    FlashCardWordlet: undefined;
   };
