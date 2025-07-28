@@ -58,7 +58,7 @@ export const CompleteFlashCardModal=(props:wordleStyleProps)=>{
                 <OptionsTabs mode = "Create FlashCards" difficultyChooseBtn = {()=>handlePress(1)} selected={selected===1} difficultyTabImage={props.difficultyTabImage}></OptionsTabs>
                 <OptionsTabs mode = "Your FlashCards" difficultyChooseBtn = {()=>handlePress(2)} selected={selected===2} difficultyTabImage={props.difficultyTabImage}></OptionsTabs>
                 <OptionsTabs mode = "Wordlet FlashCards" difficultyChooseBtn = {()=>handlePress(3)} selected={selected===3} difficultyTabImage={props.difficultyTabImage}></OptionsTabs>
-                <OptionsTabs mode = "See FlashCards" difficultyChooseBtn = {()=>handlePress(4)} selected={selected===4} difficultyTabImage={props.difficultyTabImage}></OptionsTabs>
+                <OptionsTabs mode = "Other's FlashCards" difficultyChooseBtn = {()=>handlePress(4)} selected={selected===4} difficultyTabImage={props.difficultyTabImage}></OptionsTabs>
                 </View>
         </View>
     );

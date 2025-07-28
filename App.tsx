@@ -66,7 +66,7 @@ export default function App() {
       <Stack.Screen name="Home" component={HomeScreen} />
 
       {
-        <Stack.Navigator initialRouteName="FlashCardCreateScreen"
+        <Stack.Navigator initialRouteName="FlashCardWordlet"
         screenOptions={{
         headerShown: false,
         animation: 'none',

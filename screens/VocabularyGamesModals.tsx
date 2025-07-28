@@ -60,7 +60,11 @@ export const ModalForFlashCard=(props: FlashCardModalProps)=>{
     const navigation = useNavigation<NavigationProp>();
     const createAnFlashCardMatch = () => {
       switch(FlashCardChoice.option){
-        case 1: navigation.navigate("FlashCardViewScreen"); break;
+        case 1: navigation.navigate("FlashCardCreateScreen"); break;
+        //case 2: navigation.navigate("FlashCardViewScreen"); break;
+        case 3: navigation.navigate("FlashCardViewScreen", {name : "Wordlet"}); break;
+        //case 4: navigation.navigate("FlashCardViewScreen"); break;
+        default: navigation.navigate("FlashCardCreateScreen"); break;
       }
     }
     

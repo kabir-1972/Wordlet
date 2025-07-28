@@ -15,7 +15,6 @@ import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 
 
-
 import { RootStackParamList } from '../../types';
 import { WordleText } from '../Skip-Game-Modal';
 import { HeaderInMatch } from './FlashCard-Header-inmatch';
@@ -91,18 +90,14 @@ export type NavigationProp =NativeStackNavigationProp<RootStackParamList, 'Home'
     const addCardBtn= new Animated.Value(1);
     const deleteCardBtn = new Animated.Value(1);
     const saveCardPackBtn = new Animated.Value(1);
-
-
-    const removeHeadingParagraph=Array.from({length: paragraphsOfTheCard.length}, ()=>(new Animated.Value(1)));
-
     const clearFrontFace=new Animated.Value(1);
     const clearBackFace=new Animated.Value(1);
+
+    const removeHeadingParagraph=Array.from({length: paragraphsOfTheCard.length}, ()=>(new Animated.Value(1)));
 
     const colorPalleteIndices=Array.from({length: colorPallete.length}, ()=>(new Animated.Value(1)));
     const [deletedCards, setDeletedCards]=useState<number[]>([]);
 
-
-    
 /* Listed are all the use Effects for this match...*/
 
 // Series of useEffect Settings....
