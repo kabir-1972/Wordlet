@@ -137,7 +137,7 @@ export const styles = StyleSheet.create({
     },
 
     cardEditHeading: {
-        backgroundColor: '#ff99aa',
+        backgroundColor: '#fce4c2',
         alignSelf: 'flex-start',
         paddingVertical: 4,
         paddingHorizontal: 6,
@@ -188,9 +188,71 @@ export const styles = StyleSheet.create({
         alignSelf: 'center',
         width: '70%',
         maxWidth: 350,
-        backgroundColor: '#ffffff30',
+        borderColor: '#ffffff80',
+        backgroundColor: '#ffffff10',
         borderRadius: 4,
-        padding: 10
+        padding: 10,
+        borderStyle: 'dashed',
+        borderWidth: 1.8
+    },
+
+    headingsOfBackFace: {
+        alignSelf: 'center',
+        paddingHorizontal: 6,
+        paddingVertical: 4,
+        borderRadius: 4,
+        marginVertical: 2
+    },
+    
+    paragraphsOfBackFace: {
+        alignSelf: 'center',
+        paddingHorizontal: 6,
+        paddingVertical: 4,
+        borderRadius: 4,
+        marginVertical: 1,
+        backgroundColor: '#fff3f2',
+        borderWidth: 1
+    },
+
+    bar: {
+        height: 5,
+        backgroundColor: '#c1f7ca',
+        flex: 1,
+        marginVertical: 10,
+        borderRadius: 5,
+        overflow: 'hidden'
+    },
+
+    theCardInStack: {
+        alignItems: 'center',
+        justifyContent: 'center',
+        backgroundColor: '#f5c79f',
+        borderRadius: 4,
+        marginHorizontal: 2
+        
+        
+    },
+
+    theCardStackContainer: {
+        minHeight: 40,
+        borderWidth: 0.5,
+        borderColor: '#faf0e1',
+        
+        marginVertical: 10,
+        borderRadius: 4,
+        flexDirection: 'row',
+        gap: 2,
+        alignItems: 'center'
+    },
+
+    cardNumberInStack: {
+        color: '#783a04',
+        fontSize: 18,
+        paddingVertical: 7,
+        paddingHorizontal: 12,
+        borderWidth: 1,
+        borderRadius: 4,
+        borderColor: '#783a04'
     }
     
 
