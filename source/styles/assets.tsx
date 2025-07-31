@@ -69,6 +69,9 @@ export const icons={
     editIcon: require("../images/icons/edit.png"),
     leftArrow: require("../images/icons/left-arrow.png"),
     rightArrow: require("../images/icons/right-arrow.png"),
+    upload:require("../images/icons/upload-cloud-icon.png"),
+    share:require("../images/icons/share-icon.png"),
+
 }
 
 export const modalBackgrounds={   

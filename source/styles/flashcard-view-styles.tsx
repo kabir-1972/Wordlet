@@ -66,13 +66,40 @@ export const styles = StyleSheet.create({
         textAlign: 'center',
         borderRadius: 4,
         borderColor: '#999999',
-        paddingHorizontal: 4
+        paddingHorizontal: 4,
+        lineHeight: 22
     },
 
     backFaceTitle: {
         padding: 3,
         borderRadius: 4,
         marginVertical: 5
-    }
+    },
+
+    error:{
+        backgroundColor: '#f8f5cc',
+        marginVertical: 5,
+        alignItems: 'center',
+        alignSelf: 'center',
+        
+        borderWidth: 1,
+        borderRadius: 5,
+        borderColor: 'black',
+    },
+
+    errorTextContainer:{
+        position: 'absolute',
+        top: '50%',
+        left: '50%',
+        width: 250
+    },
+
+    errorText:{
+        color: '#3f4845',
+        fontSize: 20,
+        lineHeight: 24,
+        paddingVertical: 8,
+        paddingHorizontal: 10,
+    },
 
 });

@@ -90,9 +90,7 @@ const App=()=> {
     if(!profileDataRead) return;
     const loadTheFlashCardData = async () => {    
       setGameLoadingAnimationPrompt("Getting the FlashCard Data");
-      const cardData=await getTheNamesOfTheCard();
-      
-      setFlashCardData(cardData);
+      //Fetch The Flash Card Data from Online...
       setFlashcardDataRead(true);
   };
      loadTheFlashCardData();

@@ -1,21 +1,20 @@
 import React, { useState } from 'react';
-import { View, Text, StyleSheet, Pressable, Image, Animated, ImageBackground, ScrollView} from 'react-native';
+import { View, Pressable, Image, Animated, ImageBackground, ScrollView} from 'react-native';
 import Reanimated, {
   useSharedValue,
   useAnimatedStyle,
   withTiming,
   interpolate,
-  Extrapolate,
 } from 'react-native-reanimated';
 import {styles} from '../../source/styles/flashcard-view-styles';
 import { icons } from '../../source/styles/assets';
-//import { useNavigation } from '@react-navigation/native';
+
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../types';
-import { RouteProp, useRoute } from '@react-navigation/native';
 
+import { addAFavoriteFlashCard } from './FlashCard-Data-Files';
 import { ProfileData, updateCoinsInPreviousProfileFile, readProfileDataFile, saveProfileDataToFile, updateXpsAndCoinsInPreviousProfileFile } from '../AccessProfileData';
-import { useEffect } from 'react';
+import { useEffect , useRef } from 'react';
 import { SettingsData } from '../Settings';
 import { GameLoadingAnimation } from '../Game-Loading-Animation';
 import { HeaderInMatch } from './FlashCard-Header-inmatch';
@@ -87,6 +86,12 @@ const App=()=> {
   const addToFavBtnScale=new Animated.Value(1);
   
   const [currentIndexOfCard, setCurrentIndexOfCard]=useState(1);
+  
+  
+      const shakeAnim = useRef(new Animated.Value(0)).current;
+      const [error, setErrorStatement] =useState("");
+      const [size, setSize] =useState({width: 0, height: 0});
+
   const hintViewScale=useSharedValue(0);
   const animatedHintViewScale = useAnimatedStyle(()=>({
     transform: [{scale: hintViewScale.value}]
@@ -171,8 +176,7 @@ if(!profileDataRead||!flashcardDataRead) {
           <WordleText style={{fontSize: 25}}>
             {flashCardData[currentIndexOfCard].word}
           </WordleText>
-          <Reanimated.View style={[{marginHorizontal: 10, marginTop: 5, backgroundColor: '#f7f5d7'}, animatedHintViewScale]}><WordleText style={{lineHeight: 22, paddingHorizontal: 3
-          }}>
+          <Reanimated.View style={[{marginHorizontal: 10, marginTop: 5, backgroundColor: '#f7f5d7'}, animatedHintViewScale]}><WordleText style={{lineHeight: 22, paddingHorizontal: 3}}>
             {flashCardData[currentIndexOfCard].exampleUsage}
           </WordleText></Reanimated.View>
           
@@ -213,7 +217,21 @@ if(!profileDataRead||!flashcardDataRead) {
                               <Pressable
                               onPressIn={()=>{buttonPressIn(addToFavBtnScale)}}
                               onPressOut={()=>{buttonPressOut(addToFavBtnScale)}}
-                              onPress={()=>{}}
+                              onPress={()=>{
+                                const sendTheCardForToFavorites=async()=>{
+                                  let addFavoriteIndicator=await addAFavoriteFlashCard(flashCardData[currentIndexOfCard]);
+                                  if(addFavoriteIndicator==0){
+                                    setErrorStatement("Flash Card has already been added to Favorites");
+                                    setTimeout(() => setErrorStatement(""), 1000);
+                                  }
+                                  else{
+                                    setErrorStatement("Flash Card has been added to Favorites successfully");
+                                    setTimeout(() => setErrorStatement(""), 1000);
+                                  }
+                                }
+
+                                sendTheCardForToFavorites();
+                              }}
                               >
                                 <ImageBackground
                                   source={buttons.goldenButton}
@@ -267,7 +285,8 @@ if(!profileDataRead||!flashcardDataRead) {
         onPressOut={()=>buttonPressOut(previousBtnScale)}
         onPress={()=>{
           if(flipped) flipCard();
-          setTimeout(()=>setCurrentIndexOfCard(currentIndexOfCard-1), 500)}}
+          hintViewScale.value=withTiming(0, {duration: 500})
+          setTimeout(()=>setCurrentIndexOfCard(currentIndexOfCard-1), 550)}}
           disabled={currentIndexOfCard<=1}
         >
           <ImageBackground
@@ -290,7 +309,8 @@ if(!profileDataRead||!flashcardDataRead) {
         onPressOut={()=>buttonPressOut(nextBtnScale)}
         onPress={()=>{
           if(flipped) flipCard();
-          setTimeout(()=>setCurrentIndexOfCard(currentIndexOfCard+1), 500)
+          hintViewScale.value=withTiming(0, {duration: 500})
+          setTimeout(()=>setCurrentIndexOfCard(currentIndexOfCard+1), 550)
           }}
         disabled={currentIndexOfCard>=70}
         >
@@ -309,6 +329,17 @@ if(!profileDataRead||!flashcardDataRead) {
       </Animated.View>
     </View>
     </ScrollView>
+            <Animated.View 
+              onLayout={(event) => {
+                const { width, height } = event.nativeEvent.layout;
+                setSize({ width, height });
+              }}
+            style={[{ transform: [{ translateX: Animated.add(shakeAnim, new Animated.Value(-size.width/2))}] }, styles.errorTextContainer]}>
+          <View style={[styles.error,
+            error == "" && { backgroundColor: 'transparent', borderColor: 'transparent' }
+          ]}><WordleText style={[styles.errorText]}>{error}</WordleText>
+          </View>
+            </Animated.View>
   </ImageBackground> 
   </View>
   );

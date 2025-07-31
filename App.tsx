@@ -54,8 +54,8 @@ import BoggleMatch from './screens/Boggle/BoggleMatch';
 import FlashCardView from './screens/FlashCards/FlashCardsViewScreen';
 import FlashCardCreate from './screens/FlashCards/FlashCardsCreateScreen';
 import FlashCardWordlet from './screens/FlashCards/FlashCard-Wordlet';
-
-
+import PlayerFlashCard from './screens/FlashCards/Player-FlashCard';
+import EditFlashCard from './screens/FlashCards/Edit-FlashCard';
 
 const Stack = createNativeStackNavigator();
 
@@ -66,7 +66,7 @@ export default function App() {
       <Stack.Screen name="Home" component={HomeScreen} />
 
       {
-        <Stack.Navigator initialRouteName="FlashCardWordlet"
+        <Stack.Navigator initialRouteName="EditFlashCard"
         screenOptions={{
         headerShown: false,
         animation: 'none',
@@ -238,6 +238,16 @@ export default function App() {
       <Stack.Screen
       name="FlashCardWordlet"
       component={FlashCardWordlet}
+      />
+
+      <Stack.Screen
+      name="PlayerFlashCard"
+      component={PlayerFlashCard}
+      />
+
+      <Stack.Screen
+      name="EditFlashCard"
+      component={EditFlashCard}
       />
 
 

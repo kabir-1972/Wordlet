@@ -135,4 +135,6 @@ export type RootStackParamList = {
     FlashCardViewScreen: {name: string};
     FlashCardCreateScreen: undefined;
     FlashCardWordlet: undefined;
+    PlayerFlashCard: undefined;
+    EditFlashCard: {name: string};
   };
