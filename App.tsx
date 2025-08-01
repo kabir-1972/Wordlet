@@ -55,7 +55,12 @@ import FlashCardView from './screens/FlashCards/FlashCardsViewScreen';
 import FlashCardCreate from './screens/FlashCards/FlashCardsCreateScreen';
 import FlashCardWordlet from './screens/FlashCards/FlashCard-Wordlet';
 import PlayerFlashCard from './screens/FlashCards/Player-FlashCard';
+import OtherFlashCard from './screens/FlashCards/Other-FlashCard';
 import EditFlashCard from './screens/FlashCards/Edit-FlashCard';
+
+import CollecticoMatch from './screens/Collectico/CollecticoMatch';
+import OrtographiaMatch from './screens/OrtoGraphia/OrtographiaMatch';
+import SatietasMatch from './screens/Satietas/SatietasMatch';
 
 const Stack = createNativeStackNavigator();
 
@@ -66,7 +71,7 @@ export default function App() {
       <Stack.Screen name="Home" component={HomeScreen} />
 
       {
-        <Stack.Navigator initialRouteName="EditFlashCard"
+        <Stack.Navigator initialRouteName="SatietasMatch"
         screenOptions={{
         headerShown: false,
         animation: 'none',
@@ -246,8 +251,28 @@ export default function App() {
       />
 
       <Stack.Screen
+      name="OtherFlashCard"
+      component={OtherFlashCard}
+      />
+
+      <Stack.Screen
       name="EditFlashCard"
       component={EditFlashCard}
+      />
+
+      <Stack.Screen
+      name="CollecticoMatch"
+      component={CollecticoMatch}
+      />
+
+      <Stack.Screen
+      name="OrtographiaMatch"
+      component={OrtographiaMatch}
+      />
+
+      <Stack.Screen
+      name="SatietasMatch"
+      component={SatietasMatch}
       />
 
 

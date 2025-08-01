@@ -1,0 +1,952 @@
+{
+  "1": {
+    "word": "clever",
+    "synonyms": ["smart", "intellectual", "brilliant", "ingenious", "astute", "shrewd", "witty"],
+    "antonyms": ["stupid", "foolish", "dull", "ignorant", "dense", "slow", "obtuse"]
+  },
+  "2": {
+    "word": "beautiful",
+    "synonyms": ["gorgeous", "stunning", "attractive", "lovely", "pretty", "elegant", "magnificent"],
+    "antonyms": ["ugly", "hideous", "repulsive", "unattractive", "plain", "grotesque", "unsightly"]
+  },
+  "3": {
+    "word": "large",
+    "synonyms": ["big", "huge", "enormous", "massive", "gigantic", "colossal", "immense"],
+    "antonyms": ["small", "tiny", "miniature", "petite", "minuscule", "microscopic", "diminutive"]
+  },
+  "4": {
+    "word": "happy",
+    "synonyms": ["joyful", "cheerful", "delighted", "ecstatic", "elated", "content", "blissful"],
+    "antonyms": ["sad", "miserable", "depressed", "gloomy", "sorrowful", "dejected", "melancholy"]
+  },
+  "5": {
+    "word": "fast",
+    "synonyms": ["quick", "rapid", "swift", "speedy", "hasty", "brisk", "fleet"],
+    "antonyms": ["slow", "sluggish", "leisurely", "gradual", "dawdling", "tardy", "unhurried"]
+  },
+  "6": {
+    "word": "strong",
+    "synonyms": ["powerful", "mighty", "robust", "sturdy", "muscular", "potent", "forceful"],
+    "antonyms": ["weak", "feeble", "frail", "fragile", "delicate", "powerless", "flimsy"]
+  },
+  "7": {
+    "word": "brave",
+    "synonyms": ["courageous", "fearless", "bold", "valiant", "heroic", "daring", "gallant"],
+    "antonyms": ["cowardly", "timid", "fearful", "scared", "spineless", "chicken", "pusillanimous"]
+  },
+  "8": {
+    "word": "generous",
+    "synonyms": ["kind", "charitable", "benevolent", "magnanimous", "giving", "altruistic", "philanthropic"],
+    "antonyms": ["selfish", "greedy", "stingy", "miserly", "tight-fisted", "mean", "uncharitable"]
+  },
+  "9": {
+    "word": "honest",
+    "synonyms": ["truthful", "sincere", "genuine", "candid", "forthright", "trustworthy", "upright"],
+    "antonyms": ["dishonest", "deceitful", "lying", "fraudulent", "deceptive", "false", "untrustworthy"]
+  },
+  "10": {
+    "word": "calm",
+    "synonyms": ["peaceful", "serene", "tranquil", "composed", "relaxed", "placid", "unruffled"],
+    "antonyms": ["agitated", "turbulent", "frantic", "chaotic", "restless", "anxious", "stormy"]
+  },
+  "11": {
+    "word": "rich",
+    "synonyms": ["wealthy", "affluent", "prosperous", "opulent", "well-off", "loaded", "privileged"],
+    "antonyms": ["poor", "impoverished", "destitute", "broke", "penniless", "bankrupt", "needy"]
+  },
+  "12": {
+    "word": "difficult",
+    "synonyms": ["hard", "challenging", "tough", "arduous", "demanding", "complex", "strenuous"],
+    "antonyms": ["easy", "simple", "effortless", "straightforward", "manageable", "uncomplicated", "basic"]
+  },
+  "13": {
+    "word": "bright",
+    "synonyms": ["brilliant", "luminous", "radiant", "shining", "glowing", "vivid", "dazzling"],
+    "antonyms": ["dark", "dim", "dull", "gloomy", "shadowy", "murky", "obscure"]
+  },
+  "14": {
+    "word": "hot",
+    "synonyms": ["warm", "scorching", "blazing", "sweltering", "boiling", "burning", "torrid"],
+    "antonyms": ["cold", "freezing", "chilly", "frigid", "icy", "cool", "arctic"]
+  },
+  "15": {
+    "word": "new",
+    "synonyms": ["fresh", "recent", "modern", "contemporary", "novel", "current", "latest"],
+    "antonyms": ["old", "ancient", "outdated", "obsolete", "vintage", "archaic", "worn"]
+  },
+  "16": {
+    "word": "loud",
+    "synonyms": ["noisy", "boisterous", "thunderous", "deafening", "blaring", "raucous", "clamorous"],
+    "antonyms": ["quiet", "silent", "hushed", "muted", "soft", "peaceful", "whispered"]
+  },
+  "17": {
+    "word": "expensive",
+    "synonyms": ["costly", "pricey", "dear", "valuable", "premium", "high-priced", "extravagant"],
+    "antonyms": ["cheap", "inexpensive", "affordable", "budget", "economical", "low-cost", "bargain"]
+  },
+  "18": {
+    "word": "friendly",
+    "synonyms": ["kind", "amiable", "cordial", "warm", "sociable", "affable", "genial"],
+    "antonyms": ["unfriendly", "hostile", "cold", "rude", "mean", "antisocial", "aloof"]
+  },
+  "19": {
+    "word": "clean",
+    "synonyms": ["spotless", "pristine", "immaculate", "hygienic", "sanitary", "pure", "sterile"],
+    "antonyms": ["dirty", "filthy", "grimy", "messy", "soiled", "contaminated", "polluted"]
+  },
+  "20": {
+    "word": "hungry",
+    "synonyms": ["starving", "famished", "ravenous", "peckish", "voracious", "craving", "underfed"],
+    "antonyms": ["full", "satisfied", "satiated", "stuffed", "replete", "fed", "nourished"]
+  },
+  "21": {
+    "word": "dangerous",
+    "synonyms": ["hazardous", "risky", "perilous", "threatening", "unsafe", "treacherous", "menacing"],
+    "antonyms": ["safe", "secure", "harmless", "protected", "risk-free", "benign", "innocent"]
+  },
+  "22": {
+    "word": "exciting",
+    "synonyms": ["thrilling", "exhilarating", "stimulating", "electrifying", "invigorating", "rousing", "captivating"],
+    "antonyms": ["boring", "dull", "tedious", "monotonous", "uninteresting", "dreary", "bland"]
+  },
+  "23": {
+    "word": "angry",
+    "synonyms": ["furious", "enraged", "livid", "irate", "mad", "incensed", "outraged"],
+    "antonyms": ["calm", "peaceful", "serene", "pleased", "content", "happy", "delighted"]
+  },
+  "24": {
+    "word": "empty",
+    "synonyms": ["vacant", "hollow", "void", "bare", "deserted", "uninhabited", "barren"],
+    "antonyms": ["full", "occupied", "crowded", "packed", "filled", "loaded", "stuffed"]
+  },
+  "25": {
+    "word": "rough",
+    "synonyms": ["coarse", "harsh", "jagged", "bumpy", "uneven", "rugged", "abrasive"],
+    "antonyms": ["smooth", "soft", "gentle", "even", "polished", "refined", "sleek"]
+  },
+  "26": {
+    "word": "healthy",
+    "synonyms": ["fit", "well", "robust", "vigorous", "sound", "hearty", "thriving"],
+    "antonyms": ["sick", "ill", "unhealthy", "diseased", "weak", "frail", "ailing"]
+  },
+  "27": {
+    "word": "funny",
+    "synonyms": ["hilarious", "amusing", "comical", "humorous", "witty", "entertaining", "hysterical"],
+    "antonyms": ["serious", "sad", "tragic", "somber", "grave", "unfunny", "boring"]
+  },
+  "28": {
+    "word": "important",
+    "synonyms": ["significant", "crucial", "vital", "essential", "critical", "major", "key"],
+    "antonyms": ["unimportant", "trivial", "insignificant", "minor", "negligible", "irrelevant", "petty"]
+  },
+  "29": {
+    "word": "strange",
+    "synonyms": ["odd", "weird", "peculiar", "bizarre", "unusual", "abnormal", "eccentric"],
+    "antonyms": ["normal", "ordinary", "typical", "common", "regular", "standard", "conventional"]
+  },
+  "30": {
+    "word": "proud",
+    "synonyms": ["arrogant", "conceited", "boastful", "haughty", "vain", "egotistical", "pompous"],
+    "antonyms": ["humble", "modest", "meek", "ashamed", "embarrassed", "self-effacing", "unassuming"]
+  },
+  "31": {
+    "word": "terrible",
+    "synonyms": ["awful", "horrible", "dreadful", "appalling", "atrocious", "ghastly", "abysmal"],
+    "antonyms": ["wonderful", "excellent", "fantastic", "marvelous", "superb", "outstanding", "brilliant"]
+  },
+  "32": {
+    "word": "perfect",
+    "synonyms": ["flawless", "ideal", "impeccable", "faultless", "excellent", "supreme", "pristine"],
+    "antonyms": ["imperfect", "flawed", "defective", "faulty", "damaged", "broken", "inferior"]
+  },
+  "33": {
+    "word": "tired",
+    "synonyms": ["exhausted", "weary", "fatigued", "drained", "sleepy", "worn-out", "depleted"],
+    "antonyms": ["energetic", "refreshed", "alert", "awake", "vigorous", "lively", "invigorated"]
+  },
+  "34": {
+    "word": "wise",
+    "synonyms": ["intelligent", "knowledgeable", "sage", "prudent", "insightful", "judicious", "enlightened"],
+    "antonyms": ["foolish", "ignorant", "naive", "stupid", "unwise", "imprudent", "reckless"]
+  },
+  "35": {
+    "word": "lucky",
+    "synonyms": ["fortunate", "blessed", "favored", "charmed", "serendipitous", "providential", "auspicious"],
+    "antonyms": ["unlucky", "unfortunate", "cursed", "jinxed", "doomed", "ill-fated", "hapless"]
+  },
+  "36": {
+    "word": "busy",
+    "synonyms": ["occupied", "active", "engaged", "hectic", "swamped", "overwhelmed", "preoccupied"],
+    "antonyms": ["free", "idle", "available", "relaxed", "unoccupied", "leisurely", "inactive"]
+  },
+  "37": {
+    "word": "polite",
+    "synonyms": ["courteous", "respectful", "civil", "well-mannered", "gracious", "refined", "diplomatic"],
+    "antonyms": ["rude", "impolite", "discourteous", "disrespectful", "crude", "vulgar", "ill-mannered"]
+  },
+  "38": {
+    "word": "patient",
+    "synonyms": ["tolerant", "understanding", "calm", "persistent", "enduring", "forbearing", "long-suffering"],
+    "antonyms": ["impatient", "restless", "hasty", "intolerant", "irritable", "anxious", "agitated"]
+  },
+  "39": {
+    "word": "creative",
+    "synonyms": ["imaginative", "innovative", "artistic", "inventive", "original", "inspired", "resourceful"],
+    "antonyms": ["uncreative", "unimaginative", "conventional", "boring", "mundane", "predictable", "sterile"]
+  },
+  "40": {
+    "word": "popular",
+    "synonyms": ["well-liked", "famous", "trendy", "fashionable", "celebrated", "beloved", "acclaimed"],
+    "antonyms": ["unpopular", "disliked", "unknown", "obscure", "hated", "rejected", "shunned"]
+  },
+  "41": {
+    "word": "reliable",
+    "synonyms": ["dependable", "trustworthy", "consistent", "faithful", "steady", "responsible", "solid"],
+    "antonyms": ["unreliable", "undependable", "inconsistent", "untrustworthy", "fickle", "erratic", "flaky"]
+  },
+  "42": {
+    "word": "curious",
+    "synonyms": ["inquisitive", "interested", "intrigued", "questioning", "eager", "nosy", "investigative"],
+    "antonyms": ["uninterested", "indifferent", "apathetic", "bored", "disinterested", "unconcerned", "passive"]
+  },
+  "43": {
+    "word": "flexible",
+    "synonyms": ["adaptable", "bendable", "pliable", "versatile", "adjustable", "elastic", "malleable"],
+    "antonyms": ["rigid", "inflexible", "stiff", "unbending", "stubborn", "fixed", "unyielding"]
+  },
+  "44": {
+    "word": "comfortable",
+    "synonyms": ["cozy", "relaxed", "pleasant", "snug", "at ease", "content", "luxurious"],
+    "antonyms": ["uncomfortable", "uneasy", "awkward", "tense", "painful", "cramped", "distressing"]
+  },
+  "45": {
+    "word": "successful",
+    "synonyms": ["accomplished", "triumphant", "prosperous", "victorious", "thriving", "winning", "flourishing"],
+    "antonyms": ["unsuccessful", "failed", "defeated", "losing", "struggling", "failing", "disappointing"]
+  },
+  "46": {
+    "word": "mysterious",
+    "synonyms": ["enigmatic", "puzzling", "secretive", "cryptic", "obscure", "baffling", "unexplained"],
+    "antonyms": ["obvious", "clear", "transparent", "open", "straightforward", "plain", "evident"]
+  },
+  "47": {
+    "word": "confident",
+    "synonyms": ["self-assured", "bold", "certain", "poised", "secure", "assertive", "fearless"],
+    "antonyms": ["insecure", "uncertain", "doubtful", "timid", "hesitant", "nervous", "self-conscious"]
+  },
+  "48": {
+    "word": "generous",
+    "synonyms": ["giving", "charitable", "kind", "benevolent", "magnanimous", "liberal", "open-handed"],
+    "antonyms": ["stingy", "selfish", "greedy", "mean", "tight-fisted", "miserly", "uncharitable"]
+  },
+  "49": {
+    "word": "optimistic",
+    "synonyms": ["hopeful", "positive", "upbeat", "cheerful", "confident", "encouraging", "bright"],
+    "antonyms": ["pessimistic", "negative", "gloomy", "hopeless", "despairing", "cynical", "dejected"]
+  },
+  "50": {
+    "word": "independent",
+    "synonyms": ["self-reliant", "autonomous", "free", "self-sufficient", "liberated", "sovereign", "unattached"],
+    "antonyms": ["dependent", "reliant", "needy", "subordinate", "controlled", "restricted", "attached"]
+  },
+  "51": {
+    "word": "ambitious",
+    "synonyms": ["driven", "determined", "aspiring", "goal-oriented", "motivated", "enterprising", "eager"],
+    "antonyms": ["unambitious", "lazy", "content", "satisfied", "unmotivated", "aimless", "complacent"]
+  },
+  "52": {
+    "word": "gentle",
+    "synonyms": ["mild", "tender", "soft", "kind", "compassionate", "soothing", "peaceful"],
+    "antonyms": ["harsh", "rough", "violent", "aggressive", "brutal", "fierce", "cruel"]
+  },
+  "53": {
+    "word": "complex",
+    "synonyms": ["complicated", "intricate", "elaborate", "sophisticated", "involved", "detailed", "convoluted"],
+    "antonyms": ["simple", "basic", "elementary", "straightforward", "plain", "uncomplicated", "easy"]
+  },
+  "54": {
+    "word": "fragile",
+    "synonyms": ["delicate", "brittle", "breakable", "weak", "vulnerable", "frail", "tender"],
+    "antonyms": ["strong", "sturdy", "durable", "robust", "tough", "resilient", "unbreakable"]
+  },
+  "55": {
+    "word": "sincere",
+    "synonyms": ["genuine", "authentic", "honest", "heartfelt", "real", "earnest", "truthful"],
+    "antonyms": ["insincere", "fake", "false", "artificial", "dishonest", "pretentious", "hypocritical"]
+  },
+  "56": {
+    "word": "mature",
+    "synonyms": ["grown-up", "adult", "developed", "responsible", "seasoned", "experienced", "wise"],
+    "antonyms": ["immature", "childish", "juvenile", "inexperienced", "naive", "irresponsible", "young"]
+  },
+  "57": {
+    "word": "efficient",
+    "synonyms": ["effective", "productive", "competent", "capable", "skilled", "organized", "streamlined"],
+    "antonyms": ["inefficient", "wasteful", "incompetent", "slow", "disorganized", "unproductive", "clumsy"]
+  },
+  "58": {
+    "word": "loyal",
+    "synonyms": ["faithful", "devoted", "dedicated", "committed", "steadfast", "true", "reliable"],
+    "antonyms": ["disloyal", "unfaithful", "treacherous", "betraying", "fickle", "unreliable", "false"]
+  },
+  "59": {
+    "word": "modest",
+    "synonyms": ["humble", "unassuming", "reserved", "simple", "unpretentious", "shy", "demure"],
+    "antonyms": ["immodest", "arrogant", "boastful", "pretentious", "showy", "conceited", "vain"]
+  },
+  "60": {
+    "word": "violent",
+    "synonyms": ["aggressive", "brutal", "fierce", "savage", "destructive", "forceful", "harsh"],
+    "antonyms": ["peaceful", "gentle", "calm", "nonviolent", "mild", "serene", "tranquil"]
+  },
+  "61": {
+    "word": "narrow",
+    "synonyms": ["thin", "slim", "tight", "confined", "restricted", "limited", "cramped"],
+    "antonyms": ["wide", "broad", "spacious", "expansive", "open", "extensive", "roomy"]
+  },
+  "62": {
+    "word": "shallow",
+    "synonyms": ["superficial", "surface", "trivial", "empty", "meaningless", "hollow", "petty"],
+    "antonyms": ["deep", "profound", "meaningful", "significant", "thoughtful", "substantial", "serious"]
+  },
+  "63": {
+    "word": "bitter",
+    "synonyms": ["sour", "harsh", "resentful", "angry", "acrid", "sharp", "hostile"],
+    "antonyms": ["sweet", "pleasant", "kind", "forgiving", "gentle", "mild", "agreeable"]
+  },
+  "64": {
+    "word": "selfish",
+    "synonyms": ["self-centered", "greedy", "egotistical", "inconsiderate", "mean", "stingy", "narcissistic"],
+    "antonyms": ["selfless", "generous", "altruistic", "considerate", "kind", "giving", "charitable"]
+  },
+  "65": {
+    "word": "cheerful",
+    "synonyms": ["happy", "joyful", "upbeat", "positive", "bright", "merry", "optimistic"],
+    "antonyms": ["gloomy", "sad", "depressed", "miserable", "pessimistic", "morose", "dejected"]
+  },
+  "66": {
+    "word": "reckless",
+    "synonyms": ["careless", "irresponsible", "rash", "impulsive", "thoughtless", "wild", "dangerous"],
+    "antonyms": ["careful", "cautious", "responsible", "prudent", "thoughtful", "safe", "considerate"]
+  },
+  "67": {
+    "word": "stubborn",
+    "synonyms": ["obstinate", "headstrong", "determined", "inflexible", "persistent", "unyielding", "willful"],
+    "antonyms": ["flexible", "adaptable", "compliant", "agreeable", "cooperative", "yielding", "open-minded"]
+  },
+  "68": {
+    "word": "graceful",
+    "synonyms": ["elegant", "smooth", "fluid", "refined", "poised", "beautiful", "stylish"],
+    "antonyms": ["clumsy", "awkward", "ungraceful", "crude", "rough", "ungainly", "inelegant"]
+  },
+  "69": {
+    "word": "harsh",
+    "synonyms": ["severe", "cruel", "rough", "brutal", "strict", "tough", "unforgiving"],
+    "antonyms": ["gentle", "kind", "mild", "soft", "lenient", "compassionate", "tender"]
+  },
+  "70": {
+    "word": "innocent",
+    "synonyms": ["pure", "naive", "guileless", "harmless", "blameless", "virtuous", "clean"],
+    "antonyms": ["guilty", "corrupt", "experienced", "worldly", "sophisticated", "tainted", "evil"]
+  },
+  "71": {
+    "word": "jealous",
+    "synonyms": ["envious", "resentful", "possessive", "suspicious", "covetous", "bitter", "grudging"],
+    "antonyms": ["content", "satisfied", "trusting", "generous", "happy", "secure", "unenvious"]
+  },
+  "72": {
+    "word": "lazy",
+    "synonyms": ["idle", "inactive", "sluggish", "lethargic", "unmotivated", "slothful", "indolent"],
+    "antonyms": ["active", "energetic", "hardworking", "industrious", "motivated", "diligent", "busy"]
+  },
+  "73": {
+    "word": "nervous",
+    "synonyms": ["anxious", "worried", "tense", "uneasy", "jittery", "apprehensive", "stressed"],
+    "antonyms": ["calm", "relaxed", "confident", "composed", "serene", "peaceful", "assured"]
+  },
+  "74": {
+    "word": "precious",
+    "synonyms": ["valuable", "treasured", "cherished", "priceless", "dear", "beloved", "rare"],
+    "antonyms": ["worthless", "cheap", "common", "ordinary", "disposable", "trivial", "insignificant"]
+  },
+  "75": {
+    "word": "quiet",
+    "synonyms": ["silent", "peaceful", "calm", "hushed", "still", "serene", "tranquil"],
+    "antonyms": ["loud", "noisy", "boisterous", "chaotic", "turbulent", "raucous", "clamorous"]
+  },
+  "76": {
+    "word": "rebellious",
+    "synonyms": ["defiant", "disobedient", "unruly", "resistant", "insubordinate", "mutinous", "contrary"],
+    "antonyms": ["obedient", "compliant", "submissive", "conforming", "cooperative", "dutiful", "respectful"]
+  },
+  "77": {
+    "word": "sophisticated",
+    "synonyms": ["refined", "cultured", "elegant", "worldly", "complex", "advanced", "polished"],
+    "antonyms": ["simple", "naive", "unsophisticated", "crude", "basic", "primitive", "innocent"]
+  },
+  "78": {
+    "word": "temporary",
+    "synonyms": ["brief", "short-term", "momentary", "fleeting", "transient", "provisional", "interim"],
+    "antonyms": ["permanent", "lasting", "enduring", "eternal", "fixed", "constant", "perpetual"]
+  },
+  "79": {
+    "word": "unique",
+    "synonyms": ["distinctive", "original", "special", "rare", "exceptional", "individual", "uncommon"],
+    "antonyms": ["common", "ordinary", "typical", "standard", "usual", "normal", "regular"]
+  },
+  "80": {
+    "word": "vulnerable",
+    "synonyms": ["defenseless", "exposed", "weak", "susceptible", "fragile", "helpless", "unprotected"],
+    "antonyms": ["protected", "safe", "secure", "strong", "invulnerable", "defended", "immune"]
+  },
+  "81": {
+    "word": "wild",
+    "synonyms": ["untamed", "fierce", "savage", "uncontrolled", "free", "natural", "reckless"],
+    "antonyms": ["tame", "domesticated", "controlled", "civilized", "calm", "restrained", "gentle"]
+  },
+  "82": {
+    "word": "youthful",
+    "synonyms": ["young", "fresh", "vibrant", "energetic", "lively", "spirited", "vigorous"],
+    "antonyms": ["old", "aged", "elderly", "mature", "worn", "tired", "ancient"]
+  },
+  "83": {
+    "word": "zealous",
+    "synonyms": ["enthusiastic", "passionate", "fervent", "eager", "devoted", "ardent", "intense"],
+    "antonyms": ["indifferent", "apathetic", "lukewarm", "unenthusiastic", "halfhearted", "cool", "detached"]
+  },
+  "84": {
+    "word": "abundant",
+    "synonyms": ["plentiful", "copious", "ample", "rich", "numerous", "profuse", "overflowing"],
+    "antonyms": ["scarce", "rare", "limited", "insufficient", "meager", "sparse", "inadequate"]
+  },
+  "85": {
+    "word": "cautious",
+    "synonyms": ["careful", "wary", "prudent", "alert", "vigilant", "circumspect", "guarded"],
+    "antonyms": ["reckless", "careless", "rash", "impulsive", "bold", "daring", "hasty"]
+  },
+  "86": {
+    "word": "delicious",
+    "synonyms": ["tasty", "flavorful", "savory", "appetizing", "scrumptious", "delectable", "mouth-watering"],
+    "antonyms": ["disgusting", "tasteless", "bland", "awful", "revolting", "unappetizing", "horrible"]
+  },
+  "87": {
+    "word": "eager",
+    "synonyms": ["enthusiastic", "keen", "excited", "anxious", "impatient", "avid", "zealous"],
+    "antonyms": ["reluctant", "unwilling", "hesitant", "indifferent", "unenthusiastic", "apathetic", "lazy"]
+  },
+  "88": {
+    "word": "furious",
+    "synonyms": ["enraged", "livid", "irate", "incensed", "outraged", "mad", "wrathful"],
+    "antonyms": ["calm", "peaceful", "serene", "pleased", "content", "happy", "tranquil"]
+  },
+  "89": {
+    "word": "glamorous",
+    "synonyms": ["attractive", "alluring", "elegant", "stylish", "sophisticated", "dazzling", "captivating"],
+    "antonyms": ["plain", "ordinary", "dull", "unattractive", "boring", "simple", "modest"]
+  },
+  "90": {
+    "word": "hilarious",
+    "synonyms": ["funny", "amusing", "comical", "hysterical", "entertaining", "ridiculous", "witty"],
+    "antonyms": ["serious", "boring", "sad", "tragic", "unfunny", "dull", "somber"]
+  },
+  "91": {
+    "word": "incredible",
+    "synonyms": ["amazing", "astonishing", "extraordinary", "fantastic", "remarkable", "unbelievable", "wonderful"],
+    "antonyms": ["ordinary", "believable", "mundane", "typical", "unremarkable", "common", "boring"]
+  },
+  "92": {
+    "word": "joyful",
+    "synonyms": ["happy", "cheerful", "elated", "delighted", "ecstatic", "jubilant", "blissful"],
+    "antonyms": ["sad", "miserable", "depressed", "gloomy", "sorrowful", "dejected", "unhappy"]
+  },
+  "93": {
+    "word": "kind",
+    "synonyms": ["caring", "compassionate", "gentle", "benevolent", "thoughtful", "considerate", "loving"],
+    "antonyms": ["cruel", "mean", "harsh", "unkind", "heartless", "cold", "ruthless"]
+  },
+  "94": {
+    "word": "lively",
+    "synonyms": ["energetic", "vibrant", "spirited", "animated", "active", "dynamic", "vigorous"],
+    "antonyms": ["dull", "lifeless", "sluggish", "inactive", "boring", "tired", "weary"]
+  },
+  "95": {
+    "word": "magnificent",
+    "synonyms": ["splendid", "grand", "majestic", "impressive", "glorious", "superb", "spectacular"],
+    "antonyms": ["ordinary", "plain", "modest", "humble", "unimpressive", "mediocre", "poor"]
+  },
+  "96": {
+    "word": "noble",
+    "synonyms": ["honorable", "dignified", "virtuous", "principled", "ethical", "moral", "upright"],
+    "antonyms": ["ignoble", "dishonorable", "base", "corrupt", "immoral", "unethical", "shameful"]
+  },
+  "97": {
+    "word": "obscure",
+    "synonyms": ["unclear", "vague", "hidden", "mysterious", "ambiguous", "confusing", "cryptic"],
+    "antonyms": ["clear", "obvious", "evident", "plain", "transparent", "visible", "apparent"]
+  },
+  "98": {
+    "word": "powerful",
+    "synonyms": ["strong", "mighty", "influential", "potent", "dominant", "commanding", "authoritative"],
+    "antonyms": ["weak", "powerless", "feeble", "ineffective", "helpless", "impotent", "vulnerable"]
+  },
+  "99": {
+    "word": "quiet",
+    "synonyms": ["silent", "peaceful", "still", "hushed", "calm", "tranquil", "serene"],
+    "antonyms": ["loud", "noisy", "boisterous", "chaotic", "turbulent", "raucous", "clamorous"]
+  },
+  "100": {
+    "word": "radiant",
+    "synonyms": ["bright", "glowing", "luminous", "brilliant", "shining", "beaming", "dazzling"],
+    "antonyms": ["dull", "dim", "dark", "gloomy", "shadowy", "murky", "lifeless"]
+  },
+  "101": {
+    "word": "sleepy",
+    "synonyms": ["drowsy", "tired", "weary", "fatigued", "exhausted", "lethargic", "sluggish"],
+    "antonyms": ["alert", "awake", "energetic", "refreshed", "vigorous", "lively", "active"]
+  },
+  "102": {
+    "word": "toxic",
+    "synonyms": ["poisonous", "harmful", "dangerous", "destructive", "noxious", "venomous", "lethal"],
+    "antonyms": ["safe", "harmless", "beneficial", "healthy", "non-toxic", "healing", "pure"]
+  },
+  "103": {
+    "word": "ugly",
+    "synonyms": ["unattractive", "hideous", "repulsive", "grotesque", "unsightly", "revolting", "ghastly"],
+    "antonyms": ["beautiful", "attractive", "gorgeous", "lovely", "pretty", "handsome", "stunning"]
+  },
+  "104": {
+    "word": "valuable",
+    "synonyms": ["precious", "worthwhile", "important", "useful", "beneficial", "treasured", "priceless"],
+    "antonyms": ["worthless", "useless", "insignificant", "trivial", "cheap", "unimportant", "disposable"]
+  },
+  "105": {
+    "word": "wicked",
+    "synonyms": ["evil", "sinful", "immoral", "corrupt", "vicious", "malicious", "cruel"],
+    "antonyms": ["good", "virtuous", "moral", "righteous", "kind", "benevolent", "pure"]
+  },
+  "106": {
+    "word": "xenial",
+    "synonyms": ["hospitable", "welcoming", "friendly", "generous", "warm", "inviting", "cordial"],
+    "antonyms": ["inhospitable", "unwelcoming", "cold", "hostile", "unfriendly", "rude", "rejecting"]
+  },
+  "107": {
+    "word": "yearning",
+    "synonyms": ["longing", "craving", "desiring", "wishing", "pining", "aching", "thirsting"],
+    "antonyms": ["satisfied", "content", "fulfilled", "indifferent", "uninterested", "apathetic", "complete"]
+  },
+  "108": {
+    "word": "zestful",
+    "synonyms": ["enthusiastic", "energetic", "spirited", "lively", "vigorous", "passionate", "animated"],
+    "antonyms": ["lifeless", "dull", "apathetic", "listless", "unenthusiastic", "sluggish", "boring"]
+  },
+  "109": {
+    "word": "artistic",
+    "synonyms": ["creative", "aesthetic", "expressive", "imaginative", "talented", "skilled", "inspired"],
+    "antonyms": ["unartistic", "uncreative", "talentless", "clumsy", "uninspired", "mechanical", "crude"]
+  },
+  "110": {
+    "word": "blissful",
+    "synonyms": ["joyful", "ecstatic", "euphoric", "heavenly", "serene", "peaceful", "delighted"],
+    "antonyms": ["miserable", "agonizing", "tormented", "unhappy", "distressed", "troubled", "suffering"]
+  },
+  "111": {
+    "word": "charming",
+    "synonyms": ["delightful", "enchanting", "appealing", "captivating", "attractive", "winning", "alluring"],
+    "antonyms": ["repulsive", "unappealing", "offensive", "disgusting", "revolting", "repelling", "unpleasant"]
+  },
+  "112": {
+    "word": "determined",
+    "synonyms": ["resolute", "persistent", "steadfast", "committed", "dedicated", "unwavering", "tenacious"],
+    "antonyms": ["irresolute", "wavering", "uncommitted", "hesitant", "indecisive", "weak-willed", "fickle"]
+  },
+  "113": {
+    "word": "enchanting",
+    "synonyms": ["magical", "captivating", "bewitching", "mesmerizing", "spellbinding", "charming", "fascinating"],
+    "antonyms": ["repulsive", "boring", "dull", "ordinary", "uninteresting", "mundane", "unappealing"]
+  },
+  "114": {
+    "word": "fabulous",
+    "synonyms": ["wonderful", "amazing", "fantastic", "marvelous", "superb", "incredible", "extraordinary"],
+    "antonyms": ["terrible", "awful", "horrible", "dreadful", "disappointing", "mediocre", "poor"]
+  },
+  "115": {
+    "word": "gorgeous",
+    "synonyms": ["beautiful", "stunning", "magnificent", "breathtaking", "splendid", "lovely", "attractive"],
+    "antonyms": ["ugly", "hideous", "repulsive", "unattractive", "plain", "unsightly", "grotesque"]
+  },
+  "116": {
+    "word": "harmonious",
+    "synonyms": ["peaceful", "balanced", "coordinated", "unified", "compatible", "concordant", "melodious"],
+    "antonyms": ["discordant", "chaotic", "conflicting", "unbalanced", "incompatible", "jarring", "clashing"]
+  },
+  "117": {
+    "word": "inspiring",
+    "synonyms": ["motivating", "uplifting", "encouraging", "stimulating", "moving", "rousing", "invigorating"],
+    "antonyms": ["discouraging", "depressing", "demoralizing", "uninspiring", "deflating", "dispiriting", "boring"]
+  },
+  "118": {
+    "word": "jovial",
+    "synonyms": ["cheerful", "jolly", "merry", "happy", "lighthearted", "festive", "convivial"],
+    "antonyms": ["gloomy", "sad", "serious", "somber", "melancholy", "morose", "sullen"]
+  },
+  "119": {
+    "word": "kindhearted",
+    "synonyms": ["compassionate", "caring", "benevolent", "sympathetic", "warm", "tender", "loving"],
+    "antonyms": ["cruel", "heartless", "cold", "mean", "unsympathetic", "harsh", "callous"]
+  },
+  "120": {
+    "word": "luminous",
+    "synonyms": ["bright", "glowing", "radiant", "shining", "brilliant", "illuminated", "gleaming"],
+    "antonyms": ["dark", "dim", "dull", "shadowy", "murky", "gloomy", "obscure"]
+  },
+  "121": {
+    "word": "majestic",
+    "synonyms": ["grand", "magnificent", "regal", "stately", "impressive", "dignified", "splendid"],
+    "antonyms": ["humble", "modest", "ordinary", "plain", "unimpressive", "common", "insignificant"]
+  },
+  "122": {
+    "word": "nurturing",
+    "synonyms": ["caring", "supportive", "protective", "loving", "fostering", "encouraging", "nourishing"],
+    "antonyms": ["neglectful", "harmful", "destructive", "uncaring", "discouraging", "damaging", "abandoning"]
+  },
+  "123": {
+    "word": "outstanding",
+    "synonyms": ["excellent", "exceptional", "remarkable", "superior", "brilliant", "superb", "distinguished"],
+    "antonyms": ["mediocre", "ordinary", "poor", "inferior", "unremarkable", "average", "disappointing"]
+  },
+  "124": {
+    "word": "passionate",
+    "synonyms": ["intense", "fervent", "ardent", "enthusiastic", "zealous", "devoted", "emotional"],
+    "antonyms": ["indifferent", "apathetic", "unemotional", "cold", "detached", "lukewarm", "passive"]
+  },
+  "125": {
+    "word": "quaint",
+    "synonyms": ["charming", "picturesque", "old-fashioned", "cute", "antiquated", "rustic", "nostalgic"],
+    "antonyms": ["modern", "contemporary", "ugly", "unappealing", "ordinary", "plain", "harsh"]
+  },
+  "126": {
+    "word": "resilient",
+    "synonyms": ["tough", "strong", "durable", "flexible", "adaptable", "hardy", "robust"],
+    "antonyms": ["fragile", "weak", "brittle", "vulnerable", "delicate", "breakable", "frail"]
+  },
+  "127": {
+    "word": "spectacular",
+    "synonyms": ["amazing", "breathtaking", "impressive", "magnificent", "stunning", "extraordinary", "dazzling"],
+    "antonyms": ["ordinary", "dull", "unremarkable", "boring", "plain", "mediocre", "unimpressive"]
+  },
+  "128": {
+    "word": "tranquil",
+    "synonyms": ["peaceful", "calm", "serene", "quiet", "still", "placid", "undisturbed"],
+    "antonyms": ["chaotic", "turbulent", "agitated", "restless", "noisy", "disturbed", "frantic"]
+  },
+  "129": {
+    "word": "uplifting",
+    "synonyms": ["inspiring", "encouraging", "positive", "heartening", "cheerful", "optimistic", "motivating"],
+    "antonyms": ["depressing", "discouraging", "demoralizing", "negative", "disheartening", "pessimistic", "deflating"]
+  },
+  "130": {
+    "word": "vivacious",
+    "synonyms": ["lively", "animated", "spirited", "energetic", "bubbly", "vibrant", "exuberant"],
+    "antonyms": ["dull", "lifeless", "boring", "sluggish", "listless", "apathetic", "lethargic"]
+  },
+  "131": {
+    "word": "witty",
+    "synonyms": ["clever", "humorous", "sharp", "quick", "amusing", "intelligent", "brilliant"],
+    "antonyms": ["dull", "boring", "stupid", "humorless", "slow", "unimaginative", "tedious"]
+  },
+  "132": {
+    "word": "xenodochial",
+    "synonyms": ["welcoming", "hospitable", "friendly", "open", "accepting", "inclusive", "warm"],
+    "antonyms": ["xenophobic", "unwelcoming", "hostile", "closed", "rejecting", "exclusive", "cold"]
+  },
+  "133": {
+    "word": "youthful",
+    "synonyms": ["young", "fresh", "vibrant", "energetic", "lively", "spirited", "vigorous"],
+    "antonyms": ["old", "aged", "elderly", "mature", "worn", "tired", "ancient"]
+  },
+  "134": {
+    "word": "zany",
+    "synonyms": ["silly", "crazy", "wacky", "eccentric", "bizarre", "unconventional", "outrageous"],
+    "antonyms": ["serious", "conventional", "normal", "boring", "ordinary", "predictable", "sensible"]
+  },
+  "135": {
+    "word": "affectionate",
+    "synonyms": ["loving", "tender", "caring", "warm", "devoted", "fond", "adoring"],
+    "antonyms": ["cold", "distant", "unloving", "harsh", "indifferent", "aloof", "hostile"]
+  },
+  "136": {
+    "word": "bashful",
+    "synonyms": ["shy", "timid", "modest", "reserved", "self-conscious", "embarrassed", "withdrawn"],
+    "antonyms": ["bold", "confident", "outgoing", "assertive", "shameless", "extroverted", "brash"]
+  },
+  "137": {
+    "word": "courageous",
+    "synonyms": ["brave", "fearless", "bold", "heroic", "valiant", "daring", "gallant"],
+    "antonyms": ["cowardly", "fearful", "timid", "scared", "weak", "spineless", "chicken"]
+  },
+  "138": {
+    "word": "dazzling",
+    "synonyms": ["brilliant", "stunning", "blinding", "spectacular", "amazing", "impressive", "radiant"],
+    "antonyms": ["dull", "dim", "ordinary", "unremarkable", "boring", "plain", "lifeless"]
+  },
+  "139": {
+    "word": "ecstatic",
+    "synonyms": ["elated", "thrilled", "overjoyed", "euphoric", "delighted", "jubilant", "rapturous"],
+    "antonyms": ["miserable", "depressed", "sad", "dejected", "despondent", "gloomy", "heartbroken"]
+  },
+  "140": {
+    "word": "flawless",
+    "synonyms": ["perfect", "immaculate", "faultless", "impeccable", "pristine", "spotless", "ideal"],
+    "antonyms": ["flawed", "imperfect", "defective", "faulty", "damaged", "inferior", "broken"]
+  },
+  "141": {
+    "word": "gleaming",
+    "synonyms": ["shining", "glowing", "sparkling", "bright", "lustrous", "polished", "radiant"],
+    "antonyms": ["dull", "tarnished", "dim", "dark", "matte", "lifeless", "faded"]
+  },
+  "142": {
+    "word": "heavenly",
+    "synonyms": ["divine", "blissful", "perfect", "wonderful", "sublime", "celestial", "angelic"],
+    "antonyms": ["hellish", "awful", "terrible", "horrible", "dreadful", "nightmarish", "infernal"]
+  },
+  "143": {
+    "word": "immaculate",
+    "synonyms": ["spotless", "pristine", "perfect", "clean", "flawless", "pure", "unblemished"],
+    "antonyms": ["dirty", "stained", "soiled", "messy", "imperfect", "flawed", "contaminated"]
+  },
+  "144": {
+    "word": "jubilant",
+    "synonyms": ["joyful", "elated", "triumphant", "exultant", "ecstatic", "celebratory", "euphoric"],
+    "antonyms": ["dejected", "sad", "disappointed", "despondent", "gloomy", "melancholy", "sorrowful"]
+  },
+  "145": {
+    "word": "keen",
+    "synonyms": ["sharp", "acute", "intense", "eager", "enthusiastic", "perceptive", "alert"],
+    "antonyms": ["dull", "blunt", "uninterested", "apathetic", "sluggish", "indifferent", "slow"]
+  },
+  "146": {
+    "word": "lavish",
+    "synonyms": ["luxurious", "extravagant", "abundant", "generous", "opulent", "sumptuous", "profuse"],
+    "antonyms": ["modest", "simple", "sparse", "meager", "plain", "austere", "economical"]
+  },
+  "147": {
+    "word": "melodious",
+    "synonyms": ["musical", "harmonious", "tuneful", "sweet", "pleasant", "lyrical", "euphonious"],
+    "antonyms": ["discordant", "harsh", "grating", "cacophonous", "unmusical", "jarring", "unpleasant"]
+  },
+  "148": {
+    "word": "nostalgic",
+    "synonyms": ["wistful", "sentimental", "reminiscent", "melancholy", "longing", "yearning", "reflective"],
+    "antonyms": ["forward-looking", "progressive", "modern", "contemporary", "futuristic", "present-focused", "unsentimental"]
+  },
+  "149": {
+    "word": "opulent",
+    "synonyms": ["luxurious", "wealthy", "rich", "lavish", "sumptuous", "extravagant", "magnificent"],
+    "antonyms": ["poor", "modest", "simple", "plain", "austere", "spartan", "humble"]
+  },
+  "150": {
+    "word": "pristine",
+    "synonyms": ["perfect", "immaculate", "pure", "unspoiled", "flawless", "clean", "untouched"],
+    "antonyms": ["damaged", "spoiled", "contaminated", "dirty", "imperfect", "tainted", "corrupted"]
+  },
+  "151": {
+    "word": "quizzical",
+    "synonyms": ["puzzled", "questioning", "curious", "perplexed", "inquiring", "confused", "bemused"],
+    "antonyms": ["certain", "confident", "understanding", "clear", "knowing", "assured", "definite"]
+  },
+  "152": {
+    "word": "radiant",
+    "synonyms": ["glowing", "bright", "luminous", "shining", "brilliant", "beaming", "effulgent"],
+    "antonyms": ["dull", "dim", "dark", "gloomy", "shadowy", "murky", "lifeless"]
+  },
+  "153": {
+    "word": "serene",
+    "synonyms": ["peaceful", "calm", "tranquil", "composed", "placid", "untroubled", "still"],
+    "antonyms": ["agitated", "turbulent", "chaotic", "restless", "disturbed", "frantic", "troubled"]
+  },
+  "154": {
+    "word": "triumphant",
+    "synonyms": ["victorious", "successful", "winning", "conquering", "jubilant", "elated", "celebrating"],
+    "antonyms": ["defeated", "losing", "unsuccessful", "failing", "dejected", "disappointed", "crushed"]
+  },
+  "155": {
+    "word": "unblemished",
+    "synonyms": ["perfect", "flawless", "spotless", "pure", "pristine", "immaculate", "unspoiled"],
+    "antonyms": ["blemished", "flawed", "imperfect", "stained", "damaged", "marred", "tainted"]
+  },
+  "156": {
+    "word": "vigorous",
+    "synonyms": ["energetic", "strong", "robust", "powerful", "active", "dynamic", "forceful"],
+    "antonyms": ["weak", "feeble", "lethargic", "sluggish", "inactive", "tired", "frail"]
+  },
+  "157": {
+    "word": "wholesome",
+    "synonyms": ["healthy", "pure", "good", "beneficial", "nutritious", "clean", "moral"],
+    "antonyms": ["unhealthy", "corrupt", "harmful", "toxic", "immoral", "unwholesome", "bad"]
+  },
+  "158": {
+    "word": "exuberant",
+    "synonyms": ["enthusiastic", "lively", "spirited", "vibrant", "energetic", "buoyant", "ebullient"],
+    "antonyms": ["subdued", "restrained", "calm", "quiet", "depressed", "lifeless", "sluggish"]
+  },
+  "159": {
+    "word": "yielding",
+    "synonyms": ["flexible", "compliant", "submissive", "accommodating", "cooperative", "agreeable", "pliable"],
+    "antonyms": ["rigid", "stubborn", "inflexible", "resistant", "unyielding", "obstinate", "firm"]
+  },
+  "160": {
+    "word": "zealous",
+    "synonyms": ["passionate", "enthusiastic", "fervent", "devoted", "ardent", "eager", "fanatical"],
+    "antonyms": ["apathetic", "indifferent", "lukewarm", "halfhearted", "unenthusiastic", "lazy", "disinterested"]
+  },
+  "161": {
+    "word": "adorable",
+    "synonyms": ["cute", "lovable", "charming", "endearing", "sweet", "appealing", "delightful"],
+    "antonyms": ["repulsive", "disgusting", "hateful", "unappealing", "revolting", "detestable", "horrible"]
+  },
+  "162": {
+    "word": "benevolent",
+    "synonyms": ["kind", "generous", "charitable", "compassionate", "caring", "helpful", "altruistic"],
+    "antonyms": ["malevolent", "cruel", "mean", "selfish", "harmful", "evil", "malicious"]
+  },
+  "163": {
+    "word": "captivating",
+    "synonyms": ["fascinating", "enchanting", "mesmerizing", "engaging", "alluring", "enthralling", "spellbinding"],
+    "antonyms": ["boring", "dull", "repulsive", "uninteresting", "tedious", "mundane", "unappealing"]
+  },
+  "164": {
+    "word": "diligent",
+    "synonyms": ["hardworking", "industrious", "conscientious", "dedicated", "persistent", "thorough", "careful"],
+    "antonyms": ["lazy", "careless", "negligent", "slack", "idle", "sloppy", "irresponsible"]
+  },
+  "165": {
+    "word": "ethereal",
+    "synonyms": ["heavenly", "otherworldly", "ghostly", "delicate", "sublime", "spiritual", "unearthly"],
+    "antonyms": ["earthly", "material", "physical", "tangible", "solid", "concrete", "mundane"]
+  },
+  "166": {
+    "word": "fervent",
+    "synonyms": ["passionate", "intense", "ardent", "zealous", "enthusiastic", "earnest", "devoted"],
+    "antonyms": ["indifferent", "apathetic", "cool", "unemotional", "detached", "lukewarm", "halfhearted"]
+  },
+  "167": {
+    "word": "gracious",
+    "synonyms": ["kind", "courteous", "polite", "elegant", "refined", "benevolent", "merciful"],
+    "antonyms": ["rude", "ungracious", "harsh", "cruel", "impolite", "discourteous", "mean"]
+  },
+  "168": {
+    "word": "harmonious",
+    "synonyms": ["peaceful", "balanced", "melodious", "coordinated", "compatible", "unified", "agreeable"],
+    "antonyms": ["discordant", "chaotic", "conflicting", "jarring", "incompatible", "clashing", "disagreeable"]
+  },
+  "169": {
+    "word": "impeccable",
+    "synonyms": ["flawless", "perfect", "faultless", "exemplary", "irreproachable", "pristine", "ideal"],
+    "antonyms": ["flawed", "imperfect", "faulty", "defective", "poor", "inferior", "damaged"]
+  },
+  "170": {
+    "word": "jaunty",
+    "synonyms": ["cheerful", "lively", "carefree", "sprightly", "buoyant", "perky", "upbeat"],
+    "antonyms": ["gloomy", "depressed", "sad", "sluggish", "downcast", "melancholy", "dejected"]
+  },
+  "171": {
+    "word": "kooky",
+    "synonyms": ["eccentric", "quirky", "odd", "unusual", "weird", "unconventional", "zany"],
+    "antonyms": ["normal", "conventional", "ordinary", "typical", "standard", "regular", "boring"]
+  },
+  "172": {
+    "word": "languid",
+    "synonyms": ["lazy", "sluggish", "lethargic", "listless", "weary", "droopy", "lackadaisical"],
+    "antonyms": ["energetic", "vigorous", "lively", "active", "alert", "spirited", "dynamic"]
+  },
+  "173": {
+    "word": "mellow",
+    "synonyms": ["calm", "relaxed", "gentle", "soft", "peaceful", "easygoing", "tranquil"],
+    "antonyms": ["harsh", "aggressive", "intense", "sharp", "violent", "rough", "agitated"]
+  },
+  "174": {
+    "word": "nimble",
+    "synonyms": ["agile", "quick", "swift", "light", "graceful", "dexterous", "spry"],
+    "antonyms": ["clumsy", "slow", "awkward", "heavy", "sluggish", "ungainly", "lumbering"]
+  },
+  "175": {
+    "word": "ornate",
+    "synonyms": ["decorative", "elaborate", "fancy", "intricate", "detailed", "embellished", "ornamental"],
+    "antonyms": ["plain", "simple", "bare", "unadorned", "stark", "austere", "minimalist"]
+  },
+  "176": {
+    "word": "placid",
+    "synonyms": ["calm", "peaceful", "serene", "tranquil", "still", "quiet", "undisturbed"],
+    "antonyms": ["turbulent", "agitated", "restless", "chaotic", "stormy", "violent", "disturbed"]
+  },
+  "177": {
+    "word": "quirky",
+    "synonyms": ["eccentric", "unusual", "unconventional", "odd", "unique", "peculiar", "offbeat"],
+    "antonyms": ["conventional", "normal", "ordinary", "typical", "standard", "regular", "predictable"]
+  },
+  "178": {
+    "word": "radiant",
+    "synonyms": ["bright", "glowing", "luminous", "shining", "brilliant", "beaming", "dazzling"],
+    "antonyms": ["dull", "dim", "dark", "gloomy", "shadowy", "murky", "lifeless"]
+  },
+  "179": {
+    "word": "sublime",
+    "synonyms": ["magnificent", "glorious", "majestic", "awe-inspiring", "transcendent", "elevated", "noble"],
+    "antonyms": ["mundane", "ordinary", "base", "low", "common", "trivial", "mediocre"]
+  },
+  "180": {
+    "word": "tenacious",
+    "synonyms": ["persistent", "determined", "stubborn", "resolute", "steadfast", "unwavering", "dogged"],
+    "antonyms": ["yielding", "weak", "irresolute", "fickle", "wavering", "giving-up", "uncommitted"]
+  },
+  "181": {
+    "word": "urbane",
+    "synonyms": ["sophisticated", "refined", "cultured", "polished", "suave", "worldly", "elegant"],
+    "antonyms": ["crude", "unsophisticated", "rough", "uncultured", "coarse", "provincial", "boorish"]
+  },
+  "182": {
+    "word": "vibrant",
+    "synonyms": ["lively", "energetic", "dynamic", "vivid", "bright", "spirited", "animated"],
+    "antonyms": ["dull", "lifeless", "boring", "sluggish", "inactive", "subdued", "colorless"]
+  },
+  "183": {
+    "word": "whimsical",
+    "synonyms": ["playful", "fanciful", "imaginative", "quirky", "capricious", "lighthearted", "eccentric"],
+    "antonyms": ["serious", "practical", "realistic", "conventional", "predictable", "boring", "mundane"]
+  },
+  "184": {
+    "word": "exquisite",
+    "synonyms": ["beautiful", "delicate", "refined", "elegant", "perfect", "lovely", "gorgeous"],
+    "antonyms": ["ugly", "crude", "coarse", "rough", "plain", "unattractive", "hideous"]
+  },
+  "185": {
+    "word": "yearning",
+    "synonyms": ["longing", "craving", "desiring", "pining", "aching", "wishing", "thirsting"],
+    "antonyms": ["satisfied", "content", "fulfilled", "indifferent", "uninterested", "apathetic", "complete"]
+  },
+  "186": {
+    "word": "zephyr",
+    "synonyms": ["breeze", "gentle wind", "soft air", "light wind", "draft", "current", "whisper"],
+    "antonyms": ["gale", "storm", "hurricane", "tempest", "cyclone", "tornado", "windstorm"]
+  },
+  "187": {
+    "word": "absurd",
+    "synonyms": ["ridiculous", "nonsensical", "illogical", "preposterous", "foolish", "silly", "irrational"],
+    "antonyms": ["sensible", "logical", "reasonable", "rational", "intelligent", "wise", "practical"]
+  },
+  "188": {
+    "word": "boisterous",
+    "synonyms": ["loud", "rowdy", "noisy", "raucous", "lively", "energetic", "exuberant"],
+    "antonyms": ["quiet", "calm", "peaceful", "subdued", "gentle", "restrained", "controlled"]
+  },
+  "189": {
+    "word": "congenial",
+    "synonyms": ["friendly", "pleasant", "agreeable", "companionable", "sociable", "amiable", "likable"],
+    "antonyms": ["unfriendly", "disagreeable", "hostile", "unpleasant", "antisocial", "incompatible", "cold"]
+  },
+  "190": {
+    "word": "debonair",
+    "synonyms": ["suave", "charming", "gracious", "elegant", "sophisticated"],
+    "antonyms": ["awkward", "uncouth", "clumsy", "rude", "unrefined"]
+  }
+}

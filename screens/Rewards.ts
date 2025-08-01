@@ -1,3 +1,7 @@
+import { coins } from "../source/styles/crosswords-modals-styles"
+import { Collectico } from "./Collectico/Collectico-GameInfo-SubScreen"
+import { Orthographia } from "./OrtoGraphia/Ortographia-GameInfo-SubScreen"
+
 export const Rewards={
     Connectico:{
         easy: {xp: 15, coin: 20},
@@ -89,6 +93,18 @@ export const Rewards={
         "5": {xp: 12, coins: 8},
         "6": {xp: 20, coins: 12},
         "7": {xp: 25, coins: 20},
+    },
+
+    Collectico: {
+        xp: 3, coins: 4
+    },
+
+    Ortographia: {
+        xp: 2, coins: 2
+    },
+
+    Satietas: {
+        xp: 3, coins: 3
     }
 
 }

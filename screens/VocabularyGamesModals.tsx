@@ -11,6 +11,7 @@ import { CompleteWordLadderModal, WordLadderChoice} from '../source/styles/wordl
 import { CompleteGapFillsModal, GapFillsChoice } from '../source/styles/gapfill-modal-styles';
 import { CompleteWordChainsModal } from '../source/styles/wordchain-modal-styles';
 import { CompleteWicWacWoeModal } from '../source/styles/wicwacwoe-modal-styles';
+import { CompleteOrtographiaModal, OrtographiaChoice } from '../source/styles/ortographia-modal-styles';
 
 
 type ModalProps = {
@@ -34,14 +35,13 @@ type FlashCardModalProps = {
     onclose: ()=> void;
 }
 
-type WordLadderModalProps = {
+type OrtographiaModalProps = {
     headingColor: string,
     heading: string,
     bgImage: ImageSourcePropType,
     visible: boolean;
     difficultyTabImage: ImageSourcePropType;
     partsOfSpeechTabImage: ImageSourcePropType;
-    levelsCleared: number[]
     onclose: ()=> void;
 }
 
@@ -61,9 +61,9 @@ export const ModalForFlashCard=(props: FlashCardModalProps)=>{
     const createAnFlashCardMatch = () => {
       switch(FlashCardChoice.option){
         case 1: navigation.navigate("FlashCardCreateScreen"); break;
-        //case 2: navigation.navigate("FlashCardViewScreen"); break;
+        case 2: navigation.navigate("PlayerFlashCard"); break;
         case 3: navigation.navigate("FlashCardViewScreen", {name : "Wordlet"}); break;
-        //case 4: navigation.navigate("FlashCardViewScreen"); break;
+        case 4: navigation.navigate("OtherFlashCard"); break;
         default: navigation.navigate("FlashCardCreateScreen"); break;
       }
     }
@@ -96,14 +96,12 @@ export const ModalForFlashCard=(props: FlashCardModalProps)=>{
     );
 };
 
-/* 
-export const ModalForGapFills=(props: FlashCardModalProps)=>{
+
+export const ModalForOrtographia=(props: OrtographiaModalProps)=>{
     const navigation = useNavigation<NavigationProp>();
     const createAGapFillMatch = () => {
-    type FlashCardMatchScreens = "GapFillsMatch"
-    let moreGamesWindow: FlashCardMatchScreens = "GapFillsMatch";
-    navigation.navigate(moreGamesWindow, {
-      wordSize: GapFillsChoice.wordSize
+    navigation.navigate("OrtographiaMatch", {
+      type: OrtographiaChoice.type
     });
 }
  
@@ -124,8 +122,9 @@ export const ModalForGapFills=(props: FlashCardModalProps)=>{
         <View style={styles.modalBackground}>
           <View style={styles.modalContent}>
             <Text style={[styles.modalHeading , {color: props.headingColor}]}>{props.heading}</Text>
-            {/* <CompleteGapFillsModal difficultyTabImage={props.difficultyTabImage} partsOfSpeechTabImage={props.partsOfSpeechTabImage} levelsCleared={props.levelsCleared}/>
-             }<View style={styles.modalButtons}>
+            { <CompleteOrtographiaModal difficultyTabImage={props.difficultyTabImage} partsOfSpeechTabImage={props.partsOfSpeechTabImage}/>
+            }
+            <View style={styles.modalButtons}>
             <ModalButton onclick={()=>props.onclose()} buttonImage={buttons.cancelButton}></ModalButton>
             {playButton}
             </View>
@@ -137,6 +136,7 @@ export const ModalForGapFills=(props: FlashCardModalProps)=>{
     );
 };
 
+/* 
 export const ModalForWordLadder=(props: WordLadderModalProps)=>{
     const navigation = useNavigation<NavigationProp>();
     const createAGapFillMatch = () => {

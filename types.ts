@@ -136,5 +136,14 @@ export type RootStackParamList = {
     FlashCardCreateScreen: undefined;
     FlashCardWordlet: undefined;
     PlayerFlashCard: undefined;
+    OtherFlashCard: undefined;
     EditFlashCard: {name: string};
+
+    CollecticoMatch: undefined;
+
+    OrtographiaMatch: {
+        type: number
+    }
+
+    SatietasMatch: undefined
   };

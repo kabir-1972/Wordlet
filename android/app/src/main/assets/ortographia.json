@@ -1,0 +1,282 @@
+{
+  "1": {
+    "word": "separate",
+    "misspell": ["seperate", "seperete", "separte"]
+  },
+  "2": {
+    "word": "definitely",
+    "misspell": ["definately", "definatly", "defiantly"]
+  },
+  "3": {
+    "word": "receive",
+    "misspell": ["recieve", "receieve", "receve"]
+  },
+  "4": {
+    "word": "occurring",
+    "misspell": ["occuring", "ocurring", "occurning"]
+  },
+  "5": {
+    "word": "necessary",
+    "misspell": ["neccessary", "necesary", "neccesary"]
+  },
+  "6": {
+    "word": "embarrass",
+    "misspell": ["embarass", "embaress", "embarras"]
+  },
+  "7": {
+    "word": "privilege",
+    "misspell": ["priviledge", "privelege", "privilage"]
+  },
+  "8": {
+    "word": "accommodate",
+    "misspell": ["accomodate", "acommodate", "acomodate"]
+  },
+  "9": {
+    "word": "beginning",
+    "misspell": ["begining", "beggining", "beginining"]
+  },
+  "10": {
+    "word": "cemetery",
+    "misspell": ["cemetary", "cemetry", "semetary"]
+  },
+  "11": {
+    "word": "conscience",
+    "misspell": ["concience", "conscence", "consience"]
+  },
+  "12": {
+    "word": "maintenance",
+    "misspell": ["maintainance", "maintenence", "maintanance"]
+  },
+  "13": {
+    "word": "restaurant",
+    "misspell": ["restaraunt", "resturant", "restraunt"]
+  },
+  "14": {
+    "word": "rhythm",
+    "misspell": ["rythm", "rhythym", "rithm"]
+  },
+  "15": {
+    "word": "environment",
+    "misspell": ["enviroment", "enviornment", "enviorment"]
+  },
+  "16": {
+    "word": "chocolate",
+    "misspell": ["choclate", "chocolite", "chocoate"]
+  },
+  "17": {
+    "word": "government",
+    "misspell": ["goverment", "govenment", "goverenment"]
+  },
+  "18": {
+    "word": "tomorrow",
+    "misspell": ["tommorow", "tomarow", "tomorow"]
+  },
+  "19": {
+    "word": "beautiful",
+    "misspell": ["beatiful", "beutiful", "beautifull"]
+  },
+  "20": {
+    "word": "calendar",
+    "misspell": ["calender", "calander", "calandar"]
+  },
+  "21": {
+    "word": "literature",
+    "misspell": ["literture", "litterature", "literateur"]
+  },
+  "22": {
+    "word": "knowledge",
+    "misspell": ["knowlege", "knolege", "knowledg"]
+  },
+  "23": {
+    "word": "sandwich",
+    "misspell": ["sandwhich", "sandwitch", "sanwich"]
+  },
+  "24": {
+    "word": "business",
+    "misspell": ["buisness", "bussiness", "busness"]
+  },
+  "25": {
+    "word": "judgment",
+    "misspell": ["judgement", "judgement", "jugement"]
+  },
+  "26": {
+    "word": "achievement",
+    "misspell": ["acheivment", "achievment", "acheivement"]
+  },
+  "27": {
+    "word": "appearance",
+    "misspell": ["appearence", "appearence", "appearanse"]
+  },
+  "28": {
+    "word": "disappoint",
+    "misspell": ["dissapoint", "disapoint", "disappiont"]
+  },
+  "29": {
+    "word": "recommend",
+    "misspell": ["recomend", "reccomend", "recommand"]
+  },
+  "30": {
+    "word": "temperature",
+    "misspell": ["temprature", "temperture", "temperatur"]
+  },
+  "31": {
+    "word": "restaurant",
+    "misspell": ["restaraunt", "resturant", "restraunt"]
+  },
+  "32": {
+    "word": "surprise",
+    "misspell": ["suprise", "surprize", "surprice"]
+  },
+  "33": {
+    "word": "cemetery",
+    "misspell": ["cemetary", "cemetry", "semetary"]
+  },
+  "34": {
+    "word": "committee",
+    "misspell": ["comittee", "commitee", "comitee"]
+  },
+  "35": {
+    "word": "acquaintance",
+    "misspell": ["aquaintance", "acquaintence", "acqaintance"]
+  },
+  "36": {
+    "word": "piece",
+    "misspell": ["peice", "pice", "peece"]
+  },
+  "37": {
+    "word": "principal",
+    "misspell": ["principle", "princpal", "principel"]
+  },
+  "38": {
+    "word": "weird",
+    "misspell": ["wierd", "weerd", "werd"]
+  },
+  "39": {
+    "word": "foreign",
+    "misspell": ["foriegn", "foregin", "forign"]
+  },
+  "40": {
+    "word": "receipt",
+    "misspell": ["reciept", "receit", "recipt"]
+  },
+  "41": {
+    "word": "schedule",
+    "misspell": ["shedule", "scedule", "schedual"]
+  },
+  "42": {
+    "word": "leisure",
+    "misspell": ["liesure", "lesure", "leisur"]
+  },
+  "43": {
+    "word": "occasion",
+    "misspell": ["ocasion", "occassion", "ocassiion"]
+  },
+  "44": {
+    "word": "parallel",
+    "misspell": ["paralel", "parrallel", "paralell"]
+  },
+  "45": {
+    "word": "conscious",
+    "misspell": ["concious", "consious", "consciou"]
+  },
+  "46": {
+    "word": "exercise",
+    "misspell": ["excercise", "exersize", "exercize"]
+  },
+  "47": {
+    "word": "February",
+    "misspell": ["Febuary", "Feburary", "Febary"]
+  },
+  "48": {
+    "word": "Wednesday",
+    "misspell": ["Wenesday", "Wensday", "Wedensday"]
+  },
+  "49": {
+    "word": "absence",
+    "misspell": ["absance", "abscence", "absense"]
+  },
+  "50": {
+    "word": "license",
+    "misspell": ["lisence", "licence", "lisense"]
+  },
+  "51": {
+    "word": "library",
+    "misspell": ["libary", "libaray", "libarey"]
+  },
+  "52": {
+    "word": "miniature",
+    "misspell": ["minature", "miniuture", "minichure"]
+  },
+  "53": {
+    "word": "questionnaire",
+    "misspell": ["questionaire", "questionnare", "questionare"]
+  },
+  "54": {
+    "word": "vacuum",
+    "misspell": ["vacume", "vaccum", "vacum"]
+  },
+  "55": {
+    "word": "correspondence",
+    "misspell": ["correspondance", "correspendence", "correspondense"]
+  },
+  "56": {
+    "word": "pronunciation",
+    "misspell": ["pronounciation", "pronuciation", "pronounsiation"]
+  },
+  "57": {
+    "word": "occasion",
+    "misspell": ["ocasion", "occassion", "ocassiion"]
+  },
+  "58": {
+    "word": "lightning",
+    "misspell": ["lightening", "lighning", "ligtning"]
+  },
+  "59": {
+    "word": "amateur",
+    "misspell": ["amatuer", "amature", "amater"]
+  },
+  "60": {
+    "word": "desperate",
+    "misspell": ["desparate", "desprate", "desperat"]
+  },
+  "61": {
+    "word": "sergeant",
+    "misspell": ["sargent", "sargeant", "sergant"]
+  },
+  "62": {
+    "word": "accidentally",
+    "misspell": ["accidently", "accidentaly", "acidentally"]
+  },
+  "63": {
+    "word": "guarantee",
+    "misspell": ["garauntee", "garantee", "guarentee"]
+  },
+  "64": {
+    "word": "neighbor",
+    "misspell": ["nieghbor", "neigbor", "neighber"]
+  },
+  "65": {
+    "word": "forty",
+    "misspell": ["fourty", "fourthy", "fortey"]
+  },
+  "66": {
+    "word": "diarrhea",
+    "misspell": ["diarhea", "diarehea", "diarrea"]
+  },
+  "67": {
+    "word": "mischievous",
+    "misspell": ["mischevious", "mischievious", "mischivoius"]
+  },
+  "68": {
+    "word": "maneuver",
+    "misspell": ["manuever", "manouver", "maneuvor"]
+  },
+  "69": {
+    "word": "cemetery",
+    "misspell": ["cemetary", "cemetry", "semetary"]
+  },
+  "70": {
+    "word": "pneumonia",
+    "misspell": ["pnemonia", "pnuemonia", "neumonia"]
+  }
+}

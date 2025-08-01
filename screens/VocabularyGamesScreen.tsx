@@ -3,7 +3,7 @@ import { RouteProp, useRoute } from "@react-navigation/native";
 import React, {useRef, useState, useEffect} from 'react';
 import {View, ImageBackground, ScrollView, ImageSourcePropType} from 'react-native';
 import {styles, WordleScreenButtons} from '../source/styles/ingame-screen-styles.tsx';
-import { ModalForFlashCard} from './VocabularyGamesModals.tsx';
+import { ModalForFlashCard, ModalForOrtographia} from './VocabularyGamesModals.tsx';
 import {buttons,modalBackgrounds} from "../source/styles/assets.tsx";
 import { HeaderForMatchEnd } from './Components-For-End-Match.tsx';
 import { ProfileData, saveProfileDataToFile, readProfileDataFile, getTheMaxXpForNextLevel} from './AccessProfileData.tsx';
@@ -25,10 +25,10 @@ const flashCardData={
     partsOfSpeechTabImage: buttons.yellowButton  
 };
 
-const gapFillsData={  
-    heading : "Flash Cards",
-    headingColor: "#7702d1",
-    bgImage: modalBackgrounds.violetModalBackgroundImg,
+const ortographiaData={  
+    heading : "Orto Graphia",
+    headingColor: "#222222",
+    bgImage: modalBackgrounds.tealModalBackgroundImg,
     difficultyTabImage: buttons.blueButton,
     partsOfSpeechTabImage: buttons.redButton  
 };
@@ -53,7 +53,7 @@ const wordChainsData={
 
 const App = () => {
     const [flashCardModalVisible, setFlashCardModalVisible] = useState(false);
-    const [gapFillsModalVisible, setGapFillsModalVisible] = useState(false);
+    const [ortographiaModalVisible, setOrtographiaModalVisible] = useState(false);
     const [wordLadderModalVisible, setWordLadderModalVisible]=useState(false);
     
     const [wordChainModalVisible, setWordChainModalVisible]=useState(false);
@@ -85,7 +85,7 @@ const App = () => {
         setFlashCardModalVisible(false);
     };
 
-    const showGapFillModal = (data: {
+    const showOrtographiaModal = (data: {
           headingColor: string,
           heading: string,
           bgImage: ImageSourcePropType,
@@ -94,11 +94,11 @@ const App = () => {
           gameMode: string
     })=>{
         setModalData(data);
-        setGapFillsModalVisible(true); 
+        setOrtographiaModalVisible(true); 
     };
     
-    const hideGapFillsModal = () => {
-        setGapFillsModalVisible(false);
+    const hideOrtographiaModal = () => {
+        setOrtographiaModalVisible(false);
     };
 
     const showWordLadderModal = (data: {
@@ -233,7 +233,7 @@ const App = () => {
     descriptionTextColor="#404040" 
     preHeading="Matching"
     heading=""
-    description="Find out words among Large Grids of Scrambled Letters."
+    description="Match the words from one column to the other."
     image={basicVocabularyGamesImage}
     bgImage={buttons.blueButton}
     onPress={()=>{
@@ -250,7 +250,7 @@ const App = () => {
     descriptionTextColor="#fffff0" 
     preHeading="Flash"
     heading="Cards"
-    description="Sort out the desired word by clicking the letters of the word in correct order."
+    description="Create, Share and Use Flashcards as you need them. Not only vocabulary, but for any purposes."
     image={basicVocabularyGamesImage}
     bgImage={buttons.redButton}
     onPress={()=>{showFlashCardModal({
@@ -272,17 +272,11 @@ const App = () => {
     descriptionTextColor="#ffe4e1" 
     preHeading="The"
     heading="Satietas"
-    description="Fill the gaps and find what the word is."
+    description="Fill the gaps with letters and find what the word is."
     image={basicVocabularyGamesImage}
     bgImage={buttons.violetButton}
-    onPress={()=>{showGapFillModal({
-      headingColor: gapFillsData.headingColor,
-      heading: gapFillsData.heading,
-      bgImage: gapFillsData.bgImage,
-      difficultyTabImage: gapFillsData.difficultyTabImage,
-      partsOfSpeechTabImage: gapFillsData.partsOfSpeechTabImage,
-      gameMode: ''
-    });
+    onPress={()=>{
+      
   }}>
     </WordleScreenButtons>
   </View>
@@ -294,18 +288,11 @@ const App = () => {
     descriptionTextColor="#fffff0" 
     preHeading="La"
     heading="Collectico"
-    description="Sort out the desired word by clicking the letters of the word in correct order."
+    description="Collect synonyms or antonyms of words from a big scrambled pile."
     image={basicVocabularyGamesImage}
     bgImage={buttons.pinkButton}
-    onPress={()=>{showWordLadderModal({
-      headingColor: wordLadderData.headingColor,
-      heading: wordLadderData.heading,
-      bgImage: wordLadderData.bgImage,
-      difficultyTabImage: wordLadderData.difficultyTabImage,
-      partsOfSpeechTabImage: wordLadderData.partsOfSpeechTabImage,
-      gameMode: ''
-    });
-      
+    onPress={()=>{
+      navigation.navigate("CollecticoMatch");
     }}>
     </WordleScreenButtons>
   </View>
@@ -321,6 +308,14 @@ const App = () => {
     image={basicVocabularyGamesImage}
     bgImage={buttons.tealButton}
     onPress={()=>{
+      showOrtographiaModal({
+      headingColor: ortographiaData.headingColor,
+      heading: ortographiaData.heading,
+      bgImage: ortographiaData.bgImage,
+      difficultyTabImage: ortographiaData.difficultyTabImage,
+      partsOfSpeechTabImage: ortographiaData.partsOfSpeechTabImage,
+      gameMode: ''
+    });
     }}>
     </WordleScreenButtons>
   </View>
@@ -338,17 +333,16 @@ const App = () => {
     >
   </ModalForFlashCard>
 
-{/*   <ModalForWicWacWoe
+{   <ModalForOrtographia
     headingColor={modalData.headingColor}
     heading={modalData.heading}
     bgImage={modalData.bgImage}
     difficultyTabImage={modalData.difficultyTabImage}
     partsOfSpeechTabImage={modalData.partsOfSpeechTabImage}
-    onclose={hideWicWacWoeModal}
-    visible={wicWacWoeModalVisible}
-    playerLevel={profileData.playerLevel}
+    onclose={hideOrtographiaModal}
+    visible={ortographiaModalVisible}
     >
-  </ModalForWicWacWoe> */}
+  </ModalForOrtographia>}
 
   </ImageBackground>
 );}
