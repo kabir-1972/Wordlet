@@ -213,6 +213,8 @@ function submit(){
         _profileData.playerXP+=xp;
         setProfileData(_profileData);
         updateXpsAndCoinsInPreviousProfileFile(_profileData.playerXP, _profileData.playerCoins);   
+        if(currentIndex==70) setCurrentIndex(0);
+        else setCurrentIndex(currentIndex+1);
     }
     else {
         setError("Wrong word. Try again");

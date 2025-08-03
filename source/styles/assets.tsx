@@ -84,3 +84,7 @@ export const modalBackgrounds={
     whiteModalBackgroundImg: require('../images/white-modal-background.png'),
     pinkModalBackgroundImg: require('../images/pink-modal-background.png'),
 }
+
+export const miscellaneous={
+    setOfThreeCoins: require('../images/set-of-three-coins.png')
+}

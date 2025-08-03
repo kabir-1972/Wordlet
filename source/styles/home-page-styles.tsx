@@ -116,9 +116,8 @@ export const styles = StyleSheet.create({
     },
 
     modalContent: {
-    marginVertical: 10,
-    marginHorizontal: 6,
-    //borderRadius: 6
+        marginVertical: 10,
+        marginHorizontal: 6,
     },
     
     modalBackground: {
@@ -164,7 +163,99 @@ export const styles = StyleSheet.create({
     borderRadius: 4,
     marginVertical: 2,
     alignSelf: 'center'
-}
+},
+ 
+   messageModalTabs:{
+    flex: 1,
+    backgroundColor: '#555555',
+    borderRadius: 3
+    },
+
+    messageModalTabsText: {
+        textAlign: 'center',
+        color: '#eeeeee',
+        paddingVertical: 6
+    },
+
+    messages:{
+        marginTop: 5,
+        borderRadius: 4,
+        minHeight: 200,
+        borderStyle: 'dashed',
+        borderBottomWidth: 1
+    },
+
+    messageModalTabSelector: {
+        height: 3,
+        width: '30%',
+        marginLeft: 5,
+        backgroundColor: '#555555',
+        borderRadius: 3
+    },
+
+    theMessage:{
+        borderRadius: 4,
+        borderWidth: 1,
+        padding: 3,
+        marginVertical: 2,
+        backgroundColor: '#fffaeb'
+    },
+
+    dailyRewardPointText: {
+        textAlign: 'center',
+        fontSize: 16,
+        backgroundColor: '#83bacc',
+        paddingHorizontal: 10,
+        paddingVertical: 2,
+        alignSelf: 'center',
+        borderRadius: 4,
+        marginVertical: 5,
+        letterSpacing: -0.8
+    },
+    
+    rewardBar: {
+        position: 'absolute',
+        height: 15,
+        top: 0,
+        left: 0,
+        backgroundColor: '#557865',
+        borderRadius: 4
+    },
+
+    dayTag: {
+        backgroundColor: '#fc6aac',
+        transform: [{ rotate: '45deg' }],
+        borderRadius: 3,
+        alignItems: 'center',
+        justifyContent: 'center',
+        marginVertical: 4,
+    },
+    
+    normalRewardContainer: {
+        backgroundColor: '#a0dee8',
+        paddingVertical: 10,
+        paddingHorizontal: 12,
+        gap: 3,
+        borderRadius: 3
+    },
+
+    premiumRewardContainer: {
+        backgroundColor: '#fcda6a',
+        paddingVertical: 10,
+        paddingHorizontal: 12,
+        gap: 3,
+        borderRadius: 3
+    },
+
+    dailyRewardPointContainer: {
+        alignItems: 'center',
+        gap: 4,
+        borderRightWidth: 1.3,
+        borderLeftWidth: 1.3,
+        borderColor: '#777777',
+        padding: 4,
+        borderRadius: 1
+    }
 
 
 });

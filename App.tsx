@@ -71,7 +71,7 @@ export default function App() {
       <Stack.Screen name="Home" component={HomeScreen} />
 
       {
-        <Stack.Navigator initialRouteName="SatietasMatch"
+        <Stack.Navigator initialRouteName="Home"
         screenOptions={{
         headerShown: false,
         animation: 'none',

@@ -1,5 +1,5 @@
 import React, {useRef, useState, useEffect} from 'react';
-import { View, Text, ImageBackground, Pressable, Image, Animated, Modal} from 'react-native';
+import { View, Text, ImageBackground, Pressable, Image, Animated, Modal, LayoutChangeEvent} from 'react-native';
 import { MainGameButton } from '../source/styles/home-page-styles';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
@@ -12,10 +12,16 @@ import { readProfileDataFile,saveProfileDataToFile, getTheMaxXpForNextLevel } fr
 import { HeaderForMatchEnd } from './Components-For-End-Match';
 import { WordleText } from './Skip-Game-Modal';
 
-import { buttons, icons, modalBackgrounds} from '../source/styles/assets';
+import { buttons, icons, modalBackgrounds, miscellaneous} from '../source/styles/assets';
 import { buttonPressIn, buttonPressOut } from '../source/styles/allAnimations';
 import RNFS from 'react-native-fs';
 import { addWordQuicker } from './Wordlet-Bucket';
+import Reanimated, {
+  useSharedValue,
+  useAnimatedStyle,
+  withTiming,
+} from 'react-native-reanimated';
+import { ScrollView } from 'react-native-gesture-handler';
 
 
 export type NavigationProp =NativeStackNavigationProp<RootStackParamList, 'Home'>;
@@ -77,9 +83,13 @@ const App = () => {
 
 
         const [wotdModalVisibility, setWotdModalVisibility]=useState(false);
+        const [messageModalVisibilty, setMessageModalVisibilty]=useState(false);
+        const [dailyRewardsModalVisibilty, setDailyRewardsModalVisibilty]=useState(false);
+
 
         const [wordOfTheDay, setWordOfTheDay]=useState<{word: string, partsOfSpeech: string, meaning: string}>();
         const [wordAddedToBucket, setWordAddedToBucket]=useState("");
+
 
 
 useEffect(()=>{
@@ -93,7 +103,7 @@ useEffect(()=>{
 
             const formatDate = (date: Date) => {
                 const year = date.getFullYear();
-                const month = (`0${date.getMonth() + 1}`).slice(-2); // months are 0-indexed
+                const month = (`0${date.getMonth() + 1}`).slice(-2);
                 const day = (`0${date.getDate()}`).slice(-2);
                 return `${year}-${month}-${day}`;
             };
@@ -133,11 +143,29 @@ useEffect(()=>{
             console.log("Error " + e);
         }
     }
-
     getTheWordOfTheDay();
-
 },[])
     const navigation = useNavigation<NavigationProp>();
+
+  const moveX = useSharedValue(0);
+
+  const animatedStyle = useAnimatedStyle(() => {
+    return {
+      transform: [{ translateX: moveX.value }],
+    };
+  });
+
+    const [currentTabForMessages, setCurrentTabForMessages]=useState(0);
+    const markAllReadBtnScale=useRef(new Animated.Value(1));
+
+    const [widthOfTheMessageTab, setWidthOfTheMessageTab] = useState(0);
+    
+    const handleLayoutForTabsInMessages = (event:LayoutChangeEvent) => {
+    const { width } = event.nativeEvent.layout;
+        setWidthOfTheMessageTab(width);
+        console.log(width);
+    };
+
     return(
     <ImageBackground
       source={require('../source/images/background.png')}
@@ -161,7 +189,7 @@ useEffect(()=>{
             <Pressable
             onPressIn={()=>buttonPressIn(messageIconScale)}
             onPressOut={()=>buttonPressOut(messageIconScale)}
-            onPress={()=>{}}
+            onPress={()=>{setMessageModalVisibilty(true)}}
             >
                 <Animated.Image
                 source={icons.message}
@@ -217,7 +245,7 @@ useEffect(()=>{
             <Pressable
             onPressIn={()=>buttonPressIn(chestIconScale)}
             onPressOut={()=>buttonPressOut(chestIconScale)}
-            onPress={()=>{}}
+            onPress={()=>{setDailyRewardsModalVisibilty(true)}}
             >
                 <Animated.View style={{transform: [{scale: chestIconScale}]}}>
                 <ImageBackground
@@ -270,7 +298,6 @@ useEffect(()=>{
 
     <TheThreeButtons/>
     </View>
-
     <Modal
                     visible={wotdModalVisibility}
                     onRequestClose={()=>setWotdModalVisibility(false)}
@@ -349,11 +376,121 @@ useEffect(()=>{
                     </View>
                     </ImageBackground>
                 </View>
-                    </Modal>
+    </Modal>
+
+    <Modal
+    visible={messageModalVisibilty}
+    transparent={true}
+    onRequestClose={()=>setMessageModalVisibilty(false)}                            
+    >
+        <View style={[styles.modalContainer]}>
+                    <ImageBackground 
+                    source={modalBackgrounds.whiteModalBackgroundImg}
+                    style={[styles.backgroundImage, {paddingBottom: 0}]}
+                    imageStyle={{resizeMode: 'stretch'}}
+                    >  
+                    <View style={styles.modalBackground}>
+                        <View style={{height: 22, width: '100%'}}/>
+                        <View style={{flexDirection: 'row', marginTop: -8, justifyContent: 'space-between', alignItems: 'center'}}>
+                            <WordleText style={{textAlign: 'center', flex: 1, fontSize: 20, marginLeft: 30, marginTop: 5}}>Messages</WordleText>
+                            <Pressable style={{ marginRight: 8}} onPress={()=>setMessageModalVisibilty(false)}>
+                                <Image source={buttons.closeModalButton}
+                                style={{width: 25, height: 25, transform: [{scaleY: 0.95}]}}
+                                />
+                            </Pressable>
+                        </View>
+                      <View style={{width: '90%', height: 1, backgroundColor: '#444444', alignSelf: 'center', marginTop: 5}}/>  
+
+                      <View style={[styles.modalContent, {marginHorizontal: 20}]}>
+                        <View style={{flexDirection: 'row', gap: 2}}>
+                             <Pressable style={styles.messageModalTabs} onPress={()=>{moveX.value = withTiming(widthOfTheMessageTab*0, { duration: 300 }); setCurrentTabForMessages(0)}}><WordleText style={styles.messageModalTabsText}>System</WordleText></Pressable>
+                             <Pressable style={styles.messageModalTabs} onPress={()=>{moveX.value = withTiming(widthOfTheMessageTab*1+12, { duration: 300 }); setCurrentTabForMessages(1)}}><WordleText style={styles.messageModalTabsText}>Private</WordleText></Pressable>
+                             <Pressable style={styles.messageModalTabs} onPress={()=>{moveX.value = withTiming(widthOfTheMessageTab*2+20, { duration: 300 }); setCurrentTabForMessages(2)}}><WordleText style={styles.messageModalTabsText}>Events</WordleText></Pressable>
+                        </View>
+                        
+                        <View style={{flexDirection: 'row', gap: 2, marginVertical: 2}}>
+                             <Reanimated.View onLayout={handleLayoutForTabsInMessages} style={[styles.messageModalTabSelector, animatedStyle]}/>
+                        </View>
+
+                        <View style={styles.messages}>
+                            <View style={styles.theMessage}>
+                            <WordleText style={{marginLeft: 3}}>Welcome to The Game</WordleText>
+                            <WordleText style={{fontSize: 16, color: '#777777', lineHeight: 20, marginLeft: 10}}>MRK Studio warmly welcomes you to our game.</WordleText>
+                            <WordleText style={{fontSize: 14, color: '#888888', textAlign: 'right'}}>Aug 2, 2025 | 14: 09</WordleText>
+                            </View>    
+                        </View>
+
+                        <Animated.View style={{alignSelf:'flex-end', marginTop: 3, marginRight: 10, transform: [{scale: markAllReadBtnScale.current}]}}>
+                            <Pressable
+                            onPressIn={()=>buttonPressIn(markAllReadBtnScale.current)}
+                            onPressOut={()=>buttonPressOut(markAllReadBtnScale.current)}
+                            onPress={()=>{}}
+                            >
+                                <ImageBackground
+                                source={buttons.blueButton}
+                                style={{padding: 6}}
+                                imageStyle={{resizeMode: 'stretch', borderRadius: 4, borderWidth: 1}}
+                                >
+                                  <WordleText>Mark all Read</WordleText>
+                                </ImageBackground>
+                            </Pressable>
+                        </Animated.View>
+                       </View>
+                    </View>
+                   </ImageBackground>
+        </View>                
+    </Modal>
+
+    <Modal
+    visible={dailyRewardsModalVisibilty}
+    transparent={true}
+    onRequestClose={()=>setDailyRewardsModalVisibilty(false)}                            
+    >
+        <View style={[styles.modalContainer]}>
+                    <ImageBackground 
+                    source={modalBackgrounds.whiteModalBackgroundImg}
+                    style={[styles.backgroundImage, {paddingBottom: 0}]}
+                    imageStyle={{resizeMode: 'stretch'}}
+                    >  
+                    <View style={styles.modalBackground}>
+                        {/* <View style={{height: 22, width: '100%'}}/> */}
+                            <Pressable style={{ flexDirection: 'row', marginTop: -8, alignSelf: 'flex-end', marginRight: 8}} onPress={()=>setMessageModalVisibilty(false)}>
+                                <Image source={buttons.closeModalButton}
+                                style={{width: 25, height: 25, transform: [{scaleY: 0.95}]}}
+                                />
+                            </Pressable>
+                            <WordleText style={styles.dailyRewardPointText}>300/ 1000</WordleText>
+                        <ScrollView horizontal style={{marginHorizontal: 20}}>
+                         <View style={{flexDirection: 'column'}}>   
+                        <View style={{width: 1000, height: 15, backgroundColor: '#ccc', borderRadius: 4}}>
+                            <View style={[styles.rewardBar, {width: 300}]}/>
+                        </View>
+
+                        <View style={{flexDirection: 'row', marginHorizontal: 5, marginVertical: 5}}>
+                            <View style={styles.dailyRewardPointContainer}>
+                                <View style={styles.dayTag}>
+                                <WordleText style={{transform: [{rotate: '-45deg'}], paddingHorizontal: 11, paddingVertical: 5, color: '#3d011c'}}>1</WordleText>
+                                </View>
+                                <View style={styles.normalRewardContainer}>
+                                    <Image source={icons.coin} style={{width: 22, height: 22, resizeMode: 'stretch'}}/>
+                                    <WordleText style={{fontSize: 15, textAlign: 'center'}}>60</WordleText>
+                                </View>
+                                <View style={styles.premiumRewardContainer}>
+                                    <Image source={icons.coin} style={{width: 22, height: 22, resizeMode: 'stretch'}}/>
+                                    <WordleText style={{fontSize: 15, textAlign: 'center'}}>120</WordleText>
+                                </View>
+                            </View>    
+                        </View>
+                        </View>
+                        </ScrollView>    
+                        
+                    </View>
+                   </ImageBackground>
+        </View>                
+    </Modal>
 
     </ImageBackground> 
 )};
-
 
 
 
@@ -388,5 +525,5 @@ const moreGamesButton= require('../source/images/buttons/more-games-button.png')
     </View>   
 )
 }
-
+/**/
 export default App;
