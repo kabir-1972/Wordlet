@@ -145,5 +145,9 @@ export type RootStackParamList = {
         type: number
     }
 
-    SatietasMatch: undefined
+    SatietasMatch: undefined;
+
+    Settings: undefined;
+    Rough: undefined
+
   };

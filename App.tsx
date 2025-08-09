@@ -62,6 +62,9 @@ import CollecticoMatch from './screens/Collectico/CollecticoMatch';
 import OrtographiaMatch from './screens/OrtoGraphia/OrtographiaMatch';
 import SatietasMatch from './screens/Satietas/SatietasMatch';
 
+import Settings from './screens/Settings2';
+import Rough from './screens/Rough';
+
 const Stack = createNativeStackNavigator();
 
 export default function App() {
@@ -71,7 +74,7 @@ export default function App() {
       <Stack.Screen name="Home" component={HomeScreen} />
 
       {
-        <Stack.Navigator initialRouteName="Home"
+        <Stack.Navigator initialRouteName="Settings"
         screenOptions={{
         headerShown: false,
         animation: 'none',
@@ -273,6 +276,16 @@ export default function App() {
       <Stack.Screen
       name="SatietasMatch"
       component={SatietasMatch}
+      />
+
+      <Stack.Screen
+      name="Settings"
+      component={Settings}
+      />
+
+      <Stack.Screen
+      name="Rough"
+      component={Rough}
       />
 
 

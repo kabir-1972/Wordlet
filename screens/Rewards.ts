@@ -1,7 +1,3 @@
-import { coins } from "../source/styles/crosswords-modals-styles"
-import { Collectico } from "./Collectico/Collectico-GameInfo-SubScreen"
-import { Orthographia } from "./OrtoGraphia/Ortographia-GameInfo-SubScreen"
-
 export const Rewards={
     Connectico:{
         easy: {xp: 15, coin: 20},
@@ -232,4 +228,138 @@ export const XpLevelToUnlockGameMode={
         3: 5,
         4: 6
     }
+}
+
+export const DailyRewards={
+    free: [20, 30, 45, 60, 75, 90, 100, 120, 135, 150, 200, 220, 250, 270, 300, 320, 350, 400, 450, 500],
+    golden: [40, 50, 55, 80, 95, 110, 120, 140, 155, 170, 220, 240, 270, 290, 320, 340, 370, 420, 470, 600],
+    points: [30, 60, 120, 160, 200, 250, 300, 350, 400, 450, 500, 550, 600, 700, 750, 800, 850, 900, 950, 1000]
+}
+
+export const HomeScreenRewards={
+  1: {
+    taskString: "Find 5 words playing Wordle",
+    reward: "30",
+    fill: 5
+  }, 
+  2: {
+    taskString: "Solve 5 Crosswords",
+    reward: "30",
+    fill: 5
+  },
+  3: {
+    taskString: "Create 1 Crossword",
+    reward: "60",
+    fill: 1,
+  },
+  4: {
+    taskString: "Add 10 Words to Wordlet Bucket",
+    reward: "50",
+    fill: 1
+  },
+  5: {
+    taskString: "Win 5 Multiplayer Wordle Matches",
+    reward: "60",
+    fill: 5,
+  },
+  6: {
+    taskString: "Play 15 Mutiplayer Matches",
+    reward: "100",
+    fill: 15,
+  },
+  7: {
+    taskString: "Play 25 Multiplayer Matches",
+    reward: "200",
+    fill: 25
+  },
+  8: {
+    taskString: "Win 10 Multiplayer Wordle Matches",
+    reward: "150",
+    fill: 10
+  },
+  9: {
+    taskString: "Place a bet of 300 coins",
+    reward: "100",
+    fill: 300
+  },
+  10: {
+    taskString: "Solve 10 Connectico Puzzles",
+    reward: "50",
+    fill: 10
+  },
+  11: {
+    taskString: "Read 25 Flashcards created by Others",
+    reward: "40",
+    fill: 25
+  },
+  12: {
+    taskString: "Use 60 Words in WordChain",
+    reward: "50",
+    fill: 60
+  },
+  13: {
+    taskString: "Solve 5 Cryptogram Puzzles",
+    reward: "40",
+    fill: 5
+  },
+  14: {
+    taskString: "Play 5 Wic Wac Woe Matches",
+    reward: "40",
+    fill: 5
+  },
+  15: {
+    taskString: "Win 10 Wic Wac Woe Matches",
+    reward: "100",
+    fill: 10
+  },
+  16: {
+    taskString: "Win 50 Trophies playing Multiplayer Matches",
+    reward: "100",
+    fill: 50
+  },
+  17: {
+    taskString: "Find 30 Words in SearchUp",
+    reward: "60",
+    fill: 30
+  },
+  18: {
+    taskString: "Find 50 Words in SearchUp",
+    reward: "120",
+    fill: 50
+  },
+  19: {
+    taskString: "Place a bet of 600 coins",
+    reward: "200",
+    fill: 600
+  },
+  20: {
+    taskString: "Win 10 Multiplayer Matches",
+    reward: "70",
+    fill: 10
+  },
+  21: {
+    taskString: "Win 15 Multiplayer Matches",
+    reward: "100",
+    fill: 15
+  },
+  22: {
+    taskString: "Win 100 Trophies playing Multiplayer Matches",
+    reward: "200",
+    fill: 10
+  },
+  23: {
+    taskString: "Find 10 words playing Wordle",
+    reward: "60",
+    fill: 10
+  },
+  24: {
+    taskString: "Find 15 words playing Wordle",
+    reward: "90",
+    fill: 15
+  },
+  25: {
+    taskString: "Read The Word of the Day",
+    reward: "30",
+    fill: 1
+  }
 }

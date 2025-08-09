@@ -63,7 +63,7 @@ export const icons={
     eye:require("../images/icons/eye.png"),
     message:require("../images/icons/message-icon.png"),
     dice:require("../images/icons/dice.png"),
-    achive: require("../images/icons/achieve.png"),
+    achieve: require("../images/icons/achieve.png"),
     chest: require("../images/icons/chest.png"),
     blackDeleteIcon: require("../images/icons/delete-icon.png"),
     editIcon: require("../images/icons/edit.png"),
@@ -71,6 +71,22 @@ export const icons={
     rightArrow: require("../images/icons/right-arrow.png"),
     upload:require("../images/icons/upload-cloud-icon.png"),
     share:require("../images/icons/share-icon.png"),
+    closedChest:require("../images/icons/closed-wooden-chest.png"),
+    openChest:require("../images/icons/open-wooden-chest.png"),
+    circularPuzzleIcon:require("../images/icons/puzzle-icon-circular.png"),
+    colorfulStarIcon:require("../images/icons/colorful-star-icon.png"),
+    dailyTaskToken:require("../images/icons/daily-task-token.png"),
+    searchIcon:require("../images/icons/search-icon.png"),
+    gameIcon:require("../images/icons/game-icon.png"),
+    leaderBoardIcon:require("../images/icons/leaderboard-icon.png"),
+    globalChatIcon:require("../images/icons/global-chat.png"),
+    storeIcon:require("../images/icons/store-icon.png"),
+    bucketIcon:require("../images/icons/bucket-icon.png"),
+    googleIcon:require("../images/icons/google-icon.png"),
+    facebookIcon:require("../images/icons/facebook-icon.png"),
+    youtubeIcon:require("../images/icons/youtube-icon.png"),
+    xIcon:require("../images/icons/x-icon.png"),
+    telegramIcon:require("../images/icons/telegram-icon.png"),
 
 }
 
@@ -86,5 +102,4 @@ export const modalBackgrounds={
 }
 
 export const miscellaneous={
-    setOfThreeCoins: require('../images/set-of-three-coins.png')
 }

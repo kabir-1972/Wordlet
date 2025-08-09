@@ -1,38 +1,44 @@
 import React, { useRef, useState } from 'react';
-import { View, Modal, ImageSourcePropType, ImageBackground, Text, Pressable } from 'react-native';
-import { styles } from "../source/styles/header-inmatch-styles"
-import { modalStyles } from '../source/styles/wordle-header-inmatch-modals-style';
+import { View, Modal, ImageSourcePropType, ImageBackground, Pressable } from 'react-native';
+import { styles } from '../source/styles/header-modal-styles';
 import { modalBackgrounds } from '../source/styles/assets';
+import { WordleText } from './Skip-Game-Modal';
 
 type SettingsModalProps={
     visible: boolean
     onclose: ()=> void;
 }
 
-export const SettingsModal=(props: SettingsModalProps)=>{
+/*export default*/ const  SettingsModal=(/*props: SettingsModalProps*/)=>{
     return (
+        <ImageBackground
+        source={SettingsData.background}
+        style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}
+        >
         <Modal
-                visible={props.visible}
-                onRequestClose={props.onclose}
+                visible={true}
+                onRequestClose={/*props.onclose*/()=>{}}
                 transparent={true}
                 >
-            <View style={styles.container}>
+            <View style={styles.modalContainer}>
                 <ImageBackground 
-                source={modalBackgrounds.blackModalBackgroundImg}
-                style={modalStyles.backgroundImage}
-                imageStyle={{resizeMode: 'stretch',}}
+                source={modalBackgrounds.whiteModalBackgroundImg}
+                style={styles.backgroundImage}
+                imageStyle={{resizeMode: 'stretch', borderRadius: 4, borderWidth: 1}}
                 >  
-                <View style={modalStyles.modalBackground}>
-                  <View style={modalStyles.modalContent}>
-                    <Text>Hello</Text>
-                    <Pressable onPress={props.onclose}><Text>Close the Modal</Text></Pressable>
-                  </View>
+                <View style={styles.modalBackground}>
+                  <View style={styles.modalContent}>
+                    <WordleText style={{textAlign: 'center', fontSize: 20}}>Game Settings</WordleText>
+                    </View>
                 </View>
                 </ImageBackground>
             </View>
         </Modal>
+        </ImageBackground>
     );
 }
+
+export default SettingsModal;
 
 const gameBackgrounds={
     defaultBackground: require('../source/images/background.png')

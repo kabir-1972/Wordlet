@@ -11,7 +11,7 @@ import RNFS from 'react-native-fs';
 import SoundPlayer from "react-native-sound-player";
 import { OutlinedText } from '../source/styles/outlinedText'
 import CountUp from '../source/styles/allAnimations'
-import { SettingsModal } from './Settings'
+//import { SettingsModal } from './Settings'
 import { AddCoinModal } from './Add-Coin-Modal'
 import { ProfileModal } from './Profile'
 
@@ -515,7 +515,7 @@ export const HeaderForMatchEnd:React.FC<HeaderForMatchEndProps>=({
                 <Pressable
                 onPressIn={()=>{buttonPressIn(profileBtnScale)}}
                 onPressOut={()=>{buttonPressOut(profileBtnScale)}}
-                onPress={()=>setSettingsModalVisibility(true)}
+                onPress={()=>setProfileSettingsModalVisiblity(true)}
                 >
                     <ImageBackground
                     source={buttons.grayButton}
@@ -570,7 +570,7 @@ export const HeaderForMatchEnd:React.FC<HeaderForMatchEndProps>=({
             <View style={styles.inGameCoin} ref={coinsBarRef}>
                 <View style={styles.coinContainer}>
                 <View style={styles.coinContainerInline}></View>
-                {/*_xps!=0?*/<CountUp
+                {<CountUp
                     targetNumber={profileData.playerCoins}
                     allowAnimation={_xps!=0}
                     style={{
@@ -580,7 +580,7 @@ export const HeaderForMatchEnd:React.FC<HeaderForMatchEndProps>=({
                 }}
                 onComplete={(finalValue)=>{setXpPercent(finalValue.toString());}}
                 maxXp={maxXp} 
-                />/*:<WordleText>{profileData.playerCoins}</WordleText>*/
+                />
                 }
                 </View>
                 <Image 
@@ -590,10 +590,10 @@ export const HeaderForMatchEnd:React.FC<HeaderForMatchEndProps>=({
             </View></Pressable>
         </Animated.View>
         </View>
-        <SettingsModal
-        visible={settingsModalVisibility}
-        onclose={()=>setSettingsModalVisibility(false)}
-        />
+        {/* <SettingsModal
+        //visible={settingsModalVisibility}
+        //onclose={()=>setSettingsModalVisibility(false)}
+        /> */}
 
         <AddCoinModal
         visible={addCoinModalVisiblity}

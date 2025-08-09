@@ -203,58 +203,131 @@ export const styles = StyleSheet.create({
 
     dailyRewardPointText: {
         textAlign: 'center',
-        fontSize: 16,
-        backgroundColor: '#83bacc',
-        paddingHorizontal: 10,
-        paddingVertical: 2,
+        fontSize: 14,
+        color: '#e6e6e6',
         alignSelf: 'center',
-        borderRadius: 4,
         marginVertical: 5,
-        letterSpacing: -0.8
+        letterSpacing: -0.8,
+        width: 35,
     },
     
     rewardBar: {
         position: 'absolute',
-        height: 15,
+        height: 18,
         top: 0,
         left: 0,
-        backgroundColor: '#557865',
-        borderRadius: 4
+        backgroundColor: '#34664b',
+        borderRadius: 3,
     },
 
-    dayTag: {
-        backgroundColor: '#fc6aac',
-        transform: [{ rotate: '45deg' }],
+    rewardBarHighlight:{
+        position: 'absolute',
+        height: 10,
+        top: 0,
+        left: 0,
+        backgroundColor: '#ffffff50',
         borderRadius: 3,
+        zIndex: 2,
+        width: 1150
+    },
+    
+    rewardBarCover: {
+        width: 1150,
+        height: 20,
+        backgroundColor: '#ccc',
+        borderRadius: 4,
+        borderWidth: 1,
+        overflow: 'hidden',
+        marginLeft: 18
+    },
+
+    pointTag: {
         alignItems: 'center',
         justifyContent: 'center',
-        marginVertical: 4,
+        flexDirection: 'row',
+        gap: 1
     },
     
     normalRewardContainer: {
-        backgroundColor: '#a0dee8',
+        backgroundColor: '#d0d0d0',
         paddingVertical: 10,
-        paddingHorizontal: 12,
         gap: 3,
-        borderRadius: 3
+        borderRadius: 3,
+        borderWidth: 1,
+        borderColor: '#444444',
+        width: 50,
+        alignItems: 'center'
+        
     },
 
     premiumRewardContainer: {
-        backgroundColor: '#fcda6a',
+        backgroundColor: '#face3e',
         paddingVertical: 10,
-        paddingHorizontal: 12,
         gap: 3,
-        borderRadius: 3
+        borderRadius: 3,
+        borderWidth: 1,
+        borderColor: '#854403',
+        width: 50,
+        alignItems: 'center'
+    
     },
 
     dailyRewardPointContainer: {
         alignItems: 'center',
         gap: 4,
-        borderRightWidth: 1.3,
-        borderLeftWidth: 1.3,
-        borderColor: '#777777',
         padding: 4,
-        borderRadius: 1
+    },
+
+    modalCloseBtn: {
+        resizeMode: 'stretch',
+        borderRadius: 4,
+        borderWidth: 1,
+        transform:[{scaleY: 0.95}],
+        width: 27,
+        height: 27
+    },
+
+    /*taskDone:{
+        width: 50,
+        height: 20,
+        backgroundColor: '#ccc',
+        borderRadius: 4,
+        borderWidth: 1,
+        overflow: 'hidden',
+        marginLeft: 18
+    },*/
+
+    taskRewardBarHighlight:{
+        position: 'absolute',
+        height: 8,
+        top: 0,
+        left: 0,
+        backgroundColor: '#ffffff50',
+        borderRadius: 3,
+        zIndex: 2,
+        width: 50
+    },
+    
+    taskRewardBarCover: {
+        width: 50,
+        height: 15,
+        backgroundColor: '#ccc',
+        borderRadius: 3,
+        borderWidth: 1,
+        overflow: 'hidden',
+    },
+
+    taskRewardBar: {
+        position: 'absolute',
+        height: 13,
+        top: 0,
+        left: 0,
+        backgroundColor: '#34664b',
+        borderRadius: 3,
+    },
+
+    bottomButtonsText: {
+        textAlign: 'center'
     }
 
 
