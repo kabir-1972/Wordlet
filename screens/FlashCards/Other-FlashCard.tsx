@@ -15,7 +15,7 @@ import { RouteProp, useRoute } from '@react-navigation/native';
 
 import { ProfileData, updateCoinsInPreviousProfileFile, readProfileDataFile, saveProfileDataToFile, updateXpsAndCoinsInPreviousProfileFile } from '../AccessProfileData';
 import { useEffect } from 'react';
-import { SettingsData } from '../Settings';
+import { SettingsData } from '../Profile2';
 import { GameLoadingAnimation } from '../Game-Loading-Animation';
 import { HeaderInMatch } from './FlashCard-Header-inmatch';
 import { buttonPressIn, buttonPressOut } from '../../source/styles/allAnimations';

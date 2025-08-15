@@ -19,7 +19,7 @@ import { RootStackParamList } from '../../types';
 import { WordleText, SmallerWhiteWordleText } from '../Skip-Game-Modal';
 import { HeaderInMatch } from './Connectico-Header-inmatch';
 import { GameLoadingAnimation } from '../Game-Loading-Animation';
-import { SettingsData } from '../Settings';
+import { SettingsData } from '../Profile2';
 import { ProfileData, updateCoinsInPreviousProfileFile, readProfileDataFile, saveProfileDataToFile, updateXpsAndCoinsInPreviousProfileFile } from '../AccessProfileData';
 import { readConnecticoDataFile, saveConnecticoDataToFile, updateAccessoryDataInPreviousConnecticoFile } from './Connectico-Data-Files';
 import  LottieView from 'lottie-react-native';

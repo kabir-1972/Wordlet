@@ -10,7 +10,7 @@ import { ProfileData, saveProfileDataToFile, readProfileDataFile, getTheMaxXpFor
 import { RootStackParamList } from '../types.ts';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { useNavigation } from '@react-navigation/native';
-import { SettingsData } from "./Settings.tsx";
+import { SettingsData } from "./Profile2.tsx";
 
 const basicVocabularyGamesImage = require('../source/images/homepage-icons/icon-1.jpg');
 

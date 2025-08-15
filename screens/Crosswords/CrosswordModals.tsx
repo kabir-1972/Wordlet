@@ -61,7 +61,7 @@ switch (CrosswordChoice.gameMode) {
         >  
         <View style={styles.modalBackground}>
           <View style={styles.modalContent}>
-            <Text style={[styles.modalHeading , {color: props.headingColor}]}>{props.heading}</Text>
+            <Text style={[styles.modalHeading , {color: props.headingColor}]} allowFontScaling={false}>{props.heading}</Text>
             <CompleteCrosswordModal difficultyTabImage={props.difficultyTabImage} partsOfSpeechTabImage={props.partsOfSpeechTabImage} gameMode={props.gameMode}/>
             <View style={styles.modalButtons}>
             <ModalButton onclick={()=>props.onclose()} buttonImage={buttons.cancelButton}></ModalButton>

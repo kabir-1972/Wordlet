@@ -12,7 +12,7 @@ import { OutlinedText } from '../../source/styles/outlinedText';
 import LightSweep from '../../source/styles/ingame-animations';
 import { Searchup, UniversalExample} from './Searchup-GameInfo-SubScreen';
 import { AddCoinModal } from '../Add-Coin-Modal'
-import { SettingsData, SettingsModal } from '../Settings';
+import { SettingsData, SettingsModal } from '../Profile2';
 import { ProfileModal } from '../Profile';
 
 

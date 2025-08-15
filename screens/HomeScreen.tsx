@@ -26,8 +26,14 @@ import { DailyRewards, HomeScreenRewards } from './Rewards';
 import LottieView from 'lottie-react-native';
 import { getTheCurrentDate, getTheDailyRewardData, setMarkedToZeroAfterSlideIn, updateTheRewardData } from './HomeScreen-Data-Files';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { splashScreenFunctions} from './Splash-Screen-Functions';
 
 export type NavigationProp =NativeStackNavigationProp<RootStackParamList, 'Home'>;
+
+const startApp = async () => {
+  await splashScreenFunctions();
+};
+startApp();
 
 const App = () => {
     const [profileData, setProfileData]=useState<ProfileData>({
@@ -169,7 +175,6 @@ useEffect(()=>{
     const handleLayoutForTabsInMessages = (event:LayoutChangeEvent) => {
     const { width } = event.nativeEvent.layout;
         setWidthOfTheMessageTab(width);
-        //console.log(width);
     };
 
   const [remainingTime, setRemainingTime] = useState('');
@@ -214,7 +219,7 @@ useEffect(()=>{
   const [theRewardData, setTheRewardData]=useState<any>(null);
   const [unnoticedRewardData, setUnnoticedRewardData]=useState(false);
   const [completedTasks, setCompletedTasks]=useState(0);
-  const [completedTaskIndex, setCompletedTaskIndex]=useState<number|undefined>(1);
+  const [completedTaskIndex, setCompletedTaskIndex]=useState<number|undefined>();
 
   const leftPositionOfRewardedData=useSharedValue(-200);
   const slideInRewardedDataStyle=useAnimatedStyle(()=>{
@@ -231,6 +236,7 @@ useEffect(()=>{
                 setCompletedTaskIndex(i);
                 setTimeout(()=>leftPositionOfRewardedData.value=0, 500);
                 setTimeout(()=>leftPositionOfRewardedData.value=-200, 1500);
+                setTimeout(()=>setCompletedTaskIndex(undefined), 2000);
                 break;
             }
         }
@@ -258,6 +264,7 @@ useEffect(()=>{
                 setCompletedTaskIndex(i);
                 setTimeout(()=>leftPositionOfRewardedData.value=0, 500);
                 setTimeout(()=>leftPositionOfRewardedData.value=-200, 2000);
+                setTimeout(()=>setCompletedTaskIndex(undefined), 2000);
                 setMarkedToZeroAfterSlideIn(i);
                 break;
             }
@@ -273,7 +280,10 @@ useEffect(()=>{
 
 
 const getTheRewardBarWidth=(points: any)=>{
-    return parseFloat((points/1000).toFixed(2))*1150;
+    //points = 800;
+    const additive=points<400?30: points<600? 32: points<700?35: 36;
+    const width = additive+parseFloat(((points-40)/800).toFixed(2))*1150;
+    return width;
 }
 
 useEffect(()=>{
@@ -417,10 +427,10 @@ useEffect(()=>{
                 <Animated.View style={{transform: [{scale: enhanceVocabBtn}]}}>
                 <ImageBackground
                 source={buttons.pinkButton}
-                style={{width: 130, height: 30, alignItems: 'center', justifyContent: 'center'}}
+                style={{alignItems: 'center', justifyContent: 'center'}}
                 imageStyle={{resizeMode: 'stretch', borderWidth: 1, borderRadius: 4}}
                 >
-                    <WordleText style={{color: '#111111', fontSize: 15}}>Enhance Vocabulary</WordleText>
+                    <WordleText style={{color: '#111111', fontSize: 15, textAlign: 'center', padding: 5}}>Enhance Vocabulary</WordleText>
                 </ImageBackground>
                 </Animated.View>
             </Pressable>     
@@ -581,7 +591,7 @@ useEffect(()=>{
                     <ImageBackground 
                     source={modalBackgrounds.whiteModalBackgroundImg}
                     style={[styles.backgroundImage, {paddingTop: 40, paddingBottom: 0}]}
-                    imageStyle={{resizeMode: 'stretch'}}
+                    imageStyle={{resizeMode: 'stretch', borderRadius: 4, borderWidth: 1}}
                     >  
                     <View style={[styles.modalBackground, {maxHeight: 400}]}>
                         <View style={{flexDirection: 'row', marginBottom: 8, marginHorizontal: 10}}>
@@ -596,7 +606,7 @@ useEffect(()=>{
                                 source={buttons.goldenButton}
                                 imageStyle={{resizeMode: 'stretch', borderRadius: 4, borderWidth: 1}}
                                 >
-                                    <WordleText style={{paddingHorizontal: 6, paddingVertical: 8}}>Rewards</WordleText>
+                                    <WordleText style={{paddingHorizontal: 6, paddingVertical: 4, fontSize: 16}}>Rewards</WordleText>
                                 </ImageBackground>
                             </Pressable>    
                             </Animated.View>
@@ -611,7 +621,7 @@ useEffect(()=>{
                                 source={buttons.pinkButton}
                                 imageStyle={{resizeMode: 'stretch', borderRadius: 4, borderWidth: 1}}
                                 >
-                                    <WordleText style={{paddingHorizontal: 12, paddingVertical: 8}}>Tasks</WordleText>
+                                    <WordleText style={{paddingHorizontal: 12, paddingVertical: 4, fontSize: 16}}>Tasks</WordleText>
                                 </ImageBackground>
                             </Pressable>    
                             </Animated.View>     
@@ -666,7 +676,7 @@ useEffect(()=>{
                                 <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
                                     <ImageBackground
                                     source={modalBackgrounds.blueModalBackgroundImg}
-                                    style={{width: 80, height: 55, alignItems: 'center', justifyContent: 'center'}}
+                                    style={{width: 80, minHeight: 55, alignItems: 'center', justifyContent: 'center'}}
                                     imageStyle={{resizeMode: 'stretch', borderRadius: 4, borderWidth: 1, borderColor: '#444444'}}
                                     >
                                     <WordleText style={{fontSize: 16, textAlign: 'center'}}>{"Free\nRewards"}</WordleText>
@@ -675,10 +685,10 @@ useEffect(()=>{
                                 <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
                                     <ImageBackground
                                     source={modalBackgrounds.orangeModalBackgroundImg}
-                                    style={{width: 80, height: 55, alignItems: 'center', justifyContent: 'center'}}
+                                    style={{width: 80, minHeight: 55, alignItems: 'center', justifyContent: 'center'}}
                                     imageStyle={{resizeMode: 'stretch', borderRadius: 4, borderWidth: 1, borderColor: '#444444'}}
                                     >
-                                    <WordleText style={{fontSize: 16, textAlign: 'center', lineHeight: 20}}>{"Golden Pass\nRewards"}</WordleText>
+                                    <WordleText style={{fontSize: 15, textAlign: 'center', lineHeight: 16, paddingVertical: 4, paddingHorizontal: 4}}>{"Golden Pass\nRewards"}</WordleText>
                                     </ImageBackground>
                                 </View>
                             </View>
@@ -737,17 +747,14 @@ useEffect(()=>{
                         }    
 
                         </ScrollView>
-                        </View>}
-                        
+                        </View>}             
                     </View>
                    </ImageBackground>
         </View>                
     </Modal>
 
 {rewardArray&&completedTaskIndex&&<Reanimated.View style={[{position: 'absolute', width:200, top: 0.7*Dimensions.get('window').height, left: -200}, slideInRewardedDataStyle]}>
-    <View
-    style={{backgroundColor:'#e6e6e6', width: 200, borderRadius: 4, borderWidth: 1}}
-    >
+    <View style={{backgroundColor:'#e6e6e6', width: 200, borderRadius: 4, borderWidth: 1}}>
         <View style={{ padding: 5, flexDirection: 'row'}}>
         <View>
         <WordleText style={{textAlign: 'center', color: '#666666', fontSize: 15}}>Task Completed</WordleText>

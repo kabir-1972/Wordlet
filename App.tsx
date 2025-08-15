@@ -62,7 +62,7 @@ import CollecticoMatch from './screens/Collectico/CollecticoMatch';
 import OrtographiaMatch from './screens/OrtoGraphia/OrtographiaMatch';
 import SatietasMatch from './screens/Satietas/SatietasMatch';
 
-import Settings from './screens/Settings2';
+import Settings from './screens/Profile2';
 import Rough from './screens/Rough';
 
 const Stack = createNativeStackNavigator();

@@ -16,7 +16,7 @@ import { BasicWordle, ReverseWordle, MultiplayerWordle, ShiftedWordle, PreSolved
 
  } from './Wordle-GameInfo-SubScreen';
 import { AddCoinModal } from '../Add-Coin-Modal'
-import { SettingsModal } from '../Settings';
+import { SettingsModal } from '../Profile2';
 import { ProfileModal } from '../Profile';
 
 

@@ -37,7 +37,7 @@ export const styles = StyleSheet.create({
 
     wordleText:{
         fontFamily: 'Wordlet-Regular',
-        fontSize: 18
+        fontSize: 16,
     },
 
     modalContentText:{

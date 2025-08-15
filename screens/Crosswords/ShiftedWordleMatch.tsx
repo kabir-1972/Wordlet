@@ -31,7 +31,7 @@ import { firstRowKeyMeasurements,secondRowKeyMeasurements,thirdRowKeyMeasurement
 import { HeaderInMatch } from './Crossword-Header-inmatch';
 import { SmallerWhiteWordleText } from '../Skip-Game-Modal';
 import { GameLoadingAnimation } from '../Game-Loading-Animation';
-import { SettingsData } from '../Settings';
+import { SettingsData } from '../Profile2';
 import { ProfileData, updateCoinsInPreviousProfileFile, readProfileDataFile, saveProfileDataToFile } from '../AccessProfileData';
 import { ScoreData } from '../accessProfileData';
 

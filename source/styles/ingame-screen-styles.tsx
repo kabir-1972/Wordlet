@@ -104,10 +104,10 @@ export const WordleScreenButtons = (props: WordleScreenProps)=>{
             <View style={styles.buttonContent}>
                 <View style={styles.buttonTextContent}>
                 <View style={styles.buttonTextHeading}>
-                    <Text style={[styles.headingText , {color: props.preHeadingColor}]}>{props.preHeading}</Text>
-                    <Text style={[styles.headingText , {color: props.postHeadingColor}]}>{props.heading}</Text>
+                    <Text style={[styles.headingText , {color: props.preHeadingColor}]} allowFontScaling={false}>{props.preHeading}</Text>
+                    <Text style={[styles.headingText , {color: props.postHeadingColor}]} allowFontScaling={false}>{props.heading}</Text>
                 </View>
-                <Text style={[styles.text, {color: props.descriptionTextColor}]}>{props.description}</Text>
+                <Text style={[styles.text, {color: props.descriptionTextColor}]} allowFontScaling={false}>{props.description}</Text>
                 </View>
                 <Image source={props.image} style={styles.buttonImage}></Image>
             </View>

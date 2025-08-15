@@ -10,7 +10,7 @@ import { ProfileData, saveProfileDataToFile, readProfileDataFile, getTheMaxXpFor
 import { RootStackParamList } from '../types';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { useNavigation } from '@react-navigation/native';
-import { SettingsData } from "./Settings.tsx";
+import { SettingsData } from "./Profile2.tsx";
 import { getTheNumberofLevelsCleared as noOfLevelsInAnagrams } from "./Anagrammist/Anagrammist-Data-Files.ts";
 import { getTheNumberofLevelsCleared as noOfLevelsInGapFills } from "./GapFills/Gapfills-Data-Files.ts";
 import { getTheNumberofLevelsCleared as noOfLevelsInWordLadder } from "./WordLadder/WordLadder-Data-Files.ts";

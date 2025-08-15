@@ -100,7 +100,7 @@ export const SkipGameModal=(props: SkipGameModalProps)=>{
 
 export const WordleText = ({ style, children, ...rest }: TextProps) => {
   return (
-    <Text style={[styles.wordleText, style]} {...rest}>
+    <Text style={[styles.wordleText, style]} allowFontScaling={false} {...rest}>
       {children}
     </Text>
     
@@ -110,7 +110,7 @@ export const WordleText = ({ style, children, ...rest }: TextProps) => {
 
 export const SmallerWhiteWordleText = ({ style, children, ...rest }: TextProps) => {
   return (
-    <Text style={[skipGameStyles.smallerWhiteWordleText, style]} {...rest}>
+    <Text style={[skipGameStyles.smallerWhiteWordleText, style]} allowFontScaling={false} {...rest}>
       {children}
     </Text>
     

@@ -87,6 +87,7 @@ export const icons={
     youtubeIcon:require("../images/icons/youtube-icon.png"),
     xIcon:require("../images/icons/x-icon.png"),
     telegramIcon:require("../images/icons/telegram-icon.png"),
+    trophyIcon:require("../images/icons/trophy-icon.png"),
 
 }
 
@@ -102,4 +103,8 @@ export const modalBackgrounds={
 }
 
 export const miscellaneous={
+}
+
+export const avatars={
+    avatar1: require("../images/avatars/avatar-1.png")
 }

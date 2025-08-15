@@ -11,7 +11,7 @@ import { buttonPressIn,buttonPressOut } from '../../source/styles/allAnimations'
 import { OutlinedText } from '../../source/styles/outlinedText';
 import { WordChains} from './Boggle-GameInfo-SubScreen';
 import { AddCoinModal } from '../Add-Coin-Modal'
-import { SettingsData, SettingsModal } from '../Settings';
+import { SettingsData, SettingsModal } from '../Profile2';
 import { ProfileModal } from '../Profile';
 
 

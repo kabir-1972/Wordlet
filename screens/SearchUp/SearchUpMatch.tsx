@@ -13,7 +13,7 @@ import { RootStackParamList } from '../../types';
 import { WordleText } from '../Skip-Game-Modal';
 import { HeaderInMatch } from './Searchup-Header-inmatch';
 import { GameLoadingAnimation } from '../Game-Loading-Animation';
-import { SettingsData } from '../Settings';
+import { SettingsData } from '../Profile2';
 import { ProfileData, readProfileDataFile, saveProfileDataToFile, updateXpsAndCoinsInPreviousProfileFile } from '../AccessProfileData';
 import { readSearchUpDataFile, saveSearchUpDataToFile, updateAccessoryDataInPreviousSearchUpFile } from './SearchUp-Data-Files';
 import  LottieView from 'lottie-react-native';

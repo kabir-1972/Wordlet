@@ -11,7 +11,7 @@ import RNFS from 'react-native-fs';
 import SoundPlayer from "react-native-sound-player";
 import { OutlinedText } from '../source/styles/outlinedText'
 import CountUp from '../source/styles/allAnimations'
-//import { SettingsModal } from './Settings'
+import SettingsModal  from './Settings'
 import { AddCoinModal } from './Add-Coin-Modal'
 import { ProfileModal } from './Profile'
 
@@ -590,10 +590,10 @@ export const HeaderForMatchEnd:React.FC<HeaderForMatchEndProps>=({
             </View></Pressable>
         </Animated.View>
         </View>
-        {/* <SettingsModal
-        //visible={settingsModalVisibility}
-        //onclose={()=>setSettingsModalVisibility(false)}
-        /> */}
+        <SettingsModal
+        visible={settingsModalVisibility}
+        onclose={()=>setSettingsModalVisibility(false)}
+        />
 
         <AddCoinModal
         visible={addCoinModalVisiblity}

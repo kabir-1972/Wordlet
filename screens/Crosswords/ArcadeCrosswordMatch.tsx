@@ -22,7 +22,7 @@ import { WordleText, SmallerWhiteWordleText } from '../Skip-Game-Modal';
 import LightSweep from '../../source/styles/ingame-animations';
 import { HeaderInMatch } from './Crossword-Header-inmatch';
 import { GameLoadingAnimation } from '../Game-Loading-Animation';
-import { SettingsData } from '../Settings';
+import { SettingsData } from '../Profile2';
 import { ProfileData, updateCoinsInPreviousProfileFile, readProfileDataFile, saveProfileDataToFile } from '../AccessProfileData';
 import { readCrosswordDataFile, saveCrosswordDataToFile, updateAccessoryDataInPreviousCrosswordFile,  } from './Crossword-Data-Files';
 import  LottieView from 'lottie-react-native';

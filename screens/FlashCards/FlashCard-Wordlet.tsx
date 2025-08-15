@@ -15,7 +15,7 @@ import { RootStackParamList } from '../../types';
 import { addAFavoriteFlashCard } from './FlashCard-Data-Files';
 import { ProfileData, updateCoinsInPreviousProfileFile, readProfileDataFile, saveProfileDataToFile, updateXpsAndCoinsInPreviousProfileFile } from '../AccessProfileData';
 import { useEffect , useRef } from 'react';
-import { SettingsData } from '../Settings';
+import { SettingsData } from '../Profile2';
 import { GameLoadingAnimation } from '../Game-Loading-Animation';
 import { HeaderInMatch } from './FlashCard-Header-inmatch';
 import { buttonPressIn, buttonPressOut } from '../../source/styles/allAnimations';

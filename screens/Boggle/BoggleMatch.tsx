@@ -15,7 +15,7 @@ import { RootStackParamList } from '../../types';
 import { WordleText } from '../Skip-Game-Modal';
 import { HeaderInMatch } from './Boggle-Header-inmatch';
 import { GameLoadingAnimation } from '../Game-Loading-Animation';
-import { SettingsData } from '../Settings';
+import { SettingsData } from '../Profile2';
 import { ProfileData, updateCoinsInPreviousProfileFile, readProfileDataFile, saveProfileDataToFile, updateXpsAndCoinsInPreviousProfileFile } from '../AccessProfileData';
 import { addFoundWordsToFile, getThePreviousWordsForBoggle } from './Boggle-Data-Files';
 import  LottieView from 'lottie-react-native';

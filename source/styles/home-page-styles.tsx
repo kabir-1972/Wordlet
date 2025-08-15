@@ -109,10 +109,6 @@ export const styles = StyleSheet.create({
 
     paddingVertical: 20,
     paddingBottom: 50,
-    borderWidth: 2,
-    borderColor: 'black',
-    borderRadius: 18,
-
     },
 
     modalContent: {

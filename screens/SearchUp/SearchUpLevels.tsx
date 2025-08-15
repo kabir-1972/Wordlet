@@ -5,7 +5,7 @@ import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../types';
 import { useNavigation } from '@react-navigation/native';
 import { styles } from "../../source/styles/inlevel-screen-styles";
-import { SettingsData } from "../Settings";
+import { SettingsData } from "../Profile2";
 import { WordleText } from "../Skip-Game-Modal";
 import { buttons, icons, modalBackgrounds } from "../../source/styles/assets";
 import { styles as moreStyles } from "../../source/styles/crossword-levels-style";

@@ -11,10 +11,10 @@ import { buttons, icons, modalBackgrounds } from '../../source/styles/assets';
 import { buttonPressIn,buttonPressOut} from '../../source/styles/allAnimations';
 import { OutlinedText, ScoreOutlinedText, SelfDesignedOutlinedText } from '../../source/styles/outlinedText';
 import { AddCoinModal } from '../Add-Coin-Modal'
-import { SettingsModal } from '../Settings';
+import { SettingsModal } from '../Profile2';
 import { ProfileModal } from '../Profile';
 import { RootStackParamList } from '../../types';
-import { SettingsData } from '../Settings';
+import { SettingsData } from '../Profile2';
 import { ProfileData, getTheMaxXpForNextLevel,  readProfileDataFile, updateXpsAndCoinsInPreviousProfileFile,/**/ saveProfileDataToFile, updateXPLevelInPreviousProfileFile } from '../AccessProfileData';
 
 import { ExperiencePointAnimationRef, ExperiencePointAnimation } from '../../source/styles/xp-animation-styles';

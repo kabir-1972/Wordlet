@@ -12,7 +12,7 @@ import { buttonPressIn,buttonPressOut} from '../../source/styles/allAnimations';
 import { ScoreOutlinedText, SelfDesignedOutlinedText } from '../../source/styles/outlinedText';
 
 import { RootStackParamList } from '../../types';
-import { SettingsData } from '../Settings';
+import { SettingsData } from '../Profile2';
 import { ProfileData, updateCoinsInPreviousProfileFile,  readProfileDataFile, saveProfileDataToFile, updateXpsInPreviousProfileFile, updateXpsAndCoinsInPreviousProfileFile, updateXPLevelInPreviousProfileFile } from '../AccessProfileData';
 import { ScoreData } from '../accessProfileData';
 import { ExperiencePointAnimationRef, ExperiencePointAnimation } from '../../source/styles/xp-animation-styles';

@@ -9,7 +9,7 @@ import { HeaderForMatchEnd } from './../Components-For-End-Match.tsx';
 import { ProfileData, saveProfileDataToFile, readProfileDataFile, getTheMaxXpForNextLevel} from './../AccessProfileData';
 import { RootStackParamList } from '../../types';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
-import { SettingsData } from "./../Settings.tsx";
+import { SettingsData } from "../Profile2.tsx";
 import { getTheListofLevelsCleared } from "./SearchUp-Data-Files";
 
 const basicMoreGamesImage = require('../../source/images/homepage-icons/icon-1.jpg');
